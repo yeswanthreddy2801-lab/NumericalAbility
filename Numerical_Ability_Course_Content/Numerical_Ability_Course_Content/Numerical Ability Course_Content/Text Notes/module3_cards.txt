@@ -1,124 +1,178 @@
-PROBABILITY - COINS & DICE (TEXT NOTES)
-
-============================================================
+PROBABILITY - CARDS, COINS & DICE (DETAILED NOTES)
 
 1. INTRODUCTION
+Probability measures the chance of an event happening. It is used in games, decision-making, statistics, and all types of reasoning problems.
 
-Probability is the measure of chance of an event occurring.
-It is widely used in mathematics, games, statistics, and real-life decision making.
+2. BASIC TERMINOLOGY
+- Experiment: An action with measurable outcomes (e.g., toss a coin, roll a die, draw a card).
+- Outcome: A single possible result of an experiment.
+- Sample space (S): Set of all possible outcomes.
+- Event: A subset of the sample space.
+- Probability of event A: P(A) = Number of favorable outcomes / Total outcomes.
 
-Formula:
-Probability = Favorable Outcomes / Total Outcomes
+3. PROBABILITY RULES
+- 0 ≤ P(A) ≤ 1
+- P(ϕ) = 0 (impossible event)
+- P(S) = 1 (certain event)
+- Complement rule: P(A') = 1 − P(A)
+- Addition rule for mutually exclusive events: P(A or B) = P(A) + P(B)
 
-============================================================
+4. COIN PROBABILITY
+4.1 Single coin
+Sample space: S = {H, T}
+Total outcomes = 2.
+P(H) = 1/2, P(T) = 1/2.
 
-2. BASIC TERMS
-
-• Experiment: An action that produces an outcome (e.g., tossing a coin)
-• Outcome: A possible result of an experiment
-• Sample Space: Set of all possible outcomes
-• Event: A subset of sample space
-
-============================================================
-
-3. COIN CONCEPTS
-
-One Coin:
-• Outcomes = {H, T}
-• Total outcomes = 2
-
-Two Coins:
-• Outcomes = {HH, HT, TH, TT}
-• Total outcomes = 4
-
-Three Coins:
-• Total outcomes = 2^3 = 8
-
-General Rule:
-• n coins → 2^n outcomes
-
-============================================================
-
-4. DICE CONCEPTS
-
-One Dice:
-• Outcomes = {1, 2, 3, 4, 5, 6}
-• Total outcomes = 6
-
-Two Dice:
-• Total outcomes = 6 × 6 = 36
-
-Three Dice:
-• Total outcomes = 6^3
-
-General Rule:
-• n dice → 6^n outcomes
-
-============================================================
-
-5. IMPORTANT PROBABILITY RULES
-
-• Probability always lies between 0 and 1
-• 0 → Impossible event
-• 1 → Certain event
-
-Example:
-P(Head) = 1/2
-
-============================================================
-
-6. SAMPLE SPACE EXAMPLES
-
-Two Coins:
+4.2 Two coins
 S = {HH, HT, TH, TT}
-
-One Dice:
-S = {1, 2, 3, 4, 5, 6}
-
-Two Dice:
-36 possible ordered pairs
-
-============================================================
-
-7. IMPORTANT RESULTS
-
-• Sum of 7 in two dice = 6 outcomes
-  → Probability = 6/36 = 1/6
-
-• Sum of 2 = 1 outcome (1,1)
-• Sum of 12 = 1 outcome (6,6)
-
-============================================================
-
-8. COMPLEMENT METHOD
-
-Used when finding “at least” or “not” cases.
-
-Formula:
-P(A) = 1 - P(not A)
-
+Total outcomes = 4.
 Example:
-At least one head = 1 - (no head)
+P(exactly one head) = 2/4 = 1/2.
+P(at least one head) = 3/4.
 
-============================================================
+4.3 n coins
+Total outcomes = 2^n.
+Example:
+3 coins → 8 outcomes.
+4 coins → 16 outcomes.
 
-9. KEY SHORTCUTS
+5. DICE PROBABILITY
+5.1 Single die
+Sample space: S = {1, 2, 3, 4, 5, 6}
+Total outcomes = 6.
+P(odd number) = 3/6 = 1/2.
+P(number ≥ 4) = 3/6 = 1/2.
 
-• Coin → 2 outcomes
-• Dice → 6 outcomes
-• Multiply for multiple trials
-• Use complement for complex problems
+5.2 Two dice
+Total outcomes = 6 × 6 = 36.
+Ordered pairs: (1,1), (1,2), ..., (6,6).
 
-============================================================
+5.3 Important sums
+- Sum = 2: 1 way → probability = 1/36.
+- Sum = 3: 2 ways → 2/36.
+- Sum = 4: 3 ways → 3/36.
+- Sum = 5: 4 ways → 4/36.
+- Sum = 6: 5 ways → 5/36.
+- Sum = 7: 6 ways → 6/36 = 1/6.
+- Sum = 8: 5 ways → 5/36.
+- Sum = 12: 1 way → 1/36.
 
-10. APPLICATIONS
+5.4 Complement examples
+P(sum is not 7) = 1 − 1/6 = 5/6.
+P(sum is at least 8) = (5 + 4 + 3 + 2 + 1) / 36 = 15/36 = 5/12.
 
-• Games and gambling
-• Weather prediction
-• Risk analysis
-• Decision making
-• Statistics
+6. CARD PROBABILITY
+6.1 Standard deck
+A standard deck has 52 cards:
+- 4 suits: hearts, diamonds, clubs, spades.
+- 13 cards per suit: A, 2, 3, ..., 10, J, Q, K.
 
-============================================================
+6.2 Card categories
+- Number cards: 2–10 (36 cards).
+- Face cards: J, Q, K (12 cards).
+- Aces: 4.
+- Red cards: 26.
+- Black cards: 26.
 
-END OF NOTES
+6.3 Common card probabilities
+P(drawing a heart) = 13/52 = 1/4.
+P(drawing a face card) = 12/52 = 3/13.
+P(drawing an ace) = 4/52 = 1/13.
+P(drawing a red face card) = 6/52 = 3/26.
+
+6.4 Two-card draws without replacement
+Total outcomes = 52 × 51.
+Example:
+P(two aces) = (4/52) × (3/51) = 1/221.
+P(two hearts) = (13/52) × (12/51) = 3/51 = 1/17.
+
+6.5 Two-card draws with replacement
+Total outcomes = 52 × 52.
+P(two aces) with replacement = (4/52)^2 = 1/169.
+
+7. COMBINATORIAL APPROACH
+When order does not matter, use combinations.
+Example:
+Number of ways to choose 2 cards from 52 = 52C2 = 1326.
+Probability of drawing two aces without replacement = 6/1326 = 1/221.
+
+8. KEY CONCEPTS AND TECHNIQUES
+8.1 Sample space size
+Count total outcomes carefully.
+For independent trials, multiply the number of outcomes for each trial.
+
+8.2 Favorable count
+List or compute all outcomes that satisfy the event.
+
+8.3 Use complement when direct counting is hard.
+Example:
+P(at least one head in three coin tosses) = 1 − P(no heads) = 1 − (1/8) = 7/8.
+
+8.4 Mutually exclusive events
+If two events cannot happen together,
+P(A or B) = P(A) + P(B).
+
+8.5 Independent events
+If the occurrence of one event does not affect the other,
+P(A and B) = P(A) × P(B).
+
+9. PROBABILITY FORMULAS SUMMARY
+- P(A) = favorable / total.
+- P(A') = 1 − P(A).
+- P(A and B) = P(A) × P(B) if independent.
+- P(A or B) = P(A) + P(B) − P(A and B).
+
+10. SOLVED EXAMPLES
+Example 1: Single card
+What is the probability of drawing a spade?
+P(spade) = 13/52 = 1/4.
+
+Example 2: One die
+What is the probability of rolling an even number?
+P(even) = 3/6 = 1/2.
+
+Example 3: Two coins
+What is the probability of getting exactly one head?
+Favorable outcomes: HT, TH → 2/4 = 1/2.
+
+Example 4: Two dice
+What is the probability of getting a sum of 9?
+Favorable outcomes: (3,6), (4,5), (5,4), (6,3) → 4/36 = 1/9.
+
+Example 5: Two cards without replacement
+What is the probability of drawing two red cards?
+First card red: 26/52.
+Second card red: 25/51.
+Probability = (26/52) × (25/51) = 25/102.
+
+11. COMMON MISTAKES
+- Ignoring whether replacement occurs.
+- Counting unordered outcomes as ordered.
+- Forgetting to reduce fractions.
+- Applying addition rule to non-mutually-exclusive events.
+- Misusing independence when events are dependent.
+
+12. TIPS FOR FAST SOLVING
+- Write the sample space clearly.
+- Check whether events are independent.
+- Use complement for “at least” problems.
+- Simplify fractions early.
+- Use combinations for card-draw probability without order.
+
+13. APPLICATIONS
+- Board games and card games
+- Weather forecasting
+- Risk analysis
+- Quality control
+- Decision-making models
+- Gambling and statistics
+
+14. QUICK REVIEW
+- Probability = favorable / total.
+- Coin outcomes: 2^n for n tosses.
+- Dice outcomes: 6^n for n dice.
+- Standard deck: 52 cards, 13 per suit.
+- Use combinations for selection without order.
+- Use multiplication for independent events.
+
+Probability is the foundation of reasoning under uncertainty. Practice coin, dice, and card problems to strengthen your intuition and calculation speed.

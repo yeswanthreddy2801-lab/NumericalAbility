@@ -1,165 +1,158 @@
-PROBABILITY - COINS & DICE
+PROBABILITY - COINS & DICE (DETAILED NOTES)
 
---------------------------------------------------
+1. INTRODUCTION
+Probability measures how likely an event is to happen. This topic is essential for aptitude tests, games, statistics, and decision-making.
 
-## Introduction
+2. BASIC DEFINITIONS
+- Experiment: An action that produces outcomes (e.g., toss a coin, roll a die).
+- Outcome: A possible result of the experiment.
+- Sample space (S): Set of all possible outcomes.
+- Event: A subset of the sample space.
+- Probability of event A: P(A) = Number of favorable outcomes / Total number of outcomes.
 
-Probability is the measure of chances of an event occurring.
+3. PROBABILITY RULES
+- 0 ≤ P(A) ≤ 1
+- P(∅) = 0 (impossible event)
+- P(S) = 1 (certain event)
+- Complement rule: P(A') = 1 − P(A)
+- Additive rule for mutually exclusive events: P(A or B) = P(A) + P(B)
+- Independent events: P(A and B) = P(A) × P(B)
 
-Formula:
-Probability = Favorable Outcomes / Total Outcomes
+4. COIN PROBABILITY
+4.1 One coin
+Sample space: S = {H, T}
+Total outcomes = 2
+P(H) = 1/2, P(T) = 1/2
 
-Value always lies between:
-0 and 1
+4.2 Two coins
+Sample space: S = {HH, HT, TH, TT}
+Total outcomes = 4
+Examples:
+- P(exactly one head) = 2/4 = 1/2
+- P(at least one head) = 3/4
+- P(two tails) = 1/4
 
---------------------------------------------------
-
-## Learning Objectives
-
-After studying this topic, you will learn:
-
-• Basic probability concept
-• Coin and dice outcomes
-• Sample space calculation
-• Event probability solving
-• Real-life applications
-
---------------------------------------------------
-
-## Coin Basics
-
-One coin has 2 outcomes:
-• Head (H)
-• Tail (T)
-
-Two coins outcomes:
-HH, HT, TH, TT → 4 outcomes
-
-Formula:
+4.3 n coins
 Total outcomes = 2^n
+Example:
+- 3 coins → 8 outcomes
+- 4 coins → 16 outcomes
 
-Where n = number of coins
+5. DICE PROBABILITY
+5.1 One die
+Sample space: S = {1, 2, 3, 4, 5, 6}
+Total outcomes = 6
+Examples:
+- P(rolling a 5) = 1/6
+- P(rolling an even number) = 3/6 = 1/2
+- P(rolling a number ≥ 4) = 3/6 = 1/2
 
---------------------------------------------------
+5.2 Two dice
+Total outcomes = 6 × 6 = 36
+Ordered sample space: all pairs (a, b) with a and b from 1 to 6.
 
-## Dice Basics
+5.3 Sum of two dice
+Number of ways to get each sum:
+- Sum 2: 1 way
+- Sum 3: 2 ways
+- Sum 4: 3 ways
+- Sum 5: 4 ways
+- Sum 6: 5 ways
+- Sum 7: 6 ways
+- Sum 8: 5 ways
+- Sum 9: 4 ways
+- Sum 10: 3 ways
+- Sum 11: 2 ways
+- Sum 12: 1 way
 
-One dice has 6 outcomes:
-1, 2, 3, 4, 5, 6
+Probability of each sum = favorable / 36.
+Example: P(sum = 7) = 6/36 = 1/6.
+Example: P(sum = 9) = 4/36 = 1/9.
 
-Two dice outcomes:
-6 × 6 = 36 outcomes
+5.4 More than one die
+For n dice, total outcomes = 6^n.
+Example: 3 dice → 216 outcomes.
 
-Formula:
-Total outcomes = 6^n
+6. EVENT TYPES
+6.1 Simple event
+Event with a single outcome.
+Example: rolling a 5 on one die.
 
---------------------------------------------------
+6.2 Compound event
+Event with multiple outcomes.
+Example: getting an even number on one die.
 
-## Key Probability Types
+6.3 Complement event
+The event that A does not occur.
+Example: P(no head with two coins) = 1 − P(at least one head).
 
-### 1. Simple Event
-One outcome event
+6.4 At least one event
+Use complement to solve faster.
+Example: P(at least one head in three coins) = 1 − P(no head) = 1 − 1/8 = 7/8.
 
-### 2. Compound Event
-Multiple outcomes event
+7. COIN AND DICE SAMPLE SPACE EXAMPLES
+7.1 Three coins
+Total outcomes = 8. S = {HHH, HHT, HTH, THH, HTT, THT, TTH, TTT}.
 
-### 3. Sure Event
-Probability = 1
+7.2 Two dice one even, one odd
+Favorable outcomes = 18. P = 18/36 = 1/2.
 
-### 4. Impossible Event
-Probability = 0
+8. SOLVED EXAMPLES
+Example 1: One coin
+P(head) = 1/2.
 
---------------------------------------------------
+Example 2: Two coins
+P(exactly one head) = 2/4 = 1/2.
 
-## Example 1 (Coin)
+Example 3: One die
+P(rolling a multiple of 3) = 2/6 = 1/3.
 
-Probability of getting Head when one coin is tossed:
+Example 4: Two dice
+P(sum equals 8) = 5/36.
 
-= 1/2
+Example 5: Coin and die combined
+Toss one coin and roll one die. Total outcomes = 2 × 6 = 12.
+Example: P(head and even number) = (1/2) × (1/2) = 1/4.
 
---------------------------------------------------
+9. COMMON MISTAKES
+- Ignoring whether outcomes are ordered or unordered.
+- Using 6^n for coins or 2^n for dice.
+- Forgetting replacement vs no replacement.
+- Applying addition when events are not mutually exclusive.
+- Failing to use the complement for “at least” questions.
 
-## Example 2 (Two Coins)
+10. SHORTCUTS AND TIPS
+- Use 2^n for n coin tosses.
+- Use 6^n for n dice rolls.
+- List the sample space for small problems.
+- Use complementary probability for at least one cases.
+- Simplify fractions early.
 
-Probability of getting at least one Head:
+11. PRACTICE QUESTIONS
+1. What is the probability of getting no heads in 3 coin tosses?
+Answer: 1/8.
 
-Favorable: HH, HT, TH = 3
+2. What is the probability of getting a sum of 5 with two dice?
+Answer: 4/36 = 1/9.
 
-Total = 4
+3. What is the probability of rolling at least one 6 in two dice?
+Answer: 11/36.
 
-Probability = 3/4
+4. What is the probability of getting exactly two heads in 3 coin tosses?
+Answer: 3/8.
 
---------------------------------------------------
+12. REAL-WORLD APPLICATIONS
+- Board games and gambling.
+- Weather forecasting.
+- Risk assessment.
+- Quality control.
+- Statistical predictions.
 
-## Example 3 (Dice)
+13. QUICK SUMMARY
+- Probability = favorable / total.
+- Coin tosses produce 2^n outcomes.
+- Dice rolls produce 6^n outcomes.
+- Use complement for “at least” and “none” cases.
+- Count favorable outcomes carefully.
 
-Probability of getting number 5:
-
-= 1/6
-
---------------------------------------------------
-
-## Example 4 (Two Dice)
-
-Probability of sum = 7:
-
-Favorable pairs:
-(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)
-
-= 6/36 = 1/6
-
---------------------------------------------------
-
-## Shortcut Tips
-
-• Use 2^n for coins
-• Use 6^n for dice
-• Always list sample space carefully
-• Use complement method for “at least” problems
-
---------------------------------------------------
-
-## Real World Applications
-
-• Weather prediction
-• Gaming systems
-• Lottery systems
-• Risk analysis
-• AI predictions
-
---------------------------------------------------
-
-## Placement Tips
-
-• Learn sample space formulas
-• Practice dice sums
-• Use complement method
-• Avoid listing errors
-
---------------------------------------------------
-
-## Interview Questions
-
-1. What is probability?
-Measure of chance of an event.
-
-2. Probability formula?
-Favorable / Total outcomes
-
-3. Outcomes of one coin?
-2 (H, T)
-
-4. Outcomes of one dice?
-6
-
-5. What is sure event probability?
-1
-
---------------------------------------------------
-
-## Quick Summary
-
-• Probability = Favorable / Total
-• Coin = 2 outcomes
-• Dice = 6 outcomes
-• Use sample space carefully
+Coins and dice problems build your understanding of basic probability. Practice these concepts to gain speed and accuracy.
