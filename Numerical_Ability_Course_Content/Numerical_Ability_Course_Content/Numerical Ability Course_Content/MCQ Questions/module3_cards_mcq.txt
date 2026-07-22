@@ -1,63 +1,179 @@
-PROBABILITY MCQ REVISION CARDS
+PROBABILITY AND CARDS - ADVANCED MCQ QUESTIONS
+
+1. A card is drawn from a standard deck. What is the probability that it is a red face card?
+A) 3/26
+B) 1/13
+C) 6/52
+D) 1/26
+Answer: A
 
 --------------------------------------------------
 
-Q1: Probability formula?
-A: Favorable / Total
+2. Two cards are drawn without replacement. What is the probability that both are aces?
+A) 1/221
+B) 1/273
+C) 1/169
+D) 1/325
+Answer: B
 
-Q2: One coin outcomes?
-A: 2
+--------------------------------------------------
 
-Q3: Two coins outcomes?
-A: 4
+3. A die is rolled twice. What is the probability of rolling two numbers whose sum is 8?
+A) 5/36
+B) 1/6
+C) 1/9
+D) 1/12
+Answer: A
 
-Q4: One dice outcomes?
-A: 6
+--------------------------------------------------
 
-Q5: Two dice outcomes?
-A: 36
+4. A box contains 5 red, 3 blue and 2 green balls. One ball is removed at random. What is the probability it is not blue?
+A) 7/10
+B) 3/5
+C) 4/5
+D) 2/5
+Answer: C
 
-Q6: Probability range?
-A: 0 to 1
+--------------------------------------------------
 
-Q7: Sure event value?
-A: 1
+5. A coin is tossed 4 times. What is the probability of getting exactly two heads?
+A) 6/16
+B) 4/16
+C) 8/16
+D) 1/4
+Answer: A
 
-Q8: Impossible event value?
-A: 0
+--------------------------------------------------
 
-Q9: P(Head) = ?
-A: 1/2
+6. What is the probability of drawing a king or a red card from a standard 52-card deck?
+A) 7/13
+B) 1/2
+C) 13/52
+D) 15/52
+Answer: A
 
-Q10: P(Tail) = ?
-A: 1/2
+--------------------------------------------------
 
-Q11: n coins outcomes?
-A: 2^n
+7. If two dice are rolled, what is the probability of obtaining at least one 6?
+A) 11/36
+B) 1/6
+C) 5/6
+D) 35/36
+Answer: D
 
-Q12: n dice outcomes?
-A: 6^n
+--------------------------------------------------
 
-Q13: Sum 7 probability?
-A: 1/6
+8. A card is drawn from a deck. What is the probability it is a heart or a queen?
+A) 4/13
+B) 17/52
+C) 1/4
+D) 5/13
+Answer: D
 
-Q14: Sample space means?
-A: Total outcomes
+--------------------------------------------------
 
-Q15: At least problems use?
-A: Complement method
+9. From 3 red and 2 blue balls, two balls are drawn without replacement. What is the probability both are red?
+A) 3/10
+B) 1/2
+C) 3/5
+D) 2/5
+Answer: A
 
-Q16: Dice numbers range?
-A: 1 to 6
+--------------------------------------------------
 
-Q17: Two dice sample space?
-A: 36
+10. A spinner has 8 equal sectors numbered 1 to 8. What is the probability of landing on an even number or a multiple of 3?
+A) 1/2
+B) 5/8
+C) 3/8
+D) 4/8
+Answer: B
 
-Q18: Event means?
-A: Subset of sample space
+--------------------------------------------------
 
-Q19: Probability cannot be:
-A: Greater than 1
+11. In a class of 20 students, 12 like football and 9 like cricket, with 5 liking both. What is the probability a randomly chosen student likes football or cricket?
+A) 16/20
+B) 4/5
+C) 3/4
+D) 1/2
+Answer: A
 
-Q20: Best method for large cases?
-A: Complement method
+--------------------------------------------------
+
+12. A fair cube is rolled until a 3 appears. What is the probability that the first 3 appears on the second roll?
+A) 5/36
+B) 1/6
+C) 5/6
+D) 1/12
+Answer: A
+
+--------------------------------------------------
+
+13. In a deck, a card is drawn and replaced, then another card is drawn. What is the probability both cards are jacks?
+A) 1/169
+B) 1/52
+C) 1/34
+D) 1/26
+Answer: A
+
+--------------------------------------------------
+
+14. A bag contains 4 white and 6 black balls. Two balls are drawn with replacement. What is the probability both are white?
+A) 4/25
+B) 2/25
+C) 16/100
+D) 1/5
+Answer: C
+
+--------------------------------------------------
+
+15. A nurse randomly selects one day from 7 days. What is the probability she selects a weekend day?
+A) 2/7
+B) 5/7
+C) 1/7
+D) 1/2
+Answer: A
+
+--------------------------------------------------
+
+16. In a standard deck, what is the probability of drawing a spade or a diamond?
+A) 1/2
+B) 1/4
+C) 2/3
+D) 26/52
+Answer: A
+
+--------------------------------------------------
+
+17. A fair coin is tossed 3 times. What is the probability of getting at least one tail?
+A) 7/8
+B) 1/8
+C) 3/8
+D) 5/8
+Answer: A
+
+--------------------------------------------------
+
+18. A lottery ticket has a 1 in 100 chance of winning. If you buy 2 tickets, what is the probability that exactly one ticket wins?
+A) 99/100
+B) 2/100
+C) 198/10000
+D) 198/100
+Answer: C
+
+--------------------------------------------------
+
+19. From 8 cards numbered 1 to 8, one card is drawn. What is the probability it is a prime number?
+A) 3/8
+B) 4/8
+C) 5/8
+D) 1/2
+Answer: B
+
+--------------------------------------------------
+
+20. In a standard deck, what is the probability of drawing a card that is neither a face card nor an ace?
+A) 32/52
+B) 36/52
+C) 40/52
+D) 44/52
+Answer: A

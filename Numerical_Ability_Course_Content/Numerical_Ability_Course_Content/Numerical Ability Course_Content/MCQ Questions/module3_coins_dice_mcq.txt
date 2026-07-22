@@ -1,149 +1,179 @@
-PROBABILITY - COINS & DICE MCQs
+PROBABILITY - COINS & DICE ADVANCED MCQ QUESTIONS
+
+1. Two fair coins are tossed. What is the probability of getting exactly one head?
+A) 1/4
+B) 1/2
+C) 3/4
+D) 2/3
+Answer: B
 
 --------------------------------------------------
 
-1. Probability formula is:
-A) Total/Favorable
-B) Favorable/Total
-C) Total + Favorable
-D) Total - Favorable
-Answer: B
-
-2. One coin has:
-A) 1 outcome
-B) 2 outcomes
-C) 3 outcomes
-D) 4 outcomes
-Answer: B
-
-3. Two coins total outcomes:
-A) 2
-B) 3
-C) 4
-D) 6
+2. A fair die is rolled twice. What is the probability that the sum of the numbers is 9?
+A) 1/9
+B) 1/8
+C) 1/12
+D) 1/6
 Answer: C
 
-4. One dice has:
-A) 4 outcomes
-B) 5 outcomes
-C) 6 outcomes
-D) 7 outcomes
-Answer: C
+--------------------------------------------------
 
-5. Two dice total outcomes:
-A) 12
-B) 18
-C) 24
-D) 36
+3. A bag contains 2 red, 3 blue, and 4 green balls. One ball is drawn at random. What is the probability it is blue?
+A) 1/3
+B) 1/4
+C) 3/9
+D) 2/3
+Answer: A
+
+--------------------------------------------------
+
+4. Two dice are thrown. What is the probability of getting a total of 5 or 9?
+A) 1/6
+B) 1/3
+C) 1/4
+D) 1/2
+Answer: A
+
+--------------------------------------------------
+
+5. Three fair coins are tossed. What is the probability of obtaining at least two heads?
+A) 1/8
+B) 3/8
+C) 1/2
+D) 5/8
 Answer: D
 
-6. Probability value always lies between:
-A) 0 to 2
-B) 0 to 1
-C) 1 to 10
-D) -1 to 1
-Answer: B
+--------------------------------------------------
 
-7. Probability of sure event:
-A) 0
-B) 1
-C) 0.5
-D) 2
-Answer: B
+6. A fair die is rolled. What is the probability of obtaining an odd number or a number greater than 4?
+A) 2/3
+B) 3/4
+C) 5/6
+D) 4/6
+Answer: C
 
-8. Probability of impossible event:
-A) 0
-B) 1
-C) 0.5
-D) -1
-Answer: A
+--------------------------------------------------
 
-9. Probability of head in one coin:
-A) 1/3
-B) 1/2
+7. A card is drawn from a standard deck. What is the probability it is a heart or an ace?
+A) 4/13
+B) 5/13
 C) 1/4
-D) 2/3
+D) 3/13
 Answer: B
 
-10. Outcomes of two dice:
-A) 12
-B) 18
-C) 36
-D) 24
-Answer: C
+--------------------------------------------------
 
-11. Total outcomes of n coins:
-A) n
-B) 2n
-C) 2^n
-D) n^2
-Answer: C
-
-12. Total outcomes of n dice:
-A) 6^n
-B) n^6
-C) 6n
-D) n^2
-Answer: A
-
-13. Sum 7 in dice has probability:
-A) 1/12
-B) 1/6
-C) 1/36
-D) 1/18
-Answer: B
-
-14. Sample space means:
-A) Favorable outcomes
-B) Total outcomes
-C) Random guess
-D) None
-Answer: B
-
-15. At least problems are solved using:
-A) Addition
-B) Complement method
-C) Multiplication only
-D) Division only
-Answer: B
-16. Q: In two dice, probability of getting doublets (same number on both dice) is:
+8. If two dice are rolled, what is the probability that both show the same number?
 A) 1/6
-B) 1/12
-C) 1/36
-D) 1/18
+B) 1/3
+C) 1/12
+D) 1/36
 Answer: A
-17.
 
-Q: Probability of getting a Tail in one coin is:
-A) 1/3
-B) 1/2
+--------------------------------------------------
+
+9. From a bag of 3 white and 5 black balls, two balls are drawn without replacement. What is the probability both balls are black?
+A) 5/8
+B) 5/16
 C) 1/4
-D) 2/3
+D) 5/28
 Answer: B
 
-18.
+--------------------------------------------------
 
-Q: When two coins are tossed, number of favorable outcomes for exactly one Head is:
-A) 1
-B) 2
-C) 3
-D) 4
-Answer: B (HT, TH)
+10. A fair coin is tossed 4 times. What is the probability of getting exactly three heads?
+A) 1/4
+B) 1/2
+C) 1/8
+D) 1/16
+Answer: A
 
-19.
+--------------------------------------------------
 
-Q: Probability of getting a 6 in one dice is:
-A) 1/2
+11. A die is rolled until a 6 appears. What is the probability that the first 6 appears on the third roll?
+A) 25/216
+B) 125/216
+C) 1/36
+D) 5/36
+Answer: A
+
+--------------------------------------------------
+
+12. A card is drawn, replaced, and another card is drawn. What is the probability both cards are kings?
+A) 1/169
+B) 1/52
+C) 1/34
+D) 1/13
+Answer: A
+
+--------------------------------------------------
+
+13. Two consecutive dice rolls produce a sum of 7 and then a sum of 11. What is the probability of this sequence?
+A) 1/36
+B) 1/54
+C) 1/108
+D) 1/18
+Answer: B
+
+--------------------------------------------------
+
+14. A bag contains 4 red and 6 white balls. Two balls are drawn with replacement. What is the probability both are red?
+A) 1/25
+B) 4/25
+C) 8/25
+D) 16/25
+Answer: B
+
+--------------------------------------------------
+
+15. A fair coin is tossed until two consecutive heads appear. What is the probability this happens on the third toss?
+A) 1/8
+B) 1/4
+C) 1/16
+D) 3/8
+Answer: A
+
+--------------------------------------------------
+
+16. A pair of dice is rolled. What is the probability that the numbers are consecutive integers?
+A) 5/18
 B) 1/3
 C) 1/6
-D) 1/12
-Answer: C
-
-20.
-
-Q: In two dice, probability of getting doublets (same number on both dice) is:
-A) 1/6
-B) 1/12
-C) 1/36
-D) 1/18
+D) 7/36
 Answer: A
+
+--------------------------------------------------
+
+17. A card is drawn from a standard deck and replaced. Two draws are made. What is the probability of getting one red card and one black card?
+A) 1/2
+B) 1/4
+C) 3/8
+D) 1/3
+Answer: A
+
+--------------------------------------------------
+
+18. In three tosses of a fair coin, what is the probability of getting exactly one tail?
+A) 3/8
+B) 1/4
+C) 1/2
+D) 3/4
+Answer: A
+
+--------------------------------------------------
+
+19. A fair die is rolled twice. What is the probability that the first roll is even and the second roll is a multiple of 3?
+A) 1/6
+B) 1/9
+C) 1/4
+D) 1/12
+Answer: A
+
+--------------------------------------------------
+
+20. A deck of 52 cards is shuffled and two cards are drawn sequentially without replacement. What is the probability that the first card is a spade and the second is a heart?
+A) 1/8
+B) 1/13
+C) 1/17
+D) 1/16
+Answer: B
