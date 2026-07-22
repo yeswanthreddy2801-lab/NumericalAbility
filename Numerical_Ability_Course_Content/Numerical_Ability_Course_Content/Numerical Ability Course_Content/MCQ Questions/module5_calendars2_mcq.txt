@@ -1,35 +1,168 @@
-CALENDARS 2 - MCQ QUESTIONS
+CALENDARS 2 - ADVANCED MCQ QUESTIONS
 
-------------------------------------------------------------
-
-1. An ordinary year contains:
-A) 364 days
-B) 365 days
-C) 366 days
-D) 367 days
+1. If January 1st is a Tuesday in a non-leap year, what day of the week will December 31st fall on?
+A) Tuesday
+B) Wednesday
+C) Thursday
+D) Friday
 Answer: B
 
 ------------------------------------------------------------
 
-2. A leap year contains:
-A) 364 days
-B) 365 days
-C) 366 days
-D) 367 days
+2. How many odd days are there in 120 years?
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: D
+
+------------------------------------------------------------
+
+3. What day of the week is March 1st in a leap year if January 1st is a Friday?
+A) Sunday
+B) Saturday
+C) Monday
+D) Tuesday
 Answer: C
 
 ------------------------------------------------------------
 
-3. An ordinary year has how many odd days?
+4. How many odd days are there in 28 years?
 A) 0
 B) 1
 C) 2
 D) 3
+Answer: D
+
+------------------------------------------------------------
+
+5. If January 1, 2000 was a Saturday, what day was January 1, 2001?
+A) Monday
+B) Sunday
+C) Saturday
+D) Friday
+Answer: A
+
+------------------------------------------------------------
+
+6. How many odd days are there in two ordinary years followed by one leap year?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: D
+
+------------------------------------------------------------
+
+7. Which year is NOT a leap year?
+A) 1600
+B) 2000
+C) 2100
+D) 2400
+Answer: C
+
+------------------------------------------------------------
+
+8. If April 1 is a Wednesday in a normal year, what day is August 1 of the same year?
+A) Thursday
+B) Friday
+C) Saturday
+D) Sunday
+Answer: D
+
+------------------------------------------------------------
+
+9. How many odd days are there in 15 months starting from January in a non-leap year?
+A) 2
+B) 3
+C) 4
+D) 5
 Answer: B
 
 ------------------------------------------------------------
 
-4. A leap year has how many odd days?
+10. What is the day of the week 90 days after a Monday?
+A) Wednesday
+B) Thursday
+C) Friday
+D) Saturday
+Answer: C
+
+------------------------------------------------------------
+
+11. If June 1 is a Tuesday in a leap year, what is the day on November 1 of the same year?
+A) Thursday
+B) Friday
+C) Saturday
+D) Sunday
+Answer: C
+
+------------------------------------------------------------
+
+12. How many odd days are there in 2 centuries?
+A) 0
+B) 1
+C) 2
+D) 5
+Answer: D
+
+------------------------------------------------------------
+
+13. What day of the week is October 31 if January 1 is a Monday in a non-leap year?
+A) Thursday
+B) Friday
+C) Saturday
+D) Sunday
+Answer: B
+
+------------------------------------------------------------
+
+14. If December 31 is a Thursday in a leap year, what day was January 1 of that year?
+A) Wednesday
+B) Tuesday
+C) Monday
+D) Sunday
+Answer: C
+
+------------------------------------------------------------
+
+15. How many odd days are there in 9 years including 2 leap years?
+A) 2
+B) 3
+C) 4
+D) 5
+Answer: B
+
+------------------------------------------------------------
+
+16. If March 1 is a Saturday in a leap year, what day is May 1?
+A) Monday
+B) Tuesday
+C) Wednesday
+D) Thursday
+Answer: B
+
+------------------------------------------------------------
+
+17. What is the day of the week 45 days after a Friday?
+A) Saturday
+B) Sunday
+C) Monday
+D) Tuesday
+Answer: C
+
+------------------------------------------------------------
+
+18. If January 1 of a year is Friday and the year has 53 Sundays, what type of year is it?
+A) Normal year
+B) Leap year
+C) Century year
+D) None of these
+Answer: A
+
+------------------------------------------------------------
+
+19. How many odd days are there in 7 leap years and 5 normal years combined?
 A) 1
 B) 2
 C) 3
@@ -38,146 +171,11 @@ Answer: B
 
 ------------------------------------------------------------
 
-5. Which year is a leap year?
-A) 1900
-B) 2000
-C) 2100
-D) 2025
-Answer: B
-
-------------------------------------------------------------
-
-6. Which month has 28 days in an ordinary year?
-A) January
-B) February
-C) March
-D) April
-Answer: B
-
-------------------------------------------------------------
-
-7. A century year is a leap year only if it is divisible by:
-A) 4
-B) 10
-C) 100
-D) 400
-Answer: D
-
-------------------------------------------------------------
-
-8. How many odd days are there in 400 years?
+20. How many odd days are there from January 1 to December 31 in a leap year?
 A) 0
 B) 1
 C) 2
-D) 5
-Answer: A
-
-------------------------------------------------------------
-
-9. How many odd days are there in 100 years?
-A) 0
-B) 1
-C) 3
-D) 5
-Answer: D
-
-------------------------------------------------------------
-
-10. How many days are there in September?
-A) 28
-B) 30
-C) 31
-D) 29
-Answer: B
-
-------------------------------------------------------------
-
-11. Which month has 31 days?
-A) April
-B) June
-C) November
-D) August
-Answer: D
-
-------------------------------------------------------------
-
-12. Which month always has 30 days?
-A) March
-B) May
-C) June
-D) July
-Answer: C
-
-------------------------------------------------------------
-
-13. One week consists of:
-A) 5 days
-B) 6 days
-C) 7 days
-D) 8 days
-Answer: C
-
-------------------------------------------------------------
-
-14. The calendar repeats after:
-A) 100 years
-B) 200 years
-C) 300 years
-D) 400 years
-Answer: D
-
-------------------------------------------------------------
-
-15. Which year is NOT a leap year?
-A) 2024
-B) 2016
-C) 2100
-D) 2000
-Answer: C
-
-------------------------------------------------------------
-
-16. February has 29 days in:
-A) Every year
-B) Leap years only
-C) Century years only
-D) Odd years
-Answer: B
-
-------------------------------------------------------------
-
-17. Odd day calculation is mainly used to find:
-A) Month
-B) Year
-C) Weekday
-D) Century
-Answer: C
-
-------------------------------------------------------------
-
-18. Which competitive exams commonly ask calendar questions?
-A) Banking
-B) SSC
-C) Campus Placements
-D) All of the Above
-Answer: D
-
-------------------------------------------------------------
-
-19. Which of the following is NOT an application of calendar calculations?
-A) Railway Scheduling
-B) Flight Scheduling
-C) Project Planning
-D) Photo Editing
-Answer: D
-
-------------------------------------------------------------
-
-20. Calendar aptitude belongs to:
-A) Verbal Ability
-B) Numerical Ability
-C) Logical Aptitude
-D) General Knowledge
+D) 3
 Answer: C
 
 ------------------------------------------------------------

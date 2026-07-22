@@ -1,162 +1,179 @@
-CALENDARS 1 - MCQ QUESTIONS
+CALENDARS 1 - ADVANCED MCQ QUESTIONS
+
+1. If January 1st is a Monday in a non-leap year, what day of the week is December 31st?
+A) Monday
+B) Tuesday
+C) Wednesday
+D) Thursday
+Answer: B
 
 --------------------------------------------------
 
-1. Normal year has:
-A) 364 days
-B) 365 days
-C) 366 days
-D) 360 days
+2. What is the odd day count for a normal year?
+A) 0
+B) 1
+C) 2
+D) 3
 Answer: B
 
-2. Leap year has:
-A) 365 days
-B) 366 days
-C) 364 days
-D) 360 days
-Answer: B
+--------------------------------------------------
 
-3. Leap year rule includes:
-A) Divisible by 5
-B) Divisible by 4
-C) Divisible by 3
-D) Divisible by 6
-Answer: B
-
-4. 1900 is:
-A) Leap year
-B) Not leap year
-C) Unknown
-D) Half year
-Answer: B
-
-5. 2000 is:
-A) Leap year
-B) Not leap year
-C) Invalid
-D) None
+3. How many odd days are there in 100 years excluding leap year corrections?
+A) 5
+B) 20
+C) 0
+D) 2
 Answer: A
 
-6. 1 week equals:
-A) 5 days
-B) 6 days
-C) 7 days
-D) 8 days
-Answer: C
+--------------------------------------------------
 
-7. Odd days means:
-A) Even days
-B) Extra days after weeks
-C) Missing days
-D) Random days
+4. What day of the week was January 1, 2001, if January 1, 1901 was a Tuesday?
+A) Saturday
+B) Monday
+C) Sunday
+D) Tuesday
 Answer: B
 
-8. Total days in leap year:
-A) 365
-B) 366
-C) 364
-D) 360
+--------------------------------------------------
+
+5. Which of the following years is NOT a leap year?
+A) 2400
+B) 2100
+C) 2004
+D) 2080
 Answer: B
 
-9. Day mapping starts with:
-A) Monday
+--------------------------------------------------
+
+6. If a year starts on a Friday and it is a leap year, what day will the next year start on?
+A) Saturday
 B) Sunday
-C) Tuesday
+C) Monday
+D) Tuesday
+Answer: D
+
+--------------------------------------------------
+
+7. How many odd days are there in 400 years?
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: A
+
+--------------------------------------------------
+
+8. On what day of the week does February 29 fall in a leap year if January 1 is a Wednesday?
+A) Saturday
+B) Sunday
+C) Thursday
+D) Friday
+Answer: D
+
+--------------------------------------------------
+
+9. What is the day of the week 100 days after a Wednesday?
+A) Friday
+B) Saturday
+C) Sunday
+D) Monday
+Answer: B
+
+--------------------------------------------------
+
+10. If March 15 is a Thursday in a non-leap year, what is the day of the week on April 15 of the same year?
+A) Saturday
+B) Friday
+C) Thursday
+D) Sunday
+Answer: B
+
+--------------------------------------------------
+
+11. What is the day of the week on January 1, 2025, if January 1, 2024 was a Monday?
+A) Tuesday
+B) Wednesday
+C) Thursday
 D) Friday
 Answer: B
 
-10. Leap year condition uses:
-A) Only 4 rule
-B) 4, 100, 400 rule
-C) Only 2 rule
-D) No rule
-Answer: B
-11.
+--------------------------------------------------
 
-Q: Which year is always a leap year?
+12. How many odd days are there in 3 leap years and 5 normal years?
+A) 4
+B) 5
+C) 6
+D) 7
+Answer: B
+
+--------------------------------------------------
+
+13. What day of the week will September 1 be if July 1 is a Sunday in a non-leap year?
+A) Tuesday
+B) Wednesday
+C) Thursday
+D) Friday
+Answer: C
+
+--------------------------------------------------
+
+14. Which year is a leap year?
 A) 1800
 B) 1900
 C) 2000
 D) 2100
 Answer: C
 
-12.
+--------------------------------------------------
 
-Q: A century year is a leap year only if it is divisible by:
-A) 4
-B) 100
-C) 400
-D) 10
-Answer: C
-
-13.
-
-Q: Number of days in an ordinary year is:
-A) 364
-B) 365
-C) 366
-D) 367
-Answer: B
-
-14.
-
-Q: February has how many days in a leap year?
-A) 28
-B) 29
-C) 30
-D) 31
-Answer: B
-
-15.
-
-Q: Which of the following is NOT a leap year?
-A) 2024
-B) 2000
-C) 1900
-D) 2016
-Answer: C
-
-16.
-
-Q: Odd days in a week cycle are counted modulo:
-A) 5
-B) 6
-C) 7
-D) 10
-Answer: C
-
-17.
-
-Q: 7 days correspond to how many odd days?
-A) 1
-B) 0
-C) 7
-D) 2
-Answer: B
-
-18.
-
-Q: Which day comes after Sunday in standard mapping?
-A) Saturday
-B) Monday
-C) Tuesday
-D) Friday
-Answer: B
-
-19.
-
-Q: Total odd days in 400 years is:
+15. What is the total number of odd days in 28 years?
 A) 0
 B) 1
 C) 2
+D) 3
+Answer: D
+
+--------------------------------------------------
+
+16. If January 1 of a leap year is Friday, what day is February 1 of the same year?
+A) Sunday
+B) Monday
+C) Saturday
+D) Tuesday
+Answer: B
+
+--------------------------------------------------
+
+17. What is the odd day count for 6 months in a normal year (January to June)?
+A) 1
+B) 2
+C) 3
 D) 4
 Answer: A
 
-20.
+--------------------------------------------------
 
-Q: A non-leap century year has:
-A) 1 odd day
-B) 3 odd days
-C) 5 odd days
-D) 6 odd days
+18. How many odd days are there in a century year that is not a leap year?
+A) 1
+B) 2
+C) 3
+D) 5
+Answer: D
+
+--------------------------------------------------
+
+19. If January 1 is Thursday, what day is November 1 in a non-leap year?
+A) Friday
+B) Saturday
+C) Sunday
+D) Monday
 Answer: B
+
+--------------------------------------------------
+
+20. What is the day of the week on October 31 if the year is non-leap and starts on a Tuesday?
+A) Monday
+B) Tuesday
+C) Wednesday
+D) Thursday
+Answer: D
