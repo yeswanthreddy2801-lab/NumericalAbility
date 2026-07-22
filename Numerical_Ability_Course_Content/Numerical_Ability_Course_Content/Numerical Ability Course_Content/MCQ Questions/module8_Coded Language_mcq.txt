@@ -1,0 +1,143 @@
+CODED LANGUAGE - MCQs
+
+------------------------------------------------------------
+
+1. Coding and decoding is used in:
+A) Writing
+B) Logical reasoning
+C) Grammar
+D) Drawing
+Answer: B
+
+2. A=1, B=2 system is called:
+A) Alphabet coding
+B) Number coding
+C) Shift coding
+D) Random coding
+Answer: B
+
+3. CAT → if A=1, then value of C:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: C
+
+4. DOG → EPH is example of:
+A) Substitution
+B) Letter shifting
+C) Grammar
+D) Sorting
+Answer: B
+
+5. Coding means:
+A) Hiding message
+B) Writing essay
+C) Drawing
+D) Speaking
+Answer: A
+
+6. Decoding means:
+A) Encrypting
+B) Finding original message
+C) Deleting
+D) Copying
+Answer: B
+
+7. A=1, Z=26 is used in:
+A) Maths
+B) Alphabet coding
+C) Physics
+D) Biology
+Answer: B
+
+8. Shift coding means:
+A) Moving letters
+B) Removing letters
+C) Adding words
+D) Sorting numbers
+Answer: A
+
+9. CAT = ?
+A) 3 1 20
+B) 1 3 20
+C) 20 3 1
+D) 2 1 20
+Answer: A
+
+10. Coding is mainly used in:
+A) Cryptography
+B) Cooking
+C) Sports
+D) Music
+Answer: A
+
+11. Which is NOT coding type?
+A) Letter shift
+B) Number coding
+C) Painting
+D) Substitution
+Answer: C
+
+12. A + 1 shift means:
+A) A stays same
+B) Move forward one letter
+C) Move backward
+D) Delete letter
+Answer: B
+
+13. Coding improves:
+A) Memory
+B) Logical reasoning
+C) Singing
+D) Drawing
+Answer: B
+
+14. DOG → EPH shift is:
+A) +1
+B) +2
+C) -1
+D) -2
+Answer: A
+
+15. Coding questions are common in:
+A) Exams
+B) Interviews
+C) Both
+D) None
+Answer: C
+
+16. Letter A position is:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+
+17. Coding is useful in:
+A) Security
+B) Cooking
+C) Dancing
+D) Painting
+Answer: A
+
+18. Decoding requires:
+A) Guessing
+B) Pattern recognition
+C) Writing
+D) Listening
+Answer: B
+
+19. CAT = 3 1 20 uses:
+A) Alphabet positions
+B) Grammar
+C) Math formulas
+D) Random logic
+Answer: A
+
+20. Coding helps in:
+A) Logical thinking
+B) Singing
+C) Drawing
+D) Sports
+Answer: A

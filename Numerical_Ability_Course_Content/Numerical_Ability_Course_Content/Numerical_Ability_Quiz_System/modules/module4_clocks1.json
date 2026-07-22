@@ -1,0 +1,107 @@
+{
+    "title": "Clocks 1 Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Clock completes 360° in:",
+            "options": [
+                "6 hours",
+                "12 hours",
+                "24 hours",
+                "60 minutes"
+            ],
+            "answer": "12 hours"
+        },
+        {
+            "question": "Minute hand moves per minute:",
+            "options": [
+                "5°",
+                "6°",
+                "10°",
+                "12°"
+            ],
+            "answer": "6°"
+        },
+        {
+            "question": "Hour hand moves per minute:",
+            "options": [
+                "1°",
+                "0.5°",
+                "2°",
+                "6°"
+            ],
+            "answer": "0.5°"
+        },
+        {
+            "question": "Angle formula is:",
+            "options": [
+                "30H+6M",
+                "30H-(11/2)M",
+                "60H+M",
+                "12H+M"
+            ],
+            "answer": "30H-(11/2)M"
+        },
+        {
+            "question": "At 3:00 angle is:",
+            "options": [
+                "0°",
+                "90°",
+                "180°",
+                "360°"
+            ],
+            "answer": "90°"
+        },
+        {
+            "question": "Minute hand in 30 min moves:",
+            "options": [
+                "90°",
+                "120°",
+                "180°",
+                "60°"
+            ],
+            "answer": "180°"
+        },
+        {
+            "question": "Hour hand in 2 hours moves:",
+            "options": [
+                "30°",
+                "60°",
+                "90°",
+                "120°"
+            ],
+            "answer": "60°"
+        },
+        {
+            "question": "Clock direction is:",
+            "options": [
+                "Clockwise",
+                "Anti-clockwise",
+                "Random",
+                "None"
+            ],
+            "answer": "Clockwise"
+        },
+        {
+            "question": "Full rotation is:",
+            "options": [
+                "90°",
+                "180°",
+                "360°",
+                "720°"
+            ],
+            "answer": "360°"
+        },
+        {
+            "question": "At 6:00 angle is:",
+            "options": [
+                "90°",
+                "180°",
+                "270°",
+                "360°"
+            ],
+            "answer": "180°"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+CLOCKS 2 - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. Find mirror time of 2:40
+
+2. Find mirror time of 5:20
+
+3. A clock gains 10 min/day. Find error in 3 days.
+
+4. A clock loses 5 min/day. Find error in 6 days.
+
+5. Find correct time if clock shows 4:30 but gains 15 min/day.
+
+6. Find mirror of 1:10
+
+7. Find mirror of 9:45
+
+8. A clock is 10 min fast. What is real time?
+
+9. A clock is 20 min slow. Find error correction.
+
+10. Find corrected time for given faulty clock problem.

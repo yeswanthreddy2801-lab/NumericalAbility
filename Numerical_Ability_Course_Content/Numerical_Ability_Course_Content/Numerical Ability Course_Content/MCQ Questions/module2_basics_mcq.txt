@@ -1,0 +1,179 @@
+PERMUTATIONS & COMBINATIONS BASICS - MCQ QUESTIONS
+
+1. Permutation means:
+A) Selection
+B) Arrangement
+C) Grouping
+D) Averaging
+Answer: B
+
+--------------------------------------------------
+
+2. Combination means:
+A) Arrangement
+B) Selection
+C) Ordering
+D) Sorting
+Answer: B
+
+--------------------------------------------------
+
+3. Permutation formula:
+A) nCr
+B) n!/(n−r)!
+C) n!/[r!(n−r)!]
+D) r!/n!
+Answer: B
+
+--------------------------------------------------
+
+4. Combination formula:
+A) nPr
+B) n!/[r!(n−r)!]
+C) n!/r!
+D) r!/n!
+Answer: B
+
+--------------------------------------------------
+
+5. In permutation:
+A) Order matters
+B) Order does not matter
+C) Selection only
+D) None
+Answer: A
+
+--------------------------------------------------
+
+6. In combination:
+A) Order matters
+B) Order does not matter
+C) Arrangement required
+D) Sequence fixed
+Answer: B
+
+--------------------------------------------------
+
+7. AB and BA in permutation are:
+A) Same
+B) Different
+C) Zero
+D) Undefined
+Answer: B
+
+--------------------------------------------------
+
+8. AB and BA in combination are:
+A) Same
+B) Different
+C) Invalid
+D) Zero
+Answer: A
+
+--------------------------------------------------
+
+9. nC0 equals:
+A) 0
+B) 1
+C) n
+D) undefined
+Answer: B
+
+--------------------------------------------------
+
+10. Fundamental counting principle is:
+A) m + n
+B) m × n
+C) m − n
+D) m / n
+Answer: B
+
+--------------------------------------------------
+
+11. Factorial of 0 is:
+A) 0
+B) 1
+C) 2
+D) undefined
+Answer: B
+
+--------------------------------------------------
+
+12. Which is arrangement?
+A) Combination
+B) Permutation
+C) Selection
+D) Grouping
+Answer: B
+
+--------------------------------------------------
+
+13. Which is selection?
+A) Permutation
+B) Combination
+C) Arrangement
+D) Ranking
+Answer: B
+
+--------------------------------------------------
+
+14. nCr = nC(n−r) is:
+A) Speed rule
+B) Symmetry rule
+C) Ratio rule
+D) Division rule
+Answer: B
+
+--------------------------------------------------
+
+15. First step in solving problems:
+A) Multiply values
+B) Check order condition
+C) Guess answer
+D) Add numbers
+Answer: B
+
+--------------------------------------------------
+
+16. 5P2 is:
+A) 10
+B) 20
+C) 25
+D) 15
+Answer: B
+
+--------------------------------------------------
+
+17. 5C2 is:
+A) 10
+B) 20
+C) 15
+D) 25
+Answer: A
+
+--------------------------------------------------
+
+18. Permutation is used when:
+A) Order matters
+B) Order does not matter
+C) Only selection
+D) None
+Answer: A
+
+--------------------------------------------------
+
+19. Combination is used when:
+A) Order matters
+B) Order does not matter
+C) Arrangement needed
+D) Ranking required
+Answer: B
+
+--------------------------------------------------
+
+20. Factorial is:
+A) Addition
+B) Multiplication series
+C) Division
+D) Subtraction
+Answer: B

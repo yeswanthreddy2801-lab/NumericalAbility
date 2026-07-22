@@ -1,0 +1,165 @@
+PROBABILITY - COINS & DICE
+
+--------------------------------------------------
+
+## Introduction
+
+Probability is the measure of chances of an event occurring.
+
+Formula:
+Probability = Favorable Outcomes / Total Outcomes
+
+Value always lies between:
+0 and 1
+
+--------------------------------------------------
+
+## Learning Objectives
+
+After studying this topic, you will learn:
+
+• Basic probability concept
+• Coin and dice outcomes
+• Sample space calculation
+• Event probability solving
+• Real-life applications
+
+--------------------------------------------------
+
+## Coin Basics
+
+One coin has 2 outcomes:
+• Head (H)
+• Tail (T)
+
+Two coins outcomes:
+HH, HT, TH, TT → 4 outcomes
+
+Formula:
+Total outcomes = 2^n
+
+Where n = number of coins
+
+--------------------------------------------------
+
+## Dice Basics
+
+One dice has 6 outcomes:
+1, 2, 3, 4, 5, 6
+
+Two dice outcomes:
+6 × 6 = 36 outcomes
+
+Formula:
+Total outcomes = 6^n
+
+--------------------------------------------------
+
+## Key Probability Types
+
+### 1. Simple Event
+One outcome event
+
+### 2. Compound Event
+Multiple outcomes event
+
+### 3. Sure Event
+Probability = 1
+
+### 4. Impossible Event
+Probability = 0
+
+--------------------------------------------------
+
+## Example 1 (Coin)
+
+Probability of getting Head when one coin is tossed:
+
+= 1/2
+
+--------------------------------------------------
+
+## Example 2 (Two Coins)
+
+Probability of getting at least one Head:
+
+Favorable: HH, HT, TH = 3
+
+Total = 4
+
+Probability = 3/4
+
+--------------------------------------------------
+
+## Example 3 (Dice)
+
+Probability of getting number 5:
+
+= 1/6
+
+--------------------------------------------------
+
+## Example 4 (Two Dice)
+
+Probability of sum = 7:
+
+Favorable pairs:
+(1,6),(2,5),(3,4),(4,3),(5,2),(6,1)
+
+= 6/36 = 1/6
+
+--------------------------------------------------
+
+## Shortcut Tips
+
+• Use 2^n for coins
+• Use 6^n for dice
+• Always list sample space carefully
+• Use complement method for “at least” problems
+
+--------------------------------------------------
+
+## Real World Applications
+
+• Weather prediction
+• Gaming systems
+• Lottery systems
+• Risk analysis
+• AI predictions
+
+--------------------------------------------------
+
+## Placement Tips
+
+• Learn sample space formulas
+• Practice dice sums
+• Use complement method
+• Avoid listing errors
+
+--------------------------------------------------
+
+## Interview Questions
+
+1. What is probability?
+Measure of chance of an event.
+
+2. Probability formula?
+Favorable / Total outcomes
+
+3. Outcomes of one coin?
+2 (H, T)
+
+4. Outcomes of one dice?
+6
+
+5. What is sure event probability?
+1
+
+--------------------------------------------------
+
+## Quick Summary
+
+• Probability = Favorable / Total
+• Coin = 2 outcomes
+• Dice = 6 outcomes
+• Use sample space carefully

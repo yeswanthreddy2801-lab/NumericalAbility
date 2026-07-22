@@ -1,0 +1,162 @@
+CLOCKS 1 - MCQ QUESTIONS
+
+--------------------------------------------------
+
+1. Clock completes 360° in:
+A) 6 hours
+B) 12 hours
+C) 24 hours
+D) 60 minutes
+Answer: B
+
+2. Minute hand moves:
+A) 5° per minute
+B) 6° per minute
+C) 10° per minute
+D) 12° per minute
+Answer: B
+
+3. Hour hand moves per minute:
+A) 1°
+B) 0.5°
+C) 2°
+D) 6°
+Answer: B
+
+4. Angle formula is:
+A) 30H + 6M
+B) 30H - (11/2)M
+C) 60H + M
+D) 12H + M
+Answer: B
+
+5. At 3:00 angle is:
+A) 0°
+B) 90°
+C) 180°
+D) 360°
+Answer: B
+
+6. At 6:00 angle is:
+A) 90°
+B) 180°
+C) 270°
+D) 360°
+Answer: B
+
+7. Full rotation is:
+A) 180°
+B) 360°
+C) 90°
+D) 720°
+Answer: B
+
+8. Minute hand in 30 minutes moves:
+A) 180°
+B) 90°
+C) 60°
+D) 120°
+Answer: A
+
+9. Hour hand in 2 hours moves:
+A) 30°
+B) 60°
+C) 90°
+D) 120°
+Answer: B
+
+10. Clock direction is:
+A) Anti-clockwise
+B) Clockwise
+C) Random
+D) None
+Answer: B
+11.
+
+Q: One hour mark on a clock represents:
+A) 6°
+B) 12°
+C) 30°
+D) 60°
+Answer: C
+
+12.
+
+Q: Minute hand completes one full rotation in:
+A) 30 minutes
+B) 60 minutes
+C) 90 minutes
+D) 12 hours
+Answer: B
+
+13.
+
+Q: Hour hand completes one full rotation in:
+A) 12 minutes
+B) 1 hour
+C) 12 hours
+D) 24 hours
+Answer: C
+
+14.
+
+Q: At 12:00, angle between hour and minute hand is:
+A) 0°
+B) 90°
+C) 180°
+D) 360°
+Answer: A
+
+15.
+
+Q: At 9:00, angle between hands is:
+A) 90°
+B) 180°
+C) 270°
+D) 360°
+Answer: A
+
+16.
+
+Q: In 1 minute, minute hand moves:
+A) 5°
+B) 6°
+C) 10°
+D) 12°
+Answer: B
+
+17.
+
+Q: Relative speed of hour and minute hand is:
+A) 5.5° per minute
+B) 6° per minute
+C) 11° per minute
+D) 0.5° per minute
+Answer: A
+
+18.
+
+Q: Angle between hands is always measured in:
+A) Degrees
+B) Minutes
+C) Hours
+D) Seconds
+Answer: A
+
+19.
+
+Q: At 4:00, angle between hour and minute hand is:
+A) 90°
+B) 120°
+C) 150°
+D) 180°
+Answer: B
+
+20.
+
+Q: Which hand moves faster?
+A) Hour hand
+B) Minute hand
+C) Second hand only
+D) Both same
+Answer: B

@@ -1,0 +1,107 @@
+{
+    "title": "Rankings Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Ranking is based on:",
+            "options": [
+                "Speed",
+                "Position",
+                "Weight",
+                "Age"
+            ],
+            "answer": "Position"
+        },
+        {
+            "question": "Total formula is:",
+            "options": [
+                "L+R+1",
+                "L+R-1",
+                "L-R",
+                "L×R"
+            ],
+            "answer": "L+R-1"
+        },
+        {
+            "question": "3rd from left and 5th from right total:",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": "7"
+        },
+        {
+            "question": "Ranking is:",
+            "options": [
+                "Random",
+                "Position-based",
+                "Time-based",
+                "Weight-based"
+            ],
+            "answer": "Position-based"
+        },
+        {
+            "question": "Left rank means:",
+            "options": [
+                "Right side",
+                "Left side",
+                "Center",
+                "None"
+            ],
+            "answer": "Left side"
+        },
+        {
+            "question": "Right rank means:",
+            "options": [
+                "Left side",
+                "Right side",
+                "Middle",
+                "None"
+            ],
+            "answer": "Right side"
+        },
+        {
+            "question": "Ranking problems are used in:",
+            "options": [
+                "Exams",
+                "Sports only",
+                "Chemistry",
+                "Physics"
+            ],
+            "answer": "Exams"
+        },
+        {
+            "question": "Total gives:",
+            "options": [
+                "Distance",
+                "Count",
+                "Speed",
+                "Time"
+            ],
+            "answer": "Count"
+        },
+        {
+            "question": "Ranking uses:",
+            "options": [
+                "Logic",
+                "Guessing",
+                "Drawing",
+                "Random"
+            ],
+            "answer": "Logic"
+        },
+        {
+            "question": "Position problems are:",
+            "options": [
+                "Easy",
+                "Logical",
+                "Random",
+                "Hard only"
+            ],
+            "answer": "Logical"
+        }
+    ]
+}

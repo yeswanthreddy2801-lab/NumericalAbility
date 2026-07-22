@@ -1,0 +1,43 @@
+CLOCKS 3 - PRACTICE QUESTIONS
+
+------------------------------------------------------------
+
+1. Find the angle between the hour hand and the minute hand at 4:30.
+
+------------------------------------------------------------
+
+2. Find the angle between the hands at 8:20.
+
+------------------------------------------------------------
+
+3. Calculate the angle between the hands at 9:45.
+
+------------------------------------------------------------
+
+4. At what time between 5 and 6 o'clock will the hands of a clock coincide?
+
+------------------------------------------------------------
+
+5. At what time between 7 and 8 o'clock will the hands of a clock be exactly opposite?
+
+------------------------------------------------------------
+
+6. Find the smaller angle between the hands at 2:40.
+
+------------------------------------------------------------
+
+7. A clock shows 11:25. Calculate the angle between the hour hand and the minute hand.
+
+------------------------------------------------------------
+
+8. How many times do the hands of a clock coincide in one day (24 hours)?
+
+------------------------------------------------------------
+
+9. A clock reads 10:10. Find the angle between the hands.
+
+------------------------------------------------------------
+
+10. A clock shows 1:50. Calculate the smaller angle between the hands.
+
+------------------------------------------------------------

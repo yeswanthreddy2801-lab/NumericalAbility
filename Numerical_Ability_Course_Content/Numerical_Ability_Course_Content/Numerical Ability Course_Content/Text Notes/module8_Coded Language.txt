@@ -1,0 +1,142 @@
+CODED LANGUAGE (CODING & DECODING)
+
+============================================================
+
+LEARNING OBJECTIVES
+
+After completing this topic, you will be able to:
+
+• Understand coding and decoding patterns
+• Solve letter shifting problems
+• Decode word-based logic
+• Improve reasoning speed for placements
+• Apply shortcut techniques in exams
+
+============================================================
+
+INTRODUCTION
+
+Coded Language is a reasoning topic where words or numbers are given in a coded form. You must identify the pattern and decode or encode the message.
+
+============================================================
+
+TYPES OF CODING
+
+1. Letter Shifting
+2. Number Coding
+3. Substitution Coding
+4. Word Pattern Coding
+5. Mixed Coding
+
+============================================================
+
+LETTER SHIFTING
+
+A → B → C → D ... Z
+
+Example:
+A + 1 = B
+B + 2 = D
+
+Used in shifting-based coding questions.
+
+============================================================
+
+NUMBER CODING
+
+Letters are replaced by numbers.
+
+Example:
+A = 1, B = 2, C = 3
+
+HELLO → 8 5 12 12 15
+
+============================================================
+
+SUBSTITUTION CODING
+
+Words are replaced with other words.
+
+Example:
+Apple = Red Fruit
+Then Apple is coded as Red Fruit.
+
+============================================================
+
+SHORTCUT TECHNIQUES
+
+• Identify pattern first
+• Check position values (A=1, Z=26)
+• Compare multiple examples
+• Eliminate wrong options quickly
+
+============================================================
+
+SOLVED EXAMPLE 1
+
+If A = 1, B = 2, then CAT = ?
+
+C = 3, A = 1, T = 20
+
+Answer: 3 1 20
+
+============================================================
+
+SOLVED EXAMPLE 2
+
+If DOG = EPH, then CAT = ?
+
+Each letter +1 shift
+
+C → D
+A → B
+T → U
+
+Answer: DBU
+
+============================================================
+
+COMMON MISTAKES
+
+• Ignoring shift pattern
+• Wrong alphabet position
+• Mixing rules in same question
+• Not checking consistency
+
+============================================================
+
+REAL WORLD APPLICATIONS
+
+• Cryptography
+• Data security
+• Competitive exams
+• Logical reasoning tests
+• Computer science encoding
+
+============================================================
+
+PLACEMENT TIPS
+
+• Practice alphabet positions daily
+• Learn shift patterns
+• Solve previous aptitude questions
+• Focus on speed + accuracy
+
+============================================================
+
+INTERVIEW QUESTIONS
+
+1. What is coding and decoding?
+2. What are types of coding?
+3. How does letter shifting work?
+4. What is substitution coding?
+5. Where is coded language used?
+
+============================================================
+
+QUICK SUMMARY
+
+✓ Coding = Hidden message system
+✓ Decoding = Finding original message
+✓ A=1 to Z=26 system important
+✓ Shift logic is key

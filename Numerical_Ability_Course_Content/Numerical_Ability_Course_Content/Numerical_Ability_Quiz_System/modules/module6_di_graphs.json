@@ -1,0 +1,107 @@
+{
+    "title": "DI Tables Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "DI stands for:",
+            "options": [
+                "Data Input",
+                "Data Interpretation",
+                "Data Index",
+                "Data Integration"
+            ],
+            "answer": "Data Interpretation"
+        },
+        {
+            "question": "Table data is in:",
+            "options": [
+                "Rows only",
+                "Columns only",
+                "Rows and Columns",
+                "Random"
+            ],
+            "answer": "Rows and Columns"
+        },
+        {
+            "question": "Row means:",
+            "options": [
+                "Vertical",
+                "Horizontal",
+                "Diagonal",
+                "None"
+            ],
+            "answer": "Horizontal"
+        },
+        {
+            "question": "Column means:",
+            "options": [
+                "Horizontal",
+                "Vertical",
+                "Diagonal",
+                "Random"
+            ],
+            "answer": "Vertical"
+        },
+        {
+            "question": "DI is used for:",
+            "options": [
+                "Guessing",
+                "Analysis",
+                "Drawing",
+                "Writing"
+            ],
+            "answer": "Analysis"
+        },
+        {
+            "question": "Total means:",
+            "options": [
+                "Sum",
+                "Product",
+                "Ratio",
+                "Difference"
+            ],
+            "answer": "Sum"
+        },
+        {
+            "question": "Best DI skill:",
+            "options": [
+                "Speed calculation",
+                "Writing",
+                "Drawing",
+                "Guessing"
+            ],
+            "answer": "Speed calculation"
+        },
+        {
+            "question": "First step in DI:",
+            "options": [
+                "Solve",
+                "Understand table",
+                "Multiply",
+                "Skip"
+            ],
+            "answer": "Understand table"
+        },
+        {
+            "question": "Approximation helps in:",
+            "options": [
+                "Speed",
+                "Accuracy only",
+                "Writing",
+                "Drawing"
+            ],
+            "answer": "Speed"
+        },
+        {
+            "question": "Tables represent:",
+            "options": [
+                "Unstructured data",
+                "Structured data",
+                "Random data",
+                "Hidden data"
+            ],
+            "answer": "Structured data"
+        }
+    ]
+}

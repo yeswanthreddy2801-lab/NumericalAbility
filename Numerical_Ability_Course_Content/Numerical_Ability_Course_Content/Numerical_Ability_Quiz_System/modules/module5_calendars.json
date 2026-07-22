@@ -1,0 +1,166 @@
+{
+    "topic": "Calendar Basics",
+    "flashcards": [
+        {
+            "id": 1,
+            "question": "How many days are in a normal year?",
+            "options": [
+                "364",
+                "365",
+                "366",
+                "360"
+            ],
+            "answer": "365"
+        },
+        {
+            "id": 2,
+            "question": "How many days are in a leap year?",
+            "options": [
+                "365",
+                "366",
+                "364",
+                "360"
+            ],
+            "answer": "366"
+        },
+        {
+            "id": 3,
+            "question": "Leap year is divisible by?",
+            "options": [
+                "3",
+                "4",
+                "5",
+                "6"
+            ],
+            "answer": "4"
+        },
+        {
+            "id": 4,
+            "question": "Century years must be divisible by?",
+            "options": [
+                "100",
+                "200",
+                "300",
+                "400"
+            ],
+            "answer": "400"
+        },
+        {
+            "id": 5,
+            "question": "Is 1900 a leap year?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": "No"
+        },
+        {
+            "id": 6,
+            "question": "Is 2000 a leap year?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "answer": "Yes"
+        },
+        {
+            "id": 7,
+            "question": "How many odd days in 1 normal year?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer": "1"
+        },
+        {
+            "id": 8,
+            "question": "How many odd days in a leap year?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer": "2"
+        },
+        {
+            "id": 9,
+            "question": "1 week equals how many days?",
+            "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "7"
+        },
+        {
+            "id": 10,
+            "question": "Odd days mean?",
+            "options": [
+                "Extra days after complete weeks",
+                "Missing days",
+                "Leap days",
+                "Holiday days"
+            ],
+            "answer": "Extra days after complete weeks"
+        },
+        {
+            "id": 11,
+            "question": "Which rule is used for leap year calculation?",
+            "options": [
+                "2, 5, 10 rule",
+                "4, 100, 400 rule",
+                "3, 6, 9 rule",
+                "None"
+            ],
+            "answer": "4, 100, 400 rule"
+        },
+        {
+            "id": 12,
+            "question": "Day mapping starts from?",
+            "options": [
+                "Monday",
+                "Sunday",
+                "Tuesday",
+                "Friday"
+            ],
+            "answer": "Sunday"
+        },
+        {
+            "id": 13,
+            "question": "Which year is NOT a leap year?",
+            "options": [
+                "2000",
+                "2024",
+                "2100",
+                "2016"
+            ],
+            "answer": "2100"
+        },
+        {
+            "id": 14,
+            "question": "Which year is a leap year?",
+            "options": [
+                "1900",
+                "2000",
+                "2100",
+                "1800"
+            ],
+            "answer": "2000"
+        },
+        {
+            "id": 15,
+            "question": "A normal year has how many odd days?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer": "1"
+        }
+    ]
+}

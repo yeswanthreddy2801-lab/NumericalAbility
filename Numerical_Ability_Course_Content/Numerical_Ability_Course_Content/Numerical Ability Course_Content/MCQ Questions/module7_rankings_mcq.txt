@@ -1,0 +1,133 @@
+RANKINGS - MCQ QUESTIONS
+
+--------------------------------------------------
+
+1. Ranking is based on:
+A) Speed
+B) Position
+C) Weight
+D) Age
+Answer: B
+
+2. Total formula is:
+A) L + R + 1
+B) L + R - 1
+C) L × R
+D) L - R
+Answer: B
+
+3. Ranking problems are:
+A) Random
+B) Position-based
+C) Algebra only
+D) Geometry
+Answer: B
+
+4. If 3rd from left and 5th from right, total:
+A) 6
+B) 7
+C) 8
+D) 9
+Answer: B
+
+5. Ranking uses:
+A) Probability
+B) Linear arrangement
+C) Graphs
+D) Ratios
+Answer: B
+
+6. Left rank means:
+A) Right side position
+B) Left side position
+C) Middle
+D) Random
+Answer: B
+
+7. Right rank means:
+A) Left side
+B) Right side
+C) Center
+D) None
+Answer: B
+
+8. Total persons formula gives:
+A) Distance
+B) Total count
+C) Weight
+D) Time
+Answer: B
+
+9. Ranking is useful in:
+A) Exams
+B) Games only
+C) Physics
+D) Chemistry
+Answer: A
+
+10. Position problems need:
+A) Guessing
+B) Logic
+C) Drawing
+D) Random choice
+Answer: B
+11.If a person is 4th from left and 7th from right, total number of persons is:
+A) 10
+B) 11
+C) 12
+D) 13
+Answer: B
+12.If total persons = L + R − 1, this formula is used when:
+A) No overlapping position
+B) Same person counted twice
+C) Random arrangement
+D) Circular arrangement
+Answer: A
+13.If a person moves one position forward in ranking, his rank:
+A) Increases by 1
+B) Decreases by 1
+C) Becomes zero
+D) Remains same
+Answer: B
+14.In ranking, “from left” means counting starts from:
+A) Right end
+B) Left end
+C) Center
+D) Any random point
+Answer: B
+15.In ranking problems, “from right” means counting starts from:
+A) Left end
+B) Right end
+C) Middle
+D) Top
+Answer: B
+16.If a person is first from left, his rank from right is:
+A) Total − 1
+B) Total
+C) 1
+D) 0
+Answer: B
+17.If two people exchange positions, ranking will:
+A) Change
+B) Stay same
+C) Become zero
+D) Double
+Answer: A
+18.Ranking problems are mainly solved using:
+A) Arithmetic only
+B) Logical reasoning
+C) Physics formulas
+D) Chemistry equations
+Answer: B
+19.Middle position in ranking is found using:
+A) (L + R) / 2
+B) (Total + 1) / 2
+C) L × R
+D) L − R
+Answer: B
+20.Ranking problems are common in:
+A) Competitive exams
+B) Cooking
+C) Sports only
+D) Biology
+Answer: A

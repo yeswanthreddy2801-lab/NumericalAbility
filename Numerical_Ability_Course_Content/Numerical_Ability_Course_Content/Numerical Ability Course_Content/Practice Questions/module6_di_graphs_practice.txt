@@ -1,0 +1,23 @@
+DI TABLES - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. Calculate total sales from given table.
+
+2. Find highest value in table.
+
+3. Compare two rows and find difference.
+
+4. Find average of all values.
+
+5. Calculate percentage contribution.
+
+6. Find minimum value.
+
+7. Find sum of selected columns.
+
+8. Identify trend in data.
+
+9. Solve ratio-based question.
+
+10. Interpret table and answer MCQ.

@@ -1,0 +1,23 @@
+
+1. What is probability?
+
+2. What is the formula of probability?
+
+3. What is the probability of a sure event?
+
+4. What is the probability of an impossible event?
+
+5. What is sample space?
+
+6. What is an event in probability?
+
+7. What is the probability of getting a head in a coin toss?
+
+8. What is the probability of getting a 6 on a die?
+
+9. What is complementary probability?
+
+10. What is the range of probability values?
+
+
+

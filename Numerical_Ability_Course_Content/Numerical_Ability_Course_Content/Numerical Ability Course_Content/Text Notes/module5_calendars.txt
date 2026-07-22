@@ -1,0 +1,124 @@
+CALENDARS (TEXT NOTES)
+
+============================================================
+
+1. INTRODUCTION
+
+Calendar problems are based on finding days, dates, leap years, odd days, and weekday calculations.
+These are commonly asked in aptitude exams like SSC, Banking, UPSC, and placement tests.
+
+============================================================
+
+2. TYPES OF YEARS
+
+Ordinary Year:
+• 365 days
+• 52 weeks + 1 odd day
+
+Leap Year:
+• 366 days
+• 52 weeks + 2 odd days
+
+============================================================
+
+3. LEAP YEAR RULES
+
+A year is a leap year if:
+• Divisible by 4 → Yes
+• Divisible by 100 → Not leap year
+• Divisible by 400 → Yes (exception)
+
+Examples:
+• 2000 → Leap Year
+• 1900 → Not Leap Year
+• 2024 → Leap Year
+• 2025 → Not Leap Year
+
+============================================================
+
+4. MONTH DAYS
+
+January → 31
+February → 28 (29 in leap year)
+March → 31
+April → 30
+May → 31
+June → 30
+July → 31
+August → 31
+September → 30
+October → 31
+November → 30
+December → 31
+
+============================================================
+
+5. ODD DAYS
+
+Odd days = extra days beyond complete weeks
+
+• 1 week = 0 odd days
+• 1 day = 1 odd day
+• 365 days = 1 odd day
+• 366 days = 2 odd days
+
+============================================================
+
+6. WEEKDAY MAPPING
+
+0 → Sunday
+1 → Monday
+2 → Tuesday
+3 → Wednesday
+4 → Thursday
+5 → Friday
+6 → Saturday
+
+============================================================
+
+7. BASIC METHOD
+
+Steps:
+1. Calculate total days
+2. Divide by 7
+3. Take remainder (odd days)
+4. Match with weekday mapping
+
+============================================================
+
+8. LEAP YEAR IMPACT
+
+Leap years add 1 extra day in February.
+This changes weekday calculations after February.
+
+============================================================
+
+9. CALENDAR REPEATING CYCLE
+
+Calendar repeats every:
+• 400 years
+
+Because odd days reset after 400 years.
+
+============================================================
+
+10. IMPORTANT SHORTCUTS
+
+• Memorize odd days for 100, 200, 300, 400 years
+• Always check leap year first
+• Use modulo 7 for quick calculation
+• Learn month day pattern
+
+============================================================
+
+11. COMMON QUESTION TYPES
+
+• Find day of a given date
+• Check leap year
+• Find odd days
+• Calendar repetition problems
+• Next/previous day calculation
+
+============================================================
+
+END OF CALENDARS NOTES

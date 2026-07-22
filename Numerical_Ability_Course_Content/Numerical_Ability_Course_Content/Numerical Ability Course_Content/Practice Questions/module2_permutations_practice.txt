@@ -1,0 +1,39 @@
+PERMUTATIONS - PRACTICE QUESTIONS
+
+1. How many ways can 6 people be arranged in a row?
+
+--------------------------------------------------
+
+2. In how many ways can 5 people sit in 3 chairs?
+
+--------------------------------------------------
+
+3. Find circular arrangement of 7 people.
+
+--------------------------------------------------
+
+4. How many ways to arrange letters A, B, C, D?
+
+--------------------------------------------------
+
+5. Find number of ways to select and arrange 3 out of 8 people.
+
+--------------------------------------------------
+
+6. How many 3-digit numbers can be formed using digits 1–5 without repetition?
+
+--------------------------------------------------
+
+7. In how many ways can 4 books be arranged on a shelf?
+
+--------------------------------------------------
+
+8. How many ways can 10 people stand in a queue?
+
+--------------------------------------------------
+
+9. Find circular permutation of 8 people.
+
+--------------------------------------------------
+
+10. How many ways can 5 people be arranged in 4 seats?

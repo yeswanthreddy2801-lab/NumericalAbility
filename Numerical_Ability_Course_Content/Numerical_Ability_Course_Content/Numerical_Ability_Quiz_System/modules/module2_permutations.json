@@ -1,0 +1,107 @@
+{
+    "title": "Permutations Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Permutation means:",
+            "options": [
+                "Selection",
+                "Arrangement",
+                "Grouping",
+                "Average"
+            ],
+            "answer": "Arrangement"
+        },
+        {
+            "question": "Formula of permutation is:",
+            "options": [
+                "nCr",
+                "n!/(n−r)!",
+                "n!/r!",
+                "r!/n!"
+            ],
+            "answer": "n!/(n−r)!"
+        },
+        {
+            "question": "Permutation is used when:",
+            "options": [
+                "Order matters",
+                "Order does not matter",
+                "Only selection",
+                "None"
+            ],
+            "answer": "Order matters"
+        },
+        {
+            "question": "Circular permutation formula is:",
+            "options": [
+                "n!",
+                "(n−1)!",
+                "n²",
+                "2n"
+            ],
+            "answer": "(n−1)!"
+        },
+        {
+            "question": "4P2 equals:",
+            "options": [
+                "8",
+                "10",
+                "12",
+                "16"
+            ],
+            "answer": "12"
+        },
+        {
+            "question": "If order changes, result is:",
+            "options": [
+                "Same",
+                "Different",
+                "Zero",
+                "Undefined"
+            ],
+            "answer": "Different"
+        },
+        {
+            "question": "nP0 equals:",
+            "options": [
+                "0",
+                "1",
+                "n",
+                "Undefined"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Permutation deals with:",
+            "options": [
+                "Selection",
+                "Arrangement",
+                "Probability",
+                "Ratio"
+            ],
+            "answer": "Arrangement"
+        },
+        {
+            "question": "Arrange 4 people in a row:",
+            "options": [
+                "12",
+                "24",
+                "16",
+                "18"
+            ],
+            "answer": "24"
+        },
+        {
+            "question": "First step in permutation problems:",
+            "options": [
+                "Add values",
+                "Check order",
+                "Multiply numbers",
+                "Guess"
+            ],
+            "answer": "Check order"
+        }
+    ]
+}

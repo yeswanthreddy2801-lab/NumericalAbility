@@ -1,0 +1,107 @@
+{
+    "title": "Combinations Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Combination means:",
+            "options": [
+                "Arrangement",
+                "Selection",
+                "Ordering",
+                "Sorting"
+            ],
+            "answer": "Selection"
+        },
+        {
+            "question": "Formula of combination is:",
+            "options": [
+                "nPr",
+                "n!/(n−r)!",
+                "n!/[r!(n−r)!]",
+                "r!/n!"
+            ],
+            "answer": "n!/[r!(n−r)!]"
+        },
+        {
+            "question": "In combination:",
+            "options": [
+                "Order matters",
+                "Order does not matter",
+                "Sequence fixed",
+                "Arrangement required"
+            ],
+            "answer": "Order does not matter"
+        },
+        {
+            "question": "5C2 equals:",
+            "options": [
+                "5",
+                "10",
+                "15",
+                "20"
+            ],
+            "answer": "10"
+        },
+        {
+            "question": "nC0 equals:",
+            "options": [
+                "0",
+                "1",
+                "n",
+                "Undefined"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Combination is used for:",
+            "options": [
+                "Arrangement",
+                "Selection",
+                "Ranking",
+                "Sorting"
+            ],
+            "answer": "Selection"
+        },
+        {
+            "question": "8C3 equals:",
+            "options": [
+                "48",
+                "56",
+                "64",
+                "72"
+            ],
+            "answer": "56"
+        },
+        {
+            "question": "Combination ignores:",
+            "options": [
+                "Order",
+                "Selection",
+                "Group size",
+                "Total objects"
+            ],
+            "answer": "Order"
+        },
+        {
+            "question": "Formula involves:",
+            "options": [
+                "Addition",
+                "Factorial",
+                "Subtraction",
+                "Multiplication only"
+            ],
+            "answer": "Factorial"
+        },
+        {
+            "question": "First step in combination problems:",
+            "options": [
+                "Add numbers",
+                "Check order",
+                "Multiply",
+                "Guess"
+            ],
+            "answer": "Check order"
+        }
+    ]
+}

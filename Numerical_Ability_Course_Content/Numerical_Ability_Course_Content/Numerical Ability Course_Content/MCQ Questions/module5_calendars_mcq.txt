@@ -1,0 +1,162 @@
+CALENDARS 1 - MCQ QUESTIONS
+
+--------------------------------------------------
+
+1. Normal year has:
+A) 364 days
+B) 365 days
+C) 366 days
+D) 360 days
+Answer: B
+
+2. Leap year has:
+A) 365 days
+B) 366 days
+C) 364 days
+D) 360 days
+Answer: B
+
+3. Leap year rule includes:
+A) Divisible by 5
+B) Divisible by 4
+C) Divisible by 3
+D) Divisible by 6
+Answer: B
+
+4. 1900 is:
+A) Leap year
+B) Not leap year
+C) Unknown
+D) Half year
+Answer: B
+
+5. 2000 is:
+A) Leap year
+B) Not leap year
+C) Invalid
+D) None
+Answer: A
+
+6. 1 week equals:
+A) 5 days
+B) 6 days
+C) 7 days
+D) 8 days
+Answer: C
+
+7. Odd days means:
+A) Even days
+B) Extra days after weeks
+C) Missing days
+D) Random days
+Answer: B
+
+8. Total days in leap year:
+A) 365
+B) 366
+C) 364
+D) 360
+Answer: B
+
+9. Day mapping starts with:
+A) Monday
+B) Sunday
+C) Tuesday
+D) Friday
+Answer: B
+
+10. Leap year condition uses:
+A) Only 4 rule
+B) 4, 100, 400 rule
+C) Only 2 rule
+D) No rule
+Answer: B
+11.
+
+Q: Which year is always a leap year?
+A) 1800
+B) 1900
+C) 2000
+D) 2100
+Answer: C
+
+12.
+
+Q: A century year is a leap year only if it is divisible by:
+A) 4
+B) 100
+C) 400
+D) 10
+Answer: C
+
+13.
+
+Q: Number of days in an ordinary year is:
+A) 364
+B) 365
+C) 366
+D) 367
+Answer: B
+
+14.
+
+Q: February has how many days in a leap year?
+A) 28
+B) 29
+C) 30
+D) 31
+Answer: B
+
+15.
+
+Q: Which of the following is NOT a leap year?
+A) 2024
+B) 2000
+C) 1900
+D) 2016
+Answer: C
+
+16.
+
+Q: Odd days in a week cycle are counted modulo:
+A) 5
+B) 6
+C) 7
+D) 10
+Answer: C
+
+17.
+
+Q: 7 days correspond to how many odd days?
+A) 1
+B) 0
+C) 7
+D) 2
+Answer: B
+
+18.
+
+Q: Which day comes after Sunday in standard mapping?
+A) Saturday
+B) Monday
+C) Tuesday
+D) Friday
+Answer: B
+
+19.
+
+Q: Total odd days in 400 years is:
+A) 0
+B) 1
+C) 2
+D) 4
+Answer: A
+
+20.
+
+Q: A non-leap century year has:
+A) 1 odd day
+B) 3 odd days
+C) 5 odd days
+D) 6 odd days
+Answer: B

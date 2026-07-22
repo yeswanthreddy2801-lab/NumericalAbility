@@ -1,0 +1,162 @@
+CLOCKS 2 - MCQ QUESTIONS
+
+--------------------------------------------------
+
+1. Mirror formula is:
+A) 12:00 - time
+B) 11:60 - time
+C) 10:50 - time
+D) 9:45 - time
+Answer: B
+
+2. Clock error is related to:
+A) Speed variation
+B) Color change
+C) Size change
+D) Shape change
+Answer: A
+
+3. Gain/loss is measured per:
+A) Hour
+B) Day
+C) Minute
+D) Second
+Answer: B
+
+4. Mirror of 3:15 is:
+A) 8:45
+B) 7:45
+C) 9:45
+D) 6:15
+Answer: A
+
+5. Clock problems involve:
+A) Algebra
+B) Time adjustment
+C) Geometry only
+D) None
+Answer: B
+
+6. 11:60 rule is used for:
+A) Addition
+B) Mirror image
+C) Multiplication
+D) Subtraction
+Answer: B
+
+7. Clock gain means:
+A) Slow clock
+B) Fast clock
+C) Broken clock
+D) Reset clock
+Answer: B
+
+8. Clock loss means:
+A) Fast clock
+B) Slow clock
+C) Normal clock
+D) Stop clock
+Answer: B
+
+9. Mirror concept is used in:
+A) Speed
+B) Reflection
+C) Probability
+D) Ratio
+Answer: B
+
+10. Clock correction is based on:
+A) Time difference
+B) Weight
+C) Distance
+D) Speed only
+Answer: A
+11.
+
+Q: A clock gaining time is also called:
+A) Slow clock
+B) Fast clock
+C) Dead clock
+D) Normal clock
+Answer: B
+
+12.
+
+Q: A clock losing time means it is:
+A) Fast
+B) Slow
+C) Perfect
+D) Reset
+Answer: B
+
+13.
+
+Q: If a clock gains 5 minutes per hour, it is considered:
+A) Correct clock
+B) Fast clock
+C) Slow clock
+D) Broken clock
+Answer: B
+
+14.
+
+Q: Mirror image of a clock is based on reflection across:
+A) Horizontal axis
+B) Vertical line (12–6 axis)
+C) Diagonal line
+D) Random axis
+Answer: B
+
+15.
+
+Q: In mirror clock problems, time is subtracted from:
+A) 12:00
+B) 11:60
+C) 10:50
+D) 24:00
+Answer: B
+
+16.
+
+Q: If a clock is 10 minutes slow every hour, it will:
+A) Gain time
+B) Lose time
+C) Stay correct
+D) Double time
+Answer: B
+
+17.
+
+Q: Clock error is mainly due to:
+A) Incorrect weight
+B) Mechanical defects
+C) Color change
+D) Shape change
+Answer: B
+
+18.
+
+Q: Correction of clock error is done using:
+A) Addition
+B) Subtraction
+C) Time adjustment calculation
+D) Multiplication
+Answer: C
+
+19.
+
+Q: If a clock is correct twice a day, it is:
+A) Fast clock
+B) Slow clock
+C) Normal clock
+D) All clocks are correct twice daily
+Answer: D
+
+20.
+
+Q: Mirror image of 9:20 is:
+A) 2:40
+B) 3:40
+C) 4:40
+D) 8:40
+Answer: A

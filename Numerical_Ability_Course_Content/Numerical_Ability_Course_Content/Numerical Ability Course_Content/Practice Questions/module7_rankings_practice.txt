@@ -1,0 +1,23 @@
+RANKINGS - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. A is 4th from left and 6th from right. Find total.
+
+2. B is 5th from left and 3rd from right. Find total.
+
+3. Find middle position in line of 9 people.
+
+4. Find rank if position is reversed.
+
+5. If total is known, find missing rank.
+
+6. Arrange ranking in reverse order.
+
+7. Find position from left side.
+
+8. Find position from right side.
+
+9. Solve combined ranking problem.
+
+10. Practice mixed ranking questions.

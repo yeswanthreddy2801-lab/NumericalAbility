@@ -1,0 +1,117 @@
+PERMUTATIONS & COMBINATIONS BASICS - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+## A. Fundamental Counting Principle
+
+1. A person has 4 shirts and 3 pants. How many outfits can be formed?
+
+--------------------------------------------------
+
+2. A menu has 5 starters and 4 main courses. How many meal combinations are possible?
+
+--------------------------------------------------
+
+3. A password consists of 2 letters and 2 digits. How many such passwords can be formed?
+
+--------------------------------------------------
+
+## B. Factorial Based
+
+4. Simplify: 6!
+
+--------------------------------------------------
+
+5. Simplify: 8!/6!
+
+--------------------------------------------------
+
+6. Find value of 5! + 3!
+
+--------------------------------------------------
+
+## C. Permutation Problems
+
+7. In how many ways can 5 students be arranged in a row?
+
+--------------------------------------------------
+
+8. How many ways can 4 people be arranged in 2 seats?
+
+--------------------------------------------------
+
+9. In how many ways can 6 people be arranged in a circle?
+
+--------------------------------------------------
+
+10. How many 3-letter arrangements can be made from A, B, C, D?
+
+--------------------------------------------------
+
+11. How many ways can 7 people be arranged in a queue?
+
+--------------------------------------------------
+
+## D. Combination Problems
+
+12. Select 3 students from 8 students.
+
+--------------------------------------------------
+
+13. Choose 2 books from 6 books.
+
+--------------------------------------------------
+
+14. Form a committee of 4 from 10 people.
+
+--------------------------------------------------
+
+15. Select 5 players from 11 players.
+
+--------------------------------------------------
+
+16. Choose 2 fruits from 7 fruits.
+
+--------------------------------------------------
+
+## E. Mixed Concept (Important)
+
+17. How many ways can a captain and vice-captain be selected from 10 players?
+
+--------------------------------------------------
+
+18. How many ways can 3 students be selected and arranged from 5 students?
+
+--------------------------------------------------
+
+19. How many ways can 4 letters be selected from 6 letters?
+
+--------------------------------------------------
+
+20. A group of 5 is selected from 9 people. How many ways?
+
+--------------------------------------------------
+
+## F. Application Level
+
+21. In how many ways can 3 books be arranged on a shelf from 5 books?
+
+--------------------------------------------------
+
+22. A lock uses 3 digits from 0–9. How many combinations possible?
+
+--------------------------------------------------
+
+23. How many ways can 4 people sit in 4 chairs?
+
+--------------------------------------------------
+
+24. How many teams of 2 can be formed from 12 players?
+
+--------------------------------------------------
+
+25. How many arrangements of 4 letters can be made from 5 letters?
+
+--------------------------------------------------
+
+## END OF PRACTICE SET

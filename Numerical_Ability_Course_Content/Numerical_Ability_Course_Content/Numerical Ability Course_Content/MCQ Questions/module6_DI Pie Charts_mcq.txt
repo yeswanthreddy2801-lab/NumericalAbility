@@ -1,0 +1,183 @@
+DI PIE CHARTS - MCQ QUESTIONS
+
+------------------------------------------------------------
+
+1. A pie chart represents data in:
+A) Line form
+B) Circular form
+C) Bar form
+D) Table form
+Answer: B
+
+------------------------------------------------------------
+
+2. Total angle of a pie chart is:
+A) 180°
+B) 270°
+C) 360°
+D) 90°
+Answer: C
+
+------------------------------------------------------------
+
+3. 1% in a pie chart equals:
+A) 1°
+B) 3.6°
+C) 6°
+D) 10°
+Answer: B
+
+------------------------------------------------------------
+
+4. Pie chart is mainly used for:
+A) Data interpretation
+B) Grammar
+C) Coding
+D) Reading comprehension
+Answer: A
+
+------------------------------------------------------------
+
+5. If total value is 1000, 10% equals:
+A) 10
+B) 100
+C) 1000
+D) 10000
+Answer: B
+
+------------------------------------------------------------
+
+6. If total value is 500, 20% equals:
+A) 50
+B) 100
+C) 200
+D) 150
+Answer: C
+
+------------------------------------------------------------
+
+7. Which formula is correct?
+A) (Value × 100) ÷ Total
+B) (Total × Value) ÷ 100
+C) (Percentage × Total) ÷ 100
+D) (Total ÷ Percentage) × 100
+Answer: C
+
+------------------------------------------------------------
+
+8. Pie chart represents:
+A) Qualitative data
+B) Quantitative distribution
+C) Grammar rules
+D) Time problems
+Answer: B
+
+------------------------------------------------------------
+
+9. Full circle equals:
+A) 180°
+B) 270°
+C) 360°
+D) 90°
+Answer: C
+
+------------------------------------------------------------
+
+10. Which is NOT a use of pie charts?
+A) Market share
+B) Population distribution
+C) Financial analysis
+D) Sentence formation
+Answer: D
+
+------------------------------------------------------------
+
+11. If a sector is 25%, angle is:
+A) 60°
+B) 90°
+C) 120°
+D) 150°
+Answer: B
+
+------------------------------------------------------------
+
+12. If a sector is 50%, angle is:
+A) 90°
+B) 120°
+C) 180°
+D) 360°
+Answer: C
+
+------------------------------------------------------------
+
+13. Pie chart is best for:
+A) Comparison of parts to whole
+B) Time calculation
+C) Speed problems
+D) Geometry only
+Answer: A
+
+------------------------------------------------------------
+
+14. 100% in pie chart represents:
+A) Half circle
+B) Full circle
+C) Quarter circle
+D) Line
+Answer: B
+
+------------------------------------------------------------
+
+15. If total is 2000, 5% equals:
+A) 50
+B) 100
+C) 150
+D) 200
+Answer: B
+
+------------------------------------------------------------
+
+16. Angle formula uses:
+A) 180°
+B) 360°
+C) 90°
+D) 720°
+Answer: B
+
+------------------------------------------------------------
+
+17. Which is a real-world use?
+A) Banking reports
+B) Grammar learning
+C) Typing speed
+D) Coding syntax
+Answer: A
+
+------------------------------------------------------------
+
+18. Pie chart is a type of:
+A) Graph
+B) Sentence
+C) Equation
+D) Code
+Answer: A
+
+------------------------------------------------------------
+
+19. 10% of 300 is:
+A) 10
+B) 20
+C) 30
+D) 40
+Answer: C
+
+------------------------------------------------------------
+
+20. Pie charts help in:
+A) Data visualization
+B) Spelling
+C) Writing essays
+D) None
+Answer: A
+
+------------------------------------------------------------

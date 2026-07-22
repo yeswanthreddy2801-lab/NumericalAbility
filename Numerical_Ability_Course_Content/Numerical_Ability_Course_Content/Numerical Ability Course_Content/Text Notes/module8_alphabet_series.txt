@@ -1,0 +1,101 @@
+============================================================
+ALPHABET SERIES - FLASH CARDS (BASIC CONCEPTS)
+============================================================
+
+1. WHAT IS ALPHABET SERIES?
+
+Alphabet series is a pattern-based sequence of letters
+arranged in a logical order.
+
+Example:
+A, C, E, G, I...
+
+------------------------------------------------------------
+
+2. ALPHABET POSITIONS
+
+A = 1     N = 14
+B = 2     O = 15
+C = 3     P = 16
+D = 4     Q = 17
+E = 5     R = 18
+F = 6     S = 19
+G = 7     T = 20
+H = 8     U = 21
+I = 9     V = 22
+J = 10    W = 23
+K = 11    X = 24
+L = 12    Y = 25
+M = 13    Z = 26
+
+------------------------------------------------------------
+
+3. COMMON PATTERNS
+
+• Forward series (A → B → C)
+• Reverse series (Z → Y → X)
+• Skip pattern (A → C → E)
+• Alternating pattern (A +2, B +3 etc.)
+• Mixed letter-number logic
+
+------------------------------------------------------------
+
+4. IMPORTANT SHORTCUTS
+
+• Always convert letters to numbers
+• Find difference between terms
+• Check skip pattern
+• Look for alternating sequences
+
+------------------------------------------------------------
+
+5. COMMON QUESTION TYPES
+
+• Missing letter in series
+• Next letter prediction
+• Wrong term identification
+• Pattern completion
+• Mixed alphabet sequences
+
+------------------------------------------------------------
+
+6. SAMPLE EXAMPLES
+
+Example 1:
+A, D, G, J, ?
+Answer: M (+3 pattern)
+
+Example 2:
+Z, X, V, T, ?
+Answer: R (-2 pattern)
+
+------------------------------------------------------------
+
+7. TRICKS TO SOLVE FAST
+
+• Convert letters to numbers quickly
+• Check +1, +2, +3 patterns
+• Reverse alphabet for tricky questions
+• Break into small groups
+
+------------------------------------------------------------
+
+8. COMMON MISTAKES
+
+• Ignoring reverse order
+• Not checking consistent difference
+• Mixing up letter positions
+• Skipping pattern recognition
+
+------------------------------------------------------------
+
+9. REAL LIFE USES
+
+• Coding patterns
+• Cryptography basics
+• Competitive exams
+• Logical reasoning tests
+
+============================================================
+END OF FILE
+============================================================

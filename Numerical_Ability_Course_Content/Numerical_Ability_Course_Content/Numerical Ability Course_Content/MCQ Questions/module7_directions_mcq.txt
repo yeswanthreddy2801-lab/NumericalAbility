@@ -1,0 +1,133 @@
+DIRECTIONS - MCQ QUESTIONS
+
+--------------------------------------------------
+
+1. North means:
+A) Down
+B) Up
+C) Left
+D) Right
+Answer: B
+
+2. South means:
+A) Up
+B) Down
+C) Left
+D) Right
+Answer: B
+
+3. East means:
+A) Left
+B) Right
+C) Up
+D) Down
+Answer: B
+
+4. West means:
+A) Right
+B) Left
+C) Up
+D) Down
+Answer: B
+
+5. Right turn is:
+A) Anti-clockwise
+B) Clockwise
+C) Straight
+D) None
+Answer: B
+
+6. Left turn is:
+A) Clockwise
+B) Anti-clockwise
+C) Straight
+D) None
+Answer: B
+
+7. Directions are based on:
+A) Movement
+B) Weight
+C) Speed
+D) Time
+Answer: A
+
+8. Best method is:
+A) Drawing diagram
+B) Guessing
+C) Writing only
+D) Ignoring
+Answer: A
+
+9. Final position depends on:
+A) Random
+B) Direction + distance
+C) Speed
+D) Weight
+Answer: B
+
+10. Directions are used in:
+A) Exams
+B) Cooking
+C) Drawing
+D) Music
+Answer: A
+11.If a person moves North and then turns right, the new direction is:
+A) West
+B) East
+C) South
+D) North
+Answer: B
+12.If a person faces East and turns left, he will face:
+A) North
+B) South
+C) West
+D) East
+Answer: A
+13.Opposite direction of North is:
+A) East
+B) West
+C) South
+D) North-East
+Answer: C
+14.Opposite direction of East is:
+A) West
+B) North
+C) South
+D) East
+Answer: A
+15.If a person turns 180°, the direction becomes:
+A) Same direction
+B) Opposite direction
+C) Right turn
+D) Left turn
+Answer: B
+16.One full rotation in direction problems is:
+A) 90°
+B) 180°
+C) 270°
+D) 360°
+Answer: D
+17.If a person moves South, then West, the final direction is:
+A) South-West
+B) North-West
+C) North-East
+D) South-East
+Answer: A
+18.In direction problems, movement is usually represented using:
+A) Letters
+B) Coordinates or diagram
+C) Colors
+D) Numbers only
+Answer: B
+19.If a person faces North and turns right twice, he will face:
+A) South
+B) West
+C) East
+D) North
+Answer: B
+20.Direction problems are best solved using:
+A) Memory
+B) Logical diagram method
+C) Guessing
+D) Formula only
+Answer: B

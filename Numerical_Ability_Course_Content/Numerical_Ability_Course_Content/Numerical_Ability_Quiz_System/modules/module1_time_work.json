@@ -1,0 +1,107 @@
+{
+    "title": "Time and Work Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "If A completes a work in 10 days, his one day's work is:",
+            "options": [
+                "1/5",
+                "1/10",
+                "10",
+                "5"
+            ],
+            "answer": "1/10"
+        },
+        {
+            "question": "Work is equal to:",
+            "options": [
+                "Rate × Time",
+                "Rate + Time",
+                "Rate - Time",
+                "Rate ÷ Time"
+            ],
+            "answer": "Rate × Time"
+        },
+        {
+            "question": "If A and B complete a work in 12 and 18 days respectively, together they take:",
+            "options": [
+                "7.2 days",
+                "8 days",
+                "9 days",
+                "10 days"
+            ],
+            "answer": "7.2 days"
+        },
+        {
+            "question": "One day's work of a person taking N days is:",
+            "options": [
+                "N",
+                "1/N",
+                "N²",
+                "2N"
+            ],
+            "answer": "1/N"
+        },
+        {
+            "question": "Efficiency is directly proportional to:",
+            "options": [
+                "Time",
+                "Distance",
+                "Work",
+                "Speed"
+            ],
+            "answer": "Work"
+        },
+        {
+            "question": "Time is inversely proportional to:",
+            "options": [
+                "Efficiency",
+                "Distance",
+                "Profit",
+                "Loss"
+            ],
+            "answer": "Efficiency"
+        },
+        {
+            "question": "Which method is commonly used to avoid fractions?",
+            "options": [
+                "Prime Method",
+                "LCM Method",
+                "Square Method",
+                "Cube Method"
+            ],
+            "answer": "LCM Method"
+        },
+        {
+            "question": "If one day's work is 1/25, total time required is:",
+            "options": [
+                "20",
+                "25",
+                "15",
+                "10"
+            ],
+            "answer": "25"
+        },
+        {
+            "question": "The shortcut formula for two workers is:",
+            "options": [
+                "xy/(x+y)",
+                "x+y",
+                "xy",
+                "(x+y)/2"
+            ],
+            "answer": "xy/(x+y)"
+        },
+        {
+            "question": "The first step in solving Time and Work problems is:",
+            "options": [
+                "Add days",
+                "Find one day's work",
+                "Find profit",
+                "Find percentage"
+            ],
+            "answer": "Find one day's work"
+        }
+    ]
+}

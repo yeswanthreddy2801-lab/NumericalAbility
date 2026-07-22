@@ -1,0 +1,238 @@
+BASICS OF PERMUTATIONS AND COMBINATIONS
+
+## Introduction
+
+Permutations and Combinations are mathematical techniques used to count the number of possible arrangements and selections without listing every possibility. These concepts are widely used in aptitude tests, probability, computer science, cryptography, scheduling, and data analysis.
+
+Before learning permutations and combinations, it is important to understand counting principles and factorials.
+
+--------------------------------------------------
+
+## Learning Objectives
+
+After studying this topic, you will be able to:
+
+• Apply the Fundamental Principle of Counting
+• Understand factorial notation
+• Simplify factorial expressions
+• Distinguish between arrangements and selections
+• Decide whether a problem requires permutation or combination
+
+--------------------------------------------------
+
+## Fundamental Principle of Counting
+
+If one task can be performed in m ways and another independent task can be performed in n ways, then both tasks together can be performed in:
+
+Total Ways = m × n
+
+Example:
+
+A student has 4 shirts and 3 trousers.
+
+Number of dressing combinations
+
+= 4 × 3
+
+= 12
+
+--------------------------------------------------
+
+## Factorial
+
+Factorial is represented by !
+
+Definition:
+
+n!
+
+= n × (n−1) × (n−2)...×1
+
+Examples
+
+1! = 1
+
+2! = 2
+
+3! = 6
+
+4! = 24
+
+5! = 120
+
+6! = 720
+
+Important Rule
+
+0! = 1
+
+--------------------------------------------------
+
+## Factorial Simplification
+
+Example 1
+
+7!/5!
+
+= (7×6×5!)/5!
+
+= 42
+
+Example 2
+
+10!/8!
+
+= 10×9
+
+= 90
+
+--------------------------------------------------
+
+## Counting Principle Examples
+
+Example 1
+
+A restaurant offers
+
+5 starters
+
+4 main courses
+
+3 desserts
+
+Total meals
+
+= 5 × 4 × 3
+
+= 60
+
+Example 2
+
+Vehicle numbers consist of
+
+2 letters
+
+followed by
+
+3 digits.
+
+Letters = 26 choices each
+
+Digits = 10 choices each
+
+Total possibilities
+
+= 26 × 26 × 10 × 10 × 10
+
+--------------------------------------------------
+
+## Identifying the Question Type
+
+If ORDER matters
+
+→ Permutation
+
+If ORDER does NOT matter
+
+→ Combination
+
+Examples
+
+Selecting a cricket team
+
+→ Combination
+
+Assigning Gold, Silver and Bronze medals
+
+→ Permutation
+
+Arranging books on a shelf
+
+→ Permutation
+
+Selecting committee members
+
+→ Combination
+
+--------------------------------------------------
+
+## Common Mistakes
+
+• Forgetting that 0! = 1
+
+• Confusing selection with arrangement
+
+• Multiplying instead of using factorial
+
+• Using wrong counting principle
+
+--------------------------------------------------
+
+## Real-World Applications
+
+• Password generation
+
+• Seat allocation
+
+• Team formation
+
+• Election committees
+
+• Computer algorithms
+
+• Probability
+
+--------------------------------------------------
+
+## Placement Tips
+
+• Learn factorial values till 10!
+
+• Simplify factorials before calculating.
+
+• First decide whether order matters.
+
+• Use multiplication principle carefully.
+
+--------------------------------------------------
+
+## Interview Questions
+
+1. What is factorial?
+
+Answer:
+Product of all positive integers from n to 1.
+
+2. What is 0!?
+
+Answer:
+1
+
+3. What is the Fundamental Principle of Counting?
+
+Answer:
+If one event occurs in m ways and another in n ways, total ways are m × n.
+
+4. Why do we learn factorial before permutation?
+
+Answer:
+Permutation and Combination formulas use factorials.
+
+5. Which is more important—the formula or identifying the question type?
+
+Answer:
+Identifying the question type.
+
+--------------------------------------------------
+
+## Quick Summary
+
+• Fundamental Principle = Multiply choices
+
+• n! = n × (n−1)...1
+
+• 0! = 1
+
+• Order matters → Permutation
+
+• Order doesn't matter → Combination

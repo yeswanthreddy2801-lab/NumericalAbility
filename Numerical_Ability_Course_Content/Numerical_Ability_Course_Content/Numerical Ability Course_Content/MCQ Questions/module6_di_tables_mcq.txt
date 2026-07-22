@@ -1,0 +1,133 @@
+DI TABLES - MCQ QUESTIONS
+
+--------------------------------------------------
+
+1. DI stands for:
+A) Data Input
+B) Data Interpretation
+C) Data Integration
+D) Data Index
+Answer: B
+
+2. Table data is arranged in:
+A) Circle
+B) Rows and Columns
+C) Random form
+D) Tree form
+Answer: B
+
+3. Row means:
+A) Vertical
+B) Horizontal
+C) Diagonal
+D) None
+Answer: B
+
+4. Column means:
+A) Horizontal
+B) Vertical
+C) Random
+D) Circular
+Answer: B
+
+5. Cell is:
+A) Row
+B) Column
+C) Intersection of row & column
+D) Table header
+Answer: C
+
+6. Total means:
+A) Multiplication
+B) Sum
+C) Difference
+D) Ratio
+Answer: B
+
+7. Average formula:
+A) Sum × Count
+B) Sum / Count
+C) Count / Sum
+D) Sum + Count
+Answer: B
+
+8. Best DI skill:
+A) Guessing
+B) Speed calculation
+C) Drawing
+D) Writing
+Answer: B
+
+9. First step in DI:
+A) Solve directly
+B) Understand table
+C) Skip question
+D) Multiply values
+Answer: B
+
+10. Tables are used for:
+A) Random data
+B) Structured data
+C) Hidden data
+D) Image data
+Answer: B
+11.Percentage in DI is calculated as:
+A) Part × Whole
+B) (Part / Whole) × 100
+C) Whole / Part × 100
+D) Part + Whole
+Answer: B
+12.Pie charts and tables are used for:
+A) Writing stories
+B) Data visualization
+C) Drawing diagrams only
+D) Guessing values
+Answer: B
+13.In DI, “comparison” means:
+A) Adding numbers
+B) Finding differences or relations
+C) Drawing graphs
+D) Ignoring data
+Answer: B
+14.Unitary method is used to find:
+A) Random values
+B) Value of one unit
+C) Total only
+D) Graph shape
+Answer: B
+15.In a table, grand total represents:
+A) Smallest value
+B) Sum of all categories
+C) Only first row
+D) Average value
+Answer: B
+16.Missing value in DI tables is found using:
+A) Guessing
+B) Logical calculation
+C) Random selection
+D) Drawing graph
+Answer: B
+17.DI questions mainly test:
+A) Memory only
+B) Analytical ability
+C) Drawing skill
+D) Writing speed
+Answer: B
+18.If values are large, best method is:
+A) Exact calculation only
+B) Approximation
+C) Ignoring data
+D) Random choice
+Answer: B
+19.Ratio in DI compares:
+A) Two or more quantities
+B) Only one number
+C) Time only
+D) Color values
+Answer: A
+20.Fast DI solving requires:
+A) Long writing
+B) Pattern recognition
+C) Guessing answers
+D) Ignoring steps
+Answer: B

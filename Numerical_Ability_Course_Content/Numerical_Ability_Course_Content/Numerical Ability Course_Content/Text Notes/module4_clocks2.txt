@@ -1,0 +1,106 @@
+CLOCKS (PART 2 - MEDIUM LEVEL)
+
+============================================================
+
+1. INTRODUCTION
+
+This section covers medium-level clock concepts like mirror images, simple angle questions, time calculations, and basic clock properties.
+
+============================================================
+
+2. MIRROR TIME (BASIC RULE)
+
+Mirror Time = 11:60 - Original Time
+
+Steps:
+• Subtract hour from 11
+• Subtract minutes from 60
+
+Example:
+Time = 4:20
+Mirror Time = 7:40
+
+============================================================
+
+3. BASIC ANGLE FACT
+
+Angle between hands:
+Angle = |30H - (11/2)M|
+
+Used for finding angle between hour and minute hands.
+
+============================================================
+
+4. COMMON ANGLES
+
+• 12:00 → 0°
+• 3:00 → 90°
+• 6:00 → 180°
+• 9:00 → 270°
+
+============================================================
+
+5. HAND MOVEMENT SPEED
+
+Minute hand:
+• 6° per minute
+
+Hour hand:
+• 0.5° per minute
+
+Difference:
+• 5.5° per minute
+
+============================================================
+
+6. TIME WHEN HANDS COINCIDE
+
+Hands coincide when both hands are at same position.
+
+They coincide approximately every:
+• 65 5/11 minutes
+
+============================================================
+
+7. TIME WHEN HANDS ARE OPPOSITE
+
+Hands are opposite when angle = 180°.
+
+This happens a few times in 12 hours.
+
+============================================================
+
+8. SIMPLE CLOCK FACTS
+
+• Clock has 12 hours on dial
+• 360° full rotation
+• Each hour = 30°
+
+============================================================
+
+9. QUICK SHORTCUTS
+
+• Convert time into H and M clearly
+• Use angle formula directly
+• Memorize 30H rule
+• Practice mirror formula regularly
+
+============================================================
+
+10. COMMON QUESTION TYPES
+
+• Find angle between hands
+• Mirror image of time
+• Time when hands coincide
+• Simple direction of hands movement
+
+============================================================
+
+11. IMPORTANT POINT
+
+Hour hand moves slowly compared to minute hand.
+Minute hand is 12 times faster than hour hand.
+
+============================================================
+
+END OF CLOCKS PART 2 (MEDIUM)

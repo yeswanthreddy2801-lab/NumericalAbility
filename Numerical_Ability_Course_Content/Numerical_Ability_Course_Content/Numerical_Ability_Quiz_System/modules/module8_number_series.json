@@ -1,0 +1,107 @@
+{
+    "title": "Number Series Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Number series is based on:",
+            "options": [
+                "Random",
+                "Pattern",
+                "Guessing",
+                "Alphabet"
+            ],
+            "answer": "Pattern"
+        },
+        {
+            "question": "Next: 2, 4, 8, ?",
+            "options": [
+                "10",
+                "12",
+                "16",
+                "18"
+            ],
+            "answer": "16"
+        },
+        {
+            "question": "Square of 4:",
+            "options": [
+                "8",
+                "12",
+                "16",
+                "20"
+            ],
+            "answer": "16"
+        },
+        {
+            "question": "Cube of 3:",
+            "options": [
+                "6",
+                "9",
+                "27",
+                "18"
+            ],
+            "answer": "27"
+        },
+        {
+            "question": "1,4,9,16 is:",
+            "options": [
+                "Cube",
+                "Square",
+                "Prime",
+                "Odd"
+            ],
+            "answer": "Square"
+        },
+        {
+            "question": "1,8,27 is:",
+            "options": [
+                "Square",
+                "Cube",
+                "Even",
+                "Prime"
+            ],
+            "answer": "Cube"
+        },
+        {
+            "question": "First step:",
+            "options": [
+                "Guess",
+                "Pattern",
+                "Skip",
+                "Multiply"
+            ],
+            "answer": "Pattern"
+        },
+        {
+            "question": "Series improves:",
+            "options": [
+                "Memory",
+                "Logic",
+                "Writing",
+                "Speaking"
+            ],
+            "answer": "Logic"
+        },
+        {
+            "question": "Best method:",
+            "options": [
+                "Guessing",
+                "Pattern",
+                "Drawing",
+                "Skipping"
+            ],
+            "answer": "Pattern"
+        },
+        {
+            "question": "Used in:",
+            "options": [
+                "Exams",
+                "Cooking",
+                "Music",
+                "Sports"
+            ],
+            "answer": "Exams"
+        }
+    ]
+}

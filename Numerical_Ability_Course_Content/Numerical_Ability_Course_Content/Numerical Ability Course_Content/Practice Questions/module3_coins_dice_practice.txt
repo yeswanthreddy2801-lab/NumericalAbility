@@ -1,0 +1,33 @@
+PROBABILITY - COINS & DICE PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. Find probability of Head in one coin toss.
+
+2. Find probability of Tail in one coin toss.
+
+3. Find total outcomes of 3 coins.
+
+4. Find probability of getting 2 Heads in 2 coins.
+
+5. Find total outcomes of 2 dice.
+
+6. Find probability of getting 6 in one dice.
+
+7. Find probability of getting sum 8 in two dice.
+
+8. Find probability of getting at least one Tail in 2 coins.
+
+9. Find total outcomes of 4 coins.
+
+10. Find probability of getting even number in dice.
+
+11. Find probability of sum 7 in dice.
+
+12. Find probability of not getting 6 in dice.
+
+13. Find probability of getting Head in 3 coin toss.
+
+14. Find total outcomes of 2 dice.
+
+15. Find probability of getting double (same number) in dice.

@@ -1,0 +1,107 @@
+{
+    "title": "Permutations & Combinations Basics Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Permutation means:",
+            "options": [
+                "Selection",
+                "Arrangement",
+                "Grouping",
+                "Average"
+            ],
+            "answer": "Arrangement"
+        },
+        {
+            "question": "Combination means:",
+            "options": [
+                "Arrangement",
+                "Selection",
+                "Ordering",
+                "Sorting"
+            ],
+            "answer": "Selection"
+        },
+        {
+            "question": "Permutation formula is:",
+            "options": [
+                "nCr",
+                "n!/(n−r)!",
+                "n!/[r!(n−r)!]",
+                "r!/n!"
+            ],
+            "answer": "n!/(n−r)!"
+        },
+        {
+            "question": "Combination formula is:",
+            "options": [
+                "nPr",
+                "n!/[r!(n−r)!]",
+                "n!/r!",
+                "r!/n!"
+            ],
+            "answer": "n!/[r!(n−r)!]"
+        },
+        {
+            "question": "In permutation:",
+            "options": [
+                "Order matters",
+                "Order does not matter",
+                "Selection only",
+                "None"
+            ],
+            "answer": "Order matters"
+        },
+        {
+            "question": "In combination:",
+            "options": [
+                "Order matters",
+                "Order does not matter",
+                "Arrangement required",
+                "Fixed order"
+            ],
+            "answer": "Order does not matter"
+        },
+        {
+            "question": "AB and BA in permutation:",
+            "options": [
+                "Same",
+                "Different",
+                "Zero",
+                "Invalid"
+            ],
+            "answer": "Different"
+        },
+        {
+            "question": "AB and BA in combination:",
+            "options": [
+                "Same",
+                "Different",
+                "Zero",
+                "Invalid"
+            ],
+            "answer": "Same"
+        },
+        {
+            "question": "nC0 equals:",
+            "options": [
+                "0",
+                "1",
+                "n",
+                "undefined"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "Factorial of 0 is:",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "undefined"
+            ],
+            "answer": "1"
+        }
+    ]
+}

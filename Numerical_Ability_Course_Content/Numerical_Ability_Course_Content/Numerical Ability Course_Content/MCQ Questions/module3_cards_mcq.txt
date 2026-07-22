@@ -1,0 +1,63 @@
+PROBABILITY MCQ REVISION CARDS
+
+--------------------------------------------------
+
+Q1: Probability formula?
+A: Favorable / Total
+
+Q2: One coin outcomes?
+A: 2
+
+Q3: Two coins outcomes?
+A: 4
+
+Q4: One dice outcomes?
+A: 6
+
+Q5: Two dice outcomes?
+A: 36
+
+Q6: Probability range?
+A: 0 to 1
+
+Q7: Sure event value?
+A: 1
+
+Q8: Impossible event value?
+A: 0
+
+Q9: P(Head) = ?
+A: 1/2
+
+Q10: P(Tail) = ?
+A: 1/2
+
+Q11: n coins outcomes?
+A: 2^n
+
+Q12: n dice outcomes?
+A: 6^n
+
+Q13: Sum 7 probability?
+A: 1/6
+
+Q14: Sample space means?
+A: Total outcomes
+
+Q15: At least problems use?
+A: Complement method
+
+Q16: Dice numbers range?
+A: 1 to 6
+
+Q17: Two dice sample space?
+A: 36
+
+Q18: Event means?
+A: Subset of sample space
+
+Q19: Probability cannot be:
+A: Greater than 1
+
+Q20: Best method for large cases?
+A: Complement method

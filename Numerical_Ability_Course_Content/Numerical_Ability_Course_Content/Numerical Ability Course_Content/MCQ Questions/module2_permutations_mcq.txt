@@ -1,0 +1,179 @@
+PERMUTATIONS - MCQ QUESTIONS
+
+1. Permutation means:
+A) Selection
+B) Arrangement
+C) Grouping
+D) Averaging
+Answer: B
+
+--------------------------------------------------
+
+2. Formula of permutation is:
+A) nCr
+B) n! / r!
+C) n! / (n−r)!
+D) r! / n!
+Answer: C
+
+--------------------------------------------------
+
+3. 5P2 is equal to:
+A) 20
+B) 10
+C) 25
+D) 15
+Answer: A
+
+--------------------------------------------------
+
+4. Permutation is used when:
+A) Order matters
+B) Order does not matter
+C) Only selection
+D) None
+Answer: A
+
+--------------------------------------------------
+
+5. Circular permutation formula:
+A) n!
+B) (n−1)!
+C) n!/2
+D) n²
+Answer: B
+
+--------------------------------------------------
+
+6. Arrange 4 people in a row:
+A) 12
+B) 24
+C) 16
+D) 18
+Answer: B
+
+--------------------------------------------------
+
+7. 3P3 is:
+A) 3
+B) 6
+C) 9
+D) 1
+Answer: B
+
+--------------------------------------------------
+
+8. If order changes, result:
+A) Same
+B) Different
+C) Zero
+D) Undefined
+Answer: B
+
+--------------------------------------------------
+
+9. 4P2 = ?
+A) 8
+B) 10
+C) 12
+D) 16
+Answer: C
+
+--------------------------------------------------
+
+10. Circular arrangement of 5 people:
+A) 120
+B) 24
+C) 60
+D) 20
+Answer: B
+
+--------------------------------------------------
+
+11. Permutation is related to:
+A) Selection
+B) Arrangement
+C) Probability
+D) Ratio
+Answer: B
+
+--------------------------------------------------
+
+12. 6P1 = ?
+A) 6
+B) 1
+C) 0
+D) 5
+Answer: A
+
+--------------------------------------------------
+
+13. nP0 = ?
+A) 1
+B) 0
+C) n
+D) undefined
+Answer: A
+
+--------------------------------------------------
+
+14. If n objects are arranged in a circle:
+A) n!
+B) (n−1)!
+C) n²
+D) 2n
+Answer: B
+
+--------------------------------------------------
+
+15. Factorial of 0 is:
+A) 0
+B) 1
+C) 2
+D) undefined
+Answer: B
+
+--------------------------------------------------
+
+16. 5P3 = ?
+A) 60
+B) 30
+C) 20
+D) 10
+Answer: A
+
+--------------------------------------------------
+
+17. Permutation deals with:
+A) Groups
+B) Order
+C) Probability
+D) Average
+Answer: B
+
+--------------------------------------------------
+
+18. 7P1 = ?
+A) 1
+B) 7
+C) 0
+D) 14
+Answer: B
+
+--------------------------------------------------
+
+19. If arrangement changes:
+A) Combination
+B) Permutation changes
+C) No change
+D) Zero
+Answer: B
+
+--------------------------------------------------
+
+20. First step in permutation problem:
+A) Add values
+B) Check order importance
+C) Multiply all numbers
+D) Guess answer
+Answer: B

@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pipes and Cisterns</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gray-100">
+
+    <div class="max-w-7xl mx-auto p-6">
+
+        <!-- Header -->
+        <div class="bg-blue-700 text-white rounded-xl shadow-lg p-8">
+            <h1 class="text-4xl font-bold">Pipes and Cisterns</h1>
+            <p class="mt-3 text-lg">
+                Learn how to solve inlet, outlet, and leak problems using Time and Work concepts.
+            </p>
+        </div>
+
+        <!-- Learning Objectives -->
+        <div class="bg-white mt-6 rounded-xl shadow p-6">
+            <h2 class="text-2xl font-bold text-blue-700 mb-4">Learning Objectives</h2>
+
+            <ul class="list-disc ml-6 space-y-2 text-gray-700">
+                <li>Understand inlet and outlet pipes.</li>
+                <li>Calculate hourly filling and emptying rates.</li>
+                <li>Solve combined pipe problems.</li>
+                <li>Use shortcut techniques for placements.</li>
+                <li>Avoid common mistakes.</li>
+            </ul>
+        </div>
+
+        <!-- Introduction -->
+        <div class="bg-white mt-6 rounded-xl shadow p-6">
+            <h2 class="text-2xl font-bold text-blue-700 mb-4">Introduction</h2>
+
+            <p class="leading-8 text-gray-700">
+                Pipes and Cisterns is an application of the Time and Work concept.
+                Every inlet pipe fills the tank, while every outlet pipe empties it.
+                The tank is considered to have one unit of work.
+            </p>
+        </div>
+
+        <!-- Formula Box -->
+        <div class="bg-yellow-100 border-l-4 border-yellow-500 mt-6 rounded-xl p-6">
+
+            <h2 class="text-2xl font-bold text-yellow-700">
+                Important Formulas
+            </h2>
+
+            <div class="grid md:grid-cols-2 gap-4 mt-5">
+
+                <div class="bg-white rounded-lg shadow p-4">
+                    <b>Filling Rate = 1 / Time</b>
+                </div>
+
+                <div class="bg-white rounded-lg shadow p-4">
+                    <b>Emptying Rate = -1 / Time</b>
+                </div>
+
+                <div class="bg-white rounded-lg shadow p-4">
+                    <b>Combined Rate = Sum of Rates</b>
+                </div>
+
+                <div class="bg-white rounded-lg shadow p-4">
+                    <b>Time = 1 / Combined Rate</b>
+                </div>
+
+                <div class="bg-white rounded-lg shadow p-4">
+                    <b>Two Inlets = xy / (x+y)</b>
+                </div>
+
+                <div class="bg-white rounded-lg shadow p-4">
+                    <b>Outlet Pipes have Negative Rate</b>
+                </div>
+
+            </div>
+
+        </div>
+
+        <!-- Concept -->
+        <div class="bg-white rounded-xl shadow mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-blue-700 mb-4">
+                Concept Explanation
+            </h2>
+
+            <p class="leading-8 text-gray-700">
+
+                Assume the tank capacity is one unit.
+
+                If Pipe A fills in 10 hours,
+
+                Hourly Rate = 1/10
+
+                If Pipe B empties in 20 hours,
+
+                Hourly Rate = -1/20
+
+                Combined Rate
+
+                = 1/10 - 1/20
+
+                = 1/20
+
+                Therefore,
+
+                Tank fills in
+
+                20 hours.
+
+            </p>
+
+        </div>
+
+        <!-- Shortcut Tricks -->
+        <div class="bg-green-100 rounded-xl mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-green-700">
+                Shortcut Tricks
+            </h2>
+
+            <ul class="list-disc ml-6 mt-4 space-y-2">
+
+                <li>Convert every pipe into hourly work.</li>
+
+                <li>Outlet pipe always has negative work.</li>
+
+                <li>Use LCM to avoid fractions.</li>
+
+                <li>Add inlet rates first.</li>
+
+                <li>Subtract outlet rates.</li>
+
+                <li>Never add hours directly.</li>
+
+            </ul>
+
+        </div>
+
+        <!-- Solved Example -->
+        <div class="bg-white rounded-xl shadow mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-blue-700">
+                Solved Example
+            </h2>
+
+            <div class="bg-gray-100 rounded-lg p-5 mt-5">
+
+                <p class="leading-8">
+
+                    Pipe A fills in 12 hours.
+
+                    Pipe B fills in 18 hours.
+
+                    Combined Rate
+
+                    = 1/12 + 1/18
+
+                    = 5/36
+
+                    Time
+
+                    = 36/5
+
+                    = 7.2 hours
+
+                </p>
+
+            </div>
+
+        </div>
+
+        <!-- Comparison Table -->
+        <div class="bg-white rounded-xl shadow mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-blue-700 mb-5">
+                Comparison Table
+            </h2>
+
+            <table class="w-full border border-gray-300">
+
+                <thead class="bg-blue-600 text-white">
+
+                    <tr>
+
+                        <th class="border p-3">Pipe Type</th>
+
+                        <th class="border p-3">Work Rate</th>
+
+                        <th class="border p-3">Effect</th>
+
+                    </tr>
+
+                </thead>
+
+                <tbody>
+
+                    <tr class="bg-white">
+
+                        <td class="border p-3">Inlet</td>
+
+                        <td class="border p-3">Positive</td>
+
+                        <td class="border p-3">Fills Tank</td>
+
+                    </tr>
+
+                    <tr class="bg-gray-50">
+
+                        <td class="border p-3">Outlet</td>
+
+                        <td class="border p-3">Negative</td>
+
+                        <td class="border p-3">Empties Tank</td>
+
+                    </tr>
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+        <!-- Common Mistakes -->
+        <div class="bg-red-100 rounded-xl mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-red-700">
+                Common Mistakes
+            </h2>
+
+            <ul class="list-disc ml-6 mt-4 space-y-2">
+
+                <li>Adding hours instead of rates.</li>
+
+                <li>Ignoring outlet pipes.</li>
+
+                <li>Wrong LCM calculations.</li>
+
+                <li>Using positive sign for leaks.</li>
+
+            </ul>
+
+        </div>
+
+        <!-- Real World -->
+        <div class="bg-indigo-100 rounded-xl mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-indigo-700">
+                Real-World Applications
+            </h2>
+
+            <div class="grid md:grid-cols-2 gap-4 mt-5">
+
+                <div class="bg-white shadow rounded-lg p-4">Municipal Water Supply</div>
+
+                <div class="bg-white shadow rounded-lg p-4">Industrial Water Tanks</div>
+
+                <div class="bg-white shadow rounded-lg p-4">Agricultural Irrigation</div>
+
+                <div class="bg-white shadow rounded-lg p-4">Chemical Plants</div>
+
+                <div class="bg-white shadow rounded-lg p-4">Storage Reservoirs</div>
+
+                <div class="bg-white shadow rounded-lg p-4">Construction Projects</div>
+
+            </div>
+
+        </div>
+
+        <!-- Placement Tips -->
+        <div class="bg-white rounded-xl shadow mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-blue-700">
+                Placement Tips
+            </h2>
+
+            <ul class="list-disc ml-6 mt-4 space-y-2">
+
+                <li>Always calculate hourly work first.</li>
+
+                <li>Use LCM whenever possible.</li>
+
+                <li>Remember outlet = negative.</li>
+
+                <li>Practice mixed inlet-outlet questions.</li>
+
+                <li>Memorize shortcut formulas.</li>
+
+            </ul>
+
+        </div>
+
+        <!-- Interview Questions -->
+        <div class="bg-white rounded-xl shadow mt-6 p-6">
+
+            <h2 class="text-2xl font-bold text-blue-700">
+                Placement Interview Questions
+            </h2>
+
+            <ol class="list-decimal ml-6 mt-4 space-y-3">
+
+                <li>Why is Pipes and Cisterns based on Time and Work?</li>
+
+                <li>Why do outlet pipes have negative rates?</li>
+
+                <li>How do you solve combined pipe problems?</li>
+
+                <li>What is hourly work?</li>
+
+                <li>Why is LCM preferred?</li>
+
+            </ol>
+
+        </div>
+
+        <!-- Summary -->
+        <div class="bg-blue-700 text-white rounded-xl mt-6 p-6">
+
+            <h2 class="text-2xl font-bold">
+                Quick Summary
+            </h2>
+
+            <ul class="list-disc ml-6 mt-4 space-y-2">
+
+                <li>Tank Capacity = 1 Unit</li>
+
+                <li>Filling Rate = 1/N</li>
+
+                <li>Outlet Rate = -1/N</li>
+
+                <li>Add Filling Rates</li>
+
+                <li>Subtract Outlet Rates</li>
+
+                <li>Use LCM for Faster Calculations</li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

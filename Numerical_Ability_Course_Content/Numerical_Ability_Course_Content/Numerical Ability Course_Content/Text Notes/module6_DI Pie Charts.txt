@@ -1,0 +1,119 @@
+DI PIE CHARTS (DATA INTERPRETATION)
+
+============================================================
+
+LEARNING OBJECTIVES
+
+After studying this topic, you will be able to:
+
+• Understand pie chart representation
+• Convert percentage data into values
+• Solve data interpretation questions quickly
+• Analyze data efficiently for placement exams
+• Apply shortcut methods for calculation
+
+============================================================
+
+INTRODUCTION
+
+A Pie Chart is a circular graph divided into sectors. Each sector represents a percentage of the total value. It is widely used in Data Interpretation questions in placement exams, banking exams, and competitive tests.
+
+============================================================
+
+BASIC CONCEPT
+
+Total Circle = 360°
+
+Total Value = 100%
+
+1% = 3.6°
+
+Formula:
+
+Value = (Percentage / 100) × Total Value
+
+============================================================
+
+IMPORTANT POINTS
+
+• Entire pie = 100%
+• Each sector shows percentage share
+• Larger sector = larger value
+• Convert % into values for solving questions
+• Always identify total value first
+
+============================================================
+
+SHORTCUT TECHNIQUES
+
+• Convert % directly into fractions
+• Use ratio comparison instead of full calculation
+• Multiply only when required
+• Avoid full decimal calculations
+• Use elimination method in MCQs
+
+============================================================
+
+COMMON FORMULAS
+
+1. Value = (Percentage × Total) / 100
+
+2. Angle = (Percentage × 360) / 100
+
+3. Percentage = (Value / Total) × 100
+
+============================================================
+
+SOLVED EXAMPLE
+
+If total sales = 2000 and A = 25%
+
+A's value = (25/100) × 2000 = 500
+
+============================================================
+
+COMMON MISTAKES
+
+• Confusing angle with percentage
+• Forgetting total value
+• Wrong percentage conversion
+• Not simplifying fractions
+
+============================================================
+
+REAL WORLD APPLICATIONS
+
+• Business sales analysis
+• Market share comparison
+• Population studies
+• Financial reports
+• Data visualization tools
+
+============================================================
+
+PLACEMENT TIPS
+
+• Always identify total first
+• Practice percentage conversions
+• Learn fast multiplication tricks
+• Focus on accuracy + speed
+
+============================================================
+
+INTERVIEW QUESTIONS
+
+1. What is a pie chart?
+2. Why is it used in data interpretation?
+3. How do you convert percentage into value?
+4. What is the angle of 1% in a pie chart?
+5. Where are pie charts used in real life?
+
+============================================================
+
+QUICK SUMMARY
+
+✓ Pie Chart = Circular Data Representation
+✓ Total = 100% = 360°
+✓ 1% = 3.6°
+✓ Use formula method for fast solving
+✓ Focus on percentage conversion

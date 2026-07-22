@@ -1,0 +1,23 @@
+CLOCKS 1 - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. Find angle at 2:00
+
+2. Find angle at 5:30
+
+3. Find angle at 7:15
+
+4. Find angle at 9:45
+
+5. Find angle at 12:20
+
+6. At what time are hands at 90°?
+
+7. At what time are hands at 180°?
+
+8. Find overlap time between 4 and 5
+
+9. Find time when hands are opposite
+
+10. Find angle at 6:30

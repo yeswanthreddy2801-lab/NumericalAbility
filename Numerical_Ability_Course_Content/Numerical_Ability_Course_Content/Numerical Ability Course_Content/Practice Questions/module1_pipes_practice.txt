@@ -1,0 +1,39 @@
+PIPES AND CISTERNS - PRACTICE QUESTIONS
+
+1. Pipe A fills a tank in 15 hours and Pipe B fills it in 20 hours. Find the time taken together.
+
+--------------------------------------------------
+
+2. A pipe fills a tank in 12 hours. After 4 hours, another pipe which empties the tank in 24 hours is opened. In how many more hours will the tank be filled?
+
+--------------------------------------------------
+
+3. Pipe A fills in 10 hours, Pipe B fills in 15 hours, and Pipe C empties in 30 hours. Find the time taken to fill the tank.
+
+--------------------------------------------------
+
+4. A tank is filled by two pipes in 8 hours and 12 hours respectively. A leak empties the tank in 24 hours. Find net time.
+
+--------------------------------------------------
+
+5. Pipe A fills a tank in 18 hours. Pipe B empties it in 24 hours. Both are opened together. Find time to fill or empty.
+
+--------------------------------------------------
+
+6. A pipe fills a tank in 6 hours but due to a leak it takes 8 hours. Find time taken by leak alone to empty the tank.
+
+--------------------------------------------------
+
+7. Two pipes can fill a tank in 10 hours and 15 hours. After 5 hours both are closed. How much work is completed?
+
+--------------------------------------------------
+
+8. A tank has an inlet pipe filling in 20 hours and an outlet pipe emptying in 30 hours. Find net filling time.
+
+--------------------------------------------------
+
+9. Pipe A fills in 9 hours. Pipe B fills in 18 hours. After 3 hours, B is closed. How long will A take to finish remaining work?
+
+--------------------------------------------------
+
+10. Three pipes A, B, and C fill a tank in 12, 15, and 20 hours respectively. Find total time when all are opened together.

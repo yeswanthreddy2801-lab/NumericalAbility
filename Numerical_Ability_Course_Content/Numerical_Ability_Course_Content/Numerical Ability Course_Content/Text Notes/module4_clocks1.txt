@@ -1,0 +1,119 @@
+CLOCKS (TEXT NOTES)
+
+============================================================
+
+1. INTRODUCTION
+
+A clock is a device used to measure time.
+Clock problems in aptitude are based on angles, hands movement, mirror images, and clock errors.
+
+============================================================
+
+2. BASIC CONCEPTS
+
+Clock has 2 main hands:
+• Hour hand
+• Minute hand
+
+A full clock circle = 360°
+
+============================================================
+
+3. MOVEMENT OF HANDS
+
+Minute Hand:
+• Moves 360° in 60 minutes
+• Moves 6° per minute
+
+Hour Hand:
+• Moves 360° in 12 hours
+• Moves 30° per hour
+• Moves 0.5° per minute
+
+============================================================
+
+4. ANGLE FORMULA
+
+Angle between hour and minute hand:
+
+Angle = |30H - (11/2)M|
+
+Where:
+H = hour
+M = minutes
+
+============================================================
+
+5. IMPORTANT CLOCK ANGLES
+
+• 12:00 → 0°
+• 3:00 → 90°
+• 6:00 → 180°
+• 9:00 → 270°
+
+============================================================
+
+6. FULL ROTATION
+
+• One full rotation = 360°
+• Half rotation = 180°
+
+============================================================
+
+7. CLOCK RANK MOVEMENT
+
+Minute hand:
+• 30 minutes = 180°
+• 15 minutes = 90°
+
+Hour hand:
+• 2 hours = 60°
+• 1 hour = 30°
+
+============================================================
+
+8. MIRROR CLOCK CONCEPT
+
+Mirror time formula:
+Mirror Time = 11:60 - Original Time
+
+Used to find reflected clock images.
+
+============================================================
+
+9. CLOCK ERROR / GAIN & LOSS
+
+Clock may run fast or slow:
+• Fast clock → gains time
+• Slow clock → loses time
+
+Error = difference between actual time and shown time
+
+============================================================
+
+10. COMMON TYPES OF QUESTIONS
+
+• Angle between hands
+• Mirror image of time
+• Time when hands coincide
+• Clock gain/loss problems
+• Finding time after rotation
+
+============================================================
+
+11. HANDS COINCIDENCE
+
+Hands coincide approximately every:
+• 65 5/11 minutes
+
+============================================================
+
+12. IMPORTANT POINTS
+
+• Minute hand is faster than hour hand
+• Both hands overlap multiple times a day
+• Use angle formula for speed solving
+
+============================================================
+
+END OF CLOCK NOTES

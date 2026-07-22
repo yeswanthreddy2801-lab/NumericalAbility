@@ -1,0 +1,183 @@
+CLOCKS 3 - MCQ QUESTIONS
+
+------------------------------------------------------------
+
+1. What is the angle covered by the minute hand in 1 minute?
+A) 0.5°
+B) 6°
+C) 30°
+D) 12°
+Answer: B
+
+------------------------------------------------------------
+
+2. What is the angle covered by the hour hand in 1 hour?
+A) 30°
+B) 6°
+C) 60°
+D) 15°
+Answer: A
+
+------------------------------------------------------------
+
+3. What is the angle covered by the hour hand in 1 minute?
+A) 1°
+B) 6°
+C) 0.5°
+D) 5°
+Answer: C
+
+------------------------------------------------------------
+
+4. What is the total angle in a clock?
+A) 180°
+B) 270°
+C) 360°
+D) 720°
+Answer: C
+
+------------------------------------------------------------
+
+5. What is the angle between the hands at 3:00?
+A) 60°
+B) 75°
+C) 90°
+D) 120°
+Answer: C
+
+------------------------------------------------------------
+
+6. What is the angle between the hands at 6:00?
+A) 90°
+B) 120°
+C) 150°
+D) 180°
+Answer: D
+
+------------------------------------------------------------
+
+7. What is the angle between the hands at 12:00?
+A) 0°
+B) 30°
+C) 60°
+D) 90°
+Answer: A
+
+------------------------------------------------------------
+
+8. What is the angle between the hands at 9:00?
+A) 90°
+B) 120°
+C) 180°
+D) 270°
+Answer: A
+
+------------------------------------------------------------
+
+9. The minute hand completes one full revolution in:
+A) 12 hours
+B) 30 minutes
+C) 60 minutes
+D) 24 hours
+Answer: C
+
+------------------------------------------------------------
+
+10. The hour hand completes one full revolution in:
+A) 6 hours
+B) 12 hours
+C) 24 hours
+D) 60 hours
+Answer: B
+
+------------------------------------------------------------
+
+11. What is the relative speed of the minute hand with respect to the hour hand?
+A) 5°/min
+B) 5.5°/min
+C) 6°/min
+D) 4.5°/min
+Answer: B
+
+------------------------------------------------------------
+
+12. How many times do the clock hands coincide in 12 hours?
+A) 10
+B) 11
+C) 12
+D) 22
+Answer: B
+
+------------------------------------------------------------
+
+13. How many times are the clock hands opposite each other in 12 hours?
+A) 10
+B) 11
+C) 12
+D) 13
+Answer: B
+
+------------------------------------------------------------
+
+14. At 2:00, the angle between the hands is:
+A) 30°
+B) 60°
+C) 90°
+D) 120°
+Answer: B
+
+------------------------------------------------------------
+
+15. At 4:00, the angle between the hands is:
+A) 90°
+B) 120°
+C) 150°
+D) 180°
+Answer: B
+
+------------------------------------------------------------
+
+16. Which hand moves faster?
+A) Hour hand
+B) Minute hand
+C) Both move equally
+D) Second hand
+Answer: B
+
+------------------------------------------------------------
+
+17. Which formula is used to calculate the angle of the minute hand?
+A) 30 × Hour
+B) 0.5 × Minutes
+C) 6 × Minutes
+D) 30 × Minutes
+Answer: C
+
+------------------------------------------------------------
+
+18. If the calculated angle is 240°, the smaller angle is:
+A) 120°
+B) 100°
+C) 240°
+D) 180°
+Answer: A
+
+------------------------------------------------------------
+
+19. Clock problems mainly test:
+A) Vocabulary
+B) Grammar
+C) Logical reasoning and aptitude
+D) Programming
+Answer: C
+
+------------------------------------------------------------
+
+20. Which competitive exams commonly include clock problems?
+A) Placement Aptitude Tests
+B) Banking Exams
+C) SSC Exams
+D) All of the Above
+Answer: D
+
+------------------------------------------------------------

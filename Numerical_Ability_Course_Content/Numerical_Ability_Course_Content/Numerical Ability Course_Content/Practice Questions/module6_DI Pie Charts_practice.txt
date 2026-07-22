@@ -1,0 +1,43 @@
+DI PIE CHARTS - PRACTICE QUESTIONS
+
+------------------------------------------------------------
+
+1. A company has total sales of 8000. If 25% belongs to Product A, find its value.
+
+------------------------------------------------------------
+
+2. Total population is 12000. If 30% are children, find number of children.
+
+------------------------------------------------------------
+
+3. In a pie chart, a sector is 45%. Find its angle.
+
+------------------------------------------------------------
+
+4. If total revenue is 5000 and 12% is profit, find profit amount.
+
+------------------------------------------------------------
+
+5. A data set has total 2000 units. 18% belongs to category B. Find value.
+
+------------------------------------------------------------
+
+6. If a sector angle is 72°, find its percentage.
+
+------------------------------------------------------------
+
+7. Total students = 1500. If 40% passed, find passed students.
+
+------------------------------------------------------------
+
+8. In a pie chart, sector is 60%. Find angle.
+
+------------------------------------------------------------
+
+9. A company has 2500 items. If 10% are defective, find defective items.
+
+------------------------------------------------------------
+
+10. Total marks = 1000. If 35% is obtained, find marks scored.
+
+------------------------------------------------------------

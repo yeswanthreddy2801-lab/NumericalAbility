@@ -1,0 +1,23 @@
+DIRECTIONS - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. A moves 5m North, 3m East. Find position.
+
+2. Find distance between start and end.
+
+3. Solve left-right turn problems.
+
+4. Find final direction after turns.
+
+5. Draw movement path.
+
+6. Solve north-south movement.
+
+7. Solve east-west movement.
+
+8. Combine multiple movements.
+
+9. Find shortest distance.
+
+10. Practice direction reasoning problems.

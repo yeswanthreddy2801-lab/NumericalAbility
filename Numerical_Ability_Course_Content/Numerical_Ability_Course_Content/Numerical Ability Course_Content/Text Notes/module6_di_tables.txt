@@ -1,0 +1,120 @@
+DATA INTERPRETATION - TABLES (TEXT NOTES)
+
+============================================================
+
+1. INTRODUCTION
+
+Data Interpretation (DI) is the process of analyzing and interpreting data given in the form of tables, charts, or graphs.
+
+Tables are the most common format used in DI questions in competitive exams and placements.
+
+============================================================
+
+2. WHAT IS A TABLE?
+
+A table is a structured arrangement of data in:
+• Rows (horizontal)
+• Columns (vertical)
+
+Each intersection of row and column is called a CELL.
+
+============================================================
+
+3. KEY TERMS
+
+• Row → Horizontal arrangement
+• Column → Vertical arrangement
+• Cell → Intersection of row and column
+• Header → Title of row/column
+
+============================================================
+
+4. TYPES OF DATA IN TABLES
+
+• Numerical data (numbers)
+• Categorical data (names, types)
+• Time-based data (years, months)
+• Mixed data
+
+============================================================
+
+5. BASIC OPERATIONS IN DI
+
+• Addition (Total)
+• Subtraction (Difference)
+• Multiplication (Product)
+• Division (Ratio, Average)
+
+============================================================
+
+6. IMPORTANT FORMULAS
+
+Average = Sum of values / Number of values
+
+Percentage = (Part / Whole) × 100
+
+Ratio = A : B = A/B
+
+============================================================
+
+7. STEPS TO SOLVE DI TABLES
+
+Step 1: Read table carefully
+Step 2: Identify question type
+Step 3: Extract required values
+Step 4: Apply formula
+Step 5: Calculate accurately or use approximation
+
+============================================================
+
+8. APPROXIMATION METHOD
+
+Used when:
+• Large numbers are given
+• Options are close
+
+Benefit:
+• Saves time
+• Reduces calculation effort
+
+============================================================
+
+9. COMMON QUESTION TYPES
+
+• Total calculation
+• Percentage comparison
+• Average calculation
+• Ratio-based questions
+• Increase/Decrease problems
+
+============================================================
+
+10. SPEED TIPS
+
+• Don’t read unnecessary data
+• Focus only on required rows/columns
+• Use approximation where possible
+• Practice mental calculation
+
+============================================================
+
+11. COMMON MISTAKES
+
+• Misreading table values
+• Wrong unit conversion
+• Ignoring headers
+• Calculation errors
+
+============================================================
+
+12. APPLICATIONS
+
+• Business reports
+• Financial analysis
+• Exam data questions
+• Market research
+• Survey analysis
+
+============================================================
+
+END OF DI - TABLES NOTES

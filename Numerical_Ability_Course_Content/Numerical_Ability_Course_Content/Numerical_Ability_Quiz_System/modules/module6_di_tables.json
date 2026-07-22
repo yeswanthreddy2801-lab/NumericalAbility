@@ -1,0 +1,107 @@
+{
+    "title": "DI Tables Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "DI stands for:",
+            "options": [
+                "Data Input",
+                "Data Interpretation",
+                "Data Integration",
+                "Data Index"
+            ],
+            "answer": "Data Interpretation"
+        },
+        {
+            "question": "Table data is in:",
+            "options": [
+                "Circle",
+                "Rows and Columns",
+                "Random",
+                "Tree"
+            ],
+            "answer": "Rows and Columns"
+        },
+        {
+            "question": "Row means:",
+            "options": [
+                "Vertical",
+                "Horizontal",
+                "Diagonal",
+                "None"
+            ],
+            "answer": "Horizontal"
+        },
+        {
+            "question": "Column means:",
+            "options": [
+                "Horizontal",
+                "Vertical",
+                "Random",
+                "Circular"
+            ],
+            "answer": "Vertical"
+        },
+        {
+            "question": "Cell is:",
+            "options": [
+                "Row",
+                "Column",
+                "Intersection",
+                "Header"
+            ],
+            "answer": "Intersection"
+        },
+        {
+            "question": "Total means:",
+            "options": [
+                "Sum",
+                "Product",
+                "Ratio",
+                "Difference"
+            ],
+            "answer": "Sum"
+        },
+        {
+            "question": "Average formula:",
+            "options": [
+                "Sum×Count",
+                "Sum/Count",
+                "Count/Sum",
+                "Sum+Count"
+            ],
+            "answer": "Sum/Count"
+        },
+        {
+            "question": "Best DI skill:",
+            "options": [
+                "Guessing",
+                "Speed calculation",
+                "Writing",
+                "Drawing"
+            ],
+            "answer": "Speed calculation"
+        },
+        {
+            "question": "First step in DI:",
+            "options": [
+                "Solve",
+                "Understand table",
+                "Skip",
+                "Multiply"
+            ],
+            "answer": "Understand table"
+        },
+        {
+            "question": "Tables are:",
+            "options": [
+                "Unstructured",
+                "Structured",
+                "Hidden",
+                "Random"
+            ],
+            "answer": "Structured"
+        }
+    ]
+}

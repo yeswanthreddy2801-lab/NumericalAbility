@@ -1,0 +1,194 @@
+MAN-CHAIN RULE AND WAGES
+
+## Introduction
+
+Man-Chain Rule and Wages is an advanced application of Time and Work concepts. It is widely asked in placement exams to test proportional reasoning and efficiency-based calculations.
+
+This topic deals with:
+- Number of workers (men, women, or machines)
+- Number of days
+- Hours worked per day
+- Amount of work or wages
+
+The key idea is:
+
+Work is directly proportional to:
+- Number of workers
+- Number of days
+- Hours per day
+
+---
+
+## Basic Formula
+
+M1 × D1 × H1 × W1 = M2 × D2 × H2 × W2
+
+Where:
+M = Men (or workers)
+D = Days
+H = Hours per day
+W = Work done
+
+---
+
+## Core Principle
+
+More workers → Less time  
+Less workers → More time  
+
+Work remains constant in balanced conditions.
+
+---
+
+## Direct Variation Rule
+
+If:
+- Men increase → Work increases
+- Days increase → Work increases
+- Hours increase → Work increases
+
+---
+
+## Inverse Variation Rule
+
+If:
+- Men increase → Time decreases
+- Efficiency increases → Time decreases
+
+---
+
+## Shortcut Formula
+
+M1 × D1 × W1 = M2 × D2 × W2
+
+(Used when working hours are same)
+
+---
+
+## Wages Concept
+
+Wages are distributed based on work done.
+
+Wage ∝ Work
+
+If:
+A works more → A gets more wage
+
+---
+
+## Efficiency Concept
+
+If:
+A is twice as efficient as B
+
+Then:
+A does twice the work in same time
+
+---
+
+## Solved Example 1
+
+10 men complete a work in 12 days.
+
+How many days will 15 men take?
+
+Solution:
+
+M1 × D1 = M2 × D2
+
+10 × 12 = 15 × D2
+
+120 = 15D2
+
+D2 = 8 days
+
+Answer: 8 days
+
+---
+
+## Solved Example 2
+
+8 men working 6 hours per day complete work in 15 days.
+
+How many days will 12 men working 4 hours take?
+
+Solution:
+
+M1 × D1 × H1 = M2 × D2 × H2
+
+8 × 15 × 6 = 12 × D2 × 4
+
+720 = 48D2
+
+D2 = 15 days
+
+---
+
+## Wages Example
+
+A and B work together and earn 900.
+
+A does 60% work.
+
+B does 40% work.
+
+A's wage = 540  
+B's wage = 360
+
+---
+
+## Common Mistakes
+
+❌ Mixing efficiency and manpower incorrectly  
+❌ Ignoring hours factor  
+❌ Assuming equal wages  
+❌ Forgetting proportionality rules  
+
+---
+
+## Real World Applications
+
+- Factory labor distribution
+- Construction workforce planning
+- Salary distribution
+- Team project allocation
+- Machine-based production
+
+---
+
+## Placement Tips
+
+- Always use M × D × H rule
+- Keep units consistent
+- Convert everything into proportional form
+- Avoid direct division of values
+- Practice ratio-based questions
+
+---
+
+## Interview Questions
+
+1. What is Man-Chain Rule?
+It is a proportionality rule used in work-time problems involving men, days, and hours.
+
+2. What is the main formula?
+M × D × H ∝ Work
+
+3. How are wages distributed?
+Based on work done.
+
+4. What happens if workers increase?
+Time decreases.
+
+5. Why is this topic important?
+It is frequently asked in aptitude tests.
+
+---
+
+## Quick Summary
+
+- Work ∝ Men × Days × Hours
+- Wages ∝ Work
+- Use proportionality rule
+- Keep variables balanced
+- Apply ratio method for speed

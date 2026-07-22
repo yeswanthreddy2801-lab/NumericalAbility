@@ -1,0 +1,162 @@
+DI TABLES - MCQ QUESTIONS
+
+--------------------------------------------------
+
+1. DI stands for:
+A) Data Input
+B) Data Interpretation
+C) Data Index
+D) Data Integration
+Answer: B
+
+2. Table data is arranged in:
+A) Circle
+B) Rows and Columns
+C) Random form
+D) Tree structure
+Answer: B
+
+3. Row means:
+A) Vertical
+B) Horizontal
+C) Diagonal
+D) None
+Answer: B
+
+4. Column means:
+A) Horizontal
+B) Vertical
+C) Random
+D) Circular
+Answer: B
+
+5. DI is used for:
+A) Guessing
+B) Analysis
+C) Drawing
+D) Writing
+Answer: B
+
+6. Total is:
+A) Product
+B) Sum
+C) Difference
+D) Ratio
+Answer: B
+
+7. Best DI skill:
+A) Speed calculation
+B) Drawing
+C) Writing
+D) Guessing
+Answer: A
+
+8. Tables help in:
+A) Confusion
+B) Structured data
+C) Random data
+D) None
+Answer: B
+
+9. First step in DI:
+A) Solve directly
+B) Understand table
+C) Multiply values
+D) Skip question
+Answer: B
+
+10. Approximation is used for:
+A) Accuracy only
+B) Speed
+C) Writing
+D) Drawing
+Answer: B
+11.
+
+Q: In a table, each cell represents:
+A) Random value
+B) Intersection of row and column
+C) Only row value
+D) Only column value
+Answer: B
+
+12.
+
+Q: Which is most important in DI tables?
+A) Drawing skills
+B) Speed and accuracy
+C) Guessing answers
+D) Memorizing data
+Answer: B
+
+13.
+
+Q: In DI tables, values are usually represented in:
+A) Words only
+B) Numbers
+C) Symbols only
+D) Images
+Answer: B
+
+14.
+
+Q: Which operation is most commonly used in DI tables?
+A) Addition
+B) Singing
+C) Drawing
+D) Coloring
+Answer: A
+
+15.
+
+Q: A column in a table represents:
+A) Horizontal data
+B) Vertical data
+C) Random data
+D) No data
+Answer: B
+
+16.
+
+Q: What should you read first in a DI table question?
+A) Final answer
+B) Table heading
+C) Options only
+D) Random values
+Answer: B
+
+17.
+
+Q: DI tables mainly test:
+A) Creativity
+B) Analytical ability
+C) Drawing skill
+D) Memory only
+Answer: B
+
+18.
+
+Q: Which is NOT useful in DI table solving?
+A) Scanning data
+B) Quick calculation
+C) Blind guessing
+D) Approximation
+Answer: C
+
+19.
+
+Q: Data in DI tables is usually:
+A) Unorganized
+B) Structured
+C) Random
+D) Missing
+Answer: B
+
+20.
+
+Q: Best strategy in DI tables is:
+A) Read full table every time
+B) Focus only required data
+C) Guess answers
+D) Ignore numbers
+Answer: B

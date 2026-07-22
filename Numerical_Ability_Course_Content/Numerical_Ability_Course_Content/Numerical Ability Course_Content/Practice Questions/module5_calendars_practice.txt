@@ -1,0 +1,23 @@
+CALENDARS 1 - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. Is 2024 a leap year?
+
+2. Find number of days in leap year.
+
+3. Find odd days in 365 days.
+
+4. Find odd days in 366 days.
+
+5. Is 2100 a leap year?
+
+6. Find day mapping of weekdays.
+
+7. How many weeks in 365 days?
+
+8. How many odd days in 1 year?
+
+9. Difference between leap and normal year.
+
+10. Find leap year rule explanation.

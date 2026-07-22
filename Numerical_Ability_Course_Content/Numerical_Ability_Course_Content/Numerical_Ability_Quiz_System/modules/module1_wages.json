@@ -1,0 +1,107 @@
+{
+    "title": "Man-Chain Rule and Wages Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Work is directly proportional to:",
+            "options": [
+                "Men × Days × Hours",
+                "Time only",
+                "Profit",
+                "Speed"
+            ],
+            "answer": "Men × Days × Hours"
+        },
+        {
+            "question": "If men increase, time will:",
+            "options": [
+                "Increase",
+                "Decrease",
+                "Remain same",
+                "Become zero"
+            ],
+            "answer": "Decrease"
+        },
+        {
+            "question": "Which formula is used in Man-Chain Rule?",
+            "options": [
+                "M + D + H",
+                "M × D × H",
+                "M / D / H",
+                "M - D - H"
+            ],
+            "answer": "M × D × H"
+        },
+        {
+            "question": "Wages are distributed based on:",
+            "options": [
+                "Time",
+                "Work done",
+                "Age",
+                "Distance"
+            ],
+            "answer": "Work done"
+        },
+        {
+            "question": "If 10 men complete work in 12 days, 15 men will take:",
+            "options": [
+                "6 days",
+                "8 days",
+                "10 days",
+                "12 days"
+            ],
+            "answer": "8 days"
+        },
+        {
+            "question": "Man-Chain Rule is based on:",
+            "options": [
+                "Geometry",
+                "Proportion",
+                "Probability",
+                "Statistics"
+            ],
+            "answer": "Proportion"
+        },
+        {
+            "question": "If hours increase, work:",
+            "options": [
+                "Increases",
+                "Decreases",
+                "Becomes zero",
+                "Stops"
+            ],
+            "answer": "Increases"
+        },
+        {
+            "question": "If men are doubled, time becomes:",
+            "options": [
+                "Double",
+                "Half",
+                "Same",
+                "Zero"
+            ],
+            "answer": "Half"
+        },
+        {
+            "question": "Man-Chain Rule is extension of:",
+            "options": [
+                "Profit and Loss",
+                "Time and Work",
+                "Geometry",
+                "Probability"
+            ],
+            "answer": "Time and Work"
+        },
+        {
+            "question": "First step in solving Man-Chain problems is:",
+            "options": [
+                "Add values",
+                "Apply proportionality",
+                "Multiply wages",
+                "Guess answer"
+            ],
+            "answer": "Apply proportionality"
+        }
+    ]
+}

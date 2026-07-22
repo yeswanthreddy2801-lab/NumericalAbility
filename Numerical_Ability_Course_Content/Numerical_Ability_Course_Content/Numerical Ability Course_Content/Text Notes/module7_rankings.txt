@@ -1,0 +1,90 @@
+============================================================
+RANKINGS - FLASH CARDS (BASIC CONCEPTS)
+============================================================
+
+1. WHAT IS RANKING?
+
+Ranking means arranging persons/objects based on position
+from left or right.
+
+------------------------------------------------------------
+
+2. BASIC TERMS
+
+Left Rank  → Position counted from left side
+Right Rank → Position counted from right side
+
+------------------------------------------------------------
+
+3. IMPORTANT FORMULA
+
+Total Persons = Left Rank + Right Rank - 1
+
+------------------------------------------------------------
+
+4. KEY POINTS
+
+• Always check direction (left or right)
+• Position starts from 1, not 0
+• Total count is always fixed in ranking problems
+
+------------------------------------------------------------
+
+5. COMMON QUESTION TYPES
+
+• Finding total number of persons
+• Finding position from opposite side
+• Interchanging left and right ranks
+• Ranking in a queue
+• Missing person problems
+
+------------------------------------------------------------
+
+6. SHORTCUT TRICK
+
+If you know:
+Left rank = L
+Right rank = R
+
+Then:
+Total = L + R - 1
+
+------------------------------------------------------------
+
+7. EXAMPLE
+
+A person is 4th from left and 6th from right.
+
+Total persons = 4 + 6 - 1 = 9
+
+------------------------------------------------------------
+
+8. COMMON MISTAKES
+
+• Forgetting to subtract 1
+• Confusing left and right
+• Starting count from 0
+• Not fixing direction properly
+
+------------------------------------------------------------
+
+9. REAL LIFE APPLICATIONS
+
+• Exam seating arrangement
+• Competition rankings
+• Queue systems (banks, counters)
+• Sports rankings
+• Roll number arrangements
+
+------------------------------------------------------------
+
+10. QUICK PRACTICE POINTS
+
+• Always draw a line for people
+• Mark left and right clearly
+• Use formula directly when possible
+• Verify answer logically
+
+============================================================
+END OF FILE
+============================================================

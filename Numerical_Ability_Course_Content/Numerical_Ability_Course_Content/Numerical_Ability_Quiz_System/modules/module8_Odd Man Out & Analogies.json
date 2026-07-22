@@ -1,0 +1,119 @@
+{
+    "title": "Odd Man Out & Analogies Quiz",
+    "topic": "Reasoning",
+    "duration": 20,
+    "totalQuestions": 10,
+    "passingMarks": 6,
+    "questions": [
+        {
+            "id": 1,
+            "question": "Odd Man Out means:",
+            "options": [
+                "Find similar",
+                "Find different",
+                "Calculate",
+                "Guess"
+            ],
+            "answer": "Find different"
+        },
+        {
+            "id": 2,
+            "question": "Analogy is based on:",
+            "options": [
+                "Random",
+                "Relationship",
+                "Numbers",
+                "Speed"
+            ],
+            "answer": "Relationship"
+        },
+        {
+            "id": 3,
+            "question": "Pen : Write :: Knife : ?",
+            "options": [
+                "Eat",
+                "Cut",
+                "Run",
+                "Jump"
+            ],
+            "answer": "Cut"
+        },
+        {
+            "id": 4,
+            "question": "Odd Man Out tests:",
+            "options": [
+                "Memory",
+                "Logical reasoning",
+                "Typing",
+                "Grammar"
+            ],
+            "answer": "Logical reasoning"
+        },
+        {
+            "id": 5,
+            "question": "A : B :: C : D is called:",
+            "options": [
+                "Equation",
+                "Analogy",
+                "Graph",
+                "Code"
+            ],
+            "answer": "Analogy"
+        },
+        {
+            "id": 6,
+            "question": "Fastest solving method is:",
+            "options": [
+                "Writing",
+                "Elimination",
+                "Guessing",
+                "Skipping"
+            ],
+            "answer": "Elimination"
+        },
+        {
+            "id": 7,
+            "question": "Odd man out is based on:",
+            "options": [
+                "Similarity",
+                "Difference",
+                "Formula",
+                "Time"
+            ],
+            "answer": "Difference"
+        },
+        {
+            "id": 8,
+            "question": "Lion : Roar :: Cow : ?",
+            "options": [
+                "Bark",
+                "Moo",
+                "Jump",
+                "Run"
+            ],
+            "answer": "Moo"
+        },
+        {
+            "id": 9,
+            "question": "These questions appear in:",
+            "options": [
+                "Exams",
+                "Interviews",
+                "Both",
+                "None"
+            ],
+            "answer": "Both"
+        },
+        {
+            "id": 10,
+            "question": "Analogy improves:",
+            "options": [
+                "Logical thinking",
+                "Drawing",
+                "Typing",
+                "Speaking"
+            ],
+            "answer": "Logical thinking"
+        }
+    ]
+}

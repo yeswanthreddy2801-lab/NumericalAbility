@@ -1,0 +1,167 @@
+CLOCKS 3 (Advanced Clock Problems)
+
+------------------------------------------------------------
+LEARNING OBJECTIVES
+------------------------------------------------------------
+
+After completing this topic, you will be able to:
+
+• Solve advanced clock aptitude questions
+• Calculate the angle between clock hands
+• Determine when hands coincide
+• Find when hands are opposite
+• Solve mirror and water image clock problems
+• Solve placement-level clock questions quickly
+
+------------------------------------------------------------
+INTRODUCTION
+------------------------------------------------------------
+
+Clock problems are common in aptitude tests for placements. They test logical thinking, mathematical reasoning, and time calculation skills. Understanding the movement of the hour and minute hands is essential for solving these questions accurately.
+
+------------------------------------------------------------
+BASIC FACTS
+------------------------------------------------------------
+
+• A clock has 360°.
+• There are 12 hour divisions.
+• Each hour division = 30°.
+• One minute division = 6°.
+• Hour hand moves 0.5° per minute.
+• Minute hand moves 6° per minute.
+• Relative speed = 5.5° per minute.
+
+------------------------------------------------------------
+IMPORTANT FORMULAS
+------------------------------------------------------------
+
+1. Angle of Hour Hand
+
+Hour Angle = (30 × Hour) + (0.5 × Minutes)
+
+2. Angle of Minute Hand
+
+Minute Angle = 6 × Minutes
+
+3. Angle Between Hands
+
+Angle = |Hour Angle − Minute Angle|
+
+If Angle > 180°
+Smaller Angle = 360° − Angle
+
+4. Coinciding Hands
+
+Time = (65 × H) / 11 minutes
+(H = hour after 12)
+
+5. Opposite Hands
+
+Time = (60 × H + 360 / 11) minutes
+
+------------------------------------------------------------
+SHORTCUT TECHNIQUES
+------------------------------------------------------------
+
+• Memorize 30°, 6°, and 0.5° values.
+• Always calculate both hand angles separately.
+• Subtract and choose the smaller angle.
+• Use relative speed (5.5°/minute) for quick calculations.
+• Draw a simple clock if the question seems confusing.
+
+------------------------------------------------------------
+SOLVED EXAMPLES
+------------------------------------------------------------
+
+Example 1
+
+Find the angle at 3:30.
+
+Hour Hand = (30 × 3) + (0.5 × 30)
+= 90 + 15
+= 105°
+
+Minute Hand = 6 × 30
+= 180°
+
+Angle = |180 − 105|
+= 75°
+
+Answer: 75°
+
+------------------------------------------------------------
+
+Example 2
+
+Find the angle at 6:00.
+
+Hour Hand = 180°
+
+Minute Hand = 0°
+
+Angle = 180°
+
+------------------------------------------------------------
+
+Example 3
+
+Find the angle at 9:00.
+
+Hour Hand = 270°
+
+Minute Hand = 0°
+
+Difference = 270°
+
+Smaller Angle = 360 − 270
+
+Answer = 90°
+
+------------------------------------------------------------
+COMMON MISTAKES
+------------------------------------------------------------
+
+• Ignoring hour hand movement after minutes.
+• Forgetting to choose the smaller angle.
+• Using 30° instead of 0.5° for minute movement.
+• Forgetting relative speed in coincidence questions.
+
+------------------------------------------------------------
+REAL-WORLD APPLICATIONS
+------------------------------------------------------------
+
+• Railway scheduling
+• Aviation timing
+• Navigation
+• Mechanical clock design
+• Competitive examinations
+
+------------------------------------------------------------
+PLACEMENT TIPS
+------------------------------------------------------------
+
+• Learn standard formulas by heart.
+• Practice coincidence and opposite-hand questions.
+• Use elimination when solving MCQs.
+• Avoid lengthy calculations where shortcuts apply.
+
+------------------------------------------------------------
+PLACEMENT INTERVIEW QUESTIONS
+------------------------------------------------------------
+
+1. Why does the hour hand move continuously?
+2. How do you calculate the angle between clock hands?
+3. What is the relative speed of the hands?
+4. Why do we subtract from 360° sometimes?
+5. Explain coincidence of clock hands.
+
+------------------------------------------------------------
+QUICK SUMMARY
+------------------------------------------------------------
+
+✓ Full Clock = 360°
+✓ Hour Division = 30°
+✓ Minute Division = 6°
+✓ Hour Hand = 0.5° per minute
+✓ Relative Speed = 5.5°/minute
+✓ Always select the smaller angle.

@@ -1,0 +1,107 @@
+{
+    "title": "Pipes and Cisterns Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Pipe A fills a tank in 12 hours. Its one-hour work is:",
+            "options": [
+                "12",
+                "1/12",
+                "1/10",
+                "10"
+            ],
+            "answer": "1/12"
+        },
+        {
+            "question": "Outlet pipe work is considered:",
+            "options": [
+                "Positive",
+                "Negative",
+                "Zero",
+                "Infinite"
+            ],
+            "answer": "Negative"
+        },
+        {
+            "question": "If A fills in 10 hours and B fills in 15 hours, together they take:",
+            "options": [
+                "6 hours",
+                "7.5 hours",
+                "8 hours",
+                "5 hours"
+            ],
+            "answer": "6 hours"
+        },
+        {
+            "question": "Combined rate of two filling pipes is:",
+            "options": [
+                "Difference of rates",
+                "Product of rates",
+                "Sum of rates",
+                "Square of rates"
+            ],
+            "answer": "Sum of rates"
+        },
+        {
+            "question": "A pipe empties a tank in 24 hours. Its rate is:",
+            "options": [
+                "1/24",
+                "-1/24",
+                "24",
+                "-24"
+            ],
+            "answer": "-1/24"
+        },
+        {
+            "question": "If combined rate is 1/12, time taken is:",
+            "options": [
+                "10 hours",
+                "12 hours",
+                "15 hours",
+                "20 hours"
+            ],
+            "answer": "12 hours"
+        },
+        {
+            "question": "Leak in a tank behaves like:",
+            "options": [
+                "Inlet",
+                "Outlet",
+                "Neutral",
+                "Pump"
+            ],
+            "answer": "Outlet"
+        },
+        {
+            "question": "Pipes and Cisterns is based on:",
+            "options": [
+                "Geometry",
+                "Time and Work",
+                "Profit and Loss",
+                "Ratio only"
+            ],
+            "answer": "Time and Work"
+        },
+        {
+            "question": "If a pipe fills in 8 hours, in 4 hours it fills:",
+            "options": [
+                "1/2",
+                "1/4",
+                "1/8",
+                "1"
+            ],
+            "answer": "1/2"
+        },
+        {
+            "question": "First step in solving pipe problems is:",
+            "options": [
+                "Add hours",
+                "Find rate",
+                "Multiply times",
+                "Find ratio"
+            ],
+            "answer": "Find rate"
+        }
+    ]
+}

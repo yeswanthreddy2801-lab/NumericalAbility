@@ -1,0 +1,148 @@
+PERMUTATIONS
+
+## Introduction
+
+Permutation means ARRANGEMENT of objects where ORDER matters.
+
+If arrangement changes, permutation changes.
+
+Example:
+AB ≠ BA → different permutations
+
+---
+
+## Formula
+
+nPr = n! / (n−r)!
+
+Where:
+n = total items
+r = items to arrange
+
+---
+
+## Factorial Reminder
+
+5! = 120  
+4! = 24  
+3! = 6  
+2! = 2  
+
+0! = 1
+
+---
+
+## Types of Permutations
+
+### 1. Linear Arrangement
+Arranging objects in a straight line.
+
+Formula:
+n! (if all are used)
+
+---
+
+### 2. Partial Arrangement
+Selecting r objects from n.
+
+Formula:
+nPr = n! / (n−r)!
+
+---
+
+### 3. Circular Permutation
+Arrangement in a circle.
+
+Formula:
+(n−1)!
+
+---
+
+## Important Cases
+
+### Case 1: All objects different
+n! arrangements
+
+### Case 2: Some objects repeated
+n! / (p! q! r!)
+
+---
+
+## Solved Example 1
+
+Arrange 4 people in a row:
+
+4! = 24 ways
+
+---
+
+## Solved Example 2
+
+Arrange 5 people in 3 seats:
+
+5P3 = 5! / 2! = 60
+
+---
+
+## Circular Example
+
+Arrange 4 people in a circle:
+
+(4−1)! = 3! = 6 ways
+
+---
+
+## Common Mistakes
+
+❌ Using combination instead of permutation  
+❌ Ignoring order importance  
+❌ Wrong factorial simplification  
+❌ Confusing circular formula  
+
+---
+
+## Real World Applications
+
+- Seating arrangements
+- Ranking systems
+- Password creation
+- Scheduling systems
+- Event planning
+
+---
+
+## Placement Tips
+
+- Always check ORDER condition
+- Use nPr when arrangement matters
+- Use (n−1)! for circles
+- Practice factorial shortcuts
+
+---
+
+## Interview Questions
+
+1. What is permutation?
+Arrangement where order matters.
+
+2. Formula for permutation?
+nPr = n! / (n−r)!
+
+3. Circular permutation formula?
+(n−1)!
+
+4. When do we use permutation?
+When order matters.
+
+5. Difference from combination?
+Permutation = order matters
+
+---
+
+## Quick Summary
+
+- Permutation = Arrangement
+- Order matters
+- nPr formula
+- Circular = (n−1)!
+- Repetition uses division factorials

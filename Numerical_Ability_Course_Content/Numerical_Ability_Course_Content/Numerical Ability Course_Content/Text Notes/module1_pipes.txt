@@ -1,0 +1,228 @@
+PIPES AND CISTERNS
+Introduction
+
+Pipes and Cisterns is one of the most frequently asked aptitude topics in placement exams. It is an application of the Time and Work concept.
+
+Inlet Pipe: Fills the tank.
+Outlet Pipe: Empties the tank.
+Leak: Acts like an outlet and reduces the filling rate.
+
+Instead of calculating "work done," we calculate the fraction of the tank filled or emptied per unit time.
+
+Basic Concept
+
+Assume the tank capacity = 1 unit.
+
+If a pipe fills the tank in N hours,
+
+One hour filling rate:
+
+1/N
+
+If a pipe empties the tank in M hours,
+
+One hour emptying rate:
+
+-1/M
+
+(The negative sign indicates removal of water.)
+
+Important Formulas
+1. Filling Rate
+
+If a pipe fills a tank in N hours:
+
+Rate = 1/N
+
+2. Emptying Rate
+
+If a pipe empties a tank in M hours:
+
+Rate = -1/M
+
+3. Two Inlet Pipes
+
+If Pipe A fills in x hours and Pipe B fills in y hours:
+
+Combined Rate
+
+= 1/x + 1/y
+
+Time Taken
+
+= 1 ÷ Combined Rate
+
+or
+
+= xy / (x + y)
+
+4. One Inlet and One Outlet
+
+Combined Rate
+
+= 1/x − 1/y
+
+If result is positive → Tank fills.
+
+If result is negative → Tank empties.
+
+5. Three Pipes
+
+Combined Rate
+
+= 1/A + 1/B − 1/C
+
+where C is an outlet.
+
+Shortcut Tricks
+
+✔ Convert every pipe into hourly rate.
+
+✔ Outlet pipes always have negative rate.
+
+✔ Add all filling rates.
+
+✔ Subtract outlet rates.
+
+✔ Use LCM to simplify calculations.
+
+✔ Never add hours directly.
+
+Solved Example 1
+
+A fills a tank in 12 hours.
+
+B fills the same tank in 18 hours.
+
+Find the time taken together.
+
+Solution
+
+Combined Rate
+
+= 1/12 + 1/18
+
+LCM = 36
+
+= 3/36 + 2/36
+
+= 5/36
+
+Time
+
+= 36/5
+
+= 7.2 hours
+
+Answer:
+
+7.2 hours
+
+Solved Example 2
+
+Pipe A fills in 8 hours.
+
+Pipe B empties in 24 hours.
+
+Combined Rate
+
+= 1/8 − 1/24
+
+= 3/24 − 1/24
+
+= 2/24
+
+= 1/12
+
+Time
+
+= 12 hours
+
+Answer:
+
+12 hours
+
+Solved Example 3
+
+Pipe A fills in 10 hours.
+
+Pipe B fills in 15 hours.
+
+Pipe C empties in 30 hours.
+
+Combined Rate
+
+= 1/10 + 1/15 − 1/30
+
+= 3/30 + 2/30 − 1/30
+
+= 4/30
+
+= 2/15
+
+Time
+
+= 15/2
+
+= 7.5 hours
+
+Common Mistakes
+
+❌ Treating outlet as positive.
+
+❌ Adding hours directly.
+
+❌ Ignoring leak.
+
+❌ Forgetting LCM simplification.
+
+❌ Using incorrect denominator.
+
+Real-World Applications
+Water supply systems
+Water tank management
+Irrigation systems
+Municipal water distribution
+Industrial storage tanks
+Chemical processing plants
+Oil storage facilities
+Placement Tips
+First convert every pipe into hourly work.
+Use LCM whenever possible.
+Outlet means negative work.
+Practice inlet + outlet combinations.
+Learn the shortcut formula for two inlet pipes.
+Placement Interview Questions
+1. Why is Pipes and Cisterns considered an application of Time and Work?
+
+Answer:
+Because filling or emptying a tank is treated as completing or removing work.
+
+2. Why is an outlet pipe taken as negative?
+
+Answer:
+Because it removes water from the tank.
+3. What is the first step in solving these questions?
+
+Answer:
+Convert every pipe into hourly work.
+
+4. Why do we use LCM?
+
+Answer:
+To avoid complicated fractions.
+
+5. Can the combined rate become negative?
+
+Answer:
+Yes. If the outlet removes water faster than the inlet fills it.
+
+Quick Summary
+Tank Capacity = 1
+Filling Rate = 1/N
+Emptying Rate = -1/N
+Add inlet rates
+Subtract outlet rates
+Use LCM
+Never add hours directly
+Pipes and Cisterns is based on Time and Work

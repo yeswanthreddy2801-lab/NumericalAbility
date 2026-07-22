@@ -1,0 +1,43 @@
+TIME AND WORK - PRACTICE QUESTIONS
+
+1. A can complete a piece of work in 12 days. B can complete the same work in 18 days. In how many days will they complete the work together?
+
+--------------------------------------------------
+
+2. A finishes a work in 15 days while B finishes it in 20 days. They start working together. After 4 days, A leaves. In how many more days will B complete the remaining work?
+
+--------------------------------------------------
+
+3. A can complete a work in 8 days and B in 24 days. Find:
+(a) Their one-day work
+(b) Time taken together
+
+--------------------------------------------------
+
+4. A is twice as efficient as B. If B alone completes a work in 24 days, how many days will A and B together take to complete the work?
+
+--------------------------------------------------
+
+5. Three workers A, B, and C can complete a work in 10 days, 15 days, and 30 days respectively. In how many days can they complete the work together?
+
+--------------------------------------------------
+
+6. A can complete a work in 20 days. After working for 8 days, he is joined by B. Together they finish the remaining work in 4 days. In how many days can B alone complete the entire work?
+
+--------------------------------------------------
+
+7. A and B together complete a work in 6 days. A alone can complete it in 10 days. Find the number of days B alone would take.
+
+--------------------------------------------------
+
+8. A contractor hires two workers. One can complete a task in 16 days and the other in 24 days. How many days will they take if they work together throughout?
+
+--------------------------------------------------
+
+9. A, B, and C can complete a work individually in 12 days, 18 days, and 36 days respectively. If they all start together, after how many days will the work be completed?
+
+--------------------------------------------------
+
+10. A can complete a project in 25 days. B is 25% more efficient than A. Calculate:
+(a) Number of days taken by B alone
+(b) Number of days taken when both work together.

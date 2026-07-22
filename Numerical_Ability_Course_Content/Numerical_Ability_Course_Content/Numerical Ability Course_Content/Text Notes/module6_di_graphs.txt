@@ -1,0 +1,141 @@
+DATA INTERPRETATION - GRAPHS (TEXT NOTES)
+
+============================================================
+
+1. INTRODUCTION
+
+Data Interpretation (DI) graphs are visual representations of data used to analyze and compare information quickly.
+
+Graphs make complex data easy to understand and interpret.
+
+============================================================
+
+2. TYPES OF GRAPHS
+
+1. Bar Graph
+• Uses rectangular bars
+• Compares different categories
+
+2. Line Graph
+• Shows trends over time
+• Uses points connected by lines
+
+3. Pie Chart
+• Circular graph
+• Shows percentage distribution
+
+4. Histogram
+• Represents frequency distribution
+• Continuous data
+
+5. Line + Bar Combined Graph
+• Mix of comparison and trend analysis
+
+============================================================
+
+3. BAR GRAPH
+
+• Data represented using bars
+• Height/length shows value
+• Used for comparison
+
+Example uses:
+• Sales comparison
+• Population comparison
+
+============================================================
+
+4. LINE GRAPH
+
+• Shows changes over time
+• Data points connected with lines
+• Useful for trend analysis
+
+Example:
+• Temperature over days
+• Profit over years
+
+============================================================
+
+5. PIE CHART
+
+• Circle divided into sectors
+• Total = 100%
+• Each slice shows proportion
+
+Formula:
+Percentage = (Part / Whole) × 100
+
+============================================================
+
+6. HISTOGRAM
+
+• Used for grouped data
+• Bars touch each other
+• Shows frequency distribution
+
+Example:
+• Marks distribution
+• Age groups
+
+============================================================
+
+7. IMPORTANT FORMULAS
+
+Percentage = (Value / Total) × 100
+
+Ratio = A : B = A/B
+
+Average = Sum / Count
+
+============================================================
+
+8. STEPS TO SOLVE GRAPH QUESTIONS
+
+Step 1: Understand graph type
+Step 2: Identify required values
+Step 3: Compare or calculate
+Step 4: Apply formula
+Step 5: Verify answer
+
+============================================================
+
+9. SPEED TIPS
+
+• Read axis carefully
+• Check units (lakhs, thousands, %)
+• Focus only on required data
+• Use approximation when needed
+
+============================================================
+
+10. COMMON QUESTION TYPES
+
+• Highest/lowest value
+• Percentage comparison
+• Difference between values
+• Trend analysis
+• Ratio questions
+
+============================================================
+
+11. COMMON MISTAKES
+
+• Ignoring scale on axis
+• Misreading values
+• Confusing percentage with actual numbers
+• Wrong interpretation of trend
+
+============================================================
+
+12. APPLICATIONS
+
+• Business analytics
+• Exam aptitude tests
+• Financial reports
+• Market research
+• Statistical studies
+
+============================================================
+
+END OF DI - GRAPHS NOTES

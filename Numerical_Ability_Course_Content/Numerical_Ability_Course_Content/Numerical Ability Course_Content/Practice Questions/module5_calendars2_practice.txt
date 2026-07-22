@@ -1,0 +1,43 @@
+CALENDARS 2 - PRACTICE QUESTIONS
+
+------------------------------------------------------------
+
+1. Find the day of the week on 15 August 2025.
+
+------------------------------------------------------------
+
+2. Determine whether the year 2400 is a leap year or an ordinary year. Give the reason.
+
+------------------------------------------------------------
+
+3. Calculate the total number of odd days in 500 years.
+
+------------------------------------------------------------
+
+4. Find the day of the week on 26 January 2030 using the odd days method.
+
+------------------------------------------------------------
+
+5. If 1st January 2024 is Monday, what day will 1st January 2025 be?
+
+------------------------------------------------------------
+
+6. A person was born on 29 February 2000. How many birthdays will they celebrate by the year 2040?
+
+------------------------------------------------------------
+
+7. Determine whether the year 1900 is a leap year. Explain your answer.
+
+------------------------------------------------------------
+
+8. Find the number of odd days in 50 ordinary years and 10 leap years.
+
+------------------------------------------------------------
+
+9. If today is Wednesday, what day will it be after 100 days?
+
+------------------------------------------------------------
+
+10. A meeting is held every 14 days starting on a Friday. On which weekday will the 10th meeting occur?
+
+------------------------------------------------------------

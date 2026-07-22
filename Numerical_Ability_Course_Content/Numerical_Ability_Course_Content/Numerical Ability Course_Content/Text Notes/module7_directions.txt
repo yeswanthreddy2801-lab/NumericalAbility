@@ -1,0 +1,95 @@
+============================================================
+DIRECTIONS - FLASH CARDS (BASIC CONCEPTS)
+============================================================
+
+1. BASIC DIRECTIONS
+
+North (N) → Up
+South (S) → Down
+East (E) → Right
+West (W) → Left
+
+------------------------------------------------------------
+
+2. TURNING RULES
+
+Right Turn → Clockwise direction
+Left Turn  → Anti-clockwise direction
+
+------------------------------------------------------------
+
+3. ANGLE KNOWLEDGE (IMPORTANT)
+
+Right Angle Turn → 90°
+Straight → 0°
+U-turn → 180°
+
+------------------------------------------------------------
+
+4. RELATIVE DIRECTIONS
+
+North-East (NE) → Between North and East
+North-West (NW) → Between North and West
+South-East (SE) → Between South and East
+South-West (SW) → Between South and West
+
+------------------------------------------------------------
+
+5. COMMON QUESTION TYPES
+
+• Final direction after multiple turns
+• Shortest distance problems
+• Starting and ending point problems
+• Movement in grid/maze
+• Clockwise/anti-clockwise rotation
+
+------------------------------------------------------------
+
+6. SHORTCUT RULES
+
+• Always draw diagram first
+• Convert all directions to N, S, E, W
+• Use arrow method for movements
+• Track final position step by step
+• Cancel opposite movements (N vs S, E vs W)
+
+------------------------------------------------------------
+
+7. IMPORTANT CONCEPTS
+
+Opposite directions:
+North ↔ South
+East ↔ West
+
+Net movement = Final displacement after cancelling opposite moves
+
+------------------------------------------------------------
+
+8. SAMPLE QUICK CASE
+
+Q: A person moves North → East → South → West
+
+Result: Back to starting point (0 displacement)
+
+------------------------------------------------------------
+
+9. COMMON MISTAKES
+
+• Mixing left/right with east/west
+• Not drawing diagrams
+• Forgetting rotation direction
+• Skipping intermediate steps
+
+------------------------------------------------------------
+
+10. REAL LIFE USES
+
+• Navigation systems (GPS)
+• Map reading
+• Robotics movement
+• Games (maze solving)
+• Airport/railway navigation
+
+============================================================
+END OF FILE
+============================================================

@@ -1,0 +1,51 @@
+NUMBER SERIES
+
+--------------------------------------------------
+
+## Introduction
+
+Number series is a pattern-based problem where numbers follow a logical sequence.
+
+--------------------------------------------------
+
+## Learning Objectives
+
+• Identify number patterns  
+• Solve missing number questions  
+• Improve logical reasoning speed  
+
+--------------------------------------------------
+
+## Common Patterns
+
+• Addition / Subtraction  
+• Multiplication / Division  
+• Squares / Cubes  
+• Mixed patterns  
+
+--------------------------------------------------
+
+## Key Formulas
+
+• n² series → 1, 4, 9, 16...  
+• n³ series → 1, 8, 27, 64...  
+
+--------------------------------------------------
+
+## Shortcut Tricks
+
+• Check difference first  
+• Look for multiplication pattern  
+• Try square/cube recognition  
+
+--------------------------------------------------
+
+## Example
+
+2, 4, 8, 16 → ×2 pattern
+
+--------------------------------------------------
+
+## Quick Summary
+
+Number series = pattern recognition + fast logic

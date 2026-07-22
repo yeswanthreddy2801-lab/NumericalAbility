@@ -1,0 +1,233 @@
+COMBINATIONS
+
+## Introduction
+
+Combination means selecting objects from a group where the order of selection does not matter.
+
+If two selections contain the same objects, they are considered identical regardless of their order.
+
+Example
+
+Selecting A and B
+
+is the same as
+
+Selecting B and A
+
+Therefore,
+
+AB = BA
+
+--------------------------------------------------
+
+## Formula
+
+nCr = n! / [r!(n−r)!]
+
+where
+
+n = total objects
+
+r = objects selected
+
+--------------------------------------------------
+
+## When to Use Combination
+
+Use Combination when:
+
+• Selecting students
+
+• Forming committees
+
+• Choosing team members
+
+• Selecting books
+
+• Choosing interview candidates
+
+--------------------------------------------------
+
+## Combination Properties
+
+nC0 = 1
+
+nCn = 1
+
+nC1 = n
+
+nCr = nC(n−r)
+
+--------------------------------------------------
+
+## Solved Example 1
+
+Choose 2 students from 5 students.
+
+5C2
+
+= 5! / (2!3!)
+
+= 120 / (2×6)
+
+= 10
+
+Answer:
+
+10 ways
+
+--------------------------------------------------
+
+## Solved Example 2
+
+Choose 3 books from 8 books.
+
+8C3
+
+= 8! / (3!5!)
+
+= (8×7×6)/(3×2×1)
+
+= 56
+
+--------------------------------------------------
+
+## Solved Example 3
+
+Choose a committee of 4 members from 10 people.
+
+10C4
+
+= 210
+
+--------------------------------------------------
+
+## Shortcut Techniques
+
+• Use
+
+nCr = nC(n−r)
+
+Choose the smaller value of r.
+
+Example
+
+12C10
+
+=
+
+12C2
+
+which is much easier.
+
+• Cancel factorials before multiplying.
+
+• Never calculate huge factorials completely.
+
+--------------------------------------------------
+
+## Difference from Permutation
+
+Permutation
+
+• Arrangement
+
+• Order matters
+
+Combination
+
+• Selection
+
+• Order does not matter
+
+--------------------------------------------------
+
+## Common Mistakes
+
+• Using permutation formula
+
+• Ignoring symmetry property
+
+• Calculating full factorial unnecessarily
+
+• Treating selection as arrangement
+
+--------------------------------------------------
+
+## Real-World Applications
+
+• Selecting cricket teams
+
+• Committee formation
+
+• Scholarship selection
+
+• Lottery selection
+
+• Jury selection
+
+• Group projects
+
+--------------------------------------------------
+
+## Placement Tips
+
+• First ask:
+"Does order matter?"
+
+If NO
+
+→ Use Combination.
+
+• Remember symmetry property.
+
+• Simplify factorials first.
+
+• Practice committee and team questions.
+
+--------------------------------------------------
+
+## Interview Questions
+
+1. What is Combination?
+
+Answer:
+Selection where order does not matter.
+
+2. Formula of Combination?
+
+Answer:
+
+nCr = n! / [r!(n−r)!]
+
+3. Difference between Combination and Permutation?
+
+Answer:
+Combination is selection.
+Permutation is arrangement.
+
+4. What is nC0?
+
+Answer:
+1
+
+5. Why is nCr = nC(n−r)?
+
+Answer:
+Choosing r objects is equivalent to rejecting (n−r) objects.
+
+--------------------------------------------------
+
+## Quick Summary
+
+• Combination = Selection
+
+• Order does NOT matter
+
+• Formula
+
+nCr = n! / [r!(n−r)!]
+
+• nCr = nC(n−r)
+
+• Always simplify factorials before calculation

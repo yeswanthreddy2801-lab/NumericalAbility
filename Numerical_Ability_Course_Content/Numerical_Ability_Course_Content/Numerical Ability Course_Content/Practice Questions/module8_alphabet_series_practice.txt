@@ -1,0 +1,23 @@
+ALPHABET SERIES - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. Find next: A, B, C, ?
+
+2. Find next: A, C, E, ?
+
+3. Complete series: B, D, F, ?
+
+4. Find pattern in letters.
+
+5. Solve skip-letter sequence.
+
+6. Convert letters to numbers.
+
+7. Find missing alphabet.
+
+8. Solve reverse alphabet series.
+
+9. Mixed pattern alphabet questions.
+
+10. Practice logic-based alphabet series.

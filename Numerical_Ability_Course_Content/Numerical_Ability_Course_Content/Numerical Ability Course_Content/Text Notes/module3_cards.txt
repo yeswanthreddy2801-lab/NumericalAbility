@@ -1,0 +1,124 @@
+PROBABILITY - COINS & DICE (TEXT NOTES)
+
+============================================================
+
+1. INTRODUCTION
+
+Probability is the measure of chance of an event occurring.
+It is widely used in mathematics, games, statistics, and real-life decision making.
+
+Formula:
+Probability = Favorable Outcomes / Total Outcomes
+
+============================================================
+
+2. BASIC TERMS
+
+• Experiment: An action that produces an outcome (e.g., tossing a coin)
+• Outcome: A possible result of an experiment
+• Sample Space: Set of all possible outcomes
+• Event: A subset of sample space
+
+============================================================
+
+3. COIN CONCEPTS
+
+One Coin:
+• Outcomes = {H, T}
+• Total outcomes = 2
+
+Two Coins:
+• Outcomes = {HH, HT, TH, TT}
+• Total outcomes = 4
+
+Three Coins:
+• Total outcomes = 2^3 = 8
+
+General Rule:
+• n coins → 2^n outcomes
+
+============================================================
+
+4. DICE CONCEPTS
+
+One Dice:
+• Outcomes = {1, 2, 3, 4, 5, 6}
+• Total outcomes = 6
+
+Two Dice:
+• Total outcomes = 6 × 6 = 36
+
+Three Dice:
+• Total outcomes = 6^3
+
+General Rule:
+• n dice → 6^n outcomes
+
+============================================================
+
+5. IMPORTANT PROBABILITY RULES
+
+• Probability always lies between 0 and 1
+• 0 → Impossible event
+• 1 → Certain event
+
+Example:
+P(Head) = 1/2
+
+============================================================
+
+6. SAMPLE SPACE EXAMPLES
+
+Two Coins:
+S = {HH, HT, TH, TT}
+
+One Dice:
+S = {1, 2, 3, 4, 5, 6}
+
+Two Dice:
+36 possible ordered pairs
+
+============================================================
+
+7. IMPORTANT RESULTS
+
+• Sum of 7 in two dice = 6 outcomes
+  → Probability = 6/36 = 1/6
+
+• Sum of 2 = 1 outcome (1,1)
+• Sum of 12 = 1 outcome (6,6)
+
+============================================================
+
+8. COMPLEMENT METHOD
+
+Used when finding “at least” or “not” cases.
+
+Formula:
+P(A) = 1 - P(not A)
+
+Example:
+At least one head = 1 - (no head)
+
+============================================================
+
+9. KEY SHORTCUTS
+
+• Coin → 2 outcomes
+• Dice → 6 outcomes
+• Multiply for multiple trials
+• Use complement for complex problems
+
+============================================================
+
+10. APPLICATIONS
+
+• Games and gambling
+• Weather prediction
+• Risk analysis
+• Decision making
+• Statistics
+
+============================================================
+
+END OF NOTES

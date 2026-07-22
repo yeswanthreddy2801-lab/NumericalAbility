@@ -1,0 +1,194 @@
+CALENDARS 2 (Advanced Calendar Problems)
+
+============================================================
+
+LEARNING OBJECTIVES
+
+After completing this topic, you will be able to:
+
+• Solve advanced calendar aptitude problems.
+• Find the day of the week for any given date.
+• Calculate odd days accurately.
+• Understand leap year concepts.
+• Solve recurring day and calendar repetition problems.
+• Apply shortcut methods in placement examinations.
+
+============================================================
+
+INTRODUCTION
+
+Calendar problems are frequently asked in placement tests, banking examinations, SSC, UPSC, and other competitive exams. Most questions are based on leap years, odd days, weekdays, and repeating calendar patterns.
+
+============================================================
+
+IMPORTANT CONCEPTS
+
+1. Ordinary Year
+• 365 days
+• 52 weeks + 1 odd day
+
+2. Leap Year
+• 366 days
+• 52 weeks + 2 odd days
+
+3. Leap Year Rules
+• Divisible by 4 → Leap Year
+• Century years must also be divisible by 400.
+
+Examples:
+2000 ✔ Leap Year
+1900 ✘ Not Leap Year
+2024 ✔ Leap Year
+2025 ✘ Ordinary Year
+
+============================================================
+
+MONTH-WISE DAYS
+
+January      - 31
+February     - 28 (29 in leap year)
+March        - 31
+April        - 30
+May          - 31
+June         - 30
+July         - 31
+August       - 31
+September    - 30
+October      - 31
+November     - 30
+December     - 31
+
+============================================================
+
+ODD DAYS
+
+7 Days = 0 Odd Days
+
+1 Day = 1 Odd Day
+
+365 Days = 1 Odd Day
+
+366 Days = 2 Odd Days
+
+100 Years = 5 Odd Days
+
+200 Years = 3 Odd Days
+
+300 Years = 1 Odd Day
+
+400 Years = 0 Odd Days
+
+============================================================
+
+WEEKDAY MAPPING
+
+0 → Sunday
+
+1 → Monday
+
+2 → Tuesday
+
+3 → Wednesday
+
+4 → Thursday
+
+5 → Friday
+
+6 → Saturday
+
+============================================================
+
+SHORTCUT TECHNIQUES
+
+• Memorize odd days for 100-year cycles.
+• Divide total odd days by 7 and take the remainder.
+• Use the 400-year repetition rule.
+• Learn month-wise days thoroughly.
+• Always check whether the given year is a leap year.
+
+============================================================
+
+SOLVED EXAMPLE 1
+
+Find the day on 1 January 2025.
+
+2024 is a leap year.
+
+Odd Days from 2024 = 2
+
+Therefore,
+
+1 January 2025 falls two days after Monday.
+
+Answer: Wednesday
+
+============================================================
+
+SOLVED EXAMPLE 2
+
+Is 2100 a leap year?
+
+2100 is divisible by 100 but not divisible by 400.
+
+Therefore,
+
+2100 is NOT a leap year.
+
+============================================================
+
+COMMON MISTAKES
+
+• Forgetting century leap year rules.
+• Ignoring leap years while calculating odd days.
+• Incorrect month-day calculations.
+• Using wrong weekday mapping.
+
+============================================================
+
+REAL-WORLD APPLICATIONS
+
+• Event scheduling
+• Banking transactions
+• Government offices
+• Railway reservations
+• Airline scheduling
+• Project planning
+• Digital calendar applications
+
+============================================================
+
+PLACEMENT TIPS
+
+• Memorize leap year rules.
+• Learn odd day values.
+• Solve previous placement questions.
+• Practice date calculation daily.
+• Use elimination in MCQs.
+
+============================================================
+
+PLACEMENT INTERVIEW QUESTIONS
+
+1. What is an odd day?
+2. Explain leap year rules.
+3. Why does the calendar repeat after 400 years?
+4. How do you calculate the weekday of a given date?
+5. What are the applications of calendar calculations?
+
+============================================================
+
+QUICK SUMMARY
+
+✓ Ordinary Year = 365 Days
+
+✓ Leap Year = 366 Days
+
+✓ 400-Year Cycle repeats
+
+✓ Use Odd Days Method
+
+✓ Learn Month Days
+
+✓ Check Leap Year Carefully
+
+============================================================

@@ -1,0 +1,23 @@
+NUMBER SERIES - PRACTICE QUESTIONS
+
+--------------------------------------------------
+
+1. Find next number: 3, 6, 9, ?
+
+2. Find next number: 5, 10, 20, ?
+
+3. Complete series: 1, 4, 9, ?
+
+4. Complete series: 2, 8, 18, ?
+
+5. Find missing term: 7, 14, 28, ?
+
+6. Identify pattern in series.
+
+7. Solve mixed pattern series.
+
+8. Find square-based series.
+
+9. Find cube-based series.
+
+10. Practice missing number problems.

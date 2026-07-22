@@ -1,0 +1,128 @@
+ODD MAN OUT & ANALOGIES (CODING & DECODING BASICS)
+
+============================================================
+
+LEARNING OBJECTIVES
+
+After completing this topic, you will be able to:
+
+• Identify odd elements in a group
+• Solve analogy-based aptitude questions
+• Improve logical reasoning speed
+• Recognize patterns in numbers, letters, and words
+• Apply shortcut elimination techniques in exams
+
+============================================================
+
+INTRODUCTION
+
+Odd Man Out and Analogies are important topics in reasoning aptitude. These questions test your ability to identify patterns, relationships, and differences between given items.
+
+============================================================
+
+ODD MAN OUT CONCEPT
+
+In Odd Man Out questions:
+• A group of items is given
+• All items follow a pattern except one
+• You must identify the different one
+
+Types:
+1. Number-based
+2. Alphabet-based
+3. Word-based
+4. Mixed pattern
+
+============================================================
+
+ANALOGY CONCEPT
+
+Analogy means relationship between two elements.
+
+Format:
+A : B :: C : ?
+
+You must find relationship between A and B, then apply same to C.
+
+============================================================
+
+IMPORTANT RELATION TYPES
+
+• Synonyms / Antonyms
+• Number patterns
+• Letter shifting
+• Group classification
+• Mathematical operations
+• Word meaning relationship
+
+============================================================
+
+SHORTCUT TECHNIQUES
+
+• Look for pattern first, not calculation
+• Compare differences, ratios, or sequences
+• Eliminate obvious wrong options
+• Check alphabetical positions quickly
+• Practice common analogy pairs
+
+============================================================
+
+SOLVED EXAMPLE 1 (ODD MAN OUT)
+
+2, 4, 8, 16, 18
+
+Answer: 18 (not power of 2)
+
+============================================================
+
+SOLVED EXAMPLE 2 (ANALOGY)
+
+Book : Reading :: Fork : ?
+
+Answer: Eating
+
+============================================================
+
+COMMON MISTAKES
+
+• Not checking full pattern
+• Overthinking simple questions
+• Ignoring sequence logic
+• Confusing analogy relation types
+
+============================================================
+
+REAL WORLD APPLICATIONS
+
+• Logical reasoning tests
+• Competitive exams
+• HR aptitude rounds
+• Problem-solving interviews
+
+============================================================
+
+PLACEMENT TIPS
+
+• Practice daily pattern recognition
+• Learn common analogy relationships
+• Improve speed with elimination method
+• Focus on accuracy + logic
+
+============================================================
+
+INTERVIEW QUESTIONS
+
+1. What is Odd Man Out?
+2. What is analogy in reasoning?
+3. How do you solve analogy questions quickly?
+4. What are common pattern types?
+5. Where are these used in placements?
+
+============================================================
+
+QUICK SUMMARY
+
+✓ Odd Man Out = Find different element
+✓ Analogy = Relationship mapping
+✓ Focus on patterns, not calculations
+✓ Use elimination technique

@@ -1,0 +1,297 @@
+TIME AND WORK
+Introduction
+
+Time and Work is one of the most important aptitude topics asked in placement exams like TCS, Infosys, Accenture, Capgemini, Cognizant, Wipro, Deloitte, EY, HCL and Tech Mahindra.
+
+These problems deal with the amount of work completed by one or more persons or machines in a given time.
+
+The key concept is:
+
+Work = Rate × Time
+
+If total work is assumed as 1 unit,
+
+Work done in one day = 1 / Number of days
+
+Example:
+
+If Ram completes a work in 10 days,
+
+One day's work
+
+= 1/10
+
+If Ravi completes the same work in 20 days,
+
+One day's work
+
+= 1/20
+
+Together,
+
+One day's work
+
+= 1/10 + 1/20
+
+= 3/20
+
+Hence,
+
+Time required together
+
+= 20/3 days
+
+Basic Formula
+
+Work = Rate × Time
+
+Rate = Work / Time
+
+Time = Work / Rate
+
+One Day Work
+
+If a person finishes a work in N days,
+
+One day's work = 1/N
+
+Combined Work
+
+If
+
+A finishes in x days
+
+B finishes in y days
+
+Together
+
+One day work
+
+= 1/x + 1/y
+
+Time together
+
+= xy/(x+y)
+
+Difference Formula
+
+If
+
+A is faster than B,
+
+Extra work/day
+
+= (1/x − 1/y)
+
+Efficiency
+
+Efficiency is directly proportional to work done.
+
+If
+
+A is twice as efficient as B,
+
+Efficiency ratio
+
+2 : 1
+
+Time ratio
+
+1 : 2
+
+Higher efficiency means lower time.
+
+Ratio Method
+
+If
+
+A:B efficiency
+
+= 3:5
+
+Time ratio
+
+= 5:3
+
+LCM Method
+
+Instead of assuming work =1,
+
+Take total work as LCM of all given days.
+
+Example
+
+A =12 days
+
+B =18 days
+
+LCM
+
+36
+
+A work/day
+
+3 units
+
+B work/day
+
+2 units
+
+Together
+
+5 units/day
+
+Time
+
+36/5 days
+
+Shortcut Tricks
+Work is inversely proportional to time.
+Efficiency ↑ ⇒ Time ↓
+Assume total work as LCM whenever possible.
+For two persons,
+
+Time together
+
+= xy/(x+y)
+
+For three persons,
+
+Add all one-day works first.
+
+Solved Example 1
+
+A completes work in 10 days.
+
+B completes work in 15 days.
+
+Find together.
+
+Solution
+
+One day work
+
+1/10 + 1/15
+
+=5/30
+
+=1/6
+
+Answer
+
+6 days
+
+Solved Example 2
+
+A completes work in 24 days.
+
+B is twice as efficient.
+
+Therefore
+
+B takes
+
+12 days
+
+Together
+
+1/24+1/12
+
+=3/24
+
+=1/8
+
+Answer
+
+8 days
+
+Common Mistakes
+
+• Adding days directly
+
+Wrong
+
+10+20=30
+
+Correct
+
+Add work rates
+
+• Forgetting efficiency relation
+
+Efficiency and time are inverse.
+
+• Using different total work values.
+
+Always use one assumption.
+
+Real World Applications
+
+Construction projects
+
+Software development
+
+Manufacturing
+
+Machine productivity
+
+Team assignments
+
+Factory production
+
+Agriculture
+
+Project management
+
+Placement Tips
+
+Always convert days into one-day work.
+
+Use LCM for easier calculations.
+
+Memorize xy/(x+y).
+
+Practice efficiency questions separately.
+
+Interview Questions
+What is one-day work?
+
+Answer:
+
+Amount of work completed in one day.
+
+What is efficiency?
+
+Ability to complete work per unit time.
+
+Difference between work and rate?
+
+Work is total task.
+
+Rate is work per day.
+
+Why use LCM?
+
+To avoid fractions.
+
+Can efficiency and time increase together?
+
+No.
+
+They are inversely proportional.
+
+Quick Summary
+
+Work = Rate × Time
+
+One day work =1/N
+
+Together = Sum of rates
+
+Efficiency ∝ Work
+
+Efficiency ∝1/Time
+
+LCM method reduces fractions.
+
+Always calculate rates first.

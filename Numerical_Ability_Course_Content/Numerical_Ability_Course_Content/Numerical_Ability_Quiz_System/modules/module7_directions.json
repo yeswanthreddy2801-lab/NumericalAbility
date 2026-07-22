@@ -1,0 +1,107 @@
+{
+    "title": "Directions Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "North means:",
+            "options": [
+                "Down",
+                "Up",
+                "Left",
+                "Right"
+            ],
+            "answer": "Up"
+        },
+        {
+            "question": "South means:",
+            "options": [
+                "Up",
+                "Down",
+                "Left",
+                "Right"
+            ],
+            "answer": "Down"
+        },
+        {
+            "question": "East means:",
+            "options": [
+                "Left",
+                "Right",
+                "Up",
+                "Down"
+            ],
+            "answer": "Right"
+        },
+        {
+            "question": "West means:",
+            "options": [
+                "Right",
+                "Left",
+                "Up",
+                "Down"
+            ],
+            "answer": "Left"
+        },
+        {
+            "question": "Right turn is:",
+            "options": [
+                "Clockwise",
+                "Anti-clockwise",
+                "Straight",
+                "None"
+            ],
+            "answer": "Clockwise"
+        },
+        {
+            "question": "Left turn is:",
+            "options": [
+                "Clockwise",
+                "Anti-clockwise",
+                "Straight",
+                "None"
+            ],
+            "answer": "Anti-clockwise"
+        },
+        {
+            "question": "Directions are based on:",
+            "options": [
+                "Movement",
+                "Weight",
+                "Time",
+                "Speed"
+            ],
+            "answer": "Movement"
+        },
+        {
+            "question": "Best method:",
+            "options": [
+                "Diagram",
+                "Guessing",
+                "Skipping",
+                "Random"
+            ],
+            "answer": "Diagram"
+        },
+        {
+            "question": "Final position depends on:",
+            "options": [
+                "Direction + distance",
+                "Weight",
+                "Speed",
+                "Time"
+            ],
+            "answer": "Direction + distance"
+        },
+        {
+            "question": "Directions are used in:",
+            "options": [
+                "Exams",
+                "Cooking",
+                "Music",
+                "Art"
+            ],
+            "answer": "Exams"
+        }
+    ]
+}

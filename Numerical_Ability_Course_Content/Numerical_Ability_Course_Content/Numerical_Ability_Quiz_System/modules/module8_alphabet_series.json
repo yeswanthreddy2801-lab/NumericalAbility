@@ -1,0 +1,107 @@
+{
+    "title": "Alphabet Series Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "A = ?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "1"
+        },
+        {
+            "question": "B = ?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "A, C, E is:",
+            "options": [
+                "+1",
+                "+2",
+                "+3",
+                "-2"
+            ],
+            "answer": "+2"
+        },
+        {
+            "question": "Alphabet series uses:",
+            "options": [
+                "Numbers",
+                "Letters",
+                "Shapes",
+                "Colors"
+            ],
+            "answer": "Letters"
+        },
+        {
+            "question": "Z = ?",
+            "options": [
+                "25",
+                "26",
+                "27",
+                "24"
+            ],
+            "answer": "26"
+        },
+        {
+            "question": "Pattern means:",
+            "options": [
+                "Random",
+                "Logical order",
+                "Guessing",
+                "Writing"
+            ],
+            "answer": "Logical order"
+        },
+        {
+            "question": "A, B, C is:",
+            "options": [
+                "Ascending",
+                "Descending",
+                "Random",
+                "Mixed"
+            ],
+            "answer": "Ascending"
+        },
+        {
+            "question": "Series improves:",
+            "options": [
+                "Logic",
+                "Drawing",
+                "Music",
+                "Sports"
+            ],
+            "answer": "Logic"
+        },
+        {
+            "question": "Best method:",
+            "options": [
+                "Guess",
+                "Convert",
+                "Skip",
+                "Draw"
+            ],
+            "answer": "Convert"
+        },
+        {
+            "question": "Used in:",
+            "options": [
+                "Exams",
+                "Cooking",
+                "Music",
+                "Games"
+            ],
+            "answer": "Exams"
+        }
+    ]
+}

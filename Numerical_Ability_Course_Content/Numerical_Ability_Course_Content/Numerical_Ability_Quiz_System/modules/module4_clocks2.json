@@ -1,0 +1,107 @@
+{
+    "title": "Clocks 2 Quiz",
+    "duration": 20,
+    "passingMarks": 12,
+    "questions": [
+        {
+            "question": "Mirror formula is:",
+            "options": [
+                "12:00 - time",
+                "11:60 - time",
+                "10:50 - time",
+                "9:00 - time"
+            ],
+            "answer": "11:60 - time"
+        },
+        {
+            "question": "Clock gain means:",
+            "options": [
+                "Slow clock",
+                "Fast clock",
+                "Stopped clock",
+                "Broken clock"
+            ],
+            "answer": "Fast clock"
+        },
+        {
+            "question": "Clock loss means:",
+            "options": [
+                "Fast clock",
+                "Slow clock",
+                "Correct clock",
+                "Stopped clock"
+            ],
+            "answer": "Slow clock"
+        },
+        {
+            "question": "Mirror of 3:15 is:",
+            "options": [
+                "8:45",
+                "7:45",
+                "6:15",
+                "9:15"
+            ],
+            "answer": "8:45"
+        },
+        {
+            "question": "Clock error is measured per:",
+            "options": [
+                "Hour",
+                "Day",
+                "Minute",
+                "Second"
+            ],
+            "answer": "Day"
+        },
+        {
+            "question": "Clock correction is based on:",
+            "options": [
+                "Weight",
+                "Time difference",
+                "Distance",
+                "Speed"
+            ],
+            "answer": "Time difference"
+        },
+        {
+            "question": "Mirror concept is related to:",
+            "options": [
+                "Reflection",
+                "Addition",
+                "Division",
+                "Probability"
+            ],
+            "answer": "Reflection"
+        },
+        {
+            "question": "11:60 rule is used for:",
+            "options": [
+                "Addition",
+                "Mirror image",
+                "Subtraction",
+                "Multiplication"
+            ],
+            "answer": "Mirror image"
+        },
+        {
+            "question": "Clock gain per day means:",
+            "options": [
+                "Slow clock",
+                "Fast clock",
+                "Stopped clock",
+                "Normal clock"
+            ],
+            "answer": "Fast clock"
+        },
+        {
+            "question": "Clock loss per day means:",
+            "options": [
+                "Fast clock",
+                "Slow clock",
+                "Correct clock",
+                "Broken clock"
+            ],
+            "answer": "Slow clock"
+        }
+    ]
+}
