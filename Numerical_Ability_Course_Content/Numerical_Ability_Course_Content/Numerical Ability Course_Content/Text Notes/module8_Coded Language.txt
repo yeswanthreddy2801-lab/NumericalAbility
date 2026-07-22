@@ -1,142 +1,109 @@
-CODED LANGUAGE (CODING & DECODING)
+Coded Language — Coding & Decoding (Detailed Notes)
 
 ============================================================
+1. OBJECTIVE
 
-LEARNING OBJECTIVES
-
-After completing this topic, you will be able to:
-
-• Understand coding and decoding patterns
-• Solve letter shifting problems
-• Decode word-based logic
-• Improve reasoning speed for placements
-• Apply shortcut techniques in exams
+Recognize and apply common coding schemes used in aptitude tests: positional shifts, alternate/interleaved patterns, pair swaps, mirror mappings, numeric encodings, and word-based substitutions. Practice decoding and encoding reliably under time pressure.
 
 ============================================================
+2. BASIC TOOLS & NOTATION
 
-INTRODUCTION
-
-Coded Language is a reasoning topic where words or numbers are given in a coded form. You must identify the pattern and decode or encode the message.
-
-============================================================
-
-TYPES OF CODING
-
-1. Letter Shifting
-2. Number Coding
-3. Substitution Coding
-4. Word Pattern Coding
-5. Mixed Coding
+- Alphabet positions: A=1 ... Z=26.
+- Shift operator: +k means advance k positions (wrap around after Z), −k means go back k.
+- Mirror mapping: map letter ↔ 27 − position (A↔Z, B↔Y).
+- Modulo wrap: newPos = ((pos − 1 + shift) mod 26) + 1.
 
 ============================================================
+3. COMMON CODING SCHEMES
 
-LETTER SHIFTING
+A. Simple shift: Each letter shifted by fixed k.
+	Example: +2 ⇒ A→C, B→D.
 
-A → B → C → D ... Z
+B. Progressive shift: shifts increase/decrease across positions.
+	Example: +1, +2, +3, ... (cumulative pattern).
 
-Example:
-A + 1 = B
-B + 2 = D
+C. Alternate/interleaved patterns: odd and even positions follow different rules.
+	Example: odd positions +1, even positions −1.
 
-Used in shifting-based coding questions.
+D. Reverse or mirror code: map letters to their mirror (A↔Z). Can combine with shifts.
 
-============================================================
+E. Pair swapping and transposition: swap adjacent letters or swap first/last, etc.
 
-NUMBER CODING
+F. Numeric substitution: letters map to numbers (A=1) or other numeric keys; may be concatenated or summed.
 
-Letters are replaced by numbers.
+G. Word-level substitution: replace words with synonyms, antonyms, or arbitrary tokens.
 
-Example:
-A = 1, B = 2, C = 3
-
-HELLO → 8 5 12 12 15
-
-============================================================
-
-SUBSTITUTION CODING
-
-Words are replaced with other words.
-
-Example:
-Apple = Red Fruit
-Then Apple is coded as Red Fruit.
+H. Mixed coding: combine two or more rules (e.g., shift + reverse every third letter).
 
 ============================================================
+4. STRATEGY TO DECODE
 
-SHORTCUT TECHNIQUES
-
-• Identify pattern first
-• Check position values (A=1, Z=26)
-• Compare multiple examples
-• Eliminate wrong options quickly
-
-============================================================
-
-SOLVED EXAMPLE 1
-
-If A = 1, B = 2, then CAT = ?
-
-C = 3, A = 1, T = 20
-
-Answer: 3 1 20
+1) Look for examples (cipher pairs) given in question; compute position differences.
+2) Test simple shifts first (constant k). If fails, test progressive or alternating shifts.
+3) Check for reversed/mirror patterns: compute (pos + codedPos) — constant 27 suggests mirror.
+4) For numeric codes, check whether numbers are positional values, sums, products, or concatenations.
+5) For word codes, check ordering, synonyms, or fixed substitution tables.
+6) When ambiguous, split sequence into odd/even subsequences and analyze separately.
 
 ============================================================
+5. WORKED EXAMPLES
 
-SOLVED EXAMPLE 2
+Example 1 — Constant shift
+If CAT → DBU (each letter +1). Then DOG → EPH.
+Encode CODE with +2: C→E,O→Q,D→F,E→G ⇒ EQFG.
 
-If DOG = EPH, then CAT = ?
+Example 2 — Progressive shift
+If letters encoded as: +1, +2, +3 for successive letters.
+FACE: F(+1)→G, A(+2)→C, C(+3)→F, E(+4)→I ⇒ GCFI.
 
-Each letter +1 shift
+Example 3 — Mirror mapping
+If A↔Z mapping used: HELLO → SVOOL (H→S, E→V, L→O, L→O, O→L).
 
-C → D
-A → B
-T → U
+Example 4 — Numeric concatenation
+If HELLO → 8 5 12 12 15 concatenated → 85121215 (watch ambiguity; many problems keep spaces).
 
-Answer: DBU
-
-============================================================
-
-COMMON MISTAKES
-
-• Ignoring shift pattern
-• Wrong alphabet position
-• Mixing rules in same question
-• Not checking consistency
+Example 5 — Pair swap
+If code swaps adjacent letters: BAG -> AGB.
 
 ============================================================
+6. PRACTICE PROBLEMS (ANSWERS AFTER)
 
-REAL WORLD APPLICATIONS
+1) If APPLE → BQQMF (each letter +1), then BANANA → ?
+2) If MIRROR mapping used (A↔Z), what is CODE → ?
+3) Given pattern: letter positions are reversed and then +1: A→ (Z+1→A) effectively rotates; decode: X → ? (explain)
+4) If alternate shift (+1 for odd pos, −1 for even pos): HELLO → ?
+5) If word CODE → 3-15-4-5 (A=1...), reconstruct WORD from numbers: 23-15-18-4 ⇒ ?
 
-• Cryptography
-• Data security
-• Competitive exams
-• Logical reasoning tests
-• Computer science encoding
-
-============================================================
-
-PLACEMENT TIPS
-
-• Practice alphabet positions daily
-• Learn shift patterns
-• Solve previous aptitude questions
-• Focus on speed + accuracy
+Answers:
+1) BANANA +1 → CBOBOB? (compute: B→C, A→B, N→O, A→B, N→O, A→B ⇒ CBOBOB).
+2) Mirror of CODE: C(3)↔X(24), O(15)↔L(12), D(4)↔W(23), E(5)↔V(22) ⇒ XLWV.
+3) If reverse then +1, X (24) mirrored → C (3), +1 → D — depends on rule; clarify when applying combined rules.
+4) HELLO positions: H8(+1)→I, E5(−1)→D, L12(+1)→M, L12(−1)→K, O15(+1)→P ⇒ I D M K P → IDMKP.
+5) 23-15-18-4 → W O R D ⇒ WORD.
 
 ============================================================
+7. ADVANCED CODING PATTERNS
 
-INTERVIEW QUESTIONS
-
-1. What is coding and decoding?
-2. What are types of coding?
-3. How does letter shifting work?
-4. What is substitution coding?
-5. Where is coded language used?
+- Arithmetic combos: apply +k to letters at prime indices only.
+- Matrix codes: arrange letters in grid then read by rows/columns.
+- Positional sum codes: coded number = sum of letter positions ± constant.
 
 ============================================================
+8. TIPS & SHORTCUTS
 
-QUICK SUMMARY
+- Always convert letters ↔ numeric positions quickly.
+- Test simple rules (constant shift) first.
+- Split into subsequences when pattern seems alternating or interleaved.
+- Watch for wrap-around: Z+1 → A.
+- For numeric codes, check concatenation vs summed values.
 
-✓ Coding = Hidden message system
-✓ Decoding = Finding original message
-✓ A=1 to Z=26 system important
-✓ Shift logic is key
+============================================================
+9. COMMON MISTAKES
+
+- Applying shift without modulo wrap.
+- Misreading spaces in numeric concatenations.
+- Mixing up order for pair-swap problems.
+- Failing to consider odd/even index rules.
+
+============================================================
+END OF CODED LANGUAGE NOTES

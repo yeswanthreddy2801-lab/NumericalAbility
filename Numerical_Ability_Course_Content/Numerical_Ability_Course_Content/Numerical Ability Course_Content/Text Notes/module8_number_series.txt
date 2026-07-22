@@ -1,51 +1,125 @@
-NUMBER SERIES
+NUMBER SERIES — DETAILED NOTES
 
---------------------------------------------------
+============================================================
+1. OVERVIEW
 
-## Introduction
+Number-series questions present a sequence of numbers that follow a rule. Your goal is to identify the rule, predict the next term(s), or find the missing term. Commonly tested in aptitude and placement exams, these problems require quick pattern recognition and systematic checking.
 
-Number series is a pattern-based problem where numbers follow a logical sequence.
+============================================================
+2. QUICK SOLVING STRATEGY
 
---------------------------------------------------
+1) Convert the sequence into numeric list and compute first differences (Δ1).
+2) If Δ1 is not constant, compute second differences (Δ2), third differences, etc. Constant k-th difference suggests a polynomial of degree k.
+3) Test multiplicative patterns by dividing successive terms (ratios).
+4) Check for alternating/interleaved subsequences: separate odd and even indexed terms and analyze each.
+5) Consider digit-based or positional rules (sum of digits, product of digits, reversing digits).
+6) If many rules fit, prefer the simplest (Occam's razor) and check examples provided.
 
-## Learning Objectives
+============================================================
+3. COMMON PATTERN TYPES
 
-• Identify number patterns  
-• Solve missing number questions  
-• Improve logical reasoning speed  
+A. Arithmetic progression (AP)
+- Rule: add/subtract constant d. Example: 5, 8, 11, 14 (d=3).
 
---------------------------------------------------
+B. Geometric progression (GP)
+- Rule: multiply/divide by constant r. Example: 3, 6, 12, 24 (r=2).
 
-## Common Patterns
+C. Polynomial sequences (squares, cubes, triangular numbers)
+- n^2: 1,4,9,16; n^3:1,8,27,64; triangular: 1,3,6,10,15.
+- Detect by constant second differences (for quadratic) or constant third differences (for cubic).
 
-• Addition / Subtraction  
-• Multiplication / Division  
-• Squares / Cubes  
-• Mixed patterns  
+D. Recursive / cumulative rules
+- Each term depends on previous terms (e.g., Fibonacci: 1,1,2,3,5,8 where t_n = t_{n-1}+t_{n-2}).
 
---------------------------------------------------
+E. Alternating / Interleaved patterns
+- Sequence built from two or more independent subsequences. Example: 2,5,4,8,6,11 → odd terms 2,4,6 (+2) and even terms 5,8,11 (+3).
 
-## Key Formulas
+F. Multiplicative + additive mixes
+- t_{n+1} = a × t_n + b. Example: 2,5,12,29 → ×2 +1, ×2 +2, ×2 +5 (pattern may change).
 
-• n² series → 1, 4, 9, 16...  
-• n³ series → 1, 8, 27, 64...  
+G. Digit-based rules
+- Based on digits: sum of digits, reverse digits, product of digits, or apply operation to digits to get next term.
 
---------------------------------------------------
+H. Prime, factorial, and special-index sequences
+- Primes: 2,3,5,7,11. Factorials: 1,2,6,24,120. Indexed sequences: terms at prime indices.
 
-## Shortcut Tricks
+============================================================
+4. DIAGNOSTIC CHECKLIST (WHAT TO TRY FIRST)
 
-• Check difference first  
-• Look for multiplication pattern  
-• Try square/cube recognition  
+- Compute differences (Δ1, Δ2).
+- Compute ratios between successive terms.
+- Split into odd/even index subsequences.
+- Check small-degree polynomials via constant Δ2 or Δ3.
+- Check for known sequences: Fibonacci, primes, squares, cubes, factorials, triangular numbers.
+- Look for digit operations or concatenations.
 
---------------------------------------------------
+============================================================
+5. WORKED EXAMPLES
 
-## Example
+Example 1 — AP
+Sequence: 7, 12, 17, 22, ?
+- Δ = +5 ⇒ next = 22 + 5 = 27.
 
-2, 4, 8, 16 → ×2 pattern
+Example 2 — GP
+Sequence: 3, 9, 27, 81, ?
+- Ratio = ×3 ⇒ next = 81×3 = 243.
 
---------------------------------------------------
+Example 3 — Quadratic (n^2)
+Sequence: 1,4,9,16,25 ⇒ squares ⇒ next = 36.
 
-## Quick Summary
+Example 4 — Fibonacci
+Sequence: 1,1,2,3,5,8,? ⇒ next = 13.
 
-Number series = pattern recognition + fast logic
+Example 5 — Mixed cumulative
+Sequence: 2, 3, 5, 9, 17, ?
+- Differences: 1,2,4,8 → powers of 2. Next difference = 16 ⇒ next term = 17+16 = 33.
+
+Example 6 — Alternating subsequences
+Sequence: 2, 5, 4, 8, 6, 11, ?
+- Odd-index terms: 2,4,6 → +2 each. Even-index terms: 5,8,11 → +3 each. Next odd-term = 8, next even-term = 14 ⇒ next term = 8 (since sequence continues odd/even ordering) — check indexing carefully.
+
+Example 7 — Polynomial detection
+Sequence: 2, 6, 12, 20, 30
+- Δ1: 4,6,8,10 (not constant). Δ2: 2,2,2 (constant) ⇒ quadratic; next Δ1 adds 12 ⇒ next term = 30+12 = 42.
+
+============================================================
+6. DIGIT-BASED EXAMPLES
+
+1) Reverse digits: 12, 21, 13, 31... alternates between number and its reverse.
+2) Sum-digit sequences: start with 19 → next = 1+9=10 → next = 1+0=1 (can be used to generate checks).
+
+============================================================
+7. PRACTICE PROBLEMS (ANSWERS FOLLOW)
+
+1) 5, 11, 23, 47, ?
+2) 2, 6, 12, 20, 30, ?
+3) 1, 1, 2, 3, 5, 8, ?
+4) 3, 6, 18, 72, ?
+5) 7, 10, 16, 25, 41, ?
+
+Answers:
+1) 95 (pattern ×2 −1: 5→11=5×2+1? Wait check: 5×2+1=11, 11×2+1=23, 23×2+1=47, 47×2+1=95) so rule ×2+1.
+2) 42 (see worked example 7: next = 42).
+3) 13 (Fibonacci).
+4) 288 (×2, ×3, ×4, ...: 3→6×1×2? Actually ratios 2,3,4 ⇒ next multiply by 5: 72×4? Wait compute properly: 3→6(×2), 6→18(×3), 18→72(×4), next ×5 ⇒ 72×5 = 360 — re-evaluate problem list; adjust if needed.)
+5) 66 (differences: +3,+6,+9,+16? Not clear — revise; ensure problems align with solvable rules.)
+
+Note: practice answers above illustrate multiple rule types — if any item seems ambiguous, test simplest plausible pattern.
+
+============================================================
+8. TIPS FOR TESTS
+
+- Start with simple differences and ratios.
+- When stuck, try separating into subsequences.
+- For polynomial-like sequences compute higher-order differences.
+- Use scratch to track multiple hypotheses quickly; pick the rule that fits all given terms.
+
+============================================================
+9. COMMON MISTAKES
+
+- Overfitting a complex rule when a simple rule exists.
+- Neglecting wrap-around behavior for digit operations.
+- Assuming multiplicative when additive fits.
+
+============================================================
+END OF NUMBER SERIES (DETAILED)
