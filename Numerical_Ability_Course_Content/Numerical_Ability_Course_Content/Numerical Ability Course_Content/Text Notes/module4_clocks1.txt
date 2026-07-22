@@ -1,119 +1,141 @@
-CLOCKS (TEXT NOTES)
-
-============================================================
+CLOCKS - DETAILED NOTES
 
 1. INTRODUCTION
+Clock problems are a core aptitude topic that test your understanding of time, angles, and hand motions. They often involve finding angles between hands, calculating mirror-image times, and solving clock gain/loss problems.
 
-A clock is a device used to measure time.
-Clock problems in aptitude are based on angles, hands movement, mirror images, and clock errors.
+2. BASIC CLOCK COMPONENTS
+- Hour hand: moves slowly around the dial.
+- Minute hand: moves faster and completes one round in 60 minutes.
+- Second hand: completes one round in 60 seconds (used less often in aptitude problems).
+- A full circle = 360°.
 
-============================================================
+3. HAND MOVEMENTS
+3.1 Minute hand
+- Moves 360° in 60 minutes.
+- Movement per minute = 360° / 60 = 6°.
 
-2. BASIC CONCEPTS
+3.2 Hour hand
+- Moves 360° in 12 hours.
+- Movement per hour = 30°.
+- Movement per minute = 30° / 60 = 0.5°.
 
-Clock has 2 main hands:
-• Hour hand
-• Minute hand
+3.3 Relative movement
+- The minute hand gains 5.5° on the hour hand every minute.
+- Relative speed = 6° − 0.5° = 5.5° per minute.
 
-A full clock circle = 360°
+4. ANGLE BETWEEN HANDS
+4.1 Angle formula
+Angle between hour and minute hand = |30H − (11/2)M|.
+Here H is hour on 12-hour clock and M is minutes.
 
-============================================================
+4.2 Alternate formula
+Smaller angle = |30H − 5.5M|.
+If value > 180°, subtract from 360° to get the acute angle.
 
-3. MOVEMENT OF HANDS
+4.3 Examples
+- 12:00 → 0°
+- 3:00 → 90°
+- 6:00 → 180°
+- 9:00 → 90° (because |270| becomes 90° by subtracting from 360°)
 
-Minute Hand:
-• Moves 360° in 60 minutes
-• Moves 6° per minute
+4.4 Solving practice
+Example: Angle at 2:20.
+Angle = |30×2 − 5.5×20| = |60 − 110| = 50°.
 
-Hour Hand:
-• Moves 360° in 12 hours
-• Moves 30° per hour
-• Moves 0.5° per minute
+5. HANDS COINCIDENCE AND OPPOSITION
+5.1 Coincidence (overlap)
+The hands overlap every 65 5/11 minutes, or 12 times in 12 hours.
+General formula for coincidence: Time = 65 5/11 × k minutes after 12:00, where k = 0, 1, 2, ... 11.
 
-============================================================
+5.2 When hands are opposite
+The hands are opposite (180° apart) 11 times in 12 hours.
+General formula: Time after 12:00 = (360/11) × k minutes for k = 0, 1, 2, ... 10.
 
-4. ANGLE FORMULA
+5.3 Finding coincidence time
+To find time when hands coincide after H hours:
+Time in minutes = 60H / 11.
+Example: after 3 o’clock, coincidence occurs at 3:16 4/11.
 
-Angle between hour and minute hand:
+5.4 Finding opposite time
+Time in minutes = 60H / 11 + 30/11.
+Example: after 3 o’clock, opposite occurs at 3:16 4/11 + 30/11 = 3:49 1/11.
 
-Angle = |30H - (11/2)M|
+6. SPECIFIC CLOCK PROBLEMS
+6.1 Finding exact minute for a given angle
+Solve |30H − 5.5M| = θ and simplify for M.
 
-Where:
-H = hour
-M = minutes
+6.2 Hands in straight line
+- Straight line can be 0° or 180°.
+- 0° means overlap.
+- 180° means opposite direction.
 
-============================================================
+6.3 Hands forming a right angle
+Set |30H − 5.5M| = 90° or 270° and solve.
+There are 22 right-angle instances in 12 hours.
 
-5. IMPORTANT CLOCK ANGLES
+7. MIRROR IMAGE CLOCKS
+7.1 Mirror time formula
+Mirror time = 11:60 − original time (or 11:59 − original time, depending on convention).
+Example: Mirror image of 3:20 is 8:40.
 
-• 12:00 → 0°
-• 3:00 → 90°
-• 6:00 → 180°
-• 9:00 → 270°
+7.2 Understanding mirror time
+- A clock reflected in a vertical mirror appears reversed left-to-right.
+- The hour hand moves to the symmetric position.
+- The minute hand also reverses.
 
-============================================================
+8. CLOCK GAIN AND LOSS
+8.1 Definitions
+- Fast clock: gains time, shows more time than actual.
+- Slow clock: loses time, shows less time than actual.
 
-6. FULL ROTATION
+8.2 Finding actual time
+If a clock gains x minutes in y hours, true time passage for 60 minutes shown = 60 × y / (y + x).
+If a clock loses x minutes in y hours, true time passage for 60 minutes shown = 60 × y / (y − x).
 
-• One full rotation = 360°
-• Half rotation = 180°
+8.3 Examples
+If a clock gains 5 minutes in 3 hours, then when it shows 12:00 noon, actual time = 12:00 − 5 × 60 / (180 + 5) minutes.
 
-============================================================
+8.4 Common gain/loss problems
+- Find the time when a fast clock reads a certain time.
+- Find the actual time when a slow clock reads a certain time.
 
-7. CLOCK RANK MOVEMENT
+9. ADDITIONAL CLOCK TOPICS
+9.1 Angle covered by hands in a given time
+- Minute hand covers 6° per minute.
+- Hour hand covers 0.5° per minute.
 
-Minute hand:
-• 30 minutes = 180°
-• 15 minutes = 90°
+9.2 Time when minute and hour hands swap positions
+Solve using equations for both hand positions.
 
-Hour hand:
-• 2 hours = 60°
-• 1 hour = 30°
+9.3 Time between two events
+Use relative speed or direct angle formulas.
 
-============================================================
+10. TIPS FOR SOLVING CLOCK PROBLEMS
+- Convert the hour to 12-hour format first.
+- Use the smaller angle when asked for the angle between hands.
+- For exact times, work with fractions of minutes.
+- Check whether the problem asks for true time, mirror time, overlap time, or opposite time.
+- Avoid assuming the hands move only at integer minute marks.
 
-8. MIRROR CLOCK CONCEPT
+11. PRACTICE QUESTIONS
+1. What is the angle between hands at 5:30?
+Answer: |150 − 165| = 15°.
 
-Mirror time formula:
-Mirror Time = 11:60 - Original Time
+2. At what time between 2 and 3 o’clock are the hands aligned?
+Answer: 2:10 10/11.
 
-Used to find reflected clock images.
+3. What is the mirror image of 7:15?
+Answer: 4:45.
 
-============================================================
+4. A clock gains 10 minutes every 12 hours. If it reads 3:00 pm, what is the true time?
+Answer: 2:50.
 
-9. CLOCK ERROR / GAIN & LOSS
+12. QUICK SUMMARY
+- Minute hand moves 6° per minute.
+- Hour hand moves 0.5° per minute.
+- Angle = |30H − 5.5M|.
+- Hands coincide every 65 5/11 minutes.
+- Mirror time = 11:60 − original time.
+- Fast clock gains time, slow clock loses time.
 
-Clock may run fast or slow:
-• Fast clock → gains time
-• Slow clock → loses time
-
-Error = difference between actual time and shown time
-
-============================================================
-
-10. COMMON TYPES OF QUESTIONS
-
-• Angle between hands
-• Mirror image of time
-• Time when hands coincide
-• Clock gain/loss problems
-• Finding time after rotation
-
-============================================================
-
-11. HANDS COINCIDENCE
-
-Hands coincide approximately every:
-• 65 5/11 minutes
-
-============================================================
-
-12. IMPORTANT POINTS
-
-• Minute hand is faster than hour hand
-• Both hands overlap multiple times a day
-• Use angle formula for speed solving
-
-============================================================
-
-END OF CLOCK NOTES
+Clock problems are best solved by converting time into angles and using the correct relationship between hour and minute hands. Practice all types of questions to become comfortable with both exact times and angle-based reasoning.

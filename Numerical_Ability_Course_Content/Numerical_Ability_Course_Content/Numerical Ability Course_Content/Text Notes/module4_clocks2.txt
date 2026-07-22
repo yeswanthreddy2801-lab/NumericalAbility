@@ -4,103 +4,159 @@ CLOCKS (PART 2 - MEDIUM LEVEL)
 
 1. INTRODUCTION
 
-This section covers medium-level clock concepts like mirror images, simple angle questions, time calculations, and basic clock properties.
+This file expands medium-level clock problems: mirror times, angles between hands, times of coincidence and opposition, relative motion, derivations, worked examples, and practice problems with answers.
 
 ============================================================
 
-2. MIRROR TIME (BASIC RULE)
+2. FUNDAMENTAL FACTS (RECAP)
 
-Mirror Time = 11:60 - Original Time
-
-Steps:
-• Subtract hour from 11
-• Subtract minutes from 60
-
-Example:
-Time = 4:20
-Mirror Time = 7:40
+- A clock dial = 360°.
+- 12 hours around the dial; each hour mark = 30° (360/12).
+- Minute hand: 360° in 60 minutes ⇒ 6° per minute.
+- Hour hand: 360° in 12 hours ⇒ 30° per hour ⇒ 0.5° per minute.
+- Relative speed of minute vs hour hand = 6 − 0.5 = 5.5° per minute = 11/2 °/min.
 
 ============================================================
 
-3. BASIC ANGLE FACT
+3. ANGLE BETWEEN HOUR AND MINUTE HANDS
 
-Angle between hands:
-Angle = |30H - (11/2)M|
+Formula (absolute angle):
 
-Used for finding angle between hour and minute hands.
+Angle = |30H − (11/2)M|
 
-============================================================
+Derivation (brief):
+- Hour hand position = 30H + 0.5M degrees (H in hours, M in minutes).
+- Minute hand position = 6M degrees.
+- Angle = |(30H + 0.5M) − 6M| = |30H − 5.5M| = |30H − (11/2)M|.
 
-4. COMMON ANGLES
+Note: This gives the smaller (undirected) angle. If you need the reflex angle, subtract from 360°.
 
-• 12:00 → 0°
-• 3:00 → 90°
-• 6:00 → 180°
-• 9:00 → 270°
+Examples:
+- Find angle at 3:20 → Angle = |30×3 − 5.5×20| = |90 − 110| = 20°.
+- Find angle at 12:15 → Angle = |30×12 − 5.5×15| = |360 − 82.5| = 277.5°. Smaller angle = 360 − 277.5 = 82.5°.
 
-============================================================
-
-5. HAND MOVEMENT SPEED
-
-Minute hand:
-• 6° per minute
-
-Hour hand:
-• 0.5° per minute
-
-Difference:
-• 5.5° per minute
+Tips:
+- Always take absolute value and then min(angle, 360 − angle) when asked for the smaller angle.
 
 ============================================================
 
-6. TIME WHEN HANDS COINCIDE
+4. WHEN HANDS COINCIDE (MEET)
 
-Hands coincide when both hands are at same position.
+Condition: hour hand position = minute hand position.
 
-They coincide approximately every:
-• 65 5/11 minutes
+Equation: 30H + 0.5M = 6M ⇒ 30H = 5.5M ⇒ M = (60/11)H = 5 5/11 H minutes after H o'clock.
 
-============================================================
+Interpretation:
+- Between 0:00 and 1:00 they meet at 0 minutes (12:00). Between 1:00 and 2:00 they meet at 65/11 ≈ 5.4545 minutes after 1:00, etc.
+- General times of coincidence after H o'clock: H hours and (60H/11) minutes (reduce to within the hour by taking H mod 12 as needed).
 
-7. TIME WHEN HANDS ARE OPPOSITE
+Examples (worked):
+- Between 2 and 3 → M = (60/11)×2 = 120/11 = 10 10/11 min ⇒ 2:10 10/11 (2:10:54.545...).
+- Every ~65 5/11 minutes two consecutive coincidences are separated by that interval.
 
-Hands are opposite when angle = 180°.
-
-This happens a few times in 12 hours.
-
-============================================================
-
-8. SIMPLE CLOCK FACTS
-
-• Clock has 12 hours on dial
-• 360° full rotation
-• Each hour = 30°
+Quick method: For nth meeting after 12:00, time ≈ (720/11)×n minutes from 12:00.
 
 ============================================================
 
-9. QUICK SHORTCUTS
+5. WHEN HANDS ARE OPPOSITE
 
-• Convert time into H and M clearly
-• Use angle formula directly
-• Memorize 30H rule
-• Practice mirror formula regularly
+Condition: angle = 180° (hour and minute hands differ by 180°).
 
-============================================================
+Equation: |30H − (11/2)M| = 180 ⇒ 30H − 5.5M = ±180.
 
-10. COMMON QUESTION TYPES
+Solving for M (taking the algebraic approach):
+- 30H − 5.5M = 180 ⇒ M = (30H − 180)/(5.5) = (60H − 360)/11.
+- 30H − 5.5M = −180 ⇒ M = (30H + 180)/5.5 = (60H + 360)/11.
 
-• Find angle between hands
-• Mirror image of time
-• Time when hands coincide
-• Simple direction of hands movement
+Pick the solution that lies between 0 and 60 minutes for the specific hour interval.
 
-============================================================
+Examples:
+- Between 5 and 6: use 30×5 − 5.5M = ±180. Compute M ≈ 27 3/11 or other root as applicable.
 
-11. IMPORTANT POINT
-
-Hour hand moves slowly compared to minute hand.
-Minute hand is 12 times faster than hour hand.
+Practical note: In 12 hours, hands are opposite 11 times.
 
 ============================================================
 
-END OF CLOCKS PART 2 (MEDIUM)
+6. MIRROR (REFLECTION) TIME
+
+Rule: Mirror time across the vertical axis (like looking at the clock in a mirror):
+
+Mirror Time = (11:60) − Original Time (subtract hours from 11 and minutes from 60)
+
+More precise operational rule:
+- If minutes = 0, then mirror hour = 12 − hour and minutes remain 0. (e.g., 3:00 ↔ 9:00)
+- Otherwise, MirrorHour = 11 − H (if M ≠ 0) and MirrorMinutes = 60 − M.
+
+Examples:
+- 4:20 → Mirror = 11 − 4 : 60 − 20 = 7:40.
+- 12:00 → Mirror = 12:00 (special case when M = 0, 12 − 12 = 0 → treat as 12).
+
+Why it works: The minute hand is reflected to the opposite side of the dial horizontally; converting coordinates corresponds to reversing minute measure around 30-minute mark and shifting hour.
+
+============================================================
+
+7. RELATIVE MOTION AND RATES (USEFUL SHORTCUTS)
+
+- Relative speed = 5.5° per minute. Use this when computing how long for a given angular separation to change.
+- Time to gain/lose X degrees = X / (11/2) minutes = (2X)/11 minutes.
+
+Examples:
+- To gain 60° (one hour mark), minute hand needs (2×60)/11 = 120/11 ≈ 10.909... minutes.
+
+============================================================
+
+8. SPECIAL/COMMON CASES (MEMORIZATION)
+
+- 12:00 → angle 0° (coincide)
+- 6:00 → angle 180° (opposite)
+- 3:00 → angle 90°
+- When M = 0 (exact hour), angle = 30×H (or minimal angle after using 360 − angle rule).
+
+============================================================
+
+9. WORKED EXAMPLES (STEP-BY-STEP)
+
+a) Find the smaller angle at 7:25.
+- Hour hand = 30×7 + 0.5×25 = 210 + 12.5 = 222.5°.
+- Minute hand = 6×25 = 150°.
+- Angle = |222.5 − 150| = 72.5° (smaller angle already).
+
+b) When next will hands coincide after 3:00?
+- M = (60/11)×3 = 180/11 = 16 4/11 ⇒ 3:16 4/11 (≈ 3:16:21.82).
+
+c) Mirror of 9:50?
+- Since M ≠ 0: MirrorHour = 11 − 9 = 2, MirrorMinutes = 60 − 50 = 10 ⇒ 2:10.
+
+d) Time between consecutive coincidences?
+- Interval = 720/11 minutes = 65 5/11 minutes ≈ 65.4545 minutes.
+
+============================================================
+
+10. PRACTICE PROBLEMS (WITH QUICK ANSWERS)
+
+1) Angle between hands at 2:45.  Ans: 157.5° (smaller = 202.5? compute: hour=30×2+0.5×45=60+22.5=82.5; minute=270; angle=187.5→smaller=172.5; re-evaluate: actually minute=6×45=270; angle=|82.5−270|=187.5; smaller=360−187.5=172.5°).
+2) When between 4 and 5 are hands opposite? Ans: solve; M ≈ 32 8/11 minutes → 4:32 8/11.
+3) Mirror image of 6:00? Ans: 6:00.
+4) When do hands coincide after 10:00? Ans: M = (60/11)×10 = 600/11 = 54 6/11 ⇒ 10:54 6/11.
+
+Detailed answer note: (1) worked: 2:45 → hour=30×2+0.5×45=60+22.5=82.5; minute=270; diff=187.5; smaller=172.5°.
+
+============================================================
+
+11. TIPS FOR SOLVING EXAM QUESTIONS
+
+- Always convert hour into degrees including minute contribution: hour_deg = 30H + 0.5M.
+- Use relative speed 11/2 for time-to-angle conversions.
+- For mirror problems, handle M=0 as a special case returning 12−H if result 0 → treat as 12.
+- When stuck, compute positions (degrees) directly rather than mentally juggling formulas.
+
+============================================================
+
+12. SUMMARY
+
+- Key formulas: angle = |30H − (11/2)M|, coincidence M = 60H/11, relative speed = 11/2 °/min, mirror = 11:60 − time.
+- Practice converting times to degrees and back; many problems become straightforward algebra.
+
+============================================================
+
+END OF CLOCKS PART 2 (DETAILED NOTES)

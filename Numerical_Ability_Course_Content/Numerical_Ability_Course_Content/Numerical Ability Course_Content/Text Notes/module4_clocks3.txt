@@ -1,167 +1,107 @@
-CLOCKS 3 (Advanced Clock Problems)
+ADVANCED CLOCKS (PART 3)
 
 ------------------------------------------------------------
-LEARNING OBJECTIVES
-------------------------------------------------------------
+OVERVIEW
 
-After completing this topic, you will be able to:
-
-• Solve advanced clock aptitude questions
-• Calculate the angle between clock hands
-• Determine when hands coincide
-• Find when hands are opposite
-• Solve mirror and water image clock problems
-• Solve placement-level clock questions quickly
+Advanced clock problems cover general-angle formation, algebraic derivations for time when hands make a given angle, fractional-minute to seconds conversion, multiple occurrences in 12 hours, mirror/water-image variations, and targeted practice for placement-level questions.
 
 ------------------------------------------------------------
-INTRODUCTION
-------------------------------------------------------------
+REFRESH: KEY FACTS
 
-Clock problems are common in aptitude tests for placements. They test logical thinking, mathematical reasoning, and time calculation skills. Understanding the movement of the hour and minute hands is essential for solving these questions accurately.
-
-------------------------------------------------------------
-BASIC FACTS
-------------------------------------------------------------
-
-• A clock has 360°.
-• There are 12 hour divisions.
-• Each hour division = 30°.
-• One minute division = 6°.
-• Hour hand moves 0.5° per minute.
-• Minute hand moves 6° per minute.
-• Relative speed = 5.5° per minute.
+- Full rotation = 360°; 12 hours on dial ⇒ 1 hour = 30°.
+- Minute hand = 6°/minute; Hour hand = 0.5°/minute.
+- Relative angular speed = 11/2 = 5.5°/minute.
 
 ------------------------------------------------------------
-IMPORTANT FORMULAS
-------------------------------------------------------------
+GENERAL FORMULAS (DERIVED)
 
-1. Angle of Hour Hand
+1) Absolute positions
+- Hour hand: H_pos = 30H + 0.5M (degrees).
+- Minute hand: M_pos = 6M (degrees).
 
-Hour Angle = (30 × Hour) + (0.5 × Minutes)
+2) Angle between hands
 
-2. Angle of Minute Hand
+Angle = |H_pos − M_pos| = |30H − 5.5M| = |30H − (11/2)M|.
 
-Minute Angle = 6 × Minutes
+When asked for the smaller angle use min(Angle, 360 − Angle).
 
-3. Angle Between Hands
+3) Time when hands coincide (overlap)
 
-Angle = |Hour Angle − Minute Angle|
+Set H_pos = M_pos ⇒ 30H + 0.5M = 6M ⇒ 30H = 5.5M ⇒ M = (60/11)H minutes after H o'clock.
 
-If Angle > 180°
-Smaller Angle = 360° − Angle
+Consecutive coincidences occur every 720/11 ≈ 65.4545 minutes.
 
-4. Coinciding Hands
+4) Time when hands are opposite
 
-Time = (65 × H) / 11 minutes
-(H = hour after 12)
+Set |H_pos − M_pos| = 180 ⇒ 30H − 5.5M = ±180.
 
-5. Opposite Hands
+Solve for M: M = (60H ∓ 360)/11. Choose the root that lies in (0,60).
 
-Time = (60 × H + 360 / 11) minutes
+5) Time when hands make a given angle θ (0 ≤ θ ≤ 180)
 
-------------------------------------------------------------
-SHORTCUT TECHNIQUES
-------------------------------------------------------------
+Solve |30H − 5.5M| = θ ⇒ 30H − 5.5M = ±θ ⇒ M = (60H ∓ 2θ)/11.
 
-• Memorize 30°, 6°, and 0.5° values.
-• Always calculate both hand angles separately.
-• Subtract and choose the smaller angle.
-• Use relative speed (5.5°/minute) for quick calculations.
-• Draw a simple clock if the question seems confusing.
+This gives up to two possible times within an hour (one for +θ and one for −θ). Verify M ∈ [0,60).
+
+Conversion to minutes and seconds: If M = a + b/11 minutes, seconds = (b/11)×60 = (60b/11) seconds.
 
 ------------------------------------------------------------
-SOLVED EXAMPLES
-------------------------------------------------------------
+WORKED DERIVATIONS & EXAMPLES
 
-Example 1
+a) When do hands coincide after 4:00?
+- M = (60/11)×4 = 240/11 = 21 9/11 min ⇒ 4:21 9/11 ⇒ 4:21:49.0909...
 
-Find the angle at 3:30.
+b) When are hands opposite between 2 and 3?
+- Use M = (60×2 ± 360)/11 ⇒ two roots: (120 − 360)/11 = −240/11 (discard) and (120 + 360)/11 = 480/11 = 43 7/11 ⇒ 2:43 7/11 ≈ 2:43:38.1818.
 
-Hour Hand = (30 × 3) + (0.5 × 30)
-= 90 + 15
-= 105°
+c) When do hands make 90° between 3 and 4?
+- Solve M = (60×3 ∓ 2×90)/11 = (180 ∓ 180)/11 ⇒ roots: 0/11 = 0 (3:00 exact) and 360/11 = 32 8/11 ⇒ 3:32 8/11 (≈ 3:32:43.636). Both are valid times when angle is 90°.
 
-Minute Hand = 6 × 30
-= 180°
-
-Angle = |180 − 105|
-= 75°
-
-Answer: 75°
+d) Angle at 7:25 (rechecked)
+- H_pos = 30×7 + 0.5×25 = 222.5°; M_pos = 150°; Angle = 72.5° (smaller angle already).
 
 ------------------------------------------------------------
+HANDY TACTICS FOR EXAMS
 
-Example 2
-
-Find the angle at 6:00.
-
-Hour Hand = 180°
-
-Minute Hand = 0°
-
-Angle = 180°
+- Always express the hour hand including minute contribution: 30H + 0.5M.
+- Use the general formula M = (60H ∓ 2θ)/11 to get candidate times quickly.
+- Convert fractional minutes to seconds when options include seconds.
+- For mirror/water-image questions, apply mirror rule (11:60 − time) then check hour adjustments for M=0.
+- When multiple candidates appear, check they fall inside the current hour.
 
 ------------------------------------------------------------
+ADVANCED PRACTICE PROBLEMS (WITH ANSWERS)
 
-Example 3
-
-Find the angle at 9:00.
-
-Hour Hand = 270°
-
-Minute Hand = 0°
-
-Difference = 270°
-
-Smaller Angle = 360 − 270
-
-Answer = 90°
+1) Find the smaller angle at 1:50.  Ans: 115° (work: H=30+25=55; M=300; diff=245; smaller=115).
+2) When between 8 and 9 will hands coincide? Ans: M = (60/11)×8 = 480/11 = 43 7/11 ⇒ 8:43 7/11.
+3) Times between 5 and 6 when angle = 30°? Ans: M = (300 ∓ 60)/11 ⇒ M = 240/11 = 21 9/11 (5:21 9/11) and M = 360/11 = 32 8/11 (5:32 8/11).
+4) Mirror image of 11:20? Ans: 11:20 → Mirror = 11−11:60−20 → 0:40 → interpret as 12:40.
+5) How many times in 12 hours do hands form a 45° angle? Ans: 22 times (except special degeneracies), generally 22 occurrences for most angles not multiple of 360/11.
 
 ------------------------------------------------------------
-COMMON MISTAKES
-------------------------------------------------------------
+COMMON TRAPS & REMINDERS
 
-• Ignoring hour hand movement after minutes.
-• Forgetting to choose the smaller angle.
-• Using 30° instead of 0.5° for minute movement.
-• Forgetting relative speed in coincidence questions.
+- Be careful with hour = 12; treat H mod 12 when plugging into formulas.
+- Always check both ± branches when solving for M.
+- Round only in final step when converting to seconds; keep fractions exact until then.
 
 ------------------------------------------------------------
-REAL-WORLD APPLICATIONS
-------------------------------------------------------------
+PRACTICE SET (NO SOLUTIONS SHOWN)
 
-• Railway scheduling
-• Aviation timing
-• Navigation
-• Mechanical clock design
-• Competitive examinations
-
-------------------------------------------------------------
-PLACEMENT TIPS
-------------------------------------------------------------
-
-• Learn standard formulas by heart.
-• Practice coincidence and opposite-hand questions.
-• Use elimination when solving MCQs.
-• Avoid lengthy calculations where shortcuts apply.
+1) Angle between hands at 10:20.
+2) When are hands opposite between 11 and 12?
+3) Times when hands make 120° between 1 and 2.
+4) Mirror image of 2:15.
+5) How long after 9:00 will minute hand be exactly 180° ahead of hour hand?
 
 ------------------------------------------------------------
-PLACEMENT INTERVIEW QUESTIONS
-------------------------------------------------------------
+SUMMARY & QUICK FORMULAS
 
-1. Why does the hour hand move continuously?
-2. How do you calculate the angle between clock hands?
-3. What is the relative speed of the hands?
-4. Why do we subtract from 360° sometimes?
-5. Explain coincidence of clock hands.
+- Hour pos = 30H + 0.5M
+- Minute pos = 6M
+- Angle = |30H − (11/2)M|; smaller = min(angle,360−angle)
+- Coincide: M = (60/11)H
+- Given angle θ: M = (60H ∓ 2θ)/11
 
 ------------------------------------------------------------
-QUICK SUMMARY
-------------------------------------------------------------
-
-✓ Full Clock = 360°
-✓ Hour Division = 30°
-✓ Minute Division = 6°
-✓ Hour Hand = 0.5° per minute
-✓ Relative Speed = 5.5°/minute
-✓ Always select the smaller angle.
+END OF ADVANCED CLOCKS (PART 3)
