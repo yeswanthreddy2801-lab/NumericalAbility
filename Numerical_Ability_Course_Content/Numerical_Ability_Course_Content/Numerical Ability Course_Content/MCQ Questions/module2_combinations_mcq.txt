@@ -1,179 +1,179 @@
-COMBINATIONS - MCQ QUESTIONS
+COMBINATIONS - ADVANCED MCQ QUESTIONS
 
-1. Combination means:
-A) Arrangement
-B) Selection
-C) Ordering
-D) Sorting
+1. From 12 books, how many ways can you select 5 to take on a trip?
+A) 792
+B) 252
+C) 120
+D) 495
 Answer: B
 
 --------------------------------------------------
 
-2. Formula of combination is:
-A) nPr
-B) n!/(n−r)!
-C) n!/[r!(n−r)!]
-D) r!/n!
+2. A committee of 4 is chosen from 10 men and 8 women such that at least 2 women are included. How many committees are possible?
+A) 385
+B) 400
+C) 406
+D) 420
+Answer: A
+
+--------------------------------------------------
+
+3. How many ways can 6 students be chosen from 10 boys and 8 girls so that exactly 3 boys are included?
+A) 560
+B) 720
+C) 840
+D) 900
 Answer: C
 
 --------------------------------------------------
 
-3. In combination:
-A) Order matters
-B) Order does not matter
-C) Arrangement important
-D) Sequence fixed
-Answer: B
-
---------------------------------------------------
-
-4. 5C2 is equal to:
-A) 5
-B) 10
-C) 15
-D) 20
-Answer: B
-
---------------------------------------------------
-
-5. Value of nC0 is:
-A) 0
-B) 1
-C) n
-D) undefined
-Answer: B
-
---------------------------------------------------
-
-6. Combination is used for:
-A) Arrangement
-B) Selection
-C) Ranking
-D) Sorting
-Answer: B
-
---------------------------------------------------
-
-7. 6C1 equals:
-A) 1
-B) 6
-C) 0
-D) 5
-Answer: B
-
---------------------------------------------------
-
-8. 4C2 equals:
-A) 4
-B) 6
-C) 8
-D) 10
-Answer: B
-
---------------------------------------------------
-
-9. Combination ignores:
-A) Selection
-B) Order
-C) Group size
-D) Total number
-Answer: B
-
---------------------------------------------------
-
-10. Formula symmetry property:
-A) nCr = rCn
-B) nCr = nC(n−r)
-C) Both A and B
-D) None
+4. In how many ways can a cricket team of 11 be selected from 16 players if a specific bowler must be included?
+A) 1365
+B) 3003
+C) 1820
+D) 182
 Answer: C
 
 --------------------------------------------------
 
-11. 8C3 equals:
-A) 48
-B) 56
-C) 64
-D) 72
+5. How many ways can 3 projects be selected from 7 if one particular project cannot be chosen with another specific project?
+A) 20
+B) 25
+C) 30
+D) 35
+Answer: A
+
+--------------------------------------------------
+
+6. How many ways can 4 questions be selected from 8 optional questions?
+A) 70
+B) 105
+C) 28
+D) 56
+Answer: C
+
+--------------------------------------------------
+
+7. From 9 committees, how many ways can you choose 2 such that a particular pair is never together?
+A) 28
+B) 27
+C) 26
+D) 25
+Answer: C
+
+--------------------------------------------------
+
+8. A student needs to choose 3 subjects from 6 languages and 4 sciences. How many selections include at least one science?
+A) 80
+B) 84
+C) 90
+D) 100
+Answer: A
+
+--------------------------------------------------
+
+9. 10 identical balls are to be placed in 4 distinct boxes with at least one ball in each box. How many ways can this be done?
+A) 84
+B) 165
+C) 220
+D) 286
+Answer: A
+
+--------------------------------------------------
+
+10. How many ways are there to choose 5 cards from a deck of 52 if all cards must be from the same suit?
+A) 5148
+B) 278,256
+C) 10,200
+D) 1,287
+Answer: A
+
+--------------------------------------------------
+
+11. In how many ways can 5 out of 8 committee members be chosen if two members refuse to serve together?
+A) 32
+B) 38
+C) 42
+D) 48
+Answer: C
+
+--------------------------------------------------
+
+12. How many ways can a grant of 3 scholarships be distributed among 12 applicants?
+A) 220
+B) 364
+C) 2200
+D) 1320
+Answer: A
+
+--------------------------------------------------
+
+13. From 5 novels, 4 textbooks and 3 magazines, how many sets of 6 reading items include at least 2 novels?
+A) 455
+B) 462
+C) 480
+D) 495
+Answer: A
+
+--------------------------------------------------
+
+14. How many ways can 4 players be selected from 11 if one particular player must be captain and included in the team?
+A) 330
+B) 330
+C) 126
+D) 220
+Answer: C
+
+--------------------------------------------------
+
+15. How many ways can 8 people be divided into 2 teams of 4 if teams are unlabeled?
+A) 105
+B) 126
+C) 70
+D) 420
+Answer: C
+
+--------------------------------------------------
+
+16. In how many ways can 2 red balls and 3 blue balls be chosen from 5 red and 6 blue balls?
+A) 200
+B) 150
+C) 100
+D) 120
 Answer: B
 
 --------------------------------------------------
 
-12. Combination is opposite of:
-A) Addition
-B) Permutation
-C) Division
-D) Multiplication
+17. How many 6-person committees can be formed from 10 people if 3 specific people must not all be together?
+A) 210
+B) 175
+C) 160
+D) 145
 Answer: B
 
 --------------------------------------------------
 
-13. If order matters, we use:
-A) Combination
-B) Permutation
-C) Average
-D) Ratio
+18. In how many ways can 3 students be selected from 8 boys and 9 girls if at least one girl is required?
+A) 340
+B) 364
+C) 380
+D) 396
 Answer: B
 
 --------------------------------------------------
 
-14. 10C0 equals:
-A) 0
-B) 1
-C) 10
-D) undefined
-Answer: B
+19. How many distinct handshakes are possible in a room of 15 people if each pair shakes hands once?
+A) 105
+B) 120
+C) 210
+D) 225
+Answer: A
 
 --------------------------------------------------
 
-15. Combination deals with:
-A) Arrangement
-B) Selection
-C) Time
-D) Distance
-Answer: B
-
---------------------------------------------------
-
-16. 7C2 equals:
-A) 21
-B) 28
-C) 35
-D) 42
-Answer: B
-
---------------------------------------------------
-
-17. Formula uses:
-A) Addition
-B) Factorial
-C) Subtraction only
-D) Division only
-Answer: B
-
---------------------------------------------------
-
-18. Combination ignores:
-A) Group size
-B) Order
-C) Total objects
-D) Selection
-Answer: B
-
---------------------------------------------------
-
-19. First step in combination problem:
-A) Multiply
-B) Check order
-C) Apply formula
-D) Guess
-Answer: B
-
---------------------------------------------------
-
-20. Combination is used in:
-A) Arrangements
-B) Team selection
-C) Ranking
-D) Ordering
-Answer: B
+20. How many ways can 7 delegates be chosen from 12 such that two particular delegates cannot both be chosen?
+A) 323
+B) 330
+C) 341
+D) 352
+Answer: A

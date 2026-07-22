@@ -1,179 +1,179 @@
-PERMUTATIONS - MCQ QUESTIONS
+PERMUTATIONS - ADVANCED MCQ QUESTIONS
 
-1. Permutation means:
-A) Selection
-B) Arrangement
-C) Grouping
-D) Averaging
-Answer: B
-
---------------------------------------------------
-
-2. Formula of permutation is:
-A) nCr
-B) n! / r!
-C) n! / (n−r)!
-D) r! / n!
-Answer: C
-
---------------------------------------------------
-
-3. 5P2 is equal to:
-A) 20
-B) 10
-C) 25
-D) 15
-Answer: A
-
---------------------------------------------------
-
-4. Permutation is used when:
-A) Order matters
-B) Order does not matter
-C) Only selection
-D) None
-Answer: A
-
---------------------------------------------------
-
-5. Circular permutation formula:
-A) n!
-B) (n−1)!
-C) n!/2
-D) n²
-Answer: B
-
---------------------------------------------------
-
-6. Arrange 4 people in a row:
-A) 12
-B) 24
-C) 16
-D) 18
-Answer: B
-
---------------------------------------------------
-
-7. 3P3 is:
-A) 3
-B) 6
-C) 9
-D) 1
-Answer: B
-
---------------------------------------------------
-
-8. If order changes, result:
-A) Same
-B) Different
-C) Zero
-D) Undefined
-Answer: B
-
---------------------------------------------------
-
-9. 4P2 = ?
-A) 8
-B) 10
-C) 12
-D) 16
-Answer: C
-
---------------------------------------------------
-
-10. Circular arrangement of 5 people:
-A) 120
-B) 24
-C) 60
-D) 20
-Answer: B
-
---------------------------------------------------
-
-11. Permutation is related to:
-A) Selection
-B) Arrangement
-C) Probability
-D) Ratio
-Answer: B
-
---------------------------------------------------
-
-12. 6P1 = ?
-A) 6
-B) 1
-C) 0
-D) 5
-Answer: A
-
---------------------------------------------------
-
-13. nP0 = ?
-A) 1
-B) 0
-C) n
-D) undefined
-Answer: A
-
---------------------------------------------------
-
-14. If n objects are arranged in a circle:
-A) n!
-B) (n−1)!
-C) n²
-D) 2n
-Answer: B
-
---------------------------------------------------
-
-15. Factorial of 0 is:
-A) 0
-B) 1
-C) 2
-D) undefined
-Answer: B
-
---------------------------------------------------
-
-16. 5P3 = ?
+1. How many 5-letter words can be formed from the letters of the word "UNTIE" if repetition is not allowed?
 A) 60
-B) 30
-C) 20
-D) 10
+B) 120
+C) 24
+D) 720
 Answer: A
 
 --------------------------------------------------
 
-17. Permutation deals with:
-A) Groups
-B) Order
-C) Probability
-D) Average
+2. In how many ways can 7 students be seated in a row such that two particular students are not together?
+A) 240
+B) 300
+C) 360
+D) 420
+Answer: A
+
+--------------------------------------------------
+
+3. How many distinct arrangements are possible for the letters in the word "LEVEL"?
+A) 30
+B) 60
+C) 120
+D) 20
+Answer: A
+
+--------------------------------------------------
+
+4. A lock has 4 distinct digits. How many possible codes exist if repetition is allowed?
+A) 256
+B) 10000
+C) 5040
+D) 1296
+Answer: D
+
+--------------------------------------------------
+
+5. How many ways can 8 different trophies be awarded to 3 winners?
+A) 56
+B) 336
+C) 512
+D) 168
 Answer: B
 
 --------------------------------------------------
 
-18. 7P1 = ?
-A) 1
-B) 7
-C) 0
-D) 14
+6. In how many ways can 4 people be arranged around a circular table?
+A) 24
+B) 12
+C) 6
+D) 8
+Answer: C
+
+--------------------------------------------------
+
+7. How many 4-digit even numbers can be formed from digits 1, 2, 3, 4, 5 if digits cannot repeat?
+A) 12
+B) 20
+C) 24
+D) 30
+Answer: C
+
+--------------------------------------------------
+
+8. How many ways can 6 books be arranged on a shelf if two specific books must stay together?
+A) 144
+B) 120
+C) 240
+D) 720
+Answer: A
+
+--------------------------------------------------
+
+9. How many ways can 10 people be seated in a circle if rotations are considered identical?
+A) 3628800
+B) 362880
+C) 36288
+D) 40320
 Answer: B
 
 --------------------------------------------------
 
-19. If arrangement changes:
-A) Combination
-B) Permutation changes
-C) No change
-D) Zero
+10. How many different arrangements of the letters in "MISS" are possible?
+A) 12
+B) 4
+C) 24
+D) 6
+Answer: A
+
+--------------------------------------------------
+
+11. In how many ways can 5 questions be arranged if two specific questions cannot be adjacent?
+A) 48
+B) 60
+C) 72
+D) 80
 Answer: B
 
 --------------------------------------------------
 
-20. First step in permutation problem:
-A) Add values
-B) Check order importance
-C) Multiply all numbers
-D) Guess answer
+12. How many 5-letter strings can be formed from the letters A, B, C, D, E without repetition?
+A) 120
+B) 60
+C) 240
+D) 720
+Answer: A
+
+--------------------------------------------------
+
+13. How many permutations of the digits 1, 2, 3, 4, 5 contain the digit 3 in the middle position?
+A) 24
+B) 120
+C) 20
+D) 6
+Answer: A
+
+--------------------------------------------------
+
+14. In how many different ways can 3 prizes be awarded to 8 contestants if the order of prizes matters?
+A) 336
+B) 56
+C) 168
+D) 512
+Answer: C
+
+--------------------------------------------------
+
+15. How many ways can 6 different gifts be distributed among 4 children if each child gets at least one gift?
+A) 360
+B) 450
+C) 540
+D) 720
+Answer: A
+
+--------------------------------------------------
+
+16. How many ways can 7 distinct flowers be arranged in a row if two particular flowers must occupy the two ends?
+A) 120
+B) 240
+C) 720
+D) 60
+Answer: A
+
+--------------------------------------------------
+
+17. In how many ways can the letters of the word "BANANA" be arranged?
+A) 60
+B) 90
+C) 120
+D) 180
+Answer: A
+
+--------------------------------------------------
+
+18. A team of 4 is to be selected from 10 players and arranged in batting order. How many orders are possible?
+A) 5040
+B) 210
+C) 30240
+D) 840
 Answer: B
+
+--------------------------------------------------
+
+19. How many arrangements of the word "PEPPER" are possible?
+A) 180
+B) 360
+C) 720
+D) 240
+Answer: A
+
+--------------------------------------------------
+
+20. How many different ways can 5 different medals be awarded to 5 athletes?
+A) 120
+B) 60
+C) 24
+D) 720
+Answer: A

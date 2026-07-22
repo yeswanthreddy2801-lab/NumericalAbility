@@ -1,179 +1,179 @@
-PERMUTATIONS & COMBINATIONS BASICS - MCQ QUESTIONS
+PERMUTATIONS & COMBINATIONS - ADVANCED MCQ QUESTIONS
 
-1. Permutation means:
-A) Selection
-B) Arrangement
-C) Grouping
-D) Averaging
-Answer: B
-
---------------------------------------------------
-
-2. Combination means:
-A) Arrangement
-B) Selection
-C) Ordering
-D) Sorting
-Answer: B
-
---------------------------------------------------
-
-3. Permutation formula:
-A) nCr
-B) n!/(n−r)!
-C) n!/[r!(n−r)!]
-D) r!/n!
-Answer: B
-
---------------------------------------------------
-
-4. Combination formula:
-A) nPr
-B) n!/[r!(n−r)!]
-C) n!/r!
-D) r!/n!
-Answer: B
-
---------------------------------------------------
-
-5. In permutation:
-A) Order matters
-B) Order does not matter
-C) Selection only
-D) None
+1. How many 5-letter words can be formed using the letters of the word "TRAIN" if repetition is not allowed?
+A) 60
+B) 120
+C) 720
+D) 24
 Answer: A
 
 --------------------------------------------------
 
-6. In combination:
-A) Order matters
-B) Order does not matter
-C) Arrangement required
-D) Sequence fixed
-Answer: B
-
---------------------------------------------------
-
-7. AB and BA in permutation are:
-A) Same
-B) Different
-C) Zero
-D) Undefined
-Answer: B
-
---------------------------------------------------
-
-8. AB and BA in combination are:
-A) Same
-B) Different
-C) Invalid
-D) Zero
+2. From 8 books, in how many ways can 4 be selected and arranged on a shelf?
+A) 1680
+B) 3360
+C) 6720
+D) 840
 Answer: A
 
 --------------------------------------------------
 
-9. nC0 equals:
-A) 0
-B) 1
-C) n
-D) undefined
-Answer: B
-
---------------------------------------------------
-
-10. Fundamental counting principle is:
-A) m + n
-B) m × n
-C) m − n
-D) m / n
-Answer: B
-
---------------------------------------------------
-
-11. Factorial of 0 is:
-A) 0
-B) 1
-C) 2
-D) undefined
-Answer: B
-
---------------------------------------------------
-
-12. Which is arrangement?
-A) Combination
-B) Permutation
-C) Selection
-D) Grouping
-Answer: B
-
---------------------------------------------------
-
-13. Which is selection?
-A) Permutation
-B) Combination
-C) Arrangement
-D) Ranking
-Answer: B
-
---------------------------------------------------
-
-14. nCr = nC(n−r) is:
-A) Speed rule
-B) Symmetry rule
-C) Ratio rule
-D) Division rule
-Answer: B
-
---------------------------------------------------
-
-15. First step in solving problems:
-A) Multiply values
-B) Check order condition
-C) Guess answer
-D) Add numbers
-Answer: B
-
---------------------------------------------------
-
-16. 5P2 is:
-A) 10
-B) 20
-C) 25
-D) 15
-Answer: B
-
---------------------------------------------------
-
-17. 5C2 is:
-A) 10
-B) 20
-C) 15
-D) 25
+3. In how many ways can the letters of the word "BANANA" be arranged?
+A) 60
+B) 120
+C) 90
+D) 180
 Answer: A
 
 --------------------------------------------------
 
-18. Permutation is used when:
-A) Order matters
-B) Order does not matter
-C) Only selection
-D) None
+4. How many committees of 3 women and 2 men can be formed from 5 women and 4 men?
+A) 60
+B) 50
+C) 40
+D) 30
+Answer: C
+
+--------------------------------------------------
+
+5. A committee of 5 is to be chosen from 9 people. In how many ways can it be done if two particular people cannot both serve together?
+A) 126
+B) 84
+C) 100
+D) 90
+Answer: B
+
+--------------------------------------------------
+
+6. How many different 4-digit numbers can be formed from digits 1, 2, 3, 4, 5 if digits cannot repeat and the number must be even?
+A) 24
+B) 16
+C) 12
+D) 20
+Answer: B
+
+--------------------------------------------------
+
+7. In how many ways can 6 people be seated around a circular table if two particular people must sit together?
+A) 120
+B) 240
+C) 144
+D) 72
+Answer: D
+
+--------------------------------------------------
+
+8. A lock has 4 distinct digits. How many possible codes exist if repetition is allowed?
+A) 1000
+B) 1296
+C) 5040
+D) 10000
+Answer: B
+
+--------------------------------------------------
+
+9. In how many ways can 7 marbles be selected from 12 if order does not matter?
+A) 792
+B) 720
+C) 495
+D) 330
 Answer: A
 
 --------------------------------------------------
 
-19. Combination is used when:
-A) Order matters
-B) Order does not matter
-C) Arrangement needed
-D) Ranking required
+10. How many solutions are there to x1 + x2 + x3 = 10 where x1, x2, x3 are positive integers?
+A) 36
+B) 45
+C) 55
+D) 66
 Answer: B
 
 --------------------------------------------------
 
-20. Factorial is:
-A) Addition
-B) Multiplication series
-C) Division
-D) Subtraction
+11. In how many ways can 5 students be chosen to stand in a line if 2 specific students cannot stand next to each other?
+A) 60
+B) 48
+C) 42
+D) 36
 Answer: B
+
+--------------------------------------------------
+
+12. How many distinct arrangements of the letters in "MISSISSIPPI" are possible?
+A) 34650
+B) 34650
+C) 83160
+D) 110880
+Answer: A
+
+--------------------------------------------------
+
+13. A bag contains 6 red, 5 blue and 4 green balls. How many ways can 3 balls be selected if at least one ball of each color must be chosen?
+A) 60
+B) 40
+C) 30
+D) 20
+Answer: B
+
+--------------------------------------------------
+
+14. In how many ways can 10 people be seated in a row such that two specific people are not together?
+A) 30240
+B) 28800
+C) 27648
+D) 25200
+Answer: B
+
+--------------------------------------------------
+
+15. How many ways can a team of 4 be chosen from 8 men and 6 women if the team must contain at least 2 women?
+A) 455
+B) 560
+C) 490
+D) 420
+Answer: B
+
+--------------------------------------------------
+
+16. How many 5-digit odd numbers can be formed using digits 1, 2, 3, 4, 5 without repetition?
+A) 48
+B) 60
+C) 72
+D) 120
+Answer: A
+
+--------------------------------------------------
+
+17. How many ways can 4 different prizes be awarded to 10 students if each student can win at most one prize?
+A) 5040
+B) 210
+C) 504
+D) 720
+Answer: A
+
+--------------------------------------------------
+
+18. In how many ways can the letters of the word "ALGEBRA" be arranged so that the vowels are together?
+A) 1440
+B) 720
+C) 360
+D) 240
+Answer: C
+
+--------------------------------------------------
+
+19. From 10 subjects, a student chooses 3 for examination. How many choices are there if one subject is compulsory?
+A) 21
+B) 28
+C) 36
+D) 45
+Answer: A
+
+--------------------------------------------------
+
+20. How many different 5-card hands can be drawn from a standard 52-card deck?
+A) 2,598,960
+B) 1,287,360
+C) 10,400
+D) 2,598,000
+Answer: A
