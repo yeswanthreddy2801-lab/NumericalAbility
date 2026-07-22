@@ -1,143 +1,179 @@
-ODD MAN OUT & ANALOGIES - MCQs
+ODD MAN OUT & ANALOGIES - ADVANCED MCQs
+
+1. Which is the odd one out?
+A) Violin
+B) Guitar
+C) Flute
+D) Drum
+Answer: C
 
 ------------------------------------------------------------
 
-1. Odd Man Out means:
-A) Find similar item
-B) Find different item
-C) Find average
-D) Find sum
+2. Tree : Forest :: Star : ?
+A) Planet
+B) Galaxy
+C) Sun
+D) Comet
 Answer: B
 
-2. Analogy is based on:
-A) Numbers only
-B) Relationship
-C) Random choice
-D) Coding
-Answer: B
+------------------------------------------------------------
 
-3. Pen : Write :: Knife : ?
-A) Eat
-B) Cut
-C) Draw
-D) Play
-Answer: B
-
-4. 2, 4, 6, 8, 11 → Odd man is:
-A) 2
-B) 6
-C) 8
-D) 11
+3. Identify the odd item: 121, 144, 169, 185, 196.
+A) 121
+B) 144
+C) 169
+D) 185
 Answer: D
 
-5. Which is NOT a type of reasoning?
-A) Number
-B) Alphabet
-C) Analogy
-D) Cooking
-Answer: D
+------------------------------------------------------------
 
-6. Book : Read :: Knife : ?
-A) Eat
-B) Cut
-C) Cook
-D) Draw
-Answer: B
-
-7. Odd man out concept is based on:
-A) Pattern
-B) Guessing
-C) Memory
-D) Speed only
+4. Hand : Glove :: Foot : ?
+A) Sock
+B) Shoe
+C) Hat
+D) Belt
 Answer: A
 
-8. Analogy helps in:
-A) Grammar
-B) Relationship mapping
-C) Math only
-D) Writing
-Answer: B
+------------------------------------------------------------
 
-9. 5, 10, 15, 20, 27 → Odd man:
-A) 5
-B) 15
-C) 20
-D) 27
-Answer: D
-
-10. Odd man out questions test:
-A) Creativity
-B) Logical reasoning
-C) Writing
-D) Speaking
-Answer: B
-
-11. A : B :: C : D is called:
-A) Equation
-B) Analogy
-C) Graph
-D) Code
-Answer: B
-
-12. 3, 6, 9, 12, 14 → Odd is:
-A) 9
-B) 12
-C) 14
-D) 6
+5. Which does not belong?
+A) April
+B) June
+C) September
+D) November
 Answer: C
 
-13. Analogy is mainly:
-A) Comparison
-B) Relationship
-C) Calculation
-D) Drawing
-Answer: B
+------------------------------------------------------------
 
-14. Odd man out requires:
-A) Guessing
-B) Pattern recognition
-C) Random choice
-D) Luck
-Answer: B
-
-15. Lion : Roar :: Cow : ?
-A) Bark
-B) Moo
-C) Jump
-D) Fly
-Answer: B
-
-16. Odd man out can be:
-A) Number
-B) Alphabet
-C) Word
-D) All of the above
-Answer: D
-
-17. Fastest method in reasoning is:
-A) Guessing
-B) Elimination
-C) Writing long steps
-D) Memorizing
-Answer: B
-
-18. Analogy improves:
-A) Logical thinking
-B) Memory only
-C) Drawing skills
-D) Speaking
+6. Bird : Feather :: Fish : ?
+A) Scale
+B) Fin
+C) Shell
+D) Fur
 Answer: A
 
-19. Odd man out is based on:
-A) Similarity
-B) Difference
-C) Grammar
-D) Writing
+------------------------------------------------------------
+
+7. Select the odd pair:
+A) Flower : Petal
+B) Tree : Branch
+C) Book : Page
+D) Door : Window
+Answer: D
+
+------------------------------------------------------------
+
+8. Coat : Winter :: Sunglasses : ?
+A) Rain
+B) Summer
+C) Monsoon
+D) Autumn
 Answer: B
 
-20. These questions are common in:
-A) Exams
-B) Interviews
-C) Both
-D) None
-Answer: C
+------------------------------------------------------------
+
+9. Choose the odd one out: 13, 17, 19, 21, 23.
+A) 13
+B) 17
+C) 19
+D) 21
+Answer: D
+
+------------------------------------------------------------
+
+10. Foot : Inches :: Meter : ?
+A) Centimeter
+B) Kilometer
+C) Millimeter
+D) Yard
+Answer: A
+
+------------------------------------------------------------
+
+11. Cup : Tea :: Bowl : ?
+A) Bread
+B) Soup
+C) Knife
+D) Plate
+Answer: B
+
+------------------------------------------------------------
+
+12. Which item is odd in the set?
+A) October
+B) February
+C) July
+D) March
+Answer: B
+
+------------------------------------------------------------
+
+13. Book : Author :: Painting : ?
+A) Artist
+B) Reader
+C) Writer
+D) Dancer
+Answer: A
+
+------------------------------------------------------------
+
+14. Identify the odd one out: Triangle, Square, Pentagon, Cube.
+A) Triangle
+B) Square
+C) Pentagon
+D) Cube
+Answer: D
+
+------------------------------------------------------------
+
+15. Pen : Ink :: Chalk : ?
+A) Crumb
+B) Dust
+C) Board
+D) Color
+Answer: B
+
+------------------------------------------------------------
+
+16. Which of these does not belong to the same family?
+A) Whale
+B) Shark
+C) Dolphin
+D) Octopus
+Answer: D
+
+------------------------------------------------------------
+
+17. Door : Hinges :: Wheel : ?
+A) Axle
+B) Bolt
+C) Chain
+D) Seat
+Answer: A
+
+------------------------------------------------------------
+
+18. Select the odd one out: 8, 27, 64, 125, 200.
+A) 8
+B) 27
+C) 64
+D) 200
+Answer: D
+
+------------------------------------------------------------
+
+19. Which analogy is correct?
+A) Fire : Heat :: Ice : Cold
+B) Sun : Night :: Moon : Day
+C) Bird : Swim :: Fish : Fly
+D) Dog : Bark :: Cat : Moo
+Answer: A
+
+------------------------------------------------------------
+
+20. Choose the odd term: Surgery, Diagnosis, Treatment, Examination.
+A) Surgery
+B) Diagnosis
+C) Treatment
+D) Examination
+Answer: A
