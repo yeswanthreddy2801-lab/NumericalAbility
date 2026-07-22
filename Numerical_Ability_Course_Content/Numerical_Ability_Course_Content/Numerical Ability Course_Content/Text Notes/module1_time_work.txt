@@ -1,297 +1,170 @@
-TIME AND WORK
-Introduction
+TIME AND WORK - DETAILED NOTES
 
-Time and Work is one of the most important aptitude topics asked in placement exams like TCS, Infosys, Accenture, Capgemini, Cognizant, Wipro, Deloitte, EY, HCL and Tech Mahindra.
+1. INTRODUCTION
+Time and Work is a core aptitude topic used in competitive exams and placement tests. It models how people, machines, or teams complete tasks over time. The focus is on rates of work and combining them correctly.
 
-These problems deal with the amount of work completed by one or more persons or machines in a given time.
-
-The key concept is:
-
+2. FUNDAMENTAL RELATION
 Work = Rate × Time
 
-If total work is assumed as 1 unit,
+Where:
+- Work is the total job to be completed.
+- Rate is the fraction of work done per unit time.
+- Time is the duration taken to complete the work.
 
-Work done in one day = 1 / Number of days
+If total work = 1 unit, then:
+One day’s work = 1 / number of days.
 
-Example:
+3. BASIC TERMINOLOGY
+- One day’s work: Portion of the task done in one day.
+- Efficiency: Work done per day; directly proportional to rate.
+- Time required: Total work divided by rate.
 
-If Ram completes a work in 10 days,
-
-One day's work
-
-= 1/10
-
-If Ravi completes the same work in 20 days,
-
-One day's work
-
-= 1/20
-
-Together,
-
-One day's work
-
-= 1/10 + 1/20
-
-= 3/20
-
-Hence,
-
-Time required together
-
-= 20/3 days
-
-Basic Formula
-
+4. PRIMARY FORMULAS
 Work = Rate × Time
-
 Rate = Work / Time
-
 Time = Work / Rate
 
-One Day Work
-
-If a person finishes a work in N days,
-
-One day's work = 1/N
-
-Combined Work
-
-If
-
-A finishes in x days
-
-B finishes in y days
-
-Together
-
-One day work
-
-= 1/x + 1/y
-
-Time together
-
-= xy/(x+y)
-
-Difference Formula
-
-If
-
-A is faster than B,
-
-Extra work/day
-
-= (1/x − 1/y)
-
-Efficiency
-
-Efficiency is directly proportional to work done.
-
-If
-
-A is twice as efficient as B,
-
-Efficiency ratio
-
-2 : 1
-
-Time ratio
-
-1 : 2
-
-Higher efficiency means lower time.
-
-Ratio Method
-
-If
-
-A:B efficiency
-
-= 3:5
-
-Time ratio
-
-= 5:3
-
-LCM Method
-
-Instead of assuming work =1,
-
-Take total work as LCM of all given days.
-
-Example
-
-A =12 days
-
-B =18 days
-
-LCM
-
-36
-
-A work/day
-
-3 units
-
-B work/day
-
-2 units
-
-Together
-
-5 units/day
-
-Time
-
-36/5 days
-
-Shortcut Tricks
-Work is inversely proportional to time.
-Efficiency ↑ ⇒ Time ↓
-Assume total work as LCM whenever possible.
-For two persons,
-
-Time together
-
-= xy/(x+y)
-
-For three persons,
-
-Add all one-day works first.
-
-Solved Example 1
-
-A completes work in 10 days.
-
-B completes work in 15 days.
-
-Find together.
-
-Solution
-
-One day work
-
-1/10 + 1/15
-
-=5/30
-
-=1/6
-
-Answer
-
-6 days
-
-Solved Example 2
-
-A completes work in 24 days.
-
-B is twice as efficient.
-
-Therefore
-
-B takes
-
-12 days
-
-Together
-
-1/24+1/12
-
-=3/24
-
-=1/8
-
-Answer
-
-8 days
-
-Common Mistakes
-
-• Adding days directly
-
-Wrong
-
-10+20=30
-
-Correct
-
-Add work rates
-
-• Forgetting efficiency relation
-
-Efficiency and time are inverse.
-
-• Using different total work values.
-
-Always use one assumption.
-
-Real World Applications
-
-Construction projects
-
-Software development
-
-Manufacturing
-
-Machine productivity
-
-Team assignments
-
-Factory production
-
-Agriculture
-
-Project management
-
-Placement Tips
-
-Always convert days into one-day work.
-
-Use LCM for easier calculations.
-
-Memorize xy/(x+y).
-
-Practice efficiency questions separately.
-
-Interview Questions
-What is one-day work?
-
-Answer:
-
-Amount of work completed in one day.
-
-What is efficiency?
-
-Ability to complete work per unit time.
-
-Difference between work and rate?
-
-Work is total task.
-
-Rate is work per day.
-
-Why use LCM?
-
-To avoid fractions.
-
-Can efficiency and time increase together?
-
-No.
-
-They are inversely proportional.
-
-Quick Summary
-
-Work = Rate × Time
-
-One day work =1/N
-
-Together = Sum of rates
-
-Efficiency ∝ Work
-
-Efficiency ∝1/Time
-
-LCM method reduces fractions.
-
-Always calculate rates first.
+When total work is assumed as 1 unit:
+One day’s work = 1 / N if a worker finishes in N days.
+
+5. COMBINED WORK
+5.1 Two workers
+If A finishes in x days and B finishes in y days:
+A’s one-day work = 1/x
+B’s one-day work = 1/y
+Combined one-day work = 1/x + 1/y
+Time together = 1 / (1/x + 1/y) = xy/(x+y)
+
+5.2 Three workers
+A’s rate = 1/x, B’s rate = 1/y, C’s rate = 1/z
+Combined rate = 1/x + 1/y + 1/z
+Time together = 1 / (1/x + 1/y + 1/z)
+
+5.3 Work done in a given time
+If rate = R, work done in t days = R × t.
+
+6. EFFICIENCY AND TIME RELATION
+Efficiency ∝ Work done per day.
+Time ∝ 1 / Efficiency.
+
+If A is twice as efficient as B:
+Efficiency ratio A:B = 2:1
+Time ratio A:B = 1:2
+
+7. ADVANCED METHODS
+7.1 Ratio method
+If efficiencies are given as A:B = p:q,
+Time ratio = q:p.
+
+7.2 LCM method
+Choose total work equal to the LCM of all given days. This simplifies fractional calculations.
+Example:
+A = 12 days, B = 18 days.
+LCM = 36.
+A’s work/day = 3 units.
+B’s work/day = 2 units.
+Combined = 5 units/day.
+Time = 36/5 days.
+
+7.3 Partial work
+If a worker completes p portion in t days, rate = p / t.
+
+7.4 Work with breaks or varying durations
+Compute work separately for each time period and sum the contributions.
+
+8. COMMON PROBLEMS
+8.1 Two workers working together
+Time = xy/(x+y)
+
+8.2 Worker starts alone, then another joins
+Work done by first worker until join + work done together for remaining work.
+
+8.3 One worker leaves before completion
+Total work = work done by each worker during their active periods.
+
+8.4 Efficiency increases or decreases
+If one worker is k times as efficient as another, use ratios to solve.
+
+8.5 Work with machines and people
+Treat every machine or person as a separate worker with its own rate.
+
+9. SOLVED EXAMPLES
+Example 1: Two people working together
+A can complete a task in 10 days and B can complete it in 20 days. Time together?
+A’s one-day work = 1/10.
+B’s one-day work = 1/20.
+Combined work = 1/10 + 1/20 = 3/20.
+Time = 20/3 = 6.67 days.
+
+Example 2: Efficiency relation
+A can complete a job in 24 days. B is twice as efficient as A. How long for B?
+Since B is twice as efficient, B’s time = 24/2 = 12 days.
+Combined time = 1 / (1/24 + 1/12) = 8 days.
+
+Example 3: Worker joins later
+A completes a job in 18 days. After 6 days, B joins and B alone can complete the job in 9 days. When will the work finish?
+A’s work in 6 days = 6 × 1/18 = 1/3.
+Remaining work = 2/3.
+Combined rate = 1/18 + 1/9 = 1/6.
+Time to finish = (2/3) ÷ (1/6) = 4 days.
+Total time = 10 days.
+
+Example 4: Worker leaves early
+A can do the job in 8 days, B in 12 days. They start together, and A leaves after 3 days. How long will B take more?
+Combined rate = 1/8 + 1/12 = 5/24 per day.
+Work done in 3 days = 3 × 5/24 = 5/8.
+Remaining work = 3/8.
+B’s rate = 1/12.
+Additional time = (3/8) ÷ (1/12) = 4.5 days.
+Total time = 7.5 days.
+
+Example 5: Part of the work
+A completes a task in 15 days. How long to finish 2/3 of the work?
+Rate = 1/15.
+Time = (2/3) ÷ (1/15) = 10 days.
+
+10. SHORTCUTS AND TRICKS
+- Assume total work = 1 unless a different value is useful.
+- Convert all times to rates before adding.
+- Use positive rates for work done and negative only for cancellation or removal problems.
+- Keep units consistent (days, hours, minutes).
+- Memorize xy/(x+y) as the formula for two workers.
+- Use LCM for simpler fraction arithmetic.
+
+11. COMMON MISTAKES
+- Adding days instead of rates.
+- Using the same unit for rates and time incorrectly.
+- Forgetting that efficiency is inverse to time.
+- Misreading “together” or “alone for some time.”
+- Using different assumptions for total work in the same problem.
+
+12. PRACTICE QUESTIONS
+1. A can complete a job in 15 days and B in 20 days. How long together?
+Answer: 60/7 days.
+
+2. A does a job in 12 days, B in 18 days, C in 24 days. How long together?
+Answer: 24/9 = 8/3 days.
+
+3. A is twice as efficient as B. If A takes 10 days, how long does B take?
+Answer: 20 days.
+
+4. A and B together can finish a work in 8 days. B alone takes 12 days. How long will A alone take?
+Answer: 24 days.
+
+13. REAL-WORLD APPLICATIONS
+- Construction and project completion schedules
+- Manufacturing assembly lines
+- Machine productivity planning
+- Team-based task allocation
+- Software development and testing workflows
+- Resource utilization in factories
+
+14. QUICK SUMMARY
+- Work = Rate × Time.
+- One day’s work = 1 / total days.
+- Combine work rates, not days.
+- Efficiency and time are inversely related.
+- Use xy/(x+y) for two workers working together.
+- Use LCM to simplify fraction-based work calculations.
+
+Time and Work is a fundamental concept for reasoning-based aptitude. Practice a wide variety of problems, especially those with workers joining, leaving, or working at different efficiencies.
