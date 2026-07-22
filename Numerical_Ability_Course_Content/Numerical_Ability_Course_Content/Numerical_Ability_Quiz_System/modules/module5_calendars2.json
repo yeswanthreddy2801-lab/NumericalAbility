@@ -1,119 +1,354 @@
 {
-    "title": "Calendars 2 Quiz",
-    "topic": "Advanced Calendar Problems",
-    "duration": 20,
-    "totalQuestions": 10,
-    "passingMarks": 6,
-    "questions": [
-        {
-            "id": 1,
-            "question": "How many days are there in a leap year?",
-            "options": [
-                "364",
-                "365",
-                "366",
-                "367"
-            ],
-            "answer": "366"
-        },
-        {
-            "id": 2,
-            "question": "An ordinary year has how many odd days?",
-            "options": [
-                "0",
-                "1",
-                "2",
-                "3"
-            ],
-            "answer": "1"
-        },
-        {
-            "id": 3,
-            "question": "Which year is a leap year?",
-            "options": [
-                "1900",
-                "2000",
-                "2100",
-                "2025"
-            ],
-            "answer": "2000"
-        },
-        {
-            "id": 4,
-            "question": "A century year is a leap year only if it is divisible by:",
-            "options": [
-                "4",
-                "10",
-                "100",
-                "400"
-            ],
-            "answer": "400"
-        },
-        {
-            "id": 5,
-            "question": "How many odd days are there in 400 years?",
-            "options": [
-                "0",
-                "1",
-                "3",
-                "5"
-            ],
-            "answer": "0"
-        },
-        {
-            "id": 6,
-            "question": "February has 29 days in:",
-            "options": [
-                "Every year",
-                "Leap years only",
-                "Century years only",
-                "Odd years"
-            ],
-            "answer": "Leap years only"
-        },
-        {
-            "id": 7,
-            "question": "The calendar repeats after how many years?",
-            "options": [
-                "100",
-                "200",
-                "300",
-                "400"
-            ],
-            "answer": "400"
-        },
-        {
-            "id": 8,
-            "question": "Odd day calculations are mainly used to determine:",
-            "options": [
-                "Month",
-                "Weekday",
-                "Year",
-                "Century"
-            ],
-            "answer": "Weekday"
-        },
-        {
-            "id": 9,
-            "question": "How many days are there in September?",
-            "options": [
-                "28",
-                "29",
-                "30",
-                "31"
-            ],
-            "answer": "30"
-        },
-        {
-            "id": 10,
-            "question": "Calendar problems are commonly asked in:",
-            "options": [
-                "Banking Exams",
-                "SSC Exams",
-                "Campus Placements",
-                "All of the Above"
-            ],
-            "answer": "All of the Above"
-        }
-    ]
+  "title": "Calendars 2 Quiz",
+  "module": "Advanced Calendar Problems",
+  "difficulty": "Easy",
+  "duration": 20,
+  "passingMarks": 6,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "calendars",
+    "2"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Advanced Calendar Problems.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How many days are there in a leap year?",
+      "options": [
+        "364",
+        "365",
+        "366",
+        "367"
+      ],
+      "answer": "366",
+      "explanation": "The correct answer is 366.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "An ordinary year has how many odd days?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "The correct answer is 1.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which year is a leap year?",
+      "options": [
+        "1900",
+        "2000",
+        "2100",
+        "2025"
+      ],
+      "answer": "2000",
+      "explanation": "The correct answer is 2000.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "A century year is a leap year only if it is divisible by:",
+      "options": [
+        "4",
+        "10",
+        "100",
+        "400"
+      ],
+      "answer": "400",
+      "explanation": "The correct answer is 400.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "How many odd days are there in 400 years?",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "5"
+      ],
+      "answer": "0",
+      "explanation": "The correct answer is 0.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "February has 29 days in:",
+      "options": [
+        "Every year",
+        "Leap years only",
+        "Century years only",
+        "Odd years"
+      ],
+      "answer": "Leap years only",
+      "explanation": "The correct answer is Leap years only.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "The calendar repeats after how many years?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "answer": "400",
+      "explanation": "The correct answer is 400.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Odd day calculations are mainly used to determine:",
+      "options": [
+        "Month",
+        "Weekday",
+        "Year",
+        "Century"
+      ],
+      "answer": "Weekday",
+      "explanation": "The correct answer is Weekday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "How many days are there in September?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "answer": "30",
+      "explanation": "The correct answer is 30.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Calendar problems are commonly asked in:",
+      "options": [
+        "Banking Exams",
+        "SSC Exams",
+        "Campus Placements",
+        "All of the Above"
+      ],
+      "answer": "All of the Above",
+      "explanation": "The correct answer is All of the Above.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "What day of the week was 1 January 2010?",
+      "options": ["Thursday","Friday","Saturday","Sunday"],
+      "answer": "Friday",
+      "explanation": "Historical calendar: 1 Jan 2010 was a Friday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "What day of the week was 31 December 1999?",
+      "options": ["Thursday","Friday","Saturday","Sunday"],
+      "answer": "Friday",
+      "explanation": "31 Dec 1999 was a Friday (1 Jan 2000 was Saturday).",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "How many odd days are there in 2 normal years?",
+      "options": ["0","1","2","3"],
+      "answer": "2",
+      "explanation": "Each normal year contributes 1 odd day → 2 years → 2 odd days.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "If today is Thursday, what day will it be after 50 days?",
+      "options": ["Friday","Saturday","Thursday","Sunday"],
+      "answer": "Friday",
+      "explanation": "50 mod 7 = 1 → Thursday + 1 = Friday.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "How many Sundays are there in February 2020?",
+      "options": ["4","5","3","6"],
+      "answer": "4",
+      "explanation": "Feb 2020 Sundays: 2,9,16,23 → 4 Sundays.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "If 1 January is a Tuesday in a non-leap year, what day will 1 February be?",
+      "options": ["Friday","Saturday","Thursday","Wednesday"],
+      "answer": "Friday",
+      "explanation": "January has 31 days → 3 odd days → Tuesday + 3 = Friday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "How many months have 30 days?",
+      "options": ["3","4","5","6"],
+      "answer": "4",
+      "explanation": "April, June, September, November → 4 months have 30 days.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q18",
+      "question": "How many days are there from 1 March to 31 May (inclusive)?",
+      "options": ["90","91","92","93"],
+      "answer": "92",
+      "explanation": "March 31 + April 30 + May 31 = 31+30+31 = 92 days.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "Does February have 29 days in a leap year?",
+      "options": ["Yes","No","Sometimes","Depends"],
+      "answer": "Yes",
+      "explanation": "Leap years include 29 February.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "question": "How many odd days are there in 5 normal years?",
+      "options": ["3","4","5","6"],
+      "answer": "5",
+      "explanation": "Each normal year = 1 odd day → 5 years = 5 odd days.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q21",
+      "question": "How many leap years are there between 1996 and 2008 inclusive?",
+      "options": ["3","4","5","6"],
+      "answer": "4",
+      "explanation": "Leap years: 1996, 2000, 2004, 2008 → 4 years.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "If 1 Jan 2021 was a Friday, what day was 1 Jan 2022?",
+      "options": ["Friday","Saturday","Sunday","Monday"],
+      "answer": "Saturday",
+      "explanation": "2021 is not leap → 1 odd day → Friday +1 = Saturday.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q23",
+      "question": "How many days are there in April?",
+      "options": ["28","29","30","31"],
+      "answer": "30",
+      "explanation": "April has 30 days.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q24",
+      "question": "If 1 March is Monday in a non-leap year, what day is 1 July?",
+      "options": ["Thursday","Friday","Wednesday","Tuesday"],
+      "answer": "Thursday",
+      "explanation": "March(31)=3, Apr(30)=2, May(31)=3, Jun(30)=2 → total 10 odd days → 10 mod7=3 → Monday+3=Thursday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "Which month has 28 days in a non-leap year?",
+      "options": ["February","April","June","November"],
+      "answer": "February",
+      "explanation": "February has 28 days in a non-leap year.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q26",
+      "question": "What is the last day of February in a leap year?",
+      "options": ["28 February","29 February","1 March","27 February"],
+      "answer": "29 February",
+      "explanation": "Leap years include 29 February.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q27",
+      "question": "If today is Sunday, what day will it be after 365 days?",
+      "options": ["Sunday","Monday","Saturday","Tuesday"],
+      "answer": "Monday",
+      "explanation": "365 mod7 = 1 → Sunday +1 = Monday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "How many odd days are there in 100 years?",
+      "options": ["0","1","5","3"],
+      "answer": "5",
+      "explanation": "Standard result: 100 years have 5 odd days.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q29",
+      "question": "How many odd days are there in 400 years?",
+      "options": ["0","1","3","5"],
+      "answer": "0",
+      "explanation": "400 years contain exactly 0 odd days (calendar repeats every 400 years).",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q30",
+      "question": "How many months have 31 days?",
+      "options": ["6","7","5","8"],
+      "answer": "7",
+      "explanation": "January, March, May, July, August, October, December → 7 months.",
+      "difficulty": "Easy",
+      "marks": 1
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

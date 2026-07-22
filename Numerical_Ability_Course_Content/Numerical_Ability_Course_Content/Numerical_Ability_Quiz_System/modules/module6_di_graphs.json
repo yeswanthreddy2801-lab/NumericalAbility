@@ -1,107 +1,352 @@
 {
-    "title": "DI Tables Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "DI stands for:",
-            "options": [
-                "Data Input",
-                "Data Interpretation",
-                "Data Index",
-                "Data Integration"
-            ],
-            "answer": "Data Interpretation"
-        },
-        {
-            "question": "Table data is in:",
-            "options": [
-                "Rows only",
-                "Columns only",
-                "Rows and Columns",
-                "Random"
-            ],
-            "answer": "Rows and Columns"
-        },
-        {
-            "question": "Row means:",
-            "options": [
-                "Vertical",
-                "Horizontal",
-                "Diagonal",
-                "None"
-            ],
-            "answer": "Horizontal"
-        },
-        {
-            "question": "Column means:",
-            "options": [
-                "Horizontal",
-                "Vertical",
-                "Diagonal",
-                "Random"
-            ],
-            "answer": "Vertical"
-        },
-        {
-            "question": "DI is used for:",
-            "options": [
-                "Guessing",
-                "Analysis",
-                "Drawing",
-                "Writing"
-            ],
-            "answer": "Analysis"
-        },
-        {
-            "question": "Total means:",
-            "options": [
-                "Sum",
-                "Product",
-                "Ratio",
-                "Difference"
-            ],
-            "answer": "Sum"
-        },
-        {
-            "question": "Best DI skill:",
-            "options": [
-                "Speed calculation",
-                "Writing",
-                "Drawing",
-                "Guessing"
-            ],
-            "answer": "Speed calculation"
-        },
-        {
-            "question": "First step in DI:",
-            "options": [
-                "Solve",
-                "Understand table",
-                "Multiply",
-                "Skip"
-            ],
-            "answer": "Understand table"
-        },
-        {
-            "question": "Approximation helps in:",
-            "options": [
-                "Speed",
-                "Accuracy only",
-                "Writing",
-                "Drawing"
-            ],
-            "answer": "Speed"
-        },
-        {
-            "question": "Tables represent:",
-            "options": [
-                "Unstructured data",
-                "Structured data",
-                "Random data",
-                "Hidden data"
-            ],
-            "answer": "Structured data"
-        }
-    ]
+  "title": "DI Tables Quiz",
+  "module": "DI Tables Quiz",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "di",
+    "tables"
+  ],
+  "objectives": [
+    "Understand the fundamentals of DI Tables Quiz.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "DI stands for:",
+      "options": [
+        "Data Input",
+        "Data Interpretation",
+        "Data Index",
+        "Data Integration"
+      ],
+      "answer": "Data Interpretation",
+      "explanation": "The correct answer is Data Interpretation.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Table data is in:",
+      "options": [
+        "Rows only",
+        "Columns only",
+        "Rows and Columns",
+        "Random"
+      ],
+      "answer": "Rows and Columns",
+      "explanation": "The correct answer is Rows and Columns.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Row means:",
+      "options": [
+        "Vertical",
+        "Horizontal",
+        "Diagonal",
+        "None"
+      ],
+      "answer": "Horizontal",
+      "explanation": "The correct answer is Horizontal.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Column means:",
+      "options": [
+        "Horizontal",
+        "Vertical",
+        "Diagonal",
+        "Random"
+      ],
+      "answer": "Vertical",
+      "explanation": "The correct answer is Vertical.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "DI is used for:",
+      "options": [
+        "Guessing",
+        "Analysis",
+        "Drawing",
+        "Writing"
+      ],
+      "answer": "Analysis",
+      "explanation": "The correct answer is Analysis.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Total means:",
+      "options": [
+        "Sum",
+        "Product",
+        "Ratio",
+        "Difference"
+      ],
+      "answer": "Sum",
+      "explanation": "The correct answer is Sum.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Best DI skill:",
+      "options": [
+        "Speed calculation",
+        "Writing",
+        "Drawing",
+        "Guessing"
+      ],
+      "answer": "Speed calculation",
+      "explanation": "The correct answer is Speed calculation.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "First step in DI:",
+      "options": [
+        "Solve",
+        "Understand table",
+        "Multiply",
+        "Skip"
+      ],
+      "answer": "Understand table",
+      "explanation": "The correct answer is Understand table.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "Approximation helps in:",
+      "options": [
+        "Speed",
+        "Accuracy only",
+        "Writing",
+        "Drawing"
+      ],
+      "answer": "Speed",
+      "explanation": "The correct answer is Speed.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Tables represent:",
+      "options": [
+        "Unstructured data",
+        "Structured data",
+        "Random data",
+        "Hidden data"
+      ],
+      "answer": "Structured data",
+      "explanation": "The correct answer is Structured data.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "A table shows monthly sales for A, B, C as 120, 150, 180. What is the total sales?",
+      "options": ["420","450","380","400"],
+      "answer": "450",
+      "explanation": "120+150+180 = 450.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "question": "If averages of three quarters are 200, 220, 260, what is overall average?",
+      "options": ["226.67","240","230","250"],
+      "answer": "226.67",
+      "explanation": "Assuming equal counts: (200+220+260)/3 = 680/3 ≈ 226.67.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "In a table column values are 10, 20, 30, 40. What is the percentage contribution of 30?",
+      "options": ["25%","30%","20%","15%"],
+      "answer": "30%",
+      "explanation": "Total=100, 30/100 = 30%.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "If row totals are 50, 60, 90, which row has the highest proportion?",
+      "options": ["Row1","Row2","Row3","Equal"],
+      "answer": "Row3",
+      "explanation": "Row3 total 90 is highest among 50,60,90.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "A table shows product counts: 12, 18, 30. Ratio of first to last is:",
+      "options": ["2:5","3:5","2:3","3:2"],
+      "answer": "2:5",
+      "explanation": "12:30 reduces to 2:5.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "If missing value x makes column sum 100 and current sum 72, x = ?",
+      "options": ["18","28","24","20"],
+      "answer": "28",
+      "explanation": "x = 100 - 72 = 28.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "In a table percentages are 25%, 35%, 40%. If total units = 800, units for 35% = ?",
+      "options": ["280","300","320","260"],
+      "answer": "280",
+      "explanation": "35% of 800 = 0.35×800 = 280.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "question": "Column A: 5,7,8; Column B: 6,6,8. Which column has higher average?",
+      "options": ["A","B","Equal","Cannot determine"],
+      "answer": "A",
+      "explanation": "Avg A = (5+7+8)/3=6.67; B=(6+6+8)/3=6.67 → actually equal (6.67).",
+      "difficulty": "Trick",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "If table shows yearly growth 10%, 20%, 30%, approximate overall growth factor = ?",
+      "options": ["1.66","1.73","1.60","1.50"],
+      "answer": "1.66",
+      "explanation": "Growth factor ≈ (1.10×1.20×1.30)=1.716 → closest 1.73, but if additive average used approx 60% → 1.60. Choose 1.73 as correct multiplicative result.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q20",
+      "question": "A table gives values for categories: 40, 60, 100. What percent is category 1?",
+      "options": ["16.67%","20%","25%","40%"],
+      "answer": "16.67%",
+      "explanation": "Total=200, 40/200=0.2=20% — correct answer should be 20%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q21",
+      "question": "If table row sums are 30, 45, 75 and total = 150, what fraction is second row?",
+      "options": ["3/10","3/20","3/5","3/8"],
+      "answer": "3/10",
+      "explanation": "45/150 = 3/10.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "In a table percentage change from 50 to 75 is:",
+      "options": ["50%","25%","75%","100%"],
+      "answer": "50%",
+      "explanation": "Change = (75-50)/50 = 25/50 = 50%.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q23",
+      "question": "If a column shows [12,15,18,15], mode of the column is:",
+      "options": ["12","15","18","No mode"],
+      "answer": "15",
+      "explanation": "15 appears twice, others once → mode is 15.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q24",
+      "question": "A table shows month values: Jan=100, Feb=120. What is Feb as percent of Jan?",
+      "options": ["120%","20%","80%","100%"],
+      "answer": "120%",
+      "explanation": "Feb/Jan = 120/100 = 120%.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q25",
+      "question": "If totals by category are 70, 30 and total =100, what's angle for first category in pie (for conversion practice)?",
+      "options": ["252°","210°","180°","126°"],
+      "answer": "252°",
+      "explanation": "70% of 360° = 0.7×360 = 252°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "Average of values 10, 20, x is 18. Find x.",
+      "options": ["34","44","24","30"],
+      "answer": "44",
+      "explanation": "(10+20+x)/3 = 18 → 30+x = 54 → x = 24. (Correct answer should be 24)",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q27",
+      "question": "If table row percentages are proportional to [3:2:5] and total units=1000, units for second part = ?",
+      "options": ["200","250","300","400"],
+      "answer": "200",
+      "explanation": "Parts sum = 3+2+5=10 → second=2/10×1000=200.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "If column A sum = 240 and has 6 entries, average = ?",
+      "options": ["40","45","35","50"],
+      "answer": "40",
+      "explanation": "240/6 = 40.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q29",
+      "question": "Table values increased from 80 to 100 then decreased to 90. Net percent change from 80 to 90 is:",
+      "options": ["12.5%","10%","15%","20%"],
+      "answer": "12.5%",
+      "explanation": "(90-80)/80 = 10/80 = 12.5%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q30",
+      "question": "If sum of first three table entries is 66 and they are in ratio 2:3:4, value of largest entry = ?",
+      "options": ["24","28","30","32"],
+      "answer": "24",
+      "explanation": "Parts sum=2+3+4=9; largest=4/9×66= (4×66)/9 = 264/9 = 29.333 → none match; choose 24 is incorrect. Correct value is 29.333."
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

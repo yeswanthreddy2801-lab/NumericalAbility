@@ -1,166 +1,449 @@
 {
-    "topic": "Calendar Basics",
-    "flashcards": [
-        {
-            "id": 1,
-            "question": "How many days are in a normal year?",
-            "options": [
-                "364",
-                "365",
-                "366",
-                "360"
-            ],
-            "answer": "365"
-        },
-        {
-            "id": 2,
-            "question": "How many days are in a leap year?",
-            "options": [
-                "365",
-                "366",
-                "364",
-                "360"
-            ],
-            "answer": "366"
-        },
-        {
-            "id": 3,
-            "question": "Leap year is divisible by?",
-            "options": [
-                "3",
-                "4",
-                "5",
-                "6"
-            ],
-            "answer": "4"
-        },
-        {
-            "id": 4,
-            "question": "Century years must be divisible by?",
-            "options": [
-                "100",
-                "200",
-                "300",
-                "400"
-            ],
-            "answer": "400"
-        },
-        {
-            "id": 5,
-            "question": "Is 1900 a leap year?",
-            "options": [
-                "Yes",
-                "No"
-            ],
-            "answer": "No"
-        },
-        {
-            "id": 6,
-            "question": "Is 2000 a leap year?",
-            "options": [
-                "Yes",
-                "No"
-            ],
-            "answer": "Yes"
-        },
-        {
-            "id": 7,
-            "question": "How many odd days in 1 normal year?",
-            "options": [
-                "0",
-                "1",
-                "2",
-                "3"
-            ],
-            "answer": "1"
-        },
-        {
-            "id": 8,
-            "question": "How many odd days in a leap year?",
-            "options": [
-                "0",
-                "1",
-                "2",
-                "3"
-            ],
-            "answer": "2"
-        },
-        {
-            "id": 9,
-            "question": "1 week equals how many days?",
-            "options": [
-                "5",
-                "6",
-                "7",
-                "8"
-            ],
-            "answer": "7"
-        },
-        {
-            "id": 10,
-            "question": "Odd days mean?",
-            "options": [
-                "Extra days after complete weeks",
-                "Missing days",
-                "Leap days",
-                "Holiday days"
-            ],
-            "answer": "Extra days after complete weeks"
-        },
-        {
-            "id": 11,
-            "question": "Which rule is used for leap year calculation?",
-            "options": [
-                "2, 5, 10 rule",
-                "4, 100, 400 rule",
-                "3, 6, 9 rule",
-                "None"
-            ],
-            "answer": "4, 100, 400 rule"
-        },
-        {
-            "id": 12,
-            "question": "Day mapping starts from?",
-            "options": [
-                "Monday",
-                "Sunday",
-                "Tuesday",
-                "Friday"
-            ],
-            "answer": "Sunday"
-        },
-        {
-            "id": 13,
-            "question": "Which year is NOT a leap year?",
-            "options": [
-                "2000",
-                "2024",
-                "2100",
-                "2016"
-            ],
-            "answer": "2100"
-        },
-        {
-            "id": 14,
-            "question": "Which year is a leap year?",
-            "options": [
-                "1900",
-                "2000",
-                "2100",
-                "1800"
-            ],
-            "answer": "2000"
-        },
-        {
-            "id": 15,
-            "question": "A normal year has how many odd days?",
-            "options": [
-                "0",
-                "1",
-                "2",
-                "3"
-            ],
-            "answer": "1"
-        }
-    ]
+  "title": "Calendar Basics",
+  "module": "Calendar Basics",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "calendar"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Calendar Basics.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "How many days are in a normal year?",
+      "options": [
+        "364",
+        "365",
+        "366",
+        "360"
+      ],
+      "answer": "365",
+      "explanation": "The correct answer is 365.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "How many days are in a leap year?",
+      "options": [
+        "365",
+        "366",
+        "364",
+        "360"
+      ],
+      "answer": "366",
+      "explanation": "The correct answer is 366.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Leap year is divisible by?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": "4",
+      "explanation": "The correct answer is 4.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Century years must be divisible by?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "answer": "400",
+      "explanation": "The correct answer is 400.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Is 1900 a leap year?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "No",
+      "explanation": "The correct answer is No.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Is 2000 a leap year?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "answer": "Yes",
+      "explanation": "The correct answer is Yes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "How many odd days in 1 normal year?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "The correct answer is 1.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "How many odd days in a leap year?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2",
+      "explanation": "The correct answer is 2.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "1 week equals how many days?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "The correct answer is 7.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Odd days mean?",
+      "options": [
+        "Extra days after complete weeks",
+        "Missing days",
+        "Leap days",
+        "Holiday days"
+      ],
+      "answer": "Extra days after complete weeks",
+      "explanation": "The correct answer is Extra days after complete weeks.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "Which rule is used for leap year calculation?",
+      "options": [
+        "2, 5, 10 rule",
+        "4, 100, 400 rule",
+        "3, 6, 9 rule",
+        "None"
+      ],
+      "answer": "4, 100, 400 rule",
+      "explanation": "The correct answer is 4, 100, 400 rule.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "Day mapping starts from?",
+      "options": [
+        "Monday",
+        "Sunday",
+        "Tuesday",
+        "Friday"
+      ],
+      "answer": "Sunday",
+      "explanation": "The correct answer is Sunday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "Which year is NOT a leap year?",
+      "options": [
+        "2000",
+        "2024",
+        "2100",
+        "2016"
+      ],
+      "answer": "2100",
+      "explanation": "The correct answer is 2100.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "question": "Which year is a leap year?",
+      "options": [
+        "1900",
+        "2000",
+        "2100",
+        "1800"
+      ],
+      "answer": "2000",
+      "explanation": "The correct answer is 2000.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q15",
+      "question": "A normal year has how many odd days?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "1",
+      "explanation": "The correct answer is 1.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "What day of the week was 1 January 2000?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "answer": "Saturday",
+      "explanation": "1 January 2000 was a Saturday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "How many odd days are there in the year 2000?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": "2",
+      "explanation": "Year 2000 is a leap year with 366 days → 366 mod 7 = 2 odd days.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "question": "Which day was 15 August 1947?",
+      "options": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "answer": "Friday",
+      "explanation": "15 August 1947 was a Friday.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q19",
+      "question": "How many Sundays are there from 1 Jan 2021 to 31 Jan 2021 (inclusive)?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "Sundays in Jan 2021 fall on 3,10,17,24,31 → 5 Sundays.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "If 1 January is a Friday in a non-leap year, what day is 1 March of the same year?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Saturday"
+      ],
+      "answer": "Monday",
+      "explanation": "Odd days for Jan+Feb = 31→3 and 28→0 → total 3 → Friday +3 = Monday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q21",
+      "question": "How many odd days are there in 100 years?",
+      "options": [
+        "0",
+        "1",
+        "5",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "Standard result: 100 years have 5 odd days.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q22",
+      "question": "How many odd days are there in a period of 4 consecutive years (with one leap year)?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "answer": "5",
+      "explanation": "Three normal years (1 each) + one leap year (2) → 1+1+1+2 = 5 odd days.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "29 February 2016 fell on which day?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "answer": "Monday",
+      "explanation": "29 Feb 2016 was a Monday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q24",
+      "question": "If 1 Jan 2018 was Monday, what day was 1 Jan 2019?",
+      "options": [
+        "Tuesday",
+        "Wednesday",
+        "Monday",
+        "Sunday"
+      ],
+      "answer": "Tuesday",
+      "explanation": "2018 is not a leap year → 1 odd day → Monday +1 = Tuesday.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q25",
+      "question": "How many months have 31 days?",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "8"
+      ],
+      "answer": "7",
+      "explanation": "January, March, May, July, August, October, December → 7 months.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q26",
+      "question": "What is the last day of February in a leap year?",
+      "options": [
+        "28 February",
+        "29 February",
+        "1 March",
+        "27 February"
+      ],
+      "answer": "29 February",
+      "explanation": "Leap years have 29 days in February.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q27",
+      "question": "If today is Wednesday, what day will it be after 100 days?",
+      "options": [
+        "Friday",
+        "Saturday",
+        "Thursday",
+        "Sunday"
+      ],
+      "answer": "Friday",
+      "explanation": "100 mod 7 = 2 → Wednesday +2 days = Friday.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "How many odd days are there in 200 years?",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "0"
+      ],
+      "answer": "3",
+      "explanation": "Standard values: 100→5 odd days, 200→3 odd days.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q29",
+      "question": "How many leap years are there between 2000 and 2020 inclusive?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": "6",
+      "explanation": "Leap years: 2000,2004,2008,2012,2016,2020 → 6 years.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q30",
+      "question": "What day of the week was 1 January 1900?",
+      "options": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "answer": "Monday",
+      "explanation": "Historical calendar: 1 Jan 1900 was a Monday.",
+      "difficulty": "Advanced",
+      "marks": 3
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

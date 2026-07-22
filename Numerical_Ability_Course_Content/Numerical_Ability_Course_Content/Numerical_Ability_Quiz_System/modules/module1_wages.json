@@ -1,107 +1,531 @@
 {
-    "title": "Man-Chain Rule and Wages Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "Work is directly proportional to:",
-            "options": [
-                "Men × Days × Hours",
-                "Time only",
-                "Profit",
-                "Speed"
-            ],
-            "answer": "Men × Days × Hours"
-        },
-        {
-            "question": "If men increase, time will:",
-            "options": [
-                "Increase",
-                "Decrease",
-                "Remain same",
-                "Become zero"
-            ],
-            "answer": "Decrease"
-        },
-        {
-            "question": "Which formula is used in Man-Chain Rule?",
-            "options": [
-                "M + D + H",
-                "M × D × H",
-                "M / D / H",
-                "M - D - H"
-            ],
-            "answer": "M × D × H"
-        },
-        {
-            "question": "Wages are distributed based on:",
-            "options": [
-                "Time",
-                "Work done",
-                "Age",
-                "Distance"
-            ],
-            "answer": "Work done"
-        },
-        {
-            "question": "If 10 men complete work in 12 days, 15 men will take:",
-            "options": [
-                "6 days",
-                "8 days",
-                "10 days",
-                "12 days"
-            ],
-            "answer": "8 days"
-        },
-        {
-            "question": "Man-Chain Rule is based on:",
-            "options": [
-                "Geometry",
-                "Proportion",
-                "Probability",
-                "Statistics"
-            ],
-            "answer": "Proportion"
-        },
-        {
-            "question": "If hours increase, work:",
-            "options": [
-                "Increases",
-                "Decreases",
-                "Becomes zero",
-                "Stops"
-            ],
-            "answer": "Increases"
-        },
-        {
-            "question": "If men are doubled, time becomes:",
-            "options": [
-                "Double",
-                "Half",
-                "Same",
-                "Zero"
-            ],
-            "answer": "Half"
-        },
-        {
-            "question": "Man-Chain Rule is extension of:",
-            "options": [
-                "Profit and Loss",
-                "Time and Work",
-                "Geometry",
-                "Probability"
-            ],
-            "answer": "Time and Work"
-        },
-        {
-            "question": "First step in solving Man-Chain problems is:",
-            "options": [
-                "Add values",
-                "Apply proportionality",
-                "Multiply wages",
-                "Guess answer"
-            ],
-            "answer": "Apply proportionality"
-        }
-    ]
+  "title": "Man-Chain Rule and Wages — Advanced Module",
+  "module": "Wages and Man-Chain Rule",
+  "difficulty": "Advanced",
+  "duration": 35,
+  "passingMarks": 18,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "wages",
+    "man-chain-rule",
+    "time-and-work",
+    "quantitative"
+  ],
+  "objectives": [
+    "Model work using men, days, and hours variables",
+    "Solve wage sharing based on work contribution",
+    "Apply proportional reasoning to inverse and direct relationships",
+    "Use man-chain formulas to simplify real aptitude problems"
+  ],
+  "theory": [
+    "Man-Chain Rule relates work to the number of men, number of days, and hours worked per day.",
+    "If work is constant, more men or longer hours reduce the required days; if men or hours increase, work increases proportionally.",
+    "Wage distribution is usually based on the amount of work done, not merely time spent.",
+    "Man-chain problems are an extension of Time and Work with wage allocation and multi-factor scaling."
+  ],
+  "formulas": [
+    {
+      "formula": "Work ∝ Men × Days × Hours",
+      "explanation": "Total output is proportional to the manpower and time invested."
+    },
+    {
+      "formula": "Time ∝ 1 / Men",
+      "explanation": "With more workers, less time is needed for the same task."
+    },
+    {
+      "formula": "Wage share = individual work / total work × total payment",
+      "explanation": "Payment is divided in the same ratio as the work contribution."
+    },
+    {
+      "formula": "Work share per person = rate × hours worked",
+      "explanation": "A worker's output depends on both efficiency and time invested."
+    }
+  ],
+  "workedExamples": [
+    {
+      "id": "we1",
+      "title": "Man-chain direct proportionality",
+      "problem": "8 men finish a job in 15 days working 7 hours each day. If 12 men work 8 hours each day, how many days will they take?",
+      "steps": [
+        "Original work = 8 × 15 × 7 = 840 man-hours.",
+        "New daily work = 12 × 8 = 96 man-hours/day.",
+        "Days required = 840 / 96 = 8.75 days.",
+        "Answer: 8.75 days (or 8 days 18 hours)."
+      ],
+      "answer": "8.75 days"
+    },
+    {
+      "id": "we2",
+      "title": "Wage sharing by work done",
+      "problem": "A and B are paid Rs. 500 for a job. A works 10 days at 8 hours/day, B works 12 days at 6 hours/day. How much does A receive?",
+      "steps": [
+        "A's work = 10 × 8 = 80 man-hours.",
+        "B's work = 12 × 6 = 72 man-hours.",
+        "Total = 152 man-hours.",
+        "A's share = 80 / 152 × 500 = Rs. 263.16."
+      ],
+      "answer": "Rs. 263.16"
+    },
+    {
+      "id": "we3",
+      "title": "Inverse proportionality with constant work",
+      "problem": "If 10 men can finish a job in 12 days, how many days will 15 men take?",
+      "steps": [
+        "Time is inversely proportional to men when work is constant.",
+        "Days = 12 × 10 / 15 = 8 days.",
+        "Answer: 8 days."
+      ],
+      "answer": "8 days"
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Work is directly proportional to:",
+      "options": [
+        "Men × Days × Hours",
+        "Time only",
+        "Profit",
+        "Speed"
+      ],
+      "answer": "Men × Days × Hours",
+      "explanation": "More men, more days, or more hours increase total work proportionally.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "If men increase, time will:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Remain same",
+        "Become zero"
+      ],
+      "answer": "Decrease",
+      "explanation": "More workers reduce the time needed for the same amount of work.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Which formula is used in Man-Chain Rule?",
+      "options": [
+        "M + D + H",
+        "M × D × H",
+        "M / D / H",
+        "M - D - H"
+      ],
+      "answer": "M × D × H",
+      "explanation": "Man-chain multiplies men, days, and hours to estimate work quantity.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Wages are distributed based on:",
+      "options": [
+        "Time",
+        "Work done",
+        "Age",
+        "Distance"
+      ],
+      "answer": "Work done",
+      "explanation": "Payment is usually shared in proportion to work contribution, not time alone.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "If 10 men complete work in 12 days, 15 men will take:",
+      "options": [
+        "6 days",
+        "8 days",
+        "10 days",
+        "12 days"
+      ],
+      "answer": "8 days",
+      "explanation": "Time = 12 × 10 / 15 = 8 days when work and hours are constant.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q6",
+      "question": "Man-Chain Rule is based on:",
+      "options": [
+        "Geometry",
+        "Proportion",
+        "Probability",
+        "Statistics"
+      ],
+      "answer": "Proportion",
+      "explanation": "The rule uses proportional reasoning to relate men, days, and hours.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q7",
+      "question": "If hours increase, work:",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Becomes zero",
+        "Stops"
+      ],
+      "answer": "Increases",
+      "explanation": "More hours increase total man-hours and therefore work done.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q8",
+      "question": "If men are doubled, time becomes:",
+      "options": [
+        "Double",
+        "Half",
+        "Same",
+        "Zero"
+      ],
+      "answer": "Half",
+      "explanation": "Doubling manpower halves the time for the same task, assuming constant output.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "Man-Chain Rule is an extension of:",
+      "options": [
+        "Profit and Loss",
+        "Time and Work",
+        "Geometry",
+        "Probability"
+      ],
+      "answer": "Time and Work",
+      "explanation": "It extends time-and-work by adding manpower and hours factors.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q10",
+      "question": "First step in solving Man-Chain problems is:",
+      "options": [
+        "Add values",
+        "Apply proportionality",
+        "Multiply wages",
+        "Guess answer"
+      ],
+      "answer": "Apply proportionality",
+      "explanation": "Identify how each factor changes before computing actual numbers.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q11",
+      "question": "A job takes 12 men 8 days at 7 hours/day. How many days will 16 men take at 6 hours/day?",
+      "options": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "answer": "7 days",
+      "explanation": "Total work = 12×8×7=672. New daily output = 16×6=96. Days=672/96=7.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "A and B share Rs. 600. A works 10 days at 9 hours/day, B works 12 days at 6 hours/day. What does B receive?",
+      "options": [
+        "Rs. 240",
+        "Rs. 270",
+        "Rs. 300",
+        "Rs. 330"
+      ],
+      "answer": "Rs. 270",
+      "explanation": "A=90 hrs, B=72 hrs, total=162. B's share=72/162×600=270.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "A worker does 1/5 of a job in 4 days working 6 hours/day. What is his hourly work rate?",
+      "options": [
+        "1/120",
+        "1/96",
+        "1/72",
+        "1/60"
+      ],
+      "answer": "1/120",
+      "explanation": "Total hours=24, work=1/5 ⇒ rate=1/5 ÷ 24=1/120.",
+      "difficulty": "Hard",
+      "marks": 3
+    },
+    {
+      "id": "q14",
+      "question": "10 men working 8 hours a day finish a job in 9 days. How many men working 6 hours/day will finish it in 12 days?",
+      "options": [
+        "9 men",
+        "10 men",
+        "12 men",
+        "15 men"
+      ],
+      "answer": "10 men",
+      "explanation": "Work = 10 × 8 × 9 = 720. Required men = 720 / (6 × 12) = 10 men.",
+      "difficulty": "Hard",
+      "marks": 3
+    },
+    {
+      "id": "q15",
+      "question": "If 8 men can finish a job in 12 days working 6 hours/day, how many days will 12 men take working 8 hours/day?",
+      "options": [
+        "5 days",
+        "6 days",
+        "7 days",
+        "8 days"
+      ],
+      "answer": "6 days",
+      "explanation": "Work = 8×12×6 = 576. New daily output = 12×8 = 96. Days = 576/96 = 6.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "A and B share Rs. 760. A works 10 days at 8 hours/day and B works 12 days at 6 hours/day. What is B's share?",
+      "options": [
+        "Rs. 320",
+        "Rs. 340",
+        "Rs. 360",
+        "Rs. 380"
+      ],
+      "answer": "Rs. 360",
+      "explanation": "A does 80 hrs, B does 72 hrs, total 152 hrs. B's share = 72/152 × 760 = Rs. 360.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "16 men can complete a job in 9 days working 7 hours/day. How many days will 12 men take working 8 hours/day?",
+      "options": [
+        "9 days",
+        "10 days",
+        "10.5 days",
+        "12 days"
+      ],
+      "answer": "10.5 days",
+      "explanation": "Work = 16×9×7=1008. New daily output = 12×8=96. Days=1008/96=10.5.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q18",
+      "question": "A job takes 10 men 15 days working 8 hours/day. How many days will 15 men take working 10 hours/day?",
+      "options": [
+        "6 days",
+        "8 days",
+        "10 days",
+        "12 days"
+      ],
+      "answer": "8 days",
+      "explanation": "Work = 10×15×8=1200. New daily output = 15×10=150. Days=1200/150=8.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "A is 3 times as efficient as B. If they can finish a job together in 6 days, how many days will B alone take?",
+      "options": [
+        "12 days",
+        "18 days",
+        "24 days",
+        "30 days"
+      ],
+      "answer": "24 days",
+      "explanation": "Let B rate = x, A = 3x, combined = 4x. Job takes 6 days => 4x×6 = 1, so x = 1/24. B alone = 24 days.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "12 men working 9 hours/day finish a task in 8 days. How many hours/day must 8 men work to finish it in 12 days?",
+      "options": [
+        "4 hours",
+        "6 hours",
+        "8 hours",
+        "9 hours"
+      ],
+      "answer": "9 hours",
+      "explanation": "Work = 12×9×8 = 864. Required daily output = 864/(8×12)=9 hours per day.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q21",
+      "question": "A, B, and C share wages in proportion to their work. If A does 20 man-hours, B does 15 man-hours and C does 10 man-hours, what fraction of the total wages does B receive?",
+      "options": [
+        "1/3",
+        "1/4",
+        "3/9",
+        "5/9"
+      ],
+      "answer": "1/3",
+      "explanation": "Total work = 20+15+10 = 45. B's share = 15/45 = 1/3.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q22",
+      "question": "A worker finishes 1/4 of a job in 5 days working 6 hours/day. To finish the whole job in 10 days, how many hours/day must he work?",
+      "options": [
+        "10 hours",
+        "12 hours",
+        "15 hours",
+        "18 hours"
+      ],
+      "answer": "12 hours",
+      "explanation": "He does 1/4 job in 30 hrs, so full job takes 120 hrs. In 10 days he must work 120/10 = 12 hrs/day.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "If 12 men working 8 hours/day can finish a job in 5 days, how many days will 15 men working 8 hours/day take?",
+      "options": [
+        "3 days",
+        "4 days",
+        "5 days",
+        "6 days"
+      ],
+      "answer": "4 days",
+      "explanation": "Work = 12×8×5=480. New daily output = 15×8=120. Days = 480/120 = 4.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q24",
+      "question": "A and B share wages in ratio 7:9. If A works 5 days at 6 hours/day and B works 5 days at 8 hours/day, what is the combined efficiency ratio of A:B?",
+      "options": [
+        "6:8",
+        "7:9",
+        "5:8",
+        "3:4"
+      ],
+      "answer": "3:4",
+      "explanation": "Rates are proportional to hours worked if days are same. A:B = 6:8 = 3:4.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "A and B are paid Rs. 248. A works 5 days at 6 hrs/day and B works 4 days at 8 hrs/day. What is B's share?",
+      "options": [
+        "Rs. 112",
+        "Rs. 120",
+        "Rs. 128",
+        "Rs. 136"
+      ],
+      "answer": "Rs. 128",
+      "explanation": "A does 30 hrs, B does 32 hrs, total 62 hrs. B's share = 32/62 × 248 = Rs. 128.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "12 men can finish a work in 9 days working 8 hours/day. How many men are needed to finish it in 6 days working 12 hours/day?",
+      "options": [
+        "9 men",
+        "10 men",
+        "12 men",
+        "16 men"
+      ],
+      "answer": "12 men",
+      "explanation": "Work = 12×9×8=864. Required daily output = 12×h=144. Days 6 => men = 864/(12×6) = 12.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q27",
+      "question": "A worker completes 2/5 of a job in 4 days working 6 hours/day. If he works 8 hours/day, how many days will he take to complete the whole job?",
+      "options": [
+        "6 days",
+        "7.5 days",
+        "8 days",
+        "10 days"
+      ],
+      "answer": "7.5 days",
+      "explanation": "Current output = 24 hrs for 2/5 job, so full job = 60 hrs. At 8 hrs/day: 60/8 = 7.5 days.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q28",
+      "question": "A and B working 6 hours/day can finish a job in 10 days and 15 days respectively. If they work together 8 hours/day, how many days will they take?",
+      "options": [
+        "4 days",
+        "4.5 days",
+        "5 days",
+        "6 days"
+      ],
+      "answer": "4.5 days",
+      "explanation": "A rate = 1/(10×6)=1/60 per hr, B = 1/90 per hr, combined = 1/36 per hr. At 8 hrs/day => 8/36 = 2/9 job/day, so 9/2=4.5 days.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q29",
+      "question": "A receives 1/3 of the total wages and B receives 1/2. If A works 10 days at 8 hours/day and B works 6 hours/day, how many days does B work?",
+      "options": [
+        "12 days",
+        "15 days",
+        "18 days",
+        "20 days"
+      ],
+      "answer": "20 days",
+      "explanation": "A:B = 1/3 : 1/2 = 2:3. A hours = 80, so B hours = 120. At 6 hrs/day, B needs 20 days.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q30",
+      "question": "A job is paid Rs. 248. A works 5 days at 6 hrs/day and B works 4 days at 8 hrs/day. How much does A receive?",
+      "options": [
+        "Rs. 116",
+        "Rs. 120",
+        "Rs. 124",
+        "Rs. 128"
+      ],
+      "answer": "Rs. 120",
+      "explanation": "A does 30 hrs, B does 32 hrs, total 62 hrs. A's share = 30/62 × 248 = Rs. 120.",
+      "difficulty": "Medium",
+      "marks": 2
+    }
+  ],
+  "practiceProblems": [
+    {
+      "id": "p1",
+      "question": "12 men can finish a job in 16 days working 7 hours a day. How many days will 9 men take working 8 hours a day?",
+      "difficulty": "Medium",
+      "answer": "18.67 days",
+      "explanation": "Work = 12 × 16 × 7 = 1344 man-hours. Rate = 9 × 8 = 72 man-hours/day. Days = 1344 / 72 = 18.67 days."
+    },
+    {
+      "id": "p2",
+      "question": "A and B divide wages in proportion to work. A works 20 days at 6 hours/day, B works 15 days at 8 hours/day. They earn Rs. 1040. What is A's share?",
+      "difficulty": "Medium",
+      "answer": "Rs. 520",
+      "explanation": "A=120 hrs, B=120 hrs, equal work share, so A gets half of 1040 = Rs. 520."
+    }
+  ],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [
+    "BRM wages and man-chain rule standard",
+    "Competitive aptitude time-work-wages"
+  ],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

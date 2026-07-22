@@ -1,107 +1,354 @@
 {
-    "title": "DI Tables Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "DI stands for:",
-            "options": [
-                "Data Input",
-                "Data Interpretation",
-                "Data Integration",
-                "Data Index"
-            ],
-            "answer": "Data Interpretation"
-        },
-        {
-            "question": "Table data is in:",
-            "options": [
-                "Circle",
-                "Rows and Columns",
-                "Random",
-                "Tree"
-            ],
-            "answer": "Rows and Columns"
-        },
-        {
-            "question": "Row means:",
-            "options": [
-                "Vertical",
-                "Horizontal",
-                "Diagonal",
-                "None"
-            ],
-            "answer": "Horizontal"
-        },
-        {
-            "question": "Column means:",
-            "options": [
-                "Horizontal",
-                "Vertical",
-                "Random",
-                "Circular"
-            ],
-            "answer": "Vertical"
-        },
-        {
-            "question": "Cell is:",
-            "options": [
-                "Row",
-                "Column",
-                "Intersection",
-                "Header"
-            ],
-            "answer": "Intersection"
-        },
-        {
-            "question": "Total means:",
-            "options": [
-                "Sum",
-                "Product",
-                "Ratio",
-                "Difference"
-            ],
-            "answer": "Sum"
-        },
-        {
-            "question": "Average formula:",
-            "options": [
-                "Sum×Count",
-                "Sum/Count",
-                "Count/Sum",
-                "Sum+Count"
-            ],
-            "answer": "Sum/Count"
-        },
-        {
-            "question": "Best DI skill:",
-            "options": [
-                "Guessing",
-                "Speed calculation",
-                "Writing",
-                "Drawing"
-            ],
-            "answer": "Speed calculation"
-        },
-        {
-            "question": "First step in DI:",
-            "options": [
-                "Solve",
-                "Understand table",
-                "Skip",
-                "Multiply"
-            ],
-            "answer": "Understand table"
-        },
-        {
-            "question": "Tables are:",
-            "options": [
-                "Unstructured",
-                "Structured",
-                "Hidden",
-                "Random"
-            ],
-            "answer": "Structured"
-        }
-    ]
+  "title": "DI Tables Quiz",
+  "module": "DI Tables Quiz",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "di",
+    "tables"
+  ],
+  "objectives": [
+    "Understand the fundamentals of DI Tables Quiz.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "DI stands for:",
+      "options": [
+        "Data Input",
+        "Data Interpretation",
+        "Data Integration",
+        "Data Index"
+      ],
+      "answer": "Data Interpretation",
+      "explanation": "The correct answer is Data Interpretation.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Table data is in:",
+      "options": [
+        "Circle",
+        "Rows and Columns",
+        "Random",
+        "Tree"
+      ],
+      "answer": "Rows and Columns",
+      "explanation": "The correct answer is Rows and Columns.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Row means:",
+      "options": [
+        "Vertical",
+        "Horizontal",
+        "Diagonal",
+        "None"
+      ],
+      "answer": "Horizontal",
+      "explanation": "The correct answer is Horizontal.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Column means:",
+      "options": [
+        "Horizontal",
+        "Vertical",
+        "Random",
+        "Circular"
+      ],
+      "answer": "Vertical",
+      "explanation": "The correct answer is Vertical.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Cell is:",
+      "options": [
+        "Row",
+        "Column",
+        "Intersection",
+        "Header"
+      ],
+      "answer": "Intersection",
+      "explanation": "The correct answer is Intersection.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Total means:",
+      "options": [
+        "Sum",
+        "Product",
+        "Ratio",
+        "Difference"
+      ],
+      "answer": "Sum",
+      "explanation": "The correct answer is Sum.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Average formula:",
+      "options": [
+        "Sum×Count",
+        "Sum/Count",
+        "Count/Sum",
+        "Sum+Count"
+      ],
+      "answer": "Sum/Count",
+      "explanation": "The correct answer is Sum/Count.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Best DI skill:",
+      "options": [
+        "Guessing",
+        "Speed calculation",
+        "Writing",
+        "Drawing"
+      ],
+      "answer": "Speed calculation",
+      "explanation": "The correct answer is Speed calculation.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "First step in DI:",
+      "options": [
+        "Solve",
+        "Understand table",
+        "Skip",
+        "Multiply"
+      ],
+      "answer": "Understand table",
+      "explanation": "The correct answer is Understand table.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Tables are:",
+      "options": [
+        "Unstructured",
+        "Structured",
+        "Hidden",
+        "Random"
+      ],
+      "answer": "Structured",
+      "explanation": "The correct answer is Structured.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "The table shows values 20, 30, 50. What is the total?",
+      "options": ["90","100","80","110"],
+      "answer": "100",
+      "explanation": "20+30+50 = 100.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "question": "If category value is 125 and total is 500, what percent does the category represent?",
+      "options": ["25%","20%","30%","15%"],
+      "answer": "25%",
+      "explanation": "125/500 = 0.25 = 25%.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q13",
+      "question": "Average of 10, 20, 30 is:",
+      "options": ["15","20","25","30"],
+      "answer": "20",
+      "explanation": "(10+20+30)/3 = 60/3 = 20.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "If row sum must be 95 and current sum is 60, missing value x = ?",
+      "options": ["25","30","35","40"],
+      "answer": "35",
+      "explanation": "x = 95 - 60 = 35.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q15",
+      "question": "Values are in ratio 2:3:5 and total = 100. What is the second value?",
+      "options": ["20","30","40","50"],
+      "answer": "30",
+      "explanation": "Sum parts =10; second = 3/10×100 = 30.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "If column totals are 120, 180, 200, total = ?",
+      "options": ["500","520","490","480"],
+      "answer": "500",
+      "explanation": "120+180+200 = 500.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q17",
+      "question": "If a column entry is 45 and column total is 180, what percent is the entry?",
+      "options": ["20%","25%","30%","35%"],
+      "answer": "25%",
+      "explanation": "45/180 = 0.25 = 25%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "question": "Mode of the set [4,4,5,6] is:",
+      "options": ["4","5","6","No mode"],
+      "answer": "4",
+      "explanation": "4 appears most frequently.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q19",
+      "question": "Percent change from 120 to 150 is:",
+      "options": ["20%","25%","30%","15%"],
+      "answer": "25%",
+      "explanation": "(150-120)/120 = 30/120 = 25%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "If weighted average with weights 2 and 3 for values 10 and 20 is:",
+      "options": ["16","14","18","15"],
+      "answer": "16",
+      "explanation": "(2×10 + 3×20)/(2+3) = (20+60)/5 = 80/5 = 16.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q21",
+      "question": "If row totals are 30,45,75 and grand total 150, fraction for second row is:",
+      "options": ["3/10","3/5","1/3","3/8"],
+      "answer": "3/10",
+      "explanation": "45/150 = 3/10.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "Increase from 50 to 75 is what percent?",
+      "options": ["50%","25%","75%","100%"],
+      "answer": "50%",
+      "explanation": "(75-50)/50 = 25/50 = 50%.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q23",
+      "question": "If column values are [12,15,18,15], mode is:",
+      "options": ["12","15","18","No mode"],
+      "answer": "15",
+      "explanation": "15 appears twice, others once.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q24",
+      "question": "Feb value is 120 and Jan is 100, Feb as percent of Jan is:",
+      "options": ["120%","20%","80%","100%"],
+      "answer": "120%",
+      "explanation": "120/100 = 120%.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q25",
+      "question": "If category totals are 70 and 30 (total 100), what is angle for first category in a pie?",
+      "options": ["252°","210°","180°","126°"],
+      "answer": "252°",
+      "explanation": "70% of 360° = 0.7×360 = 252°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "Average of 10, 20, x is 18. Find x.",
+      "options": ["24","34","44","30"],
+      "answer": "24",
+      "explanation": "(10+20+x)/3 = 18 → 30+x = 54 → x = 24.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q27",
+      "question": "If proportions are 3:2:5 and total units 1000, units for second part = ?",
+      "options": ["200","250","300","400"],
+      "answer": "200",
+      "explanation": "Total parts =10 → second = 2/10×1000 = 200.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "Column A sum = 240 with 6 entries. Average = ?",
+      "options": ["40","45","35","50"],
+      "answer": "40",
+      "explanation": "240/6 = 40.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q29",
+      "question": "Values changed 80 → 100 → 90. Net percent change from 80 to 90 =",
+      "options": ["12.5%","10%","15%","20%"],
+      "answer": "12.5%",
+      "explanation": "(90-80)/80 = 10/80 = 12.5%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q30",
+      "question": "Sum of first three entries is 66 with ratio 2:3:4. Value of largest entry = ?",
+      "options": ["24","28","29.33","32"],
+      "answer": "29.33",
+      "explanation": "Parts sum=9; largest = 4/9×66 = 264/9 = 29.333... (rounded to 29.33).",
+      "difficulty": "Medium",
+      "marks": 2
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

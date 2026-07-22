@@ -1,107 +1,353 @@
 {
-    "title": "Directions Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "North means:",
-            "options": [
-                "Down",
-                "Up",
-                "Left",
-                "Right"
-            ],
-            "answer": "Up"
-        },
-        {
-            "question": "South means:",
-            "options": [
-                "Up",
-                "Down",
-                "Left",
-                "Right"
-            ],
-            "answer": "Down"
-        },
-        {
-            "question": "East means:",
-            "options": [
-                "Left",
-                "Right",
-                "Up",
-                "Down"
-            ],
-            "answer": "Right"
-        },
-        {
-            "question": "West means:",
-            "options": [
-                "Right",
-                "Left",
-                "Up",
-                "Down"
-            ],
-            "answer": "Left"
-        },
-        {
-            "question": "Right turn is:",
-            "options": [
-                "Clockwise",
-                "Anti-clockwise",
-                "Straight",
-                "None"
-            ],
-            "answer": "Clockwise"
-        },
-        {
-            "question": "Left turn is:",
-            "options": [
-                "Clockwise",
-                "Anti-clockwise",
-                "Straight",
-                "None"
-            ],
-            "answer": "Anti-clockwise"
-        },
-        {
-            "question": "Directions are based on:",
-            "options": [
-                "Movement",
-                "Weight",
-                "Time",
-                "Speed"
-            ],
-            "answer": "Movement"
-        },
-        {
-            "question": "Best method:",
-            "options": [
-                "Diagram",
-                "Guessing",
-                "Skipping",
-                "Random"
-            ],
-            "answer": "Diagram"
-        },
-        {
-            "question": "Final position depends on:",
-            "options": [
-                "Direction + distance",
-                "Weight",
-                "Speed",
-                "Time"
-            ],
-            "answer": "Direction + distance"
-        },
-        {
-            "question": "Directions are used in:",
-            "options": [
-                "Exams",
-                "Cooking",
-                "Music",
-                "Art"
-            ],
-            "answer": "Exams"
-        }
-    ]
+  "title": "Directions Quiz",
+  "module": "Directions Quiz",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "directions"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Directions Quiz.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "North means:",
+      "options": [
+        "Down",
+        "Up",
+        "Left",
+        "Right"
+      ],
+      "answer": "Up",
+      "explanation": "The correct answer is Up.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "South means:",
+      "options": [
+        "Up",
+        "Down",
+        "Left",
+        "Right"
+      ],
+      "answer": "Down",
+      "explanation": "The correct answer is Down.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "East means:",
+      "options": [
+        "Left",
+        "Right",
+        "Up",
+        "Down"
+      ],
+      "answer": "Right",
+      "explanation": "The correct answer is Right.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "West means:",
+      "options": [
+        "Right",
+        "Left",
+        "Up",
+        "Down"
+      ],
+      "answer": "Left",
+      "explanation": "The correct answer is Left.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Right turn is:",
+      "options": [
+        "Clockwise",
+        "Anti-clockwise",
+        "Straight",
+        "None"
+      ],
+      "answer": "Clockwise",
+      "explanation": "The correct answer is Clockwise.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Left turn is:",
+      "options": [
+        "Clockwise",
+        "Anti-clockwise",
+        "Straight",
+        "None"
+      ],
+      "answer": "Anti-clockwise",
+      "explanation": "The correct answer is Anti-clockwise.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Directions are based on:",
+      "options": [
+        "Movement",
+        "Weight",
+        "Time",
+        "Speed"
+      ],
+      "answer": "Movement",
+      "explanation": "The correct answer is Movement.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Best method:",
+      "options": [
+        "Diagram",
+        "Guessing",
+        "Skipping",
+        "Random"
+      ],
+      "answer": "Diagram",
+      "explanation": "The correct answer is Diagram.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "Final position depends on:",
+      "options": [
+        "Direction + distance",
+        "Weight",
+        "Speed",
+        "Time"
+      ],
+      "answer": "Direction + distance",
+      "explanation": "The correct answer is Direction + distance.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Directions are used in:",
+      "options": [
+        "Exams",
+        "Cooking",
+        "Music",
+        "Art"
+      ],
+      "answer": "Exams",
+      "explanation": "The correct answer is Exams.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "A walks 5 km north, then 3 km east. What is A's final direction from start?",
+      "options": ["North-East","East","North","South-East"],
+      "answer": "North-East",
+      "explanation": "Net displacement has north and east components → North-East.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "B walks 4 km west, then 4 km south. Which direction from the start?",
+      "options": ["South-West","North-West","South-East","North-East"],
+      "answer": "South-West",
+      "explanation": "West + South → South-West.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "If C moves 2 km east and returns 2 km west, where is C now?",
+      "options": ["At start","2 km east","2 km west","4 km east"],
+      "answer": "At start",
+      "explanation": "Equal opposite moves cancel; C returns to start.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "D faces north and makes a right turn then another right turn. Which direction now?",
+      "options": ["South","East","West","North"],
+      "answer": "South",
+      "explanation": "Two right turns = 180° → north→south.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "E walks 3 km south, 3 km east, 3 km north. What is E's displacement direction from start?",
+      "options": ["East","West","North-East","None"],
+      "answer": "East",
+      "explanation": "South and north cancel → net 3 km east.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "If a person goes north then makes two left turns, final direction is:",
+      "options": ["South","East","West","North"],
+      "answer": "South",
+      "explanation": "Two left turns = 180° → north→south.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q17",
+      "question": "A faces east and turns anticlockwise 90°. Which way is he facing?",
+      "options": ["North","South","West","East"],
+      "answer": "North",
+      "explanation": "East anticlockwise 90° → North.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q18",
+      "question": "If someone goes 10 km north then 10 km east, the shortest path back to start is in which direction?",
+      "options": ["South-West","North-West","South-East","West"],
+      "answer": "South-West",
+      "explanation": "Return vector is opposite of northeast, i.e., southwest.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q19",
+      "question": "P moves 7 km east and Q moves 7 km north from same point. Direction from P to Q is:",
+      "options": ["North-West","North-East","South-West","South-East"],
+      "answer": "North-West",
+      "explanation": "From P (east of start) to Q (north of start) vector is northwest.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "A is 5 km north of B. B is 3 km west of C. Direction of A from C is:",
+      "options": ["North-West","North-East","South-West","North"],
+      "answer": "North-West",
+      "explanation": "A is north of B, B west of C → A is NW of C.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q21",
+      "question": "If X walks 2 km north, 2 km west, 2 km south, final position is:",
+      "options": ["2 km west of start","At start","2 km east of start","2 km north of start"],
+      "answer": "2 km west of start",
+      "explanation": "North and south cancel; net 2 km west.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "If a man faces south and turns 270° clockwise, which direction does he face?",
+      "options": ["East","West","North","South"],
+      "answer": "East",
+      "explanation": "South +270° clockwise = East.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "A starts at origin and goes 3 east, 4 north. What is direction from start to final point?",
+      "options": ["North-East","East","North","North-West"],
+      "answer": "North-East",
+      "explanation": "Both east and north displacement positive → North-East.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q24",
+      "question": "If somebody walks 1 km north and returns to starting point, which is true?",
+      "options": ["He must have walked in a loop","Impossible","He teleported","He walked south 1 km"],
+      "answer": "He walked south 1 km",
+      "explanation": "To return, he must walk south 1 km back to start.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q25",
+      "question": "A walks 6 km east then 8 km north. Distance from start is:",
+      "options": ["10 km","14 km","8 km","6 km"],
+      "answer": "10 km",
+      "explanation": "Distance = sqrt(6^2+8^2)=sqrt(36+64)=sqrt100=10.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q26",
+      "question": "If person turns right from west-facing position, which direction next?",
+      "options": ["North","South","East","West"],
+      "answer": "North",
+      "explanation": "Facing west, right turn → north.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q27",
+      "question": "If two people move equal distances in perpendicular directions, the direction from one to the other is:",
+      "options": ["Diagonal (NE/NW/SE/SW)","Same as one person's direction","Opposite","Random"],
+      "answer": "Diagonal (NE/NW/SE/SW)",
+      "explanation": "Perpendicular displacements produce a diagonal relative direction.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "A is due north of B. C is due east of B. Which direction is C from A?",
+      "options": ["South-East","North-East","South-West","North-West"],
+      "answer": "South-East",
+      "explanation": "From A (north of B) to C (east of B) → go south then east → South-East.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q29",
+      "question": "If someone faces north and makes three consecutive left turns, final direction is:",
+      "options": ["East","West","South","North"],
+      "answer": "East",
+      "explanation": "Three left turns = 270° left = 90° right → North→East.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q30",
+      "question": "If a person moves 5 km south and then 12 km east, the bearing of the final point from the start is approximately:",
+      "options": ["E 22° S","S 22° E","SE","E"],
+      "answer": "E 22° S",
+      "explanation": "Angle = arctan(5/12) ≈ 22°; direction is east then 22° south → E 22° S.",
+      "difficulty": "Advanced",
+      "marks": 3
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

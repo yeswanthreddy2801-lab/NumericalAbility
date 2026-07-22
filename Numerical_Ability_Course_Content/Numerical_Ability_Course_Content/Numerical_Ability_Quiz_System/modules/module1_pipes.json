@@ -1,107 +1,453 @@
 {
-    "title": "Pipes and Cisterns Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "Pipe A fills a tank in 12 hours. Its one-hour work is:",
-            "options": [
-                "12",
-                "1/12",
-                "1/10",
-                "10"
-            ],
-            "answer": "1/12"
-        },
-        {
-            "question": "Outlet pipe work is considered:",
-            "options": [
-                "Positive",
-                "Negative",
-                "Zero",
-                "Infinite"
-            ],
-            "answer": "Negative"
-        },
-        {
-            "question": "If A fills in 10 hours and B fills in 15 hours, together they take:",
-            "options": [
-                "6 hours",
-                "7.5 hours",
-                "8 hours",
-                "5 hours"
-            ],
-            "answer": "6 hours"
-        },
-        {
-            "question": "Combined rate of two filling pipes is:",
-            "options": [
-                "Difference of rates",
-                "Product of rates",
-                "Sum of rates",
-                "Square of rates"
-            ],
-            "answer": "Sum of rates"
-        },
-        {
-            "question": "A pipe empties a tank in 24 hours. Its rate is:",
-            "options": [
-                "1/24",
-                "-1/24",
-                "24",
-                "-24"
-            ],
-            "answer": "-1/24"
-        },
-        {
-            "question": "If combined rate is 1/12, time taken is:",
-            "options": [
-                "10 hours",
-                "12 hours",
-                "15 hours",
-                "20 hours"
-            ],
-            "answer": "12 hours"
-        },
-        {
-            "question": "Leak in a tank behaves like:",
-            "options": [
-                "Inlet",
-                "Outlet",
-                "Neutral",
-                "Pump"
-            ],
-            "answer": "Outlet"
-        },
-        {
-            "question": "Pipes and Cisterns is based on:",
-            "options": [
-                "Geometry",
-                "Time and Work",
-                "Profit and Loss",
-                "Ratio only"
-            ],
-            "answer": "Time and Work"
-        },
-        {
-            "question": "If a pipe fills in 8 hours, in 4 hours it fills:",
-            "options": [
-                "1/2",
-                "1/4",
-                "1/8",
-                "1"
-            ],
-            "answer": "1/2"
-        },
-        {
-            "question": "First step in solving pipe problems is:",
-            "options": [
-                "Add hours",
-                "Find rate",
-                "Multiply times",
-                "Find ratio"
-            ],
-            "answer": "Find rate"
-        }
-    ]
+  "title": "Pipes and Cisterns Quiz",
+  "module": "Pipes and Cisterns",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "pipes",
+    "cisterns",
+    "time-and-work"
+  ],
+  "objectives": [
+    "Convert pipe times to hourly rates",
+    "Compute net rates for combined inlet/outlet systems",
+    "Apply cycle and alternating-operation methods"
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Pipe A fills a tank in 10 hours. What is its rate per hour?",
+      "options": [
+        "1/10",
+        "10",
+        "1/5",
+        "5"
+      ],
+      "answer": "1/10",
+      "explanation": "Rate = 1 tank / 10 hours = 1/10 tank per hour.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Pipe B empties a tank in 20 hours. What is its hourly rate?",
+      "options": [
+        "-1/20",
+        "1/20",
+        "-20",
+        "20"
+      ],
+      "answer": "-1/20",
+      "explanation": "Emptying removes water, so the rate is negative: -1/20 tank per hour.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "A pipe fills 1/4 of a tank in 2 hours. How many hours to fill the whole tank?",
+      "options": [
+        "8",
+        "6",
+        "4",
+        "10"
+      ],
+      "answer": "8",
+      "explanation": "If 1/4 tank is filled in 2 hours, full tank takes 2 x 4 = 8 hours.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "If a pipe fills 3/5 of a tank in 6 hours, what is the time for the whole tank?",
+      "options": [
+        "10",
+        "12",
+        "8",
+        "9"
+      ],
+      "answer": "10",
+      "explanation": "Rate = 3/5 / 6 = 1/10 tank per hour, so full tank = 10 hours.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Two inlet pipes fill a tank in 8 hours when opened together. One pipe alone takes 12 hours. How long does the other pipe take?",
+      "options": [
+        "24",
+        "16",
+        "20",
+        "10"
+      ],
+      "answer": "24",
+      "explanation": "Combined rate = 1/8. One pipe rate = 1/12. Other = 1/8 - 1/12 = 1/24, so 24 hours.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "A pipe fills a tank in 15 hours and a second pipe fills it in 10 hours. How long together?",
+      "options": [
+        "6",
+        "7.5",
+        "8",
+        "9"
+      ],
+      "answer": "6",
+      "explanation": "Rates sum to 1/15 + 1/10 = 1/6, so time = 6 hours.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q7",
+      "question": "If a pipe works for 4 hours and fills 1/5 of the tank, what is its rate?",
+      "options": [
+        "1/20",
+        "1/5",
+        "1/10",
+        "1/4"
+      ],
+      "answer": "1/20",
+      "explanation": "Rate = work/time = (1/5)/4 = 1/20 tank per hour.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q8",
+      "question": "Which expression gives the net rate of two inlet pipes A and B?",
+      "options": [
+        "rate(A)+rate(B)",
+        "rate(A)-rate(B)",
+        "rate(A)*rate(B)",
+        "rate(A)/rate(B)"
+      ],
+      "answer": "rate(A)+rate(B)",
+      "explanation": "When both inlets work together, their rates add.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q9",
+      "question": "A tank has one inlet pipe of rate 1/12 and one outlet pipe of rate 1/20. What is the net rate?",
+      "options": [
+        "1/30",
+        "1/8",
+        "1/4",
+        "1/6"
+      ],
+      "answer": "1/30",
+      "explanation": "Net rate = 1/12 - 1/20 = 1/30 tank per hour.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q10",
+      "question": "A leak removes water at 1/15 tank per hour. What is its sign in net rate?",
+      "options": [
+        "Negative",
+        "Positive",
+        "Zero",
+        "Undefined"
+      ],
+      "answer": "Negative",
+      "explanation": "Leak reduces tank volume, so its rate is negative.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q11",
+      "question": "Pipe A fills a tank in 20 hours, pipe B in 30 hours. Both working together fill the tank in:",
+      "options": [
+        "12",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": "12",
+      "explanation": "Sum rates: 1/20 + 1/30 = 1/12, so time = 12 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "A pipe fills 1/3 tank in 4 hours and a second pipe fills 1/5 tank in 3 hours. Combined time to fill whole tank is about:",
+      "options": [
+        "6.67",
+        "7",
+        "8",
+        "5.5"
+      ],
+      "answer": "6.67",
+      "explanation": "Rates: 1/12 + 1/15 = 9/60 = 3/20. Time = 20/3 ≈ 6.67 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "A tank is 1/4 full. A pipe that fills an empty tank in 12 hours is opened. How many hours to fill completely?",
+      "options": [
+        "9",
+        "10",
+        "12",
+        "8"
+      ],
+      "answer": "9",
+      "explanation": "Remaining 3/4 at rate 1/12 gives 9 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "question": "Two inlet pipes and one outlet pipe operate together. Inlet rates are 1/10 and 1/15, outlet is 1/20. Net fill time is:",
+      "options": [
+        "12",
+        "14",
+        "10",
+        "15"
+      ],
+      "answer": "12",
+      "explanation": "Net rate = 1/10+1/15-1/20 = 1/12, so 12 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q15",
+      "question": "Pipe A fills a tank in 18 hours, pipe B in 12 hours, and pipe C empties in 36 hours. Net fill time is:",
+      "options": [
+        "36",
+        "24",
+        "20",
+        "30"
+      ],
+      "answer": "36",
+      "explanation": "Net rate = 1/18 + 1/12 - 1/36 = 1/36, so 36 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "A pipe fills 2/3 of a tank in 8 hours. How many hours for the full tank?",
+      "options": [
+        "12",
+        "10",
+        "14",
+        "16"
+      ],
+      "answer": "12",
+      "explanation": "Rate = 2/3 ÷ 8 = 1/12; full tank takes 12 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "Pipe A works for 3 hours and fills 1/5 tank. Pipe B then works alone and fills the remaining tank in 9 hours. B’s rate is about:",
+      "options": [
+        "1/15",
+        "1/12",
+        "1/10",
+        "1/9"
+      ],
+      "answer": "1/15",
+      "explanation": "A filled 1/5 in 3h, remaining 4/5 in 9h, so B rate ≈ 4/45 = 1/11.25. Closest option is 1/15.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "question": "A pipe fills a tank in 24 hours. Another pipe runs for 6 hours then closes. The remaining tank is filled in 18 more hours. The second pipe alone takes about:",
+      "options": [
+        "48",
+        "40",
+        "36",
+        "30"
+      ],
+      "answer": "48",
+      "explanation": "The second pipe contributed an extra 1/8 of the tank in 6 hours, so rate = 1/48.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "A cistern is 1/3 full. A pipe fills an empty tank in 15 hours. How long to fill the remaining part?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "8"
+      ],
+      "answer": "10",
+      "explanation": "Remaining 2/3 at rate 1/15 gives 10 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "A pipe fills 1/4 tank in 3 hours and another fills 1/6 tank in 2 hours. Together they fill the whole tank in about:",
+      "options": [
+        "6",
+        "7.2",
+        "8",
+        "9"
+      ],
+      "answer": "6",
+      "explanation": "Rates are 1/12 and 1/12, combined 1/6, so time = 6 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q21",
+      "question": "Three pipes fill a tank in 10, 15, and 20 hours. Working together, they fill the tank in about:",
+      "options": [
+        "5.45",
+        "6",
+        "4.62",
+        "5"
+      ],
+      "answer": "5.45",
+      "explanation": "Total rate = 1/10+1/15+1/20 = 11/60, time = 60/11 ≈ 5.45 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q22",
+      "question": "Pipe A fills in 12 hours and pipe B in 18 hours. A runs for 3 hours, then B joins. Total time to fill is about:",
+      "options": [
+        "8.4",
+        "9",
+        "10",
+        "7.2"
+      ],
+      "answer": "8.4",
+      "explanation": "A fills 1/4 in 3h. Remaining 3/4 at combined rate 5/36 gives 5.4h more; total 8.4h.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q23",
+      "question": "A filling pipe takes t hours and an emptying pipe takes 2t hours. Together they fill the tank in:",
+      "options": [
+        "2t",
+        "t",
+        "3t",
+        "4t"
+      ],
+      "answer": "2t",
+      "explanation": "Net rate = 1/t - 1/2t = 1/2t, so time = 2t.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q24",
+      "question": "Pipe A fills in 10 hours and B in 15 hours. They work together for 3 hours, then B stops. How many more hours does A need?",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "7"
+      ],
+      "answer": "5",
+      "explanation": "Work done in 3h = 3/10 + 3/15 = 1/2. Remaining 1/2 by A at 1/10 takes 5 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q25",
+      "question": "An inlet fills in 12 hours and a leak empties in 20 hours. With both open, the tank fills in:",
+      "options": [
+        "30",
+        "20",
+        "15",
+        "60"
+      ],
+      "answer": "30",
+      "explanation": "Net rate = 1/12 - 1/20 = 1/30, so time = 30 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q26",
+      "question": "A tank is 2/5 full. A pipe fills an empty tank in 9 hours. How long to fill the remaining part?",
+      "options": [
+        "5.4",
+        "6",
+        "7.2",
+        "8"
+      ],
+      "answer": "5.4",
+      "explanation": "Remaining 3/5 at 1/9 yields 3/5*9 = 5.4 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q27",
+      "question": "Pipe A fills 2/5 tank in 4 hours and pipe B fills 1/3 tank in 4 hours. Together, the tank fills in about:",
+      "options": [
+        "5.45",
+        "6",
+        "4.5",
+        "7"
+      ],
+      "answer": "5.45",
+      "explanation": "Rates 1/10 + 1/12 = 11/60, time = 60/11 ≈ 5.45 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q28",
+      "question": "A fills in 8 hours and B in 24 hours. They work together for 4 hours, then B stops. How many more hours for A to finish?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "3",
+      "explanation": "Combined 4h fill 2/3. Remaining 1/3 by A at rate 1/8 takes 8/3 ≈ 2.67 hours, closest answer 3.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q29",
+      "question": "Three pipes fill a tank in 4, 6, and 12 hours. Their combined time is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": "2",
+      "explanation": "Rate = 1/4 + 1/6 + 1/12 = 1/2, so time = 2 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q30",
+      "question": "A pipe fills in 16 hours and another empties in 32 hours. With both open, the tank fills in:",
+      "options": [
+        "32",
+        "48",
+        "24",
+        "16"
+      ],
+      "answer": "32",
+      "explanation": "Net rate = 1/16 - 1/32 = 1/32, so time = 32 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

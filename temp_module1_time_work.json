@@ -1,0 +1,242 @@
+{
+  "title": "Time and Work — Advanced Module",
+  "module": "Time and Work",
+  "difficulty": "Advanced",
+  "duration": 35,
+  "passingMarks": 18,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": ["time-and-work","quantitative","work-rate"],
+  "objectives": [
+    "Find one-day work and net work using rates",
+    "Solve combined worker and pipe problems",
+    "Apply alternate and sequential operation models",
+    "Use LCM and rate equations to simplify calculations"
+  ],
+  "theory": [
+    "Time and Work problems model a task as one unit of work.",
+    "One worker's daily work = 1 / total days required.",
+    "Combined work is the sum of individual rates when workers work together.",
+    "Outlet or leak work subtracts from the filling rate, creating net work."
+  ],
+  "formulas": [
+    {
+      "formula": "Work = Rate × Time",
+      "explanation": "If a worker does r units per day for t days, total work done is r × t."
+    },
+    {
+      "formula": "One-day work = 1 / time",
+      "explanation": "A worker who finishes in T days does 1/T of the job in one day."
+    },
+    {
+      "formula": "Time for two workers = xy / (x + y)",
+      "explanation": "When worker A takes x days and B takes y days, together they finish in xy/(x+y) days."
+    },
+    {
+      "formula": "Net rate = sum(inlet rates) - sum(outlet rates)",
+      "explanation": "Use negative rates for emptying pipes or leaks."
+    }
+  ],
+  "workedExamples": [
+    {
+      "id": "we1",
+      "title": "Basic combined work",
+      "problem": "A can complete a job in 10 days and B in 15 days. How long together?",
+      "steps": [
+        "One-day work of A = 1/10.",
+        "One-day work of B = 1/15.",
+        "Combined work = 1/10 + 1/15 = 1/6.",
+        "Time = 1 / (1/6) = 6 days."
+      ],
+      "answer": "6 days"
+    },
+    {
+      "id": "we2",
+      "title": "Work with leak",
+      "problem": "A pipe fills a tank in 8 hours. A leak empties it in 24 hours. How long if both are open?",
+      "steps": [
+        "Filling rate = 1/8 tank/hour.",
+        "Leak rate = 1/24 tank/hour (negative).",
+        "Net rate = 1/8 - 1/24 = 1/12.",
+        "Time = 1 / (1/12) = 12 hours."
+      ],
+      "answer": "12 hours"
+    },
+    {
+      "id": "we3",
+      "title": "Sequential worker problem",
+      "problem": "A finishes a job in 12 days. B starts on day 4 and finishes the remaining work in 6 more days. How much of the work did A do?",
+      "steps": [
+        "A's daily work = 1/12.",
+        "Work by A in first 3 days = 3 × 1/12 = 1/4.",
+        "Remaining work = 3/4; B completes it in 6 days => B's daily work = (3/4)/6 = 1/8.",
+        "Answer: A did 1/4 of the work and B's rate is 1/8 per day."
+      ],
+      "answer": "A completed 1/4 of the job."
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "If A completes a work in 10 days, his one day's work is:",
+      "options": [
+        "1/5",
+        "1/10",
+        "10",
+        "5"
+      ],
+      "answer": "1/10",
+      "explanation": "One-day work = 1 ÷ total days = 1/10.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Work is equal to:",
+      "options": [
+        "Rate × Time",
+        "Rate + Time",
+        "Rate - Time",
+        "Rate ÷ Time"
+      ],
+      "answer": "Rate × Time",
+      "explanation": "Work is the product of rate and time taken.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "If A and B complete a work in 12 and 18 days respectively, together they take:",
+      "options": [
+        "7.2 days",
+        "8 days",
+        "9 days",
+        "10 days"
+      ],
+      "answer": "7.2 days",
+      "explanation": "Combined rate = 1/12 + 1/18 = 5/36 ⇒ time = 36/5 = 7.2 days.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q4",
+      "question": "One day's work of a person taking N days is:",
+      "options": [
+        "N",
+        "1/N",
+        "N²",
+        "2N"
+      ],
+      "answer": "1/N",
+      "explanation": "If total job is 1 unit, daily work is reciprocal of days needed.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Efficiency is directly proportional to:",
+      "options": [
+        "Time",
+        "Distance",
+        "Work",
+        "Speed"
+      ],
+      "answer": "Work",
+      "explanation": "Efficiency measures work done per unit time, so it is directly proportional to work.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Time is inversely proportional to:",
+      "options": [
+        "Efficiency",
+        "Distance",
+        "Profit",
+        "Loss"
+      ],
+      "answer": "Efficiency",
+      "explanation": "More efficient workers take less time to complete the same work.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q7",
+      "question": "Which method is commonly used to avoid fractions?",
+      "options": [
+        "Prime Method",
+        "LCM Method",
+        "Square Method",
+        "Cube Method"
+      ],
+      "answer": "LCM Method",
+      "explanation": "Using LCM of denominators simplifies fractional work rates.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q8",
+      "question": "If one day's work is 1/25, total time required is:",
+      "options": [
+        "20",
+        "25",
+        "15",
+        "10"
+      ],
+      "answer": "25",
+      "explanation": "Total time is reciprocal of one-day work: 1 ÷ (1/25) = 25.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q9",
+      "question": "The shortcut formula for two workers is:",
+      "options": [
+        "xy/(x+y)",
+        "x+y",
+        "xy",
+        "(x+y)/2"
+      ],
+      "answer": "xy/(x+y)",
+      "explanation": "This formula gives the combined time when two workers with times x and y work together.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "The first step in solving Time and Work problems is:",
+      "options": [
+        "Add days",
+        "Find one day's work",
+        "Find profit",
+        "Find percentage"
+      ],
+      "answer": "Find one day's work",
+      "explanation": "Converting tasks into daily work makes the rest of the solution systematic.",
+      "difficulty": "Easy",
+      "marks": 1
+    }
+  ],
+  "practiceProblems": [
+    {
+      "id": "p1",
+      "question": "A person can finish a job in 12 days. After 4 days, another person with twice the efficiency joins. How many more days are required?",
+      "difficulty": "Medium",
+      "answer": "2 2/3 days",
+      "explanation": "First person does 4/12=1/3 work in 4 days. Remaining 2/3 done at combined rate 1/12+2/12=1/4 ⇒ time=8/3=2 2/3 days.",
+      "shortcut": "Convert efficiency to one-day work and subtract work done."
+    },
+    {
+      "id": "p2",
+      "question": "A tank is filled by pipe A in 10 hours and pipe B in 15 hours. After 3 hours of both pipes working, pipe B is closed. How long will A take to finish the remaining work?",
+      "difficulty": "Medium",
+      "answer": "5 hours",
+      "explanation": "Combined work in 3h = 3*(1/10+1/15)=1/2. Remaining 1/2 by A alone at 1/10 = 5 hours.",
+      "shortcut": "Use combined rate first, then remaining work / single rate."
+    }
+  ],
+  "references": [
+    "BRM Time and Work content standard",
+    "Aptitude placement question patterns"
+  ]
+}

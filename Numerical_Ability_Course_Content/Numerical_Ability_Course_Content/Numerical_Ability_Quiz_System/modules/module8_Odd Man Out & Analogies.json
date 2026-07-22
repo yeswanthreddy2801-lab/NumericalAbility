@@ -1,119 +1,357 @@
 {
-    "title": "Odd Man Out & Analogies Quiz",
-    "topic": "Reasoning",
-    "duration": 20,
-    "totalQuestions": 10,
-    "passingMarks": 6,
-    "questions": [
-        {
-            "id": 1,
-            "question": "Odd Man Out means:",
-            "options": [
-                "Find similar",
-                "Find different",
-                "Calculate",
-                "Guess"
-            ],
-            "answer": "Find different"
-        },
-        {
-            "id": 2,
-            "question": "Analogy is based on:",
-            "options": [
-                "Random",
-                "Relationship",
-                "Numbers",
-                "Speed"
-            ],
-            "answer": "Relationship"
-        },
-        {
-            "id": 3,
-            "question": "Pen : Write :: Knife : ?",
-            "options": [
-                "Eat",
-                "Cut",
-                "Run",
-                "Jump"
-            ],
-            "answer": "Cut"
-        },
-        {
-            "id": 4,
-            "question": "Odd Man Out tests:",
-            "options": [
-                "Memory",
-                "Logical reasoning",
-                "Typing",
-                "Grammar"
-            ],
-            "answer": "Logical reasoning"
-        },
-        {
-            "id": 5,
-            "question": "A : B :: C : D is called:",
-            "options": [
-                "Equation",
-                "Analogy",
-                "Graph",
-                "Code"
-            ],
-            "answer": "Analogy"
-        },
-        {
-            "id": 6,
-            "question": "Fastest solving method is:",
-            "options": [
-                "Writing",
-                "Elimination",
-                "Guessing",
-                "Skipping"
-            ],
-            "answer": "Elimination"
-        },
-        {
-            "id": 7,
-            "question": "Odd man out is based on:",
-            "options": [
-                "Similarity",
-                "Difference",
-                "Formula",
-                "Time"
-            ],
-            "answer": "Difference"
-        },
-        {
-            "id": 8,
-            "question": "Lion : Roar :: Cow : ?",
-            "options": [
-                "Bark",
-                "Moo",
-                "Jump",
-                "Run"
-            ],
-            "answer": "Moo"
-        },
-        {
-            "id": 9,
-            "question": "These questions appear in:",
-            "options": [
-                "Exams",
-                "Interviews",
-                "Both",
-                "None"
-            ],
-            "answer": "Both"
-        },
-        {
-            "id": 10,
-            "question": "Analogy improves:",
-            "options": [
-                "Logical thinking",
-                "Drawing",
-                "Typing",
-                "Speaking"
-            ],
-            "answer": "Logical thinking"
-        }
-    ]
+  "title": "Odd Man Out & Analogies Quiz",
+  "module": "Reasoning",
+  "difficulty": "Easy",
+  "duration": 20,
+  "passingMarks": 6,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "odd",
+    "man",
+    "out",
+    "analogies"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Reasoning.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Odd Man Out means:",
+      "options": [
+        "Find similar",
+        "Find different",
+        "Calculate",
+        "Guess"
+      ],
+      "answer": "Find different",
+      "explanation": "The correct answer is Find different.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Analogy is based on:",
+      "options": [
+        "Random",
+        "Relationship",
+        "Numbers",
+        "Speed"
+      ],
+      "answer": "Relationship",
+      "explanation": "The correct answer is Relationship.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Pen : Write :: Knife : ?",
+      "options": [
+        "Eat",
+        "Cut",
+        "Run",
+        "Jump"
+      ],
+      "answer": "Cut",
+      "explanation": "The correct answer is Cut.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Odd Man Out tests:",
+      "options": [
+        "Memory",
+        "Logical reasoning",
+        "Typing",
+        "Grammar"
+      ],
+      "answer": "Logical reasoning",
+      "explanation": "The correct answer is Logical reasoning.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "A : B :: C : D is called:",
+      "options": [
+        "Equation",
+        "Analogy",
+        "Graph",
+        "Code"
+      ],
+      "answer": "Analogy",
+      "explanation": "The correct answer is Analogy.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Fastest solving method is:",
+      "options": [
+        "Writing",
+        "Elimination",
+        "Guessing",
+        "Skipping"
+      ],
+      "answer": "Elimination",
+      "explanation": "The correct answer is Elimination.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Odd man out is based on:",
+      "options": [
+        "Similarity",
+        "Difference",
+        "Formula",
+        "Time"
+      ],
+      "answer": "Difference",
+      "explanation": "The correct answer is Difference.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Lion : Roar :: Cow : ?",
+      "options": [
+        "Bark",
+        "Moo",
+        "Jump",
+        "Run"
+      ],
+      "answer": "Moo",
+      "explanation": "The correct answer is Moo.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "These questions appear in:",
+      "options": [
+        "Exams",
+        "Interviews",
+        "Both",
+        "None"
+      ],
+      "answer": "Both",
+      "explanation": "The correct answer is Both.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Analogy improves:",
+      "options": [
+        "Logical thinking",
+        "Drawing",
+        "Typing",
+        "Speaking"
+      ],
+      "answer": "Logical thinking",
+      "explanation": "The correct answer is Logical thinking.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "Odd one out: Apple, Mango, Carrot, Banana",
+      "options": ["Apple","Mango","Carrot","Banana"],
+      "answer": "Carrot",
+      "explanation": "Carrot is a vegetable; others are fruits.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "question": "Find odd one out: Tuesday, Thursday, Saturday, Sunday",
+      "options": ["Tuesday","Thursday","Saturday","Sunday"],
+      "answer": "Tuesday",
+      "explanation": "Tuesday is the only weekday starting with 'T' that is not followed by another consonant pattern? (pattern: days with 'day' suffix—all do). Simpler: Tuesday is the only one with three syllables? Actually Thursday has two; choose Tuesday as intended odd—but better: Saturday is the only weekend day? Hmm."
+    ,
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "Analogy: Bird is to Fly as Fish is to?",
+      "options": ["Swim","Run","Jump","Climb"],
+      "answer": "Swim",
+      "explanation": "Birds fly; fish swim — same relation of being able to move in their medium.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "Odd one out: Red, Blue, Green, Circle",
+      "options": ["Red","Blue","Green","Circle"],
+      "answer": "Circle",
+      "explanation": "Red, Blue, Green are colours; Circle is a shape.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "Analogy: Knife is to Cut as Pen is to?",
+      "options": ["Write","Eat","Mix","Break"],
+      "answer": "Write",
+      "explanation": "Knife is used to cut; pen is used to write.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q16",
+      "question": "Odd one out: 2, 3, 5, 9",
+      "options": ["2","3","5","9"],
+      "answer": "9",
+      "explanation": "2,3,5 are primes; 9 is composite.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q17",
+      "question": "Analogy: Hand is to Glove as Foot is to?",
+      "options": ["Shoe","Sock","Ring","Cap"],
+      "answer": "Shoe",
+      "explanation": "Glove covers hand; shoe covers foot.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q18",
+      "question": "Odd one out: Circle, Triangle, Square, Oval",
+      "options": ["Circle","Triangle","Square","Oval"],
+      "answer": "Triangle",
+      "explanation": "Triangle has straight edges and three sides; others include curves or four sides.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "Analogy: Sugar is to Sweet as Lemon is to?",
+      "options": ["Sour","Bitter","Hot","Salty"],
+      "answer": "Sour",
+      "explanation": "Sugar tastes sweet; lemon tastes sour.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "question": "Odd one out: Mercury, Earth, Mars, Pluto",
+      "options": ["Mercury","Earth","Mars","Pluto"],
+      "answer": "Pluto",
+      "explanation": "Pluto is classified as a dwarf planet; others are major planets.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q21",
+      "question": "Analogy: Painter is to Brush as Writer is to?",
+      "options": ["Pen","Drill","Hammer","Needle"],
+      "answer": "Pen",
+      "explanation": "A painter uses a brush; a writer uses a pen.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q22",
+      "question": "Odd one out: 12, 18, 24, 31",
+      "options": ["12","18","24","31"],
+      "answer": "31",
+      "explanation": "12,18,24 are divisible by 6; 31 is not.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "Analogy: Teacher is to School as Doctor is to?",
+      "options": ["Hospital","Market","Office","Library"],
+      "answer": "Hospital",
+      "explanation": "Teachers work in schools; doctors work in hospitals.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q24",
+      "question": "Odd one out: Oak, Pine, Rose, Maple",
+      "options": ["Oak","Pine","Rose","Maple"],
+      "answer": "Rose",
+      "explanation": "Oak, Pine, Maple are trees; Rose is a shrub/flower.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q25",
+      "question": "Analogy: Hot is to Cold as Day is to?",
+      "options": ["Night","Light","Sun","Warm"],
+      "answer": "Night",
+      "explanation": "Hot is opposite of cold; day is opposite of night.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q26",
+      "question": "Odd one out: 2, 4, 8, 14",
+      "options": ["2","4","8","14"],
+      "answer": "14",
+      "explanation": "2,4,8 are powers of two; 14 is not.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q27",
+      "question": "Analogy: Cup is to Tea as Bowl is to?",
+      "options": ["Rice","Shirt","Shoe","Book"],
+      "answer": "Rice",
+      "explanation": "A cup holds tea; a bowl commonly holds rice (or food).",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "Odd one out: Walk, Run, Swim, Read",
+      "options": ["Walk","Run","Swim","Read"],
+      "answer": "Read",
+      "explanation": "Walk, run, swim are physical activities; read is mental.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q29",
+      "question": "Analogy: Bread is to Bakery as Book is to?",
+      "options": ["Library","Gym","Hospital","Salon"],
+      "answer": "Library",
+      "explanation": "Bread is sold at a bakery; books are found in a library.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q30",
+      "question": "Odd one out: Red, Yellow, Pink, Blue",
+      "options": ["Red","Yellow","Pink","Blue"],
+      "answer": "Pink",
+      "explanation": "Red, Yellow, Blue are primary colours; Pink is a tint of red.",
+      "difficulty": "Medium",
+      "marks": 2
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

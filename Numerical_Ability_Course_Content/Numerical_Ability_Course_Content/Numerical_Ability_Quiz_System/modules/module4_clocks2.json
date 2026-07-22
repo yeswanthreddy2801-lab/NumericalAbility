@@ -1,107 +1,454 @@
 {
-    "title": "Clocks 2 Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "Mirror formula is:",
-            "options": [
-                "12:00 - time",
-                "11:60 - time",
-                "10:50 - time",
-                "9:00 - time"
-            ],
-            "answer": "11:60 - time"
-        },
-        {
-            "question": "Clock gain means:",
-            "options": [
-                "Slow clock",
-                "Fast clock",
-                "Stopped clock",
-                "Broken clock"
-            ],
-            "answer": "Fast clock"
-        },
-        {
-            "question": "Clock loss means:",
-            "options": [
-                "Fast clock",
-                "Slow clock",
-                "Correct clock",
-                "Stopped clock"
-            ],
-            "answer": "Slow clock"
-        },
-        {
-            "question": "Mirror of 3:15 is:",
-            "options": [
-                "8:45",
-                "7:45",
-                "6:15",
-                "9:15"
-            ],
-            "answer": "8:45"
-        },
-        {
-            "question": "Clock error is measured per:",
-            "options": [
-                "Hour",
-                "Day",
-                "Minute",
-                "Second"
-            ],
-            "answer": "Day"
-        },
-        {
-            "question": "Clock correction is based on:",
-            "options": [
-                "Weight",
-                "Time difference",
-                "Distance",
-                "Speed"
-            ],
-            "answer": "Time difference"
-        },
-        {
-            "question": "Mirror concept is related to:",
-            "options": [
-                "Reflection",
-                "Addition",
-                "Division",
-                "Probability"
-            ],
-            "answer": "Reflection"
-        },
-        {
-            "question": "11:60 rule is used for:",
-            "options": [
-                "Addition",
-                "Mirror image",
-                "Subtraction",
-                "Multiplication"
-            ],
-            "answer": "Mirror image"
-        },
-        {
-            "question": "Clock gain per day means:",
-            "options": [
-                "Slow clock",
-                "Fast clock",
-                "Stopped clock",
-                "Normal clock"
-            ],
-            "answer": "Fast clock"
-        },
-        {
-            "question": "Clock loss per day means:",
-            "options": [
-                "Fast clock",
-                "Slow clock",
-                "Correct clock",
-                "Broken clock"
-            ],
-            "answer": "Slow clock"
-        }
-    ]
+  "title": "Clocks 2 Quiz",
+  "module": "Clocks 2 Quiz",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "clocks",
+    "2"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Clocks 2 Quiz.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Mirror formula is:",
+      "options": [
+        "12:00 - time",
+        "11:60 - time",
+        "10:50 - time",
+        "9:00 - time"
+      ],
+      "answer": "11:60 - time",
+      "explanation": "The correct answer is 11:60 - time.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Clock gain means:",
+      "options": [
+        "Slow clock",
+        "Fast clock",
+        "Stopped clock",
+        "Broken clock"
+      ],
+      "answer": "Fast clock",
+      "explanation": "The correct answer is Fast clock.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Clock loss means:",
+      "options": [
+        "Fast clock",
+        "Slow clock",
+        "Correct clock",
+        "Stopped clock"
+      ],
+      "answer": "Slow clock",
+      "explanation": "The correct answer is Slow clock.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Mirror of 3:15 is:",
+      "options": [
+        "8:45",
+        "7:45",
+        "6:15",
+        "9:15"
+      ],
+      "answer": "8:45",
+      "explanation": "The correct answer is 8:45.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Clock error is measured per:",
+      "options": [
+        "Hour",
+        "Day",
+        "Minute",
+        "Second"
+      ],
+      "answer": "Day",
+      "explanation": "The correct answer is Day.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Clock correction is based on:",
+      "options": [
+        "Weight",
+        "Time difference",
+        "Distance",
+        "Speed"
+      ],
+      "answer": "Time difference",
+      "explanation": "The correct answer is Time difference.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Mirror concept is related to:",
+      "options": [
+        "Reflection",
+        "Addition",
+        "Division",
+        "Probability"
+      ],
+      "answer": "Reflection",
+      "explanation": "The correct answer is Reflection.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "11:60 rule is used for:",
+      "options": [
+        "Addition",
+        "Mirror image",
+        "Subtraction",
+        "Multiplication"
+      ],
+      "answer": "Mirror image",
+      "explanation": "The correct answer is Mirror image.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "Clock gain per day means:",
+      "options": [
+        "Slow clock",
+        "Fast clock",
+        "Stopped clock",
+        "Normal clock"
+      ],
+      "answer": "Fast clock",
+      "explanation": "The correct answer is Fast clock.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Clock loss per day means:",
+      "options": [
+        "Fast clock",
+        "Slow clock",
+        "Correct clock",
+        "Broken clock"
+      ],
+      "answer": "Slow clock",
+      "explanation": "The correct answer is Slow clock.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "What is the mirror image of 4:20?",
+      "options": [
+        "7:40",
+        "8:40",
+        "6:40",
+        "7:20"
+      ],
+      "answer": "7:40",
+      "explanation": "Mirror time = 11:60 - 4:20 = 7:40.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "What is the mirror image of 9:15?",
+      "options": [
+        "2:45",
+        "3:45",
+        "1:45",
+        "2:15"
+      ],
+      "answer": "2:45",
+      "explanation": "Mirror time = 11:60 - 9:15 = 2:45.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "A clock gains 5 minutes every hour. How much will it gain in 12 hours?",
+      "options": [
+        "60 minutes",
+        "36 minutes",
+        "45 minutes",
+        "30 minutes"
+      ],
+      "answer": "60 minutes",
+      "explanation": "Gain = 5 min/hour × 12 hours = 60 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "question": "A clock loses 2 minutes every hour. How much will it lose in 6 hours?",
+      "options": [
+        "12 minutes",
+        "8 minutes",
+        "10 minutes",
+        "6 minutes"
+      ],
+      "answer": "12 minutes",
+      "explanation": "Loss = 2 min/hour × 6 hours = 12 minutes.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "A clock gains 3 minutes in 12 hours. How much does it gain in 24 hours?",
+      "options": [
+        "6 minutes",
+        "5 minutes",
+        "7 minutes",
+        "8 minutes"
+      ],
+      "answer": "6 minutes",
+      "explanation": "Gain doubles for 24 hours: 3 × 2 = 6 minutes.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q16",
+      "question": "If a clock loses 4 minutes in 2 hours, how much does it lose in a day?",
+      "options": [
+        "48 minutes",
+        "24 minutes",
+        "72 minutes",
+        "36 minutes"
+      ],
+      "answer": "48 minutes",
+      "explanation": "Rate = 2 min/hour, so in 24 hours it loses 48 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "A clock gains 10 minutes in 5 hours. How much will it gain in 24 hours?",
+      "options": [
+        "48 minutes",
+        "40 minutes",
+        "36 minutes",
+        "50 minutes"
+      ],
+      "answer": "48 minutes",
+      "explanation": "Rate = 2 min/hour, so 24 × 2 = 48 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "question": "A clock gains 2 minutes every hour. At true 6:00, what will the clock show?",
+      "options": [
+        "6:12",
+        "6:10",
+        "6:08",
+        "6:15"
+      ],
+      "answer": "6:12",
+      "explanation": "Gain = 2 minutes per real hour, so after 6 true hours it reads 6:12.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "A slow clock loses 30 minutes in 10 hours. What is its loss per hour?",
+      "options": [
+        "3 minutes",
+        "2 minutes",
+        "4 minutes",
+        "5 minutes"
+      ],
+      "answer": "3 minutes",
+      "explanation": "Loss rate = 30 min ÷ 10 hours = 3 min/hour.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "A clock gains 15 minutes in 3 hours. What is its gain per hour?",
+      "options": [
+        "5 minutes",
+        "4 minutes",
+        "6 minutes",
+        "3 minutes"
+      ],
+      "answer": "5 minutes",
+      "explanation": "Gain rate = 15 min ÷ 3 hours = 5 min/hour.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q21",
+      "question": "A watch is 5 minutes fast at 9:00 AM and gains 1 minute every hour. What will it show at true 11:00 AM?",
+      "options": [
+        "11:07",
+        "11:05",
+        "11:08",
+        "11:10"
+      ],
+      "answer": "11:07",
+      "explanation": "It starts 5 minutes fast and gains 2 more minutes in 2 hours, so it reads 11:07.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q22",
+      "question": "A clock is 10 minutes slow at 8:00 AM and loses 5 minutes every hour. What time will it show at true 10:00 AM?",
+      "options": [
+        "9:40",
+        "9:50",
+        "9:45",
+        "9:55"
+      ],
+      "answer": "9:40",
+      "explanation": "It is 10 minutes slow at 8:00 and loses 10 more minutes in 2 hours, so it reads 9:40.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q23",
+      "question": "If a clock gains 2 minutes every hour, how much will it gain in 15 hours?",
+      "options": [
+        "30 minutes",
+        "25 minutes",
+        "20 minutes",
+        "35 minutes"
+      ],
+      "answer": "30 minutes",
+      "explanation": "Gain = 2 minutes/hour × 15 hours = 30 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q24",
+      "question": "If a clock loses 3 minutes every 2 hours, how much will it lose in 24 hours?",
+      "options": [
+        "36 minutes",
+        "30 minutes",
+        "24 minutes",
+        "40 minutes"
+      ],
+      "answer": "36 minutes",
+      "explanation": "Loss rate = 1.5 min/hour, so in 24 hours it loses 36 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "A clock is 4 minutes fast at 6:00 PM and gains 2 minutes every hour. When will it be exactly 10 minutes fast?",
+      "options": [
+        "9:00 PM",
+        "8:00 PM",
+        "8:30 PM",
+        "10:00 PM"
+      ],
+      "answer": "9:00 PM",
+      "explanation": "It needs 6 more minutes and gains 2 min/hour, so 3 hours after 6:00 PM.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q26",
+      "question": "A clock gains 1 minute in 90 minutes. How much will it gain in 9 hours?",
+      "options": [
+        "6 minutes",
+        "5 minutes",
+        "4 minutes",
+        "7 minutes"
+      ],
+      "answer": "6 minutes",
+      "explanation": "9 hours = 540 minutes; gain rate = 1/90 min per min, so 540/90 = 6 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q27",
+      "question": "What is the mirror image of 2:50?",
+      "options": [
+        "9:10",
+        "8:10",
+        "9:20",
+        "8:50"
+      ],
+      "answer": "9:10",
+      "explanation": "Mirror time = 11:60 - 2:50 = 9:10.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "A watch is 8 minutes fast at noon and gains 2 minutes every 4 hours. What will it be at 8:00 PM?",
+      "options": [
+        "12 minutes fast",
+        "10 minutes fast",
+        "14 minutes fast",
+        "8 minutes fast"
+      ],
+      "answer": "12 minutes fast",
+      "explanation": "It gains 4 extra minutes in 8 hours, so total fast = 8 + 4 = 12 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q29",
+      "question": "A clock is 5 minutes fast at 6:00 AM and gains 1 minute every 20 minutes. What will it show at true 7:00 AM?",
+      "options": [
+        "7:08",
+        "7:06",
+        "7:10",
+        "7:05"
+      ],
+      "answer": "7:08",
+      "explanation": "In one hour it gains 3 minutes, so the reading becomes 7:08.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q30",
+      "question": "A slow clock loses 10 minutes in 5 hours. How much will it lose in 15 hours?",
+      "options": [
+        "30 minutes",
+        "25 minutes",
+        "20 minutes",
+        "35 minutes"
+      ],
+      "answer": "30 minutes",
+      "explanation": "Loss rate = 2 minutes/hour, so in 15 hours it loses 30 minutes.",
+      "difficulty": "Medium",
+      "marks": 2
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

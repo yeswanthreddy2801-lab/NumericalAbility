@@ -1,107 +1,453 @@
 {
-    "title": "Combinations Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "Combination means:",
-            "options": [
-                "Arrangement",
-                "Selection",
-                "Ordering",
-                "Sorting"
-            ],
-            "answer": "Selection"
-        },
-        {
-            "question": "Formula of combination is:",
-            "options": [
-                "nPr",
-                "n!/(n−r)!",
-                "n!/[r!(n−r)!]",
-                "r!/n!"
-            ],
-            "answer": "n!/[r!(n−r)!]"
-        },
-        {
-            "question": "In combination:",
-            "options": [
-                "Order matters",
-                "Order does not matter",
-                "Sequence fixed",
-                "Arrangement required"
-            ],
-            "answer": "Order does not matter"
-        },
-        {
-            "question": "5C2 equals:",
-            "options": [
-                "5",
-                "10",
-                "15",
-                "20"
-            ],
-            "answer": "10"
-        },
-        {
-            "question": "nC0 equals:",
-            "options": [
-                "0",
-                "1",
-                "n",
-                "Undefined"
-            ],
-            "answer": "1"
-        },
-        {
-            "question": "Combination is used for:",
-            "options": [
-                "Arrangement",
-                "Selection",
-                "Ranking",
-                "Sorting"
-            ],
-            "answer": "Selection"
-        },
-        {
-            "question": "8C3 equals:",
-            "options": [
-                "48",
-                "56",
-                "64",
-                "72"
-            ],
-            "answer": "56"
-        },
-        {
-            "question": "Combination ignores:",
-            "options": [
-                "Order",
-                "Selection",
-                "Group size",
-                "Total objects"
-            ],
-            "answer": "Order"
-        },
-        {
-            "question": "Formula involves:",
-            "options": [
-                "Addition",
-                "Factorial",
-                "Subtraction",
-                "Multiplication only"
-            ],
-            "answer": "Factorial"
-        },
-        {
-            "question": "First step in combination problems:",
-            "options": [
-                "Add numbers",
-                "Check order",
-                "Multiply",
-                "Guess"
-            ],
-            "answer": "Check order"
-        }
-    ]
+  "title": "Combinations Quiz",
+  "module": "Combinations Quiz",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "combinations"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Combinations Quiz.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Combination means:",
+      "options": [
+        "Arrangement",
+        "Selection",
+        "Ordering",
+        "Sorting"
+      ],
+      "answer": "Selection",
+      "explanation": "The correct answer is Selection.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Formula of combination is:",
+      "options": [
+        "nPr",
+        "n!/(n−r)!",
+        "n!/[r!(n−r)!]",
+        "r!/n!"
+      ],
+      "answer": "n!/[r!(n−r)!]",
+      "explanation": "The correct answer is n!/[r!(n−r)!].",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "In combination:",
+      "options": [
+        "Order matters",
+        "Order does not matter",
+        "Sequence fixed",
+        "Arrangement required"
+      ],
+      "answer": "Order does not matter",
+      "explanation": "The correct answer is Order does not matter.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "5C2 equals:",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "answer": "10",
+      "explanation": "The correct answer is 10.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "nC0 equals:",
+      "options": [
+        "0",
+        "1",
+        "n",
+        "Undefined"
+      ],
+      "answer": "1",
+      "explanation": "The correct answer is 1.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Combination is used for:",
+      "options": [
+        "Arrangement",
+        "Selection",
+        "Ranking",
+        "Sorting"
+      ],
+      "answer": "Selection",
+      "explanation": "The correct answer is Selection.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "8C3 equals:",
+      "options": [
+        "48",
+        "56",
+        "64",
+        "72"
+      ],
+      "answer": "56",
+      "explanation": "The correct answer is 56.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Combination ignores:",
+      "options": [
+        "Order",
+        "Selection",
+        "Group size",
+        "Total objects"
+      ],
+      "answer": "Order",
+      "explanation": "The correct answer is Order.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "Formula involves:",
+      "options": [
+        "Addition",
+        "Factorial",
+        "Subtraction",
+        "Multiplication only"
+      ],
+      "answer": "Factorial",
+      "explanation": "The correct answer is Factorial.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "First step in combination problems:",
+      "options": [
+        "Add numbers",
+        "Check order",
+        "Multiply",
+        "Guess"
+      ],
+      "answer": "Check order",
+      "explanation": "The correct answer is Check order.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "How many ways can 4 items be chosen from 8 when order does not matter?",
+      "options": [
+        "70",
+        "1680",
+        "56",
+        "24"
+      ],
+      "answer": "70",
+      "explanation": "Use 8C4 = 70.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "From 7 students, how many ways can 3 be selected for a team?",
+      "options": [
+        "35",
+        "21",
+        "210",
+        "7"
+      ],
+      "answer": "35",
+      "explanation": "Use 7C3 = 35.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "How many combinations are there of 5 objects taken 2 at a time?",
+      "options": [
+        "10",
+        "20",
+        "15",
+        "5"
+      ],
+      "answer": "10",
+      "explanation": "Use 5C2 = 10.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "How many committees of 4 can be formed from 9 people?",
+      "options": [
+        "126",
+        "84",
+        "36",
+        "3024"
+      ],
+      "answer": "126",
+      "explanation": "Use 9C4 = 126.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q15",
+      "question": "How many ways can 6 fruits be chosen from 10 when order is irrelevant?",
+      "options": [
+        "210",
+        "5040",
+        "120",
+        "15"
+      ],
+      "answer": "210",
+      "explanation": "Use 10C6 = 210.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "In how many ways can 3 toppings be selected from 5 available toppings?",
+      "options": [
+        "10",
+        "20",
+        "5",
+        "15"
+      ],
+      "answer": "10",
+      "explanation": "Use 5C3 = 10.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q17",
+      "question": "How many ways can a 5-member committee be chosen from 12 people?",
+      "options": [
+        "792",
+        "252",
+        "120",
+        "66"
+      ],
+      "answer": "792",
+      "explanation": "Use 12C5 = 792.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q18",
+      "question": "What is the value of 10C0?",
+      "options": [
+        "0",
+        "1",
+        "10",
+        "undefined"
+      ],
+      "answer": "1",
+      "explanation": "By definition, nC0 = 1.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q19",
+      "question": "How many ways can 2 desserts be picked from 8 options?",
+      "options": [
+        "28",
+        "56",
+        "16",
+        "8"
+      ],
+      "answer": "28",
+      "explanation": "Use 8C2 = 28.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "From 5 books, how many ways can 3 be chosen to take home?",
+      "options": [
+        "10",
+        "60",
+        "20",
+        "35"
+      ],
+      "answer": "10",
+      "explanation": "Use 5C3 = 10.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q21",
+      "question": "How many handshakes occur in a room of 10 people if each pair shakes hands once?",
+      "options": [
+        "45",
+        "90",
+        "10",
+        "100"
+      ],
+      "answer": "45",
+      "explanation": "Use 10C2 = 45 pairs.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "How many 3-member groups can be formed from 8 students?",
+      "options": [
+        "56",
+        "64",
+        "24",
+        "16"
+      ],
+      "answer": "56",
+      "explanation": "Use 8C3 = 56.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "How many ways can 4 cards be selected from a standard 52-card deck?",
+      "options": [
+        "270725",
+        "27072500",
+        "20825",
+        "1326"
+      ],
+      "answer": "270725",
+      "explanation": "Use 52C4 = 270725.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q24",
+      "question": "How many ways can 3 letters be chosen from the word APPLE?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "15"
+      ],
+      "answer": "10",
+      "explanation": "Distinct letters are A,P,P,L,E. Counting combinations of 3 distinct positions gives 10.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "How many subsets of size 3 does a set with 7 elements have?",
+      "options": [
+        "35",
+        "21",
+        "7",
+        "70"
+      ],
+      "answer": "35",
+      "explanation": "Use 7C3 = 35.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "How many committees of 2 men and 2 women can be formed from 5 men and 4 women?",
+      "options": [
+        "90",
+        "45",
+        "100",
+        "60"
+      ],
+      "answer": "90",
+      "explanation": "Use 5C2=10 and 4C2=6, total ways = 10×6 = 60.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q27",
+      "question": "How many ways can 4 winners be chosen from 9 contestants?",
+      "options": [
+        "126",
+        "3024",
+        "84",
+        "36"
+      ],
+      "answer": "126",
+      "explanation": "Use 9C4 = 126.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "If 12 students stand in a line, how many ways can 2 of them be chosen to lead?",
+      "options": [
+        "66",
+        "132",
+        "144",
+        "24"
+      ],
+      "answer": "66",
+      "explanation": "Use 12C2 = 66.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q29",
+      "question": "From 6 different colours, how many ways can you choose 3 colours for a flag?",
+      "options": [
+        "20",
+        "18",
+        "15",
+        "12"
+      ],
+      "answer": "20",
+      "explanation": "Use 6C3 = 20.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q30",
+      "question": "How many subsets of size 4 exist in a set of 8 elements?",
+      "options": [
+        "70",
+        "28",
+        "56",
+        "35"
+      ],
+      "answer": "70",
+      "explanation": "Use 8C4 = 70.",
+      "difficulty": "Medium",
+      "marks": 2
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

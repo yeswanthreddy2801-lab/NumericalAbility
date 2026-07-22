@@ -1,107 +1,354 @@
 {
-    "title": "Clocks 3 Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "What is the angle covered by the minute hand in one minute?",
-            "options": [
-                "0.5°",
-                "6°",
-                "30°",
-                "60°"
-            ],
-            "answer": "6°"
-        },
-        {
-            "question": "How much does the hour hand move in one minute?",
-            "options": [
-                "6°",
-                "30°",
-                "0.5°",
-                "1°"
-            ],
-            "answer": "0.5°"
-        },
-        {
-            "question": "What is the total angle of a clock?",
-            "options": [
-                "180°",
-                "270°",
-                "360°",
-                "720°"
-            ],
-            "answer": "360°"
-        },
-        {
-            "question": "What is the angle between the hands at 3:00?",
-            "options": [
-                "60°",
-                "90°",
-                "120°",
-                "180°"
-            ],
-            "answer": "90°"
-        },
-        {
-            "question": "The minute hand completes one revolution in:",
-            "options": [
-                "30 min",
-                "45 min",
-                "60 min",
-                "90 min"
-            ],
-            "answer": "60 min"
-        },
-        {
-            "question": "The hour hand completes one revolution in:",
-            "options": [
-                "6 hours",
-                "12 hours",
-                "18 hours",
-                "24 hours"
-            ],
-            "answer": "12 hours"
-        },
-        {
-            "question": "Relative speed of the hands is:",
-            "options": [
-                "5°/min",
-                "5.5°/min",
-                "6°/min",
-                "4.5°/min"
-            ],
-            "answer": "5.5°/min"
-        },
-        {
-            "question": "How many times do the hands coincide in 12 hours?",
-            "options": [
-                "10",
-                "11",
-                "12",
-                "13"
-            ],
-            "answer": "11"
-        },
-        {
-            "question": "At 6:00, the angle between the hands is:",
-            "options": [
-                "90°",
-                "120°",
-                "150°",
-                "180°"
-            ],
-            "answer": "180°"
-        },
-        {
-            "question": "Clock problems mainly test:",
-            "options": [
-                "Grammar",
-                "Vocabulary",
-                "Logical reasoning",
-                "Typing"
-            ],
-            "answer": "Logical reasoning"
-        }
-    ]
+  "title": "Clocks 3 Quiz",
+  "module": "Clocks 3 Quiz",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "clocks",
+    "3"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Clocks 3 Quiz.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the angle covered by the minute hand in one minute?",
+      "options": [
+        "0.5°",
+        "6°",
+        "30°",
+        "60°"
+      ],
+      "answer": "6°",
+      "explanation": "The correct answer is 6°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "How much does the hour hand move in one minute?",
+      "options": [
+        "6°",
+        "30°",
+        "0.5°",
+        "1°"
+      ],
+      "answer": "0.5°",
+      "explanation": "The correct answer is 0.5°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "What is the total angle of a clock?",
+      "options": [
+        "180°",
+        "270°",
+        "360°",
+        "720°"
+      ],
+      "answer": "360°",
+      "explanation": "The correct answer is 360°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "What is the angle between the hands at 3:00?",
+      "options": [
+        "60°",
+        "90°",
+        "120°",
+        "180°"
+      ],
+      "answer": "90°",
+      "explanation": "The correct answer is 90°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "The minute hand completes one revolution in:",
+      "options": [
+        "30 min",
+        "45 min",
+        "60 min",
+        "90 min"
+      ],
+      "answer": "60 min",
+      "explanation": "The correct answer is 60 min.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "The hour hand completes one revolution in:",
+      "options": [
+        "6 hours",
+        "12 hours",
+        "18 hours",
+        "24 hours"
+      ],
+      "answer": "12 hours",
+      "explanation": "The correct answer is 12 hours.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Relative speed of the hands is:",
+      "options": [
+        "5°/min",
+        "5.5°/min",
+        "6°/min",
+        "4.5°/min"
+      ],
+      "answer": "5.5°/min",
+      "explanation": "The correct answer is 5.5°/min.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "How many times do the hands coincide in 12 hours?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": "11",
+      "explanation": "The correct answer is 11.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "At 6:00, the angle between the hands is:",
+      "options": [
+        "90°",
+        "120°",
+        "150°",
+        "180°"
+      ],
+      "answer": "180°",
+      "explanation": "The correct answer is 180°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Clock problems mainly test:",
+      "options": [
+        "Grammar",
+        "Vocabulary",
+        "Logical reasoning",
+        "Typing"
+      ],
+      "answer": "Logical reasoning",
+      "explanation": "The correct answer is Logical reasoning.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "What is the angle between hands at 2:20?",
+      "options": ["50°","40°","30°","60°"],
+      "answer": "50°",
+      "explanation": "Hour at 70°, minute at 120° → difference = 50°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q12",
+      "question": "At what time between 1 and 2 o'clock are the hands at right angles?",
+      "options": ["1:16 4/11","1:21 9/11","1:05","1:30"],
+      "answer": "1:16 4/11",
+      "explanation": "Solve |30×1 - 5.5m| = 90 → m = 16 4/11 minutes.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q13",
+      "question": "How many degrees does the minute hand move in 7 minutes?",
+      "options": ["42°","36°","30°","48°"],
+      "answer": "42°",
+      "explanation": "6° per minute × 7 = 42°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q14",
+      "question": "When do the hands coincide between 5 and 6 o'clock?",
+      "options": ["5:27 3/11","5:30","5:24","5:25 5/11"],
+      "answer": "5:27 3/11",
+      "explanation": "Coincidence at 5 + 5/11 hours = 5:27 3/11.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q15",
+      "question": "What is the smaller angle between hands at 8:20?",
+      "options": ["130°","40°","50°","30°"],
+      "answer": "130°",
+      "explanation": "Hour at 250°, minute at 120° → difference = 130°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "What is the angle between hands at 3:30?",
+      "options": ["75°","90°","105°","60°"],
+      "answer": "75°",
+      "explanation": "Hour at 105°, minute at 180° → difference = 75°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "At what time between 7 and 8 o'clock are the hands at right angles?",
+      "options": ["7:38 2/11","7:21 9/11","7:05 5/11","7:16 4/11"],
+      "answer": "7:38 2/11",
+      "explanation": "Solve |30×7 - 5.5m| = 90 → m = 38 2/11 minutes.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q18",
+      "question": "What is the angle between hands at 12:20?",
+      "options": ["110°","120°","130°","100°"],
+      "answer": "110°",
+      "explanation": "Hour at 10°, minute at 120° → difference = 110°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "How many times are the hands at right angles in 24 hours?",
+      "options": ["44","48","22","24"],
+      "answer": "44",
+      "explanation": "Hands are at right angles 22 times in 12 hours → 44 in 24 hours.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q20",
+      "question": "What is the smaller angle between hands at 4:45?",
+      "options": ["127.5°","135°","97.5°","120°"],
+      "answer": "127.5°",
+      "explanation": "Hour at 142.5°, minute at 270° → difference = 127.5°.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q21",
+      "question": "What is the mirror image of 6:25?",
+      "options": ["5:35","6:35","4:35","5:30"],
+      "answer": "5:35",
+      "explanation": "Mirror = 11:60 - 6:25 = 5:35.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "If hour and minute hands are 150° apart, what is the smaller angle?",
+      "options": ["150°","210°","120°","30°"],
+      "answer": "150°",
+      "explanation": "150° is ≤ 180°, so it's already the smaller angle.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "When do the hands coincide after 2:00?",
+      "options": ["2:10 10/11","2:09 1/11","2:16 4/11","2:05"],
+      "answer": "2:10 10/11",
+      "explanation": "Coincidence at 2 + 120/11 minutes = 2:10 10/11.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q24",
+      "question": "What is the angle between hands at 9:45?",
+      "options": ["22.5°","97.5°","105°","120°"],
+      "answer": "22.5°",
+      "explanation": "Hour at 292.5°, minute at 270° → difference = 22.5°.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q25",
+      "question": "At 1:05, what is the smaller angle between the hands?",
+      "options": ["2.5°","27.5°","30°","162.5°"],
+      "answer": "2.5°",
+      "explanation": "Hour at 32.5°, minute at 30° → difference = 2.5°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "How many degrees does the hour hand move in 20 minutes?",
+      "options": ["10°","15°","20°","5°"],
+      "answer": "10°",
+      "explanation": "0.5° per minute × 20 = 10°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q27",
+      "question": "When are the hands opposite after 2:00?",
+      "options": ["2:27 3/11","2:32 8/11","2:21 9/11","2:38 2/11"],
+      "answer": "2:27 3/11",
+      "explanation": "Opposite when m = (60×2 + 180)/11 = 300/11 = 27 3/11 minutes.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q28",
+      "question": "What is the smaller angle between hands at 11:10?",
+      "options": ["85°","25°","30°","20°"],
+      "answer": "85°",
+      "explanation": "Hour at 335°, minute at 60° → difference = 275°, smaller angle = 85°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q29",
+      "question": "When is the first time after 12:00 that hands are perpendicular?",
+      "options": ["12:16 4/11","12:15","12:10","12:20"],
+      "answer": "12:16 4/11",
+      "explanation": "Solve |30×12 - 5.5m| = 90 → m = 16 4/11 minutes.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q30",
+      "question": "What is the smaller angle between hands at 2:40?",
+      "options": ["160°","140°","120°","100°"],
+      "answer": "160°",
+      "explanation": "Hour at 80°, minute at 240° → difference = 160°.",
+      "difficulty": "Advanced",
+      "marks": 3
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

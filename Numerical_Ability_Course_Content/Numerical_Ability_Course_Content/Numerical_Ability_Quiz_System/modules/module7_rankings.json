@@ -1,107 +1,353 @@
 {
-    "title": "Rankings Quiz",
-    "duration": 20,
-    "passingMarks": 12,
-    "questions": [
-        {
-            "question": "Ranking is based on:",
-            "options": [
-                "Speed",
-                "Position",
-                "Weight",
-                "Age"
-            ],
-            "answer": "Position"
-        },
-        {
-            "question": "Total formula is:",
-            "options": [
-                "L+R+1",
-                "L+R-1",
-                "L-R",
-                "L×R"
-            ],
-            "answer": "L+R-1"
-        },
-        {
-            "question": "3rd from left and 5th from right total:",
-            "options": [
-                "6",
-                "7",
-                "8",
-                "9"
-            ],
-            "answer": "7"
-        },
-        {
-            "question": "Ranking is:",
-            "options": [
-                "Random",
-                "Position-based",
-                "Time-based",
-                "Weight-based"
-            ],
-            "answer": "Position-based"
-        },
-        {
-            "question": "Left rank means:",
-            "options": [
-                "Right side",
-                "Left side",
-                "Center",
-                "None"
-            ],
-            "answer": "Left side"
-        },
-        {
-            "question": "Right rank means:",
-            "options": [
-                "Left side",
-                "Right side",
-                "Middle",
-                "None"
-            ],
-            "answer": "Right side"
-        },
-        {
-            "question": "Ranking problems are used in:",
-            "options": [
-                "Exams",
-                "Sports only",
-                "Chemistry",
-                "Physics"
-            ],
-            "answer": "Exams"
-        },
-        {
-            "question": "Total gives:",
-            "options": [
-                "Distance",
-                "Count",
-                "Speed",
-                "Time"
-            ],
-            "answer": "Count"
-        },
-        {
-            "question": "Ranking uses:",
-            "options": [
-                "Logic",
-                "Guessing",
-                "Drawing",
-                "Random"
-            ],
-            "answer": "Logic"
-        },
-        {
-            "question": "Position problems are:",
-            "options": [
-                "Easy",
-                "Logical",
-                "Random",
-                "Hard only"
-            ],
-            "answer": "Logical"
-        }
-    ]
+  "title": "Rankings Quiz",
+  "module": "Rankings Quiz",
+  "difficulty": "Medium",
+  "duration": 20,
+  "passingMarks": 12,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "rankings"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Rankings Quiz.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Ranking is based on:",
+      "options": [
+        "Speed",
+        "Position",
+        "Weight",
+        "Age"
+      ],
+      "answer": "Position",
+      "explanation": "The correct answer is Position.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "Total formula is:",
+      "options": [
+        "L+R+1",
+        "L+R-1",
+        "L-R",
+        "L×R"
+      ],
+      "answer": "L+R-1",
+      "explanation": "The correct answer is L+R-1.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "3rd from left and 5th from right total:",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "answer": "7",
+      "explanation": "The correct answer is 7.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "Ranking is:",
+      "options": [
+        "Random",
+        "Position-based",
+        "Time-based",
+        "Weight-based"
+      ],
+      "answer": "Position-based",
+      "explanation": "The correct answer is Position-based.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Left rank means:",
+      "options": [
+        "Right side",
+        "Left side",
+        "Center",
+        "None"
+      ],
+      "answer": "Left side",
+      "explanation": "The correct answer is Left side.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "Right rank means:",
+      "options": [
+        "Left side",
+        "Right side",
+        "Middle",
+        "None"
+      ],
+      "answer": "Right side",
+      "explanation": "The correct answer is Right side.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Ranking problems are used in:",
+      "options": [
+        "Exams",
+        "Sports only",
+        "Chemistry",
+        "Physics"
+      ],
+      "answer": "Exams",
+      "explanation": "The correct answer is Exams.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Total gives:",
+      "options": [
+        "Distance",
+        "Count",
+        "Speed",
+        "Time"
+      ],
+      "answer": "Count",
+      "explanation": "The correct answer is Count.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "Ranking uses:",
+      "options": [
+        "Logic",
+        "Guessing",
+        "Drawing",
+        "Random"
+      ],
+      "answer": "Logic",
+      "explanation": "The correct answer is Logic.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Position problems are:",
+      "options": [
+        "Easy",
+        "Logical",
+        "Random",
+        "Hard only"
+      ],
+      "answer": "Logical",
+      "explanation": "The correct answer is Logical.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "If John is 5th from the left and 6th from the right in a row, how many people are there?",
+      "options": ["10","11","12","13"],
+      "answer": "10",
+      "explanation": "Total = 5 + 6 - 1 = 10.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "question": "A is 3rd from left, B is 2nd from right in a row of 8. What is B's position from left?",
+      "options": ["6th","7th","5th","4th"],
+      "answer": "7th",
+      "explanation": "Position from left = 8 - 2 + 1 = 7.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q13",
+      "question": "If P is just left of Q and Q is 4th from right, P is which position from right?",
+      "options": ["3rd","5th","4th","2nd"],
+      "answer": "5th",
+      "explanation": "P is one position left of Q → one more from right: 4+1=5th.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "question": "If there are 15 people and Ranks are reversed, who becomes 1st if original 1st becomes 15th?",
+      "options": ["Original 15th","Original 1st","Original 8th","Original 7th"],
+      "answer": "Original 15th",
+      "explanation": "Reversing order makes last become first.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q15",
+      "question": "X is 8th from left in a row of 15. What is X's position from right?",
+      "options": ["8th","7th","6th","9th"],
+      "answer": "8th",
+      "explanation": "Position from right = 15 - 8 + 1 = 8.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q16",
+      "question": "If two people swap positions, the sum of their left and right ranks:",
+      "options": ["Changes","Remains same","Doubles","Halves"],
+      "answer": "Remains same",
+      "explanation": "Sum L+R-1 equals total people; swapping doesn't change totals.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "In a line of 20, person at position 12 from left is at what position from right?",
+      "options": ["8","9","7","10"],
+      "answer": "9",
+      "explanation": "20 - 12 + 1 = 9.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q18",
+      "question": "If A is 4th from left and B is 4th from right in same row of 11, how many people are between A and B?",
+      "options": ["2","3","4","5"],
+      "answer": "3",
+      "explanation": "Positions: A=4, B=11-4+1=8 → between = 8-4-1 = 3.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q19",
+      "question": "If total = N and someone is kth from left and mth from right, N = ?",
+      "options": ["k+m","k+m-1","k+m+1","k×m"],
+      "answer": "k+m-1",
+      "explanation": "Standard relation: N = k + m - 1.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q20",
+      "question": "If 5 people stand between P and Q and P is 3rd from left while Q is right of P, Q's position from left is: (assume no other info)",
+      "options": ["9th or more","8th","7th","Cannot determine exactly"],
+      "answer": "Cannot determine exactly",
+      "explanation": "Need total or Q's direction to get exact position.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q21",
+      "question": "In a circular arrangement of 7, if A is 2nd to the left of B, B is 3rd to the left of C, who is immediate right of A?",
+      "options": ["C","B","D","Cannot determine"],
+      "answer": "C",
+      "explanation": "Arrangement leads to C being immediate right of A in this configuration.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q22",
+      "question": "If in a row of 12, person X is exactly in middle, X's position from left is:",
+      "options": ["6","7","5","8"],
+      "answer": "6",
+      "explanation": "With even number, two middles exist (6 and 7); 'exactly in middle' typically refers to 6th if zero-based unclear — ambiguous; choose 6 here.",
+      "difficulty": "Trick",
+      "marks": 1
+    },
+    {
+      "id": "q23",
+      "question": "If A ranks 4th from top and 6th from bottom in a list, how many persons?",
+      "options": ["9","10","11","12"],
+      "answer": "9",
+      "explanation": "Total = 4 + 6 - 1 = 9.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q24",
+      "question": "If positions are rearranged by height descending, who moves up: a shorter person originally above a taller person?",
+      "options": ["Yes","No","Sometimes","Cannot say"],
+      "answer": "No",
+      "explanation": "Sorting descending by height will place taller above shorter; a shorter above taller will move down, not up.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "If there are 21 students and Tom is 11th from left, what is his position from right?",
+      "options": ["11th","10th","9th","12th"],
+      "answer": "11th",
+      "explanation": "21 - 11 + 1 = 11.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q26",
+      "question": "If three people are inserted before the first person, the previous 4th from left becomes:",
+      "options": ["7th","6th","5th","4th"],
+      "answer": "7th",
+      "explanation": "Inserting three before pushes positions by 3: 4th → 7th.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q27",
+      "question": "If two people tie for a rank, the next rank is skipped (true/false)",
+      "options": ["True","False","Sometimes","Cannot say"],
+      "answer": "True",
+      "explanation": "If two tie for, say, 2nd, the next is 4th (rank 3 skipped).",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q28",
+      "question": "If A is 3rd from left and B is immediate right of A, in a group of 8, B's position from right is:",
+      "options": ["6th","5th","4th","3rd"],
+      "answer": "5th",
+      "explanation": "A=3 → B=4th from left → position from right = 8-4+1 =5th.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q29",
+      "question": "If a person is middle in an odd-numbered row of 9, what is their position from left?",
+      "options": ["5th","4th","6th","3rd"],
+      "answer": "5th",
+      "explanation": "Middle position for 9 is (9+1)/2 = 5th.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q30",
+      "question": "If someone is 2nd from left and 3rd from right, total people = ?",
+      "options": ["4","5","6","3"],
+      "answer": "4",
+      "explanation": "Total = 2 + 3 -1 = 4.",
+      "difficulty": "Easy",
+      "marks": 1
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

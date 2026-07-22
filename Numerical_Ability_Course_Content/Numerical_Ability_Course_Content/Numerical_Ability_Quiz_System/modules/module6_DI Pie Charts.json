@@ -1,119 +1,355 @@
 {
-    "title": "DI Pie Charts Quiz",
-    "topic": "Data Interpretation - Pie Charts",
-    "duration": 20,
-    "totalQuestions": 10,
-    "passingMarks": 6,
-    "questions": [
-        {
-            "id": 1,
-            "question": "What is the total angle of a pie chart?",
-            "options": [
-                "180°",
-                "270°",
-                "360°",
-                "90°"
-            ],
-            "answer": "360°"
-        },
-        {
-            "id": 2,
-            "question": "1% in a pie chart equals:",
-            "options": [
-                "1°",
-                "3.6°",
-                "6°",
-                "10°"
-            ],
-            "answer": "3.6°"
-        },
-        {
-            "id": 3,
-            "question": "Pie charts are used for:",
-            "options": [
-                "Grammar",
-                "Data interpretation",
-                "Coding",
-                "Typing"
-            ],
-            "answer": "Data interpretation"
-        },
-        {
-            "id": 4,
-            "question": "If a sector is 25%, its angle is:",
-            "options": [
-                "45°",
-                "60°",
-                "90°",
-                "120°"
-            ],
-            "answer": "90°"
-        },
-        {
-            "id": 5,
-            "question": "Pie chart represents:",
-            "options": [
-                "Line data",
-                "Circular data",
-                "Text data",
-                "Code"
-            ],
-            "answer": "Circular data"
-        },
-        {
-            "id": 6,
-            "question": "If total is 2000 and 10% is given, value is:",
-            "options": [
-                "100",
-                "200",
-                "300",
-                "400"
-            ],
-            "answer": "200"
-        },
-        {
-            "id": 7,
-            "question": "Full pie chart represents:",
-            "options": [
-                "100%",
-                "50%",
-                "25%",
-                "10%"
-            ],
-            "answer": "100%"
-        },
-        {
-            "id": 8,
-            "question": "Pie chart is a type of:",
-            "options": [
-                "Graph",
-                "Sentence",
-                "Number system",
-                "Equation"
-            ],
-            "answer": "Graph"
-        },
-        {
-            "id": 9,
-            "question": "If angle is 180°, percentage is:",
-            "options": [
-                "25%",
-                "50%",
-                "75%",
-                "100%"
-            ],
-            "answer": "50%"
-        },
-        {
-            "id": 10,
-            "question": "Pie charts help in:",
-            "options": [
-                "Data visualization",
-                "Spelling",
-                "Writing",
-                "Speaking"
-            ],
-            "answer": "Data visualization"
-        }
-    ]
+  "title": "DI Pie Charts Quiz",
+  "module": "Data Interpretation - Pie Charts",
+  "difficulty": "Easy",
+  "duration": 20,
+  "passingMarks": 6,
+  "author": "",
+  "lastUpdated": "2026-07-22",
+  "tags": [
+    "numerical-ability",
+    "quantitative",
+    "di",
+    "pie",
+    "charts"
+  ],
+  "objectives": [
+    "Understand the fundamentals of Data Interpretation - Pie Charts.",
+    "Apply core formulas and rules.",
+    "Practice questions to strengthen learning."
+  ],
+  "theory": [],
+  "formulas": [],
+  "workedExamples": [],
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is the total angle of a pie chart?",
+      "options": [
+        "180°",
+        "270°",
+        "360°",
+        "90°"
+      ],
+      "answer": "360°",
+      "explanation": "The correct answer is 360°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q2",
+      "question": "1% in a pie chart equals:",
+      "options": [
+        "1°",
+        "3.6°",
+        "6°",
+        "10°"
+      ],
+      "answer": "3.6°",
+      "explanation": "The correct answer is 3.6°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q3",
+      "question": "Pie charts are used for:",
+      "options": [
+        "Grammar",
+        "Data interpretation",
+        "Coding",
+        "Typing"
+      ],
+      "answer": "Data interpretation",
+      "explanation": "The correct answer is Data interpretation.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q4",
+      "question": "If a sector is 25%, its angle is:",
+      "options": [
+        "45°",
+        "60°",
+        "90°",
+        "120°"
+      ],
+      "answer": "90°",
+      "explanation": "The correct answer is 90°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q5",
+      "question": "Pie chart represents:",
+      "options": [
+        "Line data",
+        "Circular data",
+        "Text data",
+        "Code"
+      ],
+      "answer": "Circular data",
+      "explanation": "The correct answer is Circular data.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q6",
+      "question": "If total is 2000 and 10% is given, value is:",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "answer": "200",
+      "explanation": "The correct answer is 200.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q7",
+      "question": "Full pie chart represents:",
+      "options": [
+        "100%",
+        "50%",
+        "25%",
+        "10%"
+      ],
+      "answer": "100%",
+      "explanation": "The correct answer is 100%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q8",
+      "question": "Pie chart is a type of:",
+      "options": [
+        "Graph",
+        "Sentence",
+        "Number system",
+        "Equation"
+      ],
+      "answer": "Graph",
+      "explanation": "The correct answer is Graph.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q9",
+      "question": "If angle is 180°, percentage is:",
+      "options": [
+        "25%",
+        "50%",
+        "75%",
+        "100%"
+      ],
+      "answer": "50%",
+      "explanation": "The correct answer is 50%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q10",
+      "question": "Pie charts help in:",
+      "options": [
+        "Data visualization",
+        "Spelling",
+        "Writing",
+        "Speaking"
+      ],
+      "answer": "Data visualization",
+      "explanation": "The correct answer is Data visualization.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q11",
+      "question": "In a pie chart, sector A represents 40% of the total. What is its central angle?",
+      "options": ["144°","72°","120°","160°"],
+      "answer": "144°",
+      "explanation": "40% of 360° = 0.4×360 = 144°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q12",
+      "question": "A pie chart shows categories X=30%, Y=20%, Z=50%. What angle represents Y?",
+      "options": ["54°","72°","36°","108°"],
+      "answer": "72°",
+      "explanation": "20% of 360° = 72°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q13",
+      "question": "Total sales = 1200. If sector for product P is 25%, what's P's sales?",
+      "options": ["200","250","300","350"],
+      "answer": "300",
+      "explanation": "25% of 1200 = 0.25×1200 = 300.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q14",
+      "question": "Sector angle is 54°. What percent of the pie is this?",
+      "options": ["15%","12%","10%","20%"],
+      "answer": "15%",
+      "explanation": "Percent = (54/360)×100 = 15%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q15",
+      "question": "A pie chart sector is 90°. What fraction of the total does it represent?",
+      "options": ["1/2","1/3","1/4","1/6"],
+      "answer": "1/4",
+      "explanation": "90/360 = 1/4 of the pie.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q16",
+      "question": "If category A angle = 144° and total = 7200 units, what is A's value?",
+      "options": ["2880","2400","3600","1800"],
+      "answer": "2880",
+      "explanation": "A% = 144/360 = 0.4 → 0.4×7200 = 2880.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q17",
+      "question": "In a pie chart sectors are 120°, 120°, 120°. What percent does each represent?",
+      "options": ["33.33%","25%","30%","40%"],
+      "answer": "33.33%",
+      "explanation": "Each = 120/360 = 1/3 ≈ 33.33%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q18",
+      "question": "A pie chart shows categories with angles 90°, 150°, and 120°. Which category is 25%?",
+      "options": ["90°","150°","120°","None"],
+      "answer": "90°",
+      "explanation": "90° corresponds to 90/360 = 1/4 = 25%.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q19",
+      "question": "Total respondents = 800. If a sector is 45°, how many respondents?",
+      "options": ["100","150","200","250"],
+      "answer": "100",
+      "explanation": "45/360 = 1/8 → 1/8 of 800 = 100.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q20",
+      "question": "If category A is twice category B and together they are 45% of pie, A is what percent?",
+      "options": ["30%","15%","22.5%","40%"],
+      "answer": "30%",
+      "explanation": "Let B = x, A = 2x, 3x = 45 → x = 15 → A = 30%.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q21",
+      "question": "Angles in pie chart: 36°, 72°, 252°. What percentages correspond?",
+      "options": ["10%,20%,70%","5%,10%,85%","15%,25%,60%","10%,30%,60%"],
+      "answer": "10%,20%,70%",
+      "explanation": "36/360=10%, 72/360=20%, 252/360=70%.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q22",
+      "question": "If sector X is 54° and total = 2400, value of X is:",
+      "options": ["360","300","240","400"],
+      "answer": "360",
+      "explanation": "54/360 = 0.15 → 0.15×2400 = 360.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q23",
+      "question": "Two sectors are 100° and 140°. What percent do they form together?",
+      "options": ["66.67%","66%","60%","70%"],
+      "answer": "66.67%",
+      "explanation": "(100+140)/360 = 240/360 = 2/3 ≈ 66.67%.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q24",
+      "question": "If category A is 15% and B is 25%, what is angle difference between their sectors?",
+      "options": ["36°","18°","24°","30°"],
+      "answer": "36°",
+      "explanation": "Difference in percent =10% → angle = 10%×360 = 36°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q25",
+      "question": "A pie chart uses a total of 900 units. A sector is 20%. How many units?",
+      "options": ["180","200","160","220"],
+      "answer": "180",
+      "explanation": "20% of 900 = 0.2×900 = 180.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q26",
+      "question": "Which central angle corresponds to 12.5%?",
+      "options": ["45°","30°","50°","60°"],
+      "answer": "45°",
+      "explanation": "12.5% of 360° = 0.125×360 = 45°.",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "id": "q27",
+      "question": "If sector angles are proportional to [2:3:5] and total = 600, what's value of largest sector?",
+      "options": ["300","250","200","350"],
+      "answer": "300",
+      "explanation": "Total parts=10; largest=5/10×600=300.",
+      "difficulty": "Advanced",
+      "marks": 3
+    },
+    {
+      "id": "q28",
+      "question": "A sector represents 75% of total. What is its angle?",
+      "options": ["270°","180°","225°","300°"],
+      "answer": "270°",
+      "explanation": "75% of 360° = 270°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q29",
+      "question": "If pie chart percentages are 10%, 20%, 30%, 40%, which sector angle is 72°?",
+      "options": ["10%","20%","30%","40%"],
+      "answer": "20%",
+      "explanation": "20% of 360° = 72°.",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "id": "q30",
+      "question": "Total = 480. A sector angle is 60°. What is its value?",
+      "options": ["80","100","120","60"],
+      "answer": "80",
+      "explanation": "60/360 = 1/6 → 1/6 of 480 = 80.",
+      "difficulty": "Medium",
+      "marks": 2
+    }
+  ],
+  "practiceProblems": [],
+  "flashcards": [],
+  "totalQuestions": 30,
+  "references": [],
+  "questionDistribution": {
+    "easy": 5,
+    "medium": 15,
+    "advanced": 10
+  }
 }

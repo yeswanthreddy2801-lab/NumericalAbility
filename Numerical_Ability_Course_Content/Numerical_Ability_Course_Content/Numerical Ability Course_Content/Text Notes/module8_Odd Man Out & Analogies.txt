@@ -1,3 +1,13 @@
+---
+title: "Odd Man Out & Analogies — Detailed Notes"
+topic: "Reasoning"
+subtopic: "Odd Man Out, Analogies"
+difficulty: "Medium"
+author: ""
+lastUpdated: "2026-07-22"
+tags: ["reasoning","analogies","odd-man-out","aptitude"]
+---
+
 ODD MAN OUT & ANALOGIES — DETAILED NOTES
 
 ============================================================
