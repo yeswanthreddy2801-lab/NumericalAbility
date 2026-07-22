@@ -1,133 +1,179 @@
-DI TABLES - MCQ QUESTIONS
+DI TABLES - ADVANCED MCQ QUESTIONS
+
+1. A table shows monthly sales of 100, 120, 150, 130, and 100 units. What is the average monthly sale?
+A) 110
+B) 120
+C) 125
+D) 130
+Answer: B
 
 --------------------------------------------------
 
-1. DI stands for:
-A) Data Input
-B) Data Interpretation
-C) Data Integration
-D) Data Index
-Answer: B
-
-2. Table data is arranged in:
-A) Circle
-B) Rows and Columns
-C) Random form
-D) Tree form
-Answer: B
-
-3. Row means:
-A) Vertical
-B) Horizontal
-C) Diagonal
-D) None
-Answer: B
-
-4. Column means:
-A) Horizontal
-B) Vertical
-C) Random
-D) Circular
-Answer: B
-
-5. Cell is:
-A) Row
-B) Column
-C) Intersection of row & column
-D) Table header
+2. A table has product counts 40, 55, 65, and 70. What percentage of the total does the smallest category represent?
+A) 16%
+B) 18%
+C) 19%
+D) 20%
 Answer: C
 
-6. Total means:
-A) Multiplication
-B) Sum
-C) Difference
-D) Ratio
+--------------------------------------------------
+
+3. If the total in a table is 480 and one category is 120, what is the corresponding fraction?
+A) 1/2
+B) 1/4
+C) 1/3
+D) 1/5
 Answer: B
 
-7. Average formula:
-A) Sum × Count
-B) Sum / Count
-C) Count / Sum
-D) Sum + Count
+--------------------------------------------------
+
+4. In a table, values are 22, 35, 43, and 50. What is the range?
+A) 22
+B) 28
+C) 35
+D) 50
 Answer: B
 
-8. Best DI skill:
-A) Guessing
-B) Speed calculation
-C) Drawing
-D) Writing
+--------------------------------------------------
+
+5. A table lists revenue as 200, 250, 300, 350. What is the median value?
+A) 250
+B) 275
+C) 300
+D) 275
 Answer: B
 
-9. First step in DI:
-A) Solve directly
-B) Understand table
-C) Skip question
-D) Multiply values
-Answer: B
+--------------------------------------------------
 
-10. Tables are used for:
-A) Random data
-B) Structured data
-C) Hidden data
-D) Image data
-Answer: B
-11.Percentage in DI is calculated as:
-A) Part × Whole
-B) (Part / Whole) × 100
-C) Whole / Part × 100
-D) Part + Whole
-Answer: B
-12.Pie charts and tables are used for:
-A) Writing stories
-B) Data visualization
-C) Drawing diagrams only
-D) Guessing values
-Answer: B
-13.In DI, “comparison” means:
-A) Adding numbers
-B) Finding differences or relations
-C) Drawing graphs
-D) Ignoring data
-Answer: B
-14.Unitary method is used to find:
-A) Random values
-B) Value of one unit
-C) Total only
-D) Graph shape
-Answer: B
-15.In a table, grand total represents:
-A) Smallest value
-B) Sum of all categories
-C) Only first row
-D) Average value
-Answer: B
-16.Missing value in DI tables is found using:
-A) Guessing
-B) Logical calculation
-C) Random selection
-D) Drawing graph
-Answer: B
-17.DI questions mainly test:
-A) Memory only
-B) Analytical ability
-C) Drawing skill
-D) Writing speed
-Answer: B
-18.If values are large, best method is:
-A) Exact calculation only
-B) Approximation
-C) Ignoring data
-D) Random choice
-Answer: B
-19.Ratio in DI compares:
-A) Two or more quantities
-B) Only one number
-C) Time only
-D) Color values
+6. If a table shows 5 categories and one category is 25% of the total, what is the angle for that category in a pie chart?
+A) 60°
+B) 72°
+C) 80°
+D) 90°
 Answer: A
-20.Fast DI solving requires:
-A) Long writing
-B) Pattern recognition
-C) Guessing answers
-D) Ignoring steps
+
+--------------------------------------------------
+
+7. A table records expenses: 1200, 1500, 1800, 2100. What is the total?
+A) 6600
+B) 6500
+C) 6400
+D) 6300
+Answer: A
+
+--------------------------------------------------
+
+8. A table shows test scores: 78, 82, 85, 90, 95. How many scores are above the mean?
+A) 2
+B) 3
+C) 4
+D) 5
 Answer: B
+
+--------------------------------------------------
+
+9. If one entry in a row of 5 values is missing and the row total is 250, with known values 40, 45, 50, and 60, what is the missing value?
+A) 50
+B) 55
+C) 45
+D) 55
+Answer: D
+
+--------------------------------------------------
+
+10. A table indicates categories with values 30%, 25%, 20%, 15%, and 10%. What is the largest angle for a category?
+A) 54°
+B) 72°
+C) 90°
+D) 108°
+Answer: D
+
+--------------------------------------------------
+
+11. A table has values 10, 15, 20, 25, and 30. What is the sum of all values?
+A) 90
+B) 100
+C) 95
+D) 100
+Answer: B
+
+--------------------------------------------------
+
+12. What is the percentage increase from 80 to 100 in a table entry?
+A) 15%
+B) 20%
+C) 25%
+D) 30%
+Answer: B
+
+--------------------------------------------------
+
+13. If a table shows 180, 210, 240, and 270, what is the average value?
+A) 220
+B) 225
+C) 235
+D) 250
+Answer: B
+
+--------------------------------------------------
+
+14. A table's row totals are 100, 120, 140, and 160. What is the grand total?
+A) 510
+B) 520
+C) 540
+D) 560
+Answer: B
+
+--------------------------------------------------
+
+15. A category represents 36° in a pie chart. What percentage of the total does it represent?
+A) 8%
+B) 10%
+C) 12%
+D) 15%
+Answer: C
+
+--------------------------------------------------
+
+16. In a table, if 60 is 20% of the total, what is the total?
+A) 240
+B) 300
+C) 320
+D) 360
+Answer: B
+
+--------------------------------------------------
+
+17. A table gives monthly costs 800, 920, 1020, and 1060. What is the percentage increase from the first to the last month?
+A) 20%
+B) 25%
+C) 30%
+D) 32.5%
+Answer: A
+
+--------------------------------------------------
+
+18. If an entry shows 25% and the total is 640, what is the entry value?
+A) 140
+B) 150
+C) 160
+D) 170
+Answer: C
+
+--------------------------------------------------
+
+19. A table displays values 60, 75, 90, 105, and 120. What is the mid-range?
+A) 90
+B) 92.5
+C) 95
+D) 100
+Answer: A
+
+--------------------------------------------------
+
+20. A table lists values in ratios 2:3:5. If the total is 200, what is the value of the second category?
+A) 50
+B) 60
+C) 75
+D) 80
+Answer: C

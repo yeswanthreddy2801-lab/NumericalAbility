@@ -1,162 +1,179 @@
-DI TABLES - MCQ QUESTIONS
+DI GRAPHS - ADVANCED MCQ QUESTIONS
+
+1. A line graph shows sales for four quarters as 20, 35, 30, and 45. What is the percentage increase from Q1 to Q4?
+A) 125%
+B) 100%
+C) 75%
+D) 80%
+Answer: C
 
 --------------------------------------------------
 
-1. DI stands for:
-A) Data Input
-B) Data Interpretation
-C) Data Index
-D) Data Integration
-Answer: B
-
-2. Table data is arranged in:
-A) Circle
-B) Rows and Columns
-C) Random form
-D) Tree structure
-Answer: B
-
-3. Row means:
-A) Vertical
-B) Horizontal
-C) Diagonal
-D) None
-Answer: B
-
-4. Column means:
-A) Horizontal
-B) Vertical
-C) Random
-D) Circular
-Answer: B
-
-5. DI is used for:
-A) Guessing
-B) Analysis
-C) Drawing
-D) Writing
-Answer: B
-
-6. Total is:
-A) Product
-B) Sum
-C) Difference
-D) Ratio
-Answer: B
-
-7. Best DI skill:
-A) Speed calculation
-B) Drawing
-C) Writing
-D) Guessing
+2. A bar graph compares production of items A and B: A=120, B=180. What is the ratio A:B?
+A) 2:3
+B) 3:2
+C) 4:5
+D) 5:6
 Answer: A
 
-8. Tables help in:
-A) Confusion
-B) Structured data
-C) Random data
-D) None
-Answer: B
+--------------------------------------------------
 
-9. First step in DI:
-A) Solve directly
-B) Understand table
-C) Multiply values
-D) Skip question
-Answer: B
-
-10. Approximation is used for:
-A) Accuracy only
-B) Speed
-C) Writing
-D) Drawing
-Answer: B
-11.
-
-Q: In a table, each cell represents:
-A) Random value
-B) Intersection of row and column
-C) Only row value
-D) Only column value
-Answer: B
-
-12.
-
-Q: Which is most important in DI tables?
-A) Drawing skills
-B) Speed and accuracy
-C) Guessing answers
-D) Memorizing data
-Answer: B
-
-13.
-
-Q: In DI tables, values are usually represented in:
-A) Words only
-B) Numbers
-C) Symbols only
-D) Images
-Answer: B
-
-14.
-
-Q: Which operation is most commonly used in DI tables?
-A) Addition
-B) Singing
-C) Drawing
-D) Coloring
+3. A pie chart has sectors 90°, 120°, 60°, and 90°. What percentage does the 120° sector represent?
+A) 33.33%
+B) 30%
+C) 25%
+D) 20%
 Answer: A
 
-15.
+--------------------------------------------------
 
-Q: A column in a table represents:
-A) Horizontal data
-B) Vertical data
-C) Random data
-D) No data
-Answer: B
-
-16.
-
-Q: What should you read first in a DI table question?
-A) Final answer
-B) Table heading
-C) Options only
-D) Random values
-Answer: B
-
-17.
-
-Q: DI tables mainly test:
-A) Creativity
-B) Analytical ability
-C) Drawing skill
-D) Memory only
-Answer: B
-
-18.
-
-Q: Which is NOT useful in DI table solving?
-A) Scanning data
-B) Quick calculation
-C) Blind guessing
-D) Approximation
+4. A histogram shows class frequencies 5, 10, 15, 20. What is the cumulative frequency at the end of the third class?
+A) 15
+B) 30
+C) 35
+D) 50
 Answer: C
 
-19.
+--------------------------------------------------
 
-Q: Data in DI tables is usually:
-A) Unorganized
-B) Structured
-C) Random
-D) Missing
+5. A line graph shows passing students as 50, 60, 70, 80. What is the average number of passing students?
+A) 65
+B) 70
+C) 75
+D) 80
 Answer: B
 
-20.
+--------------------------------------------------
 
-Q: Best strategy in DI tables is:
-A) Read full table every time
-B) Focus only required data
-C) Guess answers
-D) Ignore numbers
+6. In a bar chart, category X is twice as high as category Y. If Y is 40, what is X?
+A) 60
+B) 70
+C) 80
+D) 90
+Answer: C
+
+--------------------------------------------------
+
+7. A pie chart’s smallest sector is 36°. What fraction of the total does it represent?
+A) 1/10
+B) 1/8
+C) 1/6
+D) 1/5
+Answer: B
+
+--------------------------------------------------
+
+8. A graph shows temperatures: Jan 10°C, Feb 12°C, Mar 15°C. What is the range?
+A) 2°C
+B) 3°C
+C) 5°C
+D) 15°C
+Answer: C
+
+--------------------------------------------------
+
+9. A stacked bar graph shows sales of three products: 100, 150, 200. What is the total?
+A) 350
+B) 400
+C) 450
+D) 500
+Answer: C
+
+--------------------------------------------------
+
+10. A line connecting points (1,10) and (3,30) has slope:
+A) 10
+B) 15
+C) 20
+D) 30
+Answer: A
+
+--------------------------------------------------
+
+11. If a graph shows 25% of 400 units for category A, how many units is that?
+A) 80
+B) 90
+C) 100
+D) 110
+Answer: A
+
+--------------------------------------------------
+
+12. A pie chart has values 45°, 90°, 135°, and 90°. Which value is 25% of the total?
+A) 45°
+B) 90°
+C) 135°
+D) 180°
+Answer: B
+
+--------------------------------------------------
+
+13. A graph displays monthly revenue 120, 150, 180, 210. What is the percentage increase from the first to the last month?
+A) 50%
+B) 75%
+C) 40%
+D) 30%
+Answer: C
+
+--------------------------------------------------
+
+14. In a table, product P sold 80 units and product Q sold 120 units. What is P as a percentage of Q?
+A) 40%
+B) 50%
+C) 66.67%
+D) 75%
+Answer: C
+
+--------------------------------------------------
+
+15. A bar graph shows attendance 45, 60, 75, 90. What is the median attendance?
+A) 60
+B) 67.5
+C) 75
+D) 80
+Answer: B
+
+--------------------------------------------------
+
+16. The value of a line graph at x=2 is 30 and at x=5 is 45. What is the average rate of change?
+A) 3
+B) 4
+C) 5
+D) 6
+Answer: B
+
+--------------------------------------------------
+
+17. A pie chart sector is 216°. What percentage of the whole does it represent?
+A) 54%
+B) 60%
+C) 45%
+D) 36%
+Answer: B
+
+--------------------------------------------------
+
+18. In a table, the percentage increase from 200 to 250 is:
+A) 20%
+B) 25%
+C) 30%
+D) 15%
+Answer: B
+
+--------------------------------------------------
+
+19. A graph shows production 100, 120, 140, 160. What is the mode?
+A) 100
+B) 120
+C) 140
+D) No mode
+Answer: D
+
+--------------------------------------------------
+
+20. For a pie chart with categories A=90°, B=120°, C=150°, what is the value of B as a percentage?
+A) 25%
+B) 30%
+C) 33.33%
+D) 35%
 Answer: B

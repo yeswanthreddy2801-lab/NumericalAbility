@@ -1,183 +1,181 @@
-DI PIE CHARTS - MCQ QUESTIONS
+DI PIE CHARTS - ADVANCED MCQ QUESTIONS
 
-------------------------------------------------------------
-
-1. A pie chart represents data in:
-A) Line form
-B) Circular form
-C) Bar form
-D) Table form
-Answer: B
-
-------------------------------------------------------------
-
-2. Total angle of a pie chart is:
-A) 180°
-B) 270°
-C) 360°
+1. A pie chart represents the following data: A-40%, B-30%, C-20%, D-10%. What is the central angle for C?
+A) 54°
+B) 60°
+C) 72°
 D) 90°
 Answer: C
 
 ------------------------------------------------------------
 
-3. 1% in a pie chart equals:
-A) 1°
-B) 3.6°
-C) 6°
-D) 10°
+2. If a sector measures 108°, what percentage of the pie chart does it represent?
+A) 25%
+B) 30%
+C) 35%
+D) 40%
 Answer: B
 
 ------------------------------------------------------------
 
-4. Pie chart is mainly used for:
-A) Data interpretation
-B) Grammar
-C) Coding
-D) Reading comprehension
+3. A pie chart shows three categories with angles 90°, 150°, and 120°. What fraction of the whole does the first category represent?
+A) 1/4
+B) 1/3
+C) 1/2
+D) 2/5
 Answer: A
 
 ------------------------------------------------------------
 
-5. If total value is 1000, 10% equals:
-A) 10
-B) 100
-C) 1000
-D) 10000
-Answer: B
+4. The data values are 120, 180, 300, and 200. What is the angle corresponding to the smallest value?
+A) 36°
+B) 54°
+C) 60°
+D) 72°
+Answer: A
 
 ------------------------------------------------------------
 
-6. If total value is 500, 20% equals:
-A) 50
-B) 100
-C) 200
-D) 150
-Answer: C
-
-------------------------------------------------------------
-
-7. Which formula is correct?
-A) (Value × 100) ÷ Total
-B) (Total × Value) ÷ 100
-C) (Percentage × Total) ÷ 100
-D) (Total ÷ Percentage) × 100
-Answer: C
-
-------------------------------------------------------------
-
-8. Pie chart represents:
-A) Qualitative data
-B) Quantitative distribution
-C) Grammar rules
-D) Time problems
-Answer: B
-
-------------------------------------------------------------
-
-9. Full circle equals:
-A) 180°
-B) 270°
-C) 360°
-D) 90°
-Answer: C
-
-------------------------------------------------------------
-
-10. Which is NOT a use of pie charts?
-A) Market share
-B) Population distribution
-C) Financial analysis
-D) Sentence formation
+5. A pie chart sector is 72°, representing 18% of the total. What is the total value?
+A) 360
+B) 400
+C) 450
+D) 480
 Answer: D
 
 ------------------------------------------------------------
 
-11. If a sector is 25%, angle is:
-A) 60°
-B) 90°
-C) 120°
-D) 150°
-Answer: B
-
-------------------------------------------------------------
-
-12. If a sector is 50%, angle is:
-A) 90°
-B) 120°
-C) 180°
-D) 360°
-Answer: C
-
-------------------------------------------------------------
-
-13. Pie chart is best for:
-A) Comparison of parts to whole
-B) Time calculation
-C) Speed problems
-D) Geometry only
-Answer: A
-
-------------------------------------------------------------
-
-14. 100% in pie chart represents:
-A) Half circle
-B) Full circle
-C) Quarter circle
-D) Line
-Answer: B
-
-------------------------------------------------------------
-
-15. If total is 2000, 5% equals:
-A) 50
-B) 100
-C) 150
+6. In a pie chart, the ratio of angles for X:Y:Z is 2:3:5. If the total value is 1000, what value does Y represent?
+A) 250
+B) 300
+C) 350
 D) 200
 Answer: B
 
 ------------------------------------------------------------
 
-16. Angle formula uses:
-A) 180°
-B) 360°
-C) 90°
-D) 720°
+7. A pie chart has categories with values 15, 25, 35, and 25. What is the angle for the category valued 35?
+A) 90°
+B) 105°
+C) 110°
+D) 120°
 Answer: B
 
 ------------------------------------------------------------
 
-17. Which is a real-world use?
-A) Banking reports
-B) Grammar learning
-C) Typing speed
-D) Coding syntax
-Answer: A
-
-------------------------------------------------------------
-
-18. Pie chart is a type of:
-A) Graph
-B) Sentence
-C) Equation
-D) Code
-Answer: A
-
-------------------------------------------------------------
-
-19. 10% of 300 is:
-A) 10
-B) 20
-C) 30
-D) 40
+8. If a sector corresponds to 45% of the total, what is its angle?
+A) 135°
+B) 144°
+C) 162°
+D) 180°
 Answer: C
 
 ------------------------------------------------------------
 
-20. Pie charts help in:
-A) Data visualization
-B) Spelling
-C) Writing essays
-D) None
+9. In a pie chart of 5 categories, one sector is 72° and another is 36°. What percentage of the whole do they combine to represent?
+A) 30%
+B) 35%
+C) 40%
+D) 45%
+Answer: C
+
+------------------------------------------------------------
+
+10. A company’s sales are divided into four regions. If the pie chart angles are 108°, 90°, 72°, and 90°, what is the percentage for the smallest region?
+A) 18%
+B) 20%
+C) 22%
+D) 25%
 Answer: A
+
+------------------------------------------------------------
+
+11. A pie chart is drawn for values 24, 36, and 60. What is the central angle for the middle value?
+A) 90°
+B) 108°
+C) 120°
+D) 135°
+Answer: B
+
+------------------------------------------------------------
+
+12. If a sector angle is 54° and the total quantity is 720, what is the corresponding value?
+A) 90
+B) 100
+C) 108
+D) 120
+Answer: C
+
+------------------------------------------------------------
+
+13. A student draws a pie chart for values 40, 60, 80 and 120. What is the angle for the largest value?
+A) 90°
+B) 108°
+C) 120°
+D) 144°
+Answer: B
+
+------------------------------------------------------------
+
+14. The sectors of a pie chart are 30%, 25%, 20%, 15% and 10%. What is the degree measure of the second smallest sector?
+A) 36°
+B) 45°
+C) 54°
+D) 72°
+Answer: C
+
+------------------------------------------------------------
+
+15. In a pie chart showing expenditure, 40% is rent, 25% is food, 20% is transport, and the rest is savings. What angle represents savings?
+A) 54°
+B) 72°
+C) 90°
+D) 108°
+Answer: A
+
+------------------------------------------------------------
+
+16. A survey of 250 families produces categories with angles 108°, 72°, 90°, and 90°. How many families correspond to the 72° sector?
+A) 50
+B) 60
+C) 70
+D) 80
+Answer: A
+
+------------------------------------------------------------
+
+17. If a pie chart's smallest sector measures 36°, what percentage of the total does it represent?
+A) 5%
+B) 8%
+C) 10%
+D) 12%
+Answer: C
+
+------------------------------------------------------------
+
+18. A set of values is represented by sectors 144°, 108°, 72° and 36°. What is the ratio of the corresponding values?
+A) 4:3:2:1
+B) 5:4:3:1
+C) 6:5:4:1
+D) 8:6:4:1
+Answer: A
+
+------------------------------------------------------------
+
+19. A pie chart of product sales has a 156° sector. What is the approximate percentage share of that product?
+A) 35%
+B) 40%
+C) 42%
+D) 45%
+Answer: C
+
+------------------------------------------------------------
+
+20. A category in a pie chart takes 270°. If the total is 800 units, what is the value of that category?
+A) 450
+B) 500
+C) 600
+D) 700
+Answer: C
 
 ------------------------------------------------------------
