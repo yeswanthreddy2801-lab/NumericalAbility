@@ -1,142 +1,179 @@
-Man Chain Rule and Wages MCQ Set
+MAN, CHAIN RULE AND WAGES - ADVANCED MCQ QUESTIONS
 
+1. A and B together can complete a job in 12 days. A alone takes 20 days. How many days does B alone take?
+A) 15 days
+B) 18 days
+C) 30 days
+D) 24 days
+Answer: D
 
-1. Sample question 1 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
+--------------------------------------------------
+
+2. If 5 men can do a piece of work in 8 days, how many men are required to finish it in 5 days, assuming the work done per man per day is constant?
+A) 8
+B) 7
+C) 6
+D) 5
 Answer: A
 
-2. Sample question 2 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
+--------------------------------------------------
+
+3. A can do a piece of work in 12 days and B can do it in 16 days. If they work on alternate days starting with A, the work is completed in:
+A) 8 days
+B) 9 days
+C) 10 days
+D) 11 days
+Answer: B
+
+--------------------------------------------------
+
+4. 3 men and 5 boys can do a job in 10 days, while 5 men and 3 boys can do it in 7 days. How many days will 4 men and 4 boys take?
+A) 8 days
+B) 8 4/7 days
+C) 9 days
+D) 7 1/2 days
+Answer: B
+
+--------------------------------------------------
+
+5. A worker is paid Rs. 300 for 15 days of work. If the same worker is paid Rs. 240 for 12 days, how much will he be paid for 10 days of work?
+A) Rs. 200
+B) Rs. 210
+C) Rs. 220
+D) Rs. 240
 Answer: A
 
-3. Sample question 3 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
+--------------------------------------------------
+
+6. A, B and C can do a job in 10, 12 and 15 days respectively. A starts and works for 2 days, then B joins and works for 3 days, after which C completes the remainder alone. Total time required is:
+A) 5 days
+B) 6 days
+C) 7 days
+D) 8 days
+Answer: C
+
+--------------------------------------------------
+
+7. 8 men can finish a work in 15 days. If 4 additional men join after 5 days, the work will finish in:
+A) 11 days
+B) 12 days
+C) 13 days
+D) 14 days
 Answer: A
 
-4. Sample question 4 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
+--------------------------------------------------
+
+8. A contractor hires 12 men for 20 days to complete a job. After 8 days, 4 men leave. The remaining work is finished in:
+A) 10 more days
+B) 12 more days
+C) 14 more days
+D) 16 more days
+Answer: B
+
+--------------------------------------------------
+
+9. A earns Rs. 540 for 9 days work, and B earns Rs. 800 for 10 days of the same work. If they are paid in ratio of their daily efficiencies, how much will A get for 30 days of work?
+A) Rs. 1500
+B) Rs. 1620
+C) Rs. 1800
+D) Rs. 2000
+Answer: C
+
+--------------------------------------------------
+
+10. A and B together can complete a project in 15 days. If B alone takes 60 days more than A, how many days does A take?
+A) 20 days
+B) 25 days
+C) 30 days
+D) 35 days
 Answer: A
 
-5. Sample question 5 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
+--------------------------------------------------
+
+11. Four men can do a job in 18 days. How many days would eight women take if one woman does 2/3 of the daily work of one man?
+A) 12 days
+B) 13 1/2 days
+C) 15 days
+D) 16 2/3 days
+Answer: C
+
+--------------------------------------------------
+
+12. A can do a job in 18 days, B in 24 days. They begin together but B leaves after 6 days. How much longer will A take to finish the job alone?
+A) 6 days
+B) 8 days
+C) 9 days
+D) 10 days
+Answer: C
+
+--------------------------------------------------
+
+13. Two men A and B together can do a work in 12 days. A alone takes 16 days more than B. How many days will B take alone?
+A) 20 days
+B) 24 days
+C) 28 days
+D) 32 days
+Answer: D
+
+--------------------------------------------------
+
+14. A, B and C can do a work in 20, 30 and 60 days respectively. If A works alone for 4 days and the remaining work is done by B and C together, total time taken is:
+A) 10 days
+B) 12 days
+C) 14 days
+D) 16 days
+Answer: B
+
+--------------------------------------------------
+
+15. A earns Rs. 450 for 18 days of work and B earns Rs. 600 for 12 days of the same task. If they share the total payment of Rs. 1500 in the ratio of their efficiencies, B's share is:
+A) Rs. 720
+B) Rs. 750
+C) Rs. 780
+D) Rs. 800
+Answer: C
+
+--------------------------------------------------
+
+16. 6 men can finish a task in 10 days. If 3 men are replaced by 4 boys and each boy does half the work of a man in one day, the new time to complete the work is:
+A) 11 days
+B) 12 days
+C) 13 days
+D) 14 days
+Answer: B
+
+--------------------------------------------------
+
+17. A and B together can complete a job in 18 days. A alone can complete it in 24 days. If B starts and works for 6 days, then A finishes the remainder, total time taken is:
+A) 12 days
+B) 13 days
+C) 14 days
+D) 15 days
 Answer: A
 
-6. Sample question 6 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
+--------------------------------------------------
 
-7. Sample question 7 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
+18. If 7 men can do a work in 21 days and 10 boys can do the same work in 28 days, how many men are equivalent to 15 boys?
+A) 9 men
+B) 10 men
+C) 11 men
+D) 12 men
+Answer: D
 
-8. Sample question 8 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
+--------------------------------------------------
 
-9. Sample question 9 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
+19. A worker completes 2/5 of a job in 6 days. At the same rate, how many days will he take to complete 7/8 of the job?
+A) 10 1/2 days
+B) 11 1/2 days
+C) 12 1/2 days
+D) 13 1/2 days
+Answer: B
 
-10. Sample question 10 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
+--------------------------------------------------
 
-11. Sample question 11 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-12. Sample question 12 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-13. Sample question 13 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-14. Sample question 14 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-15. Sample question 15 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-16. Sample question 16 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-17. Sample question 17 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-18. Sample question 18 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-19. Sample question 19 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
-
-20. Sample question 20 on Man Chain Rule and Wages?
-A) A
-B) B
-C) C
-D) D
-Answer: A
+20. A contractor agrees to pay 12 men Rs. 1440 for 18 days of work. If 6 men work for 12 days and the remaining work is done by 9 men, the payment to the 9 men for their share of work is:
+A) Rs. 480
+B) Rs. 540
+C) Rs. 600
+D) Rs. 660
+Answer: B

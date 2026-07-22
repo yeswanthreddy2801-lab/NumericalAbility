@@ -1,240 +1,179 @@
-TIME AND WORK - MCQ QUESTIONS
+TIME AND WORK - ADVANCED MCQ QUESTIONS
 
-1. A can complete a work in 10 days. How much work does he complete in one day?
-
-A) 1/5
-B) 1/10
-C) 10
-D) 5
-
-Answer: B
-
---------------------------------------------------
-
-2. B completes a work in 20 days. His one day's work is:
-
-A) 1/10
-B) 1/20
-C) 20
-D) 2
-
-Answer: B
-
---------------------------------------------------
-
-3. A completes a work in 12 days and B in 18 days. Together they complete it in:
-
-A) 7.2 days
-B) 8 days
-C) 9 days
-D) 10 days
-
-Answer: A
-
---------------------------------------------------
-
-4. A completes a work in 8 days and B in 24 days. Together they finish the work in:
-
-A) 5 days
-B) 6 days
-C) 8 days
-D) 4 days
-
-Answer: B
-
---------------------------------------------------
-
-5. If A is twice as efficient as B and B takes 20 days, A takes:
-
-A) 5 days
-B) 8 days
-C) 10 days
+1. A worker A can complete a job in 12 days and B can complete the same job in 18 days. If they work together for 4 days and then A leaves, the remaining work is finished by B in:
+A) 6 days
+B) 9 days
+C) 12 days
 D) 15 days
+Answer: B
 
+--------------------------------------------------
+
+2. A does 1/5 of a work in 3 days and B does 1/6 of the same work in 2 days. Working together, they will complete the work in:
+A) 10 days
+B) 9 days
+C) 8 days
+D) 7 days
 Answer: C
 
 --------------------------------------------------
 
-6. If efficiency ratio is 4:5, then time ratio is:
-
-A) 4:5
-B) 5:4
-C) 1:4
-D) 9:5
-
+3. A can do a piece of work in 20 days and B in 30 days. If they work alternately starting with A, how many days will they take to finish the work?
+A) 14 days
+B) 15 days
+C) 16 days
+D) 17 days
 Answer: B
 
 --------------------------------------------------
 
-7. Total work should preferably be assumed as:
+4. A takes 6 days more than B to finish a job. Together they finish in 8 days. The time taken by B alone is:
+A) 10 days
+B) 12 days
+C) 14 days
+D) 16 days
+Answer: C
 
-A) Prime Number
-B) LCM
-C) HCF
-D) Square
+--------------------------------------------------
 
+5. Three workers A, B and C can finish a work in 10, 15 and 20 days respectively. If A works alone for 2 days and then B and C finish the rest together, the total time taken is:
+A) 6 days
+B) 7 days
+C) 8 days
+D) 9 days
 Answer: B
 
 --------------------------------------------------
 
-8. Work is equal to:
-
-A) Time ÷ Rate
-B) Rate × Time
-C) Time × Efficiency
-D) Work ÷ Time
-
-Answer: B
+6. Workers A and B together can complete a job in 9 days. If A alone is twice as fast as B, then A alone will take:
+A) 12 days
+B) 15 days
+C) 18 days
+D) 21 days
+Answer: C
 
 --------------------------------------------------
 
-9. A and B together complete a work in 6 days. A alone takes 10 days. B alone takes:
-
-A) 12
-B) 15
-C) 18
-D) 20
-
-Answer: B
+7. A can finish a work in 24 days, B in 30 days and C in 40 days. If all three work together and C leaves after 4 days, the remaining work is completed by A and B in:
+A) 5 days
+B) 6 days
+C) 7 days
+D) 8 days
+Answer: A
 
 --------------------------------------------------
 
-10. If one day's work is 1/25, total days required are:
-
-A) 5
-B) 10
-C) 20
-D) 25
-
+8. A worker can complete 2/5 of a work in 6 days. How many days will he take to finish the entire work at the same rate?
+A) 10 days
+B) 12 days
+C) 15 days
+D) 18 days
 Answer: D
 
 --------------------------------------------------
 
-11. Which quantity is inversely proportional to efficiency?
+9. A does 1/3 of a work in 4 days, B does 1/4 of it in 5 days. How long will they take together to finish the whole work?
+A) 10 days
+B) 12 days
+C) 14 days
+D) 15 days
+Answer: A
 
-A) Work
-B) Time
-C) Wage
-D) Profit
+--------------------------------------------------
 
+10. A machine can finish a job in 12 hours and another identical machine can finish it in 18 hours. If both run together for 4 hours and then one machine continues alone, the remaining job is completed in:
+A) 3 hours
+B) 4 hours
+C) 5 hours
+D) 6 hours
+Answer: A
+
+--------------------------------------------------
+
+11. A can do a job in 16 days and B in 24 days. They start together but B quits after 4 days. The total time required to finish the job is:
+A) 12 days
+B) 14 days
+C) 16 days
+D) 18 days
 Answer: B
 
 --------------------------------------------------
 
-12. Two workers complete a work in 4 days. If one worker alone takes 12 days, the other takes:
+12. A, B and C can complete a work in 8, 12 and 16 days. If A works alone for 2 days and B and C finish the remaining work together, the job finishes in:
+A) 5 days
+B) 6 days
+C) 7 days
+D) 8 days
+Answer: B
 
-A) 4
-B) 5
-C) 6
-D) 8
+--------------------------------------------------
 
+13. A’s one day work is 1/12 and B’s one day work is 1/20. If they alternate work days starting with A, the work will be completed in:
+A) 12 days
+B) 14 days
+C) 16 days
+D) 18 days
+Answer: B
+
+--------------------------------------------------
+
+14. A and B can do a work in 10 and 15 days respectively. If A starts and works for 2 days, then B works alone for 3 days, and finally A finishes the rest, the total time taken is:
+A) 7 days
+B) 8 days
+C) 9 days
+D) 10 days
 Answer: C
 
 --------------------------------------------------
 
-13. If A can do a work in 15 days, then in 5 days he completes:
+15. If three people A, B and C do a job together in 5 days, A does half of the work, and B does one-third of the work, the time taken by C alone to finish the whole job is:
+A) 15 days
+B) 18 days
+C) 20 days
+D) 24 days
+Answer: A
 
-A) 1/5
-B) 1/3
-C) 2/5
-D) 3/5
+--------------------------------------------------
 
+16. A finishes a task in 30 days and B in 45 days. They work together for 5 days, then A leaves and B completes the remainder. The total time required is:
+A) 15 days
+B) 20 days
+C) 25 days
+D) 30 days
+Answer: A
+
+--------------------------------------------------
+
+17. A does 1/4 of a work in 5 days and B does 1/6 of the same work in 4 days. If they work together, the whole work will take:
+A) 10 days
+B) 12 days
+C) 14 days
+D) 16 days
 Answer: B
 
 --------------------------------------------------
 
-14. Which method reduces calculations?
-
-A) Decimal Method
-
-B) LCM Method
-
-C) Square Method
-
-D) Cube Method
-
-Answer: B
-
---------------------------------------------------
-
-15. If three workers have daily work rates 1/10, 1/15 and 1/30, together they complete the work in:
-
-A) 5 days
-
-B) 6 days
-
+18. One job can be done by A in 20 days, by B in 30 days and by C in 60 days. If all three start together and C leaves after 5 days, the remaining work is completed by A and B in:
+A) 6 days
+B) 7 days
 C) 8 days
-
-D) 10 days
-
-Answer: A
+D) 9 days
+Answer: C
 
 --------------------------------------------------
 
-16. If work increases and efficiency remains constant, time will:
-
-A) Increase
-
-B) Decrease
-
-C) Remain same
-
-D) Become zero
-
-Answer: A
+19. A does 3/10 of a work in 2 days and B does 2/15 of the work in 3 days. If they work together, how many days will they take to complete the work?
+A) 8 days
+B) 9 days
+C) 10 days
+D) 12 days
+Answer: D
 
 --------------------------------------------------
 
-17. One day's work of a person taking N days is:
-
-A) N
-
-B) 1/N
-
-C) N²
-
-D) N/2
-
-Answer: B
-
---------------------------------------------------
-
-18. If A:B efficiency ratio is 3:2, then time ratio is:
-
-A) 3:2
-
-B) 2:3
-
-C) 5:3
-
-D) 3:5
-
-Answer: B
-
---------------------------------------------------
-
-19. Which topic is closely related to Time and Work?
-
-A) Pipes and Cisterns
-
-B) Calendar
-
-C) Clocks
-
-D) Probability
-
-Answer: A
-
---------------------------------------------------
-
-20. The first step in solving Time and Work problems is:
-
-A) Add the days
-
-B) Find one day's work
-
-C) Multiply efficiencies
-
-D) Find profit
-
-Answer: B
+20. A person can finish a work in 24 days while another can finish half of it in 15 days. If both work together, how long will the complete work take?
+A) 14 days
+B) 15 days
+C) 16 days
+D) 18 days
+Answer: C
