@@ -1,120 +1,128 @@
-DATA INTERPRETATION - TABLES (TEXT NOTES)
+DATA INTERPRETATION — TABLES (DETAILED NOTES)
 
 ============================================================
+1. PURPOSE & APPROACH
 
-1. INTRODUCTION
-
-Data Interpretation (DI) is the process of analyzing and interpreting data given in the form of tables, charts, or graphs.
-
-Tables are the most common format used in DI questions in competitive exams and placements.
+Tables present structured data (rows × columns) and are ideal for compactly representing multi-dimensional information (e.g., product vs month sales). Approach table problems by scanning headers, units, and totals first; then extract only the cells needed for the question.
 
 ============================================================
+2. TABLE STRUCTURE & TERMINOLOGY
 
-2. WHAT IS A TABLE?
-
-A table is a structured arrangement of data in:
-• Rows (horizontal)
-• Columns (vertical)
-
-Each intersection of row and column is called a CELL.
-
-============================================================
-
-3. KEY TERMS
-
-• Row → Horizontal arrangement
-• Column → Vertical arrangement
-• Cell → Intersection of row and column
-• Header → Title of row/column
+- Row: horizontal record (e.g., product A).
+- Column: vertical field (e.g., Jan sales).
+- Cell: intersection containing the data value.
+- Header: identifies rows/columns; always read it.
+- Subtotals/totals: rows or columns that sum partial or full data.
 
 ============================================================
+3. COMMON QUESTION TYPES
 
-4. TYPES OF DATA IN TABLES
-
-• Numerical data (numbers)
-• Categorical data (names, types)
-• Time-based data (years, months)
-• Mixed data
-
-============================================================
-
-5. BASIC OPERATIONS IN DI
-
-• Addition (Total)
-• Subtraction (Difference)
-• Multiplication (Product)
-• Division (Ratio, Average)
+- Totals and subtotals (row-wise, column-wise).
+- Percentages and shares (part/whole).
+- Averages (mean of selected cells).
+- Ratios between rows/columns.
+- Growth or change (absolute or percent) across periods.
+- Conditional queries (e.g., count rows where value > X).
 
 ============================================================
+4. ESSENTIAL FORMULAS & PATTERNS
 
-6. IMPORTANT FORMULAS
+- Sum(row) = Σ cells in the row.
+- Sum(column) = Σ cells in the column.
+- Percentage of total = (cell / grand total) × 100.
+- Average of k values = (Σ selected values) / k.
+- Ratio A:B = (sum of A-row / sum of B-row) or use cell-wise ratio as asked.
+- Percent change = (new − old)/old × 100%.
 
-Average = Sum of values / Number of values
-
-Percentage = (Part / Whole) × 100
-
-Ratio = A : B = A/B
-
-============================================================
-
-7. STEPS TO SOLVE DI TABLES
-
-Step 1: Read table carefully
-Step 2: Identify question type
-Step 3: Extract required values
-Step 4: Apply formula
-Step 5: Calculate accurately or use approximation
+Pro tip: Precompute row totals and column totals if multiple questions reference the same table.
 
 ============================================================
+5. STEP-BY-STEP PROBLEM-SOLVING WORKFLOW
 
-8. APPROXIMATION METHOD
-
-Used when:
-• Large numbers are given
-• Options are close
-
-Benefit:
-• Saves time
-• Reduces calculation effort
+1) Read title, headers and units.
+2) Identify which rows/columns are relevant.
+3) Note any given totals or subtotals.
+4) Perform minimal arithmetic: prefer subtraction/addition over recalculating entire totals.
+5) Use ratios and percentages to avoid computing absolute totals when possible.
+6) Validate by checking that computed row/column totals sum to grand total.
 
 ============================================================
+6. SHORTCUTS & OPTIMIZATIONS
 
-9. COMMON QUESTION TYPES
-
-• Total calculation
-• Percentage comparison
-• Average calculation
-• Ratio-based questions
-• Increase/Decrease problems
+- Use differences: If two columns sum to a known total, the third = total − (other two).
+- Work with percentages or fractions if totals are large or unknown: assume convenient total (100 or LCM) when necessary.
+- For average-of-subset, compute (grand total − excluded sum)/(remaining count).
+- When multiple queries use same sums, cache intermediate results (rowTotals, colTotals, grandTotal).
 
 ============================================================
+7. WORKED EXAMPLES
 
-10. SPEED TIPS
+Example 1 — Sales table
+Table: Products A,B,C across Jan–Mar
+- A: Jan=120, Feb=150, Mar=130
+- B: Jan=100, Feb=120, Mar=110
+- C: Jan=80,  Feb=90,  Mar=100
 
-• Don’t read unnecessary data
-• Focus only on required rows/columns
-• Use approximation where possible
-• Practice mental calculation
+Q1: Total sales of A across three months?
+- Sum = 120+150+130 = 400.
 
-============================================================
+Q2: Percentage share of B in March if grand total (all products, all months) = 1200?
+- B_Mar = 110 → share = 110/1200 ×100 = 9.166...%.
 
-11. COMMON MISTAKES
+Q3: Average monthly sale of C?
+- Avg = (80+90+100)/3 = 90.
 
-• Misreading table values
-• Wrong unit conversion
-• Ignoring headers
-• Calculation errors
-
-============================================================
-
-12. APPLICATIONS
-
-• Business reports
-• Financial analysis
-• Exam data questions
-• Market research
-• Survey analysis
+Example 2 — Missing value
+If column totals are Jan=300, Feb=360, Mar=340 and A,B values known except A_Mar missing: A_Mar = MarTotal − (B_Mar + C_Mar).
 
 ============================================================
+8. TABLE COMPARISONS & DERIVED METRICS
 
-END OF DI - TABLES NOTES
+- Growth rate per product: (MarTotal − JanTotal)/JanTotal ×100.
+- Contribution to monthly total: rowCell / columnTotal ×100.
+- Weighted average: when combining rows with different weights use sum(value×weight)/sum(weights).
+
+============================================================
+9. PRACTICE PROBLEMS (ANSWERS FOLLOW)
+
+Given table: Monthly visitors (in hundreds)
+
+	Jan  Feb  Mar
+Site A  120  150  130
+Site B  100  120  110
+Site C   80   90  100
+
+1) Grand total visitors for the quarter?  Ans: 120+150+130 +100+120+110 +80+90+100 = 1000 (hundreds) → 100,000.
+2) Which site had highest average monthly visitors?  Ans: A with average 400/3 ≈ 133.33 (hundreds).
+3) Percentage of visitors for Site B in Feb (of month total)?  Ans: B_Feb=120; month total Feb=150+120+90=360 → 120/360×100 = 33.33%.
+4) If Site C increases Mar by 20%, what is new grand total?  Ans: C_Mar becomes 120 → new grand total = 1000 + 20 (hundreds) = 1020 (hundreds).
+5) Ratio of Jan totals of A:B:C?  Ans: 120:100:80 = 12:10:8 or simplified 6:5:4.
+
+============================================================
+10. MULTI-STEP & CONDITIONAL QUERIES
+
+- For "how many months product exceeded X" questions, scan column-wise and count cells > X.
+- For conditional averages (e.g., average of products with sales > Y), sum qualifying cells and divide by count of qualifying months.
+- For percentage increase asked when a value is removed or added, recompute grand total first before percentage calculation.
+
+============================================================
+11. COMMON MISTAKES & VERIFICATION
+
+- Mistaking row vs column (transpose error): always read headers.
+- Incorrect unit conversion (thousands vs units): standardize units first.
+- Forgetting to convert to percentages when asked share of total.
+
+Verification steps:
+1) Check row totals and column totals consistency.
+2) Ensure percentages sum to ~100% when grouped correctly.
+3) Recompute a single value by an alternate method to validate.
+
+============================================================
+12. TIPS FOR SPEED
+
+- Scan for totals/subtotals first — many questions use them.
+- Use elimination on MCQs by quick approximate calculations.
+- Memorize common fraction-percent conversions (1/3≈33.33%, 1/8=12.5%, etc.).
+
+============================================================
+END OF DI — TABLES (DETAILED)
