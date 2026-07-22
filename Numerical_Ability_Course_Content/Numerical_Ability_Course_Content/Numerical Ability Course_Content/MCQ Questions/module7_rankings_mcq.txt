@@ -1,133 +1,179 @@
-RANKINGS - MCQ QUESTIONS
+RANKINGS - ADVANCED MCQ QUESTIONS
+
+1. There are 15 students in a row. If Amit is 5th from the left and 7th from the right, how many students are between Amit and the nearest end?
+A) 4
+B) 5
+C) 6
+D) 7
+Answer: A
 
 --------------------------------------------------
 
-1. Ranking is based on:
-A) Speed
-B) Position
-C) Weight
-D) Age
-Answer: B
-
-2. Total formula is:
-A) L + R + 1
-B) L + R - 1
-C) L × R
-D) L - R
-Answer: B
-
-3. Ranking problems are:
-A) Random
-B) Position-based
-C) Algebra only
-D) Geometry
-Answer: B
-
-4. If 3rd from left and 5th from right, total:
-A) 6
-B) 7
-C) 8
-D) 9
-Answer: B
-
-5. Ranking uses:
-A) Probability
-B) Linear arrangement
-C) Graphs
-D) Ratios
-Answer: B
-
-6. Left rank means:
-A) Right side position
-B) Left side position
-C) Middle
-D) Random
-Answer: B
-
-7. Right rank means:
-A) Left side
-B) Right side
-C) Center
-D) None
-Answer: B
-
-8. Total persons formula gives:
-A) Distance
-B) Total count
-C) Weight
-D) Time
-Answer: B
-
-9. Ranking is useful in:
-A) Exams
-B) Games only
-C) Physics
-D) Chemistry
+2. In a line of 20 people, if Riya is 8th from the left and 13th from the right, how many people are there in the line?
+A) 20
+B) 21
+C) 22
+D) 23
 Answer: A
 
-10. Position problems need:
-A) Guessing
-B) Logic
-C) Drawing
-D) Random choice
+--------------------------------------------------
+
+3. Aishwarya is 4th from the left in a row of 11 and Sunita is 3rd from the right. How many people stand between them if Aishwarya is ahead of Sunita?
+A) 4
+B) 5
+C) 6
+D) 7
 Answer: B
-11.If a person is 4th from left and 7th from right, total number of persons is:
+
+--------------------------------------------------
+
+4. In a row, John is 6th from the left and 5th from the right. How many people are there in the row?
 A) 10
 B) 11
 C) 12
 D) 13
 Answer: B
-12.If total persons = L + R − 1, this formula is used when:
-A) No overlapping position
-B) Same person counted twice
-C) Random arrangement
-D) Circular arrangement
+
+--------------------------------------------------
+
+5. If a person ranks 15th from the left and 10th from the right, what is the total number of persons?
+A) 24
+B) 25
+C) 26
+D) 27
+Answer: C
+
+--------------------------------------------------
+
+6. There are 18 people in a queue. If Priya is 9th from the left, what is her position from the right?
+A) 9th
+B) 10th
+C) 8th
+D) 11th
 Answer: A
-13.If a person moves one position forward in ranking, his rank:
-A) Increases by 1
-B) Decreases by 1
-C) Becomes zero
-D) Remains same
+
+--------------------------------------------------
+
+7. In a line of 30, a person is 12th from the left. What is his rank from the right?
+A) 18th
+B) 19th
+C) 20th
+D) 21st
+Answer: C
+
+--------------------------------------------------
+
+8. A person is 4th from one end and 7th from the other end in a row. What is the total number of people?
+A) 9
+B) 10
+C) 11
+D) 12
+Answer: D
+
+--------------------------------------------------
+
+9. If there are 25 people and one person is exactly in the middle, what is his rank from either end?
+A) 12th
+B) 13th
+C) 14th
+D) 15th
 Answer: B
-14.In ranking, “from left” means counting starts from:
-A) Right end
-B) Left end
-C) Center
-D) Any random point
-Answer: B
-15.In ranking problems, “from right” means counting starts from:
-A) Left end
-B) Right end
-C) Middle
-D) Top
-Answer: B
-16.If a person is first from left, his rank from right is:
-A) Total − 1
-B) Total
-C) 1
-D) 0
-Answer: B
-17.If two people exchange positions, ranking will:
-A) Change
-B) Stay same
-C) Become zero
-D) Double
+
+--------------------------------------------------
+
+10. A row has 17 people. If Tina is 5th from the right, what is her position from the left?
+A) 12th
+B) 13th
+C) 11th
+D) 10th
 Answer: A
-18.Ranking problems are mainly solved using:
-A) Arithmetic only
-B) Logical reasoning
-C) Physics formulas
-D) Chemistry equations
+
+--------------------------------------------------
+
+11. In a class of 40 students, if a student is 18th from the left and 23rd from the right, how many students are there in the class?
+A) 40
+B) 41
+C) 42
+D) 43
+Answer: A
+
+--------------------------------------------------
+
+12. If Rahul is 3rd from the left in a row of N people and 6th from the right, what is N?
+A) 7
+B) 8
+C) 9
+D) 10
+Answer: D
+
+--------------------------------------------------
+
+13. In a line of 21 people, if a person moves 3 places to the right, his rank from the left changes from 8th to:
+A) 11th
+B) 10th
+C) 9th
+D) 12th
+Answer: A
+
+--------------------------------------------------
+
+14. A person is 7th from the left in a line. When two people are inserted between him and the right end, he becomes 9th from the right. How many people were originally on the right side of him?
+A) 8
+B) 9
+C) 10
+D) 11
+Answer: C
+
+--------------------------------------------------
+
+15. If a person is 15th from the left and 10th from the right, how many people sit between the person and the nearer end?
+A) 5
+B) 6
+C) 7
+D) 8
+Answer: A
+
+--------------------------------------------------
+
+16. A student is the 10th from the left and 12th from the right. If two students leave from the left, what will be his new position from the left?
+A) 8th
+B) 9th
+C) 10th
+D) 11th
+Answer: A
+
+--------------------------------------------------
+
+17. In a row of 31, what is the rank of the middle person from the left?
+A) 15th
+B) 16th
+C) 17th
+D) 18th
+Answer: C
+
+--------------------------------------------------
+
+18. There are 40 people in a row. If a person is 13th from the left and 28th from the right, is the data consistent?
+A) Yes
+B) No
+C) Only if one position is doubled
+D) Only if there are 41 people
 Answer: B
-19.Middle position in ranking is found using:
-A) (L + R) / 2
-B) (Total + 1) / 2
-C) L × R
-D) L − R
-Answer: B
-20.Ranking problems are common in:
-A) Competitive exams
-B) Cooking
-C) Sports only
-D) Biology
+
+--------------------------------------------------
+
+19. If a person is 6th from the left and 14th from the right, how many persons are between him and each end?
+A) 5 and 13
+B) 6 and 14
+C) 6 and 13
+D) 5 and 14
+Answer: A
+
+--------------------------------------------------
+
+20. In a queue of 29 persons, if the 8th person from the left is replaced by someone new, what is the rank of the new person from the right?
+A) 22nd
+B) 21st
+C) 23rd
+D) 24th
 Answer: A

@@ -1,133 +1,179 @@
-DIRECTIONS - MCQ QUESTIONS
+DIRECTIONS - ADVANCED MCQ QUESTIONS
+
+1. A person starts facing North, turns right, walks 10 m, turns left and walks 15 m, then turns left again and walks 10 m. What direction is he facing now?
+A) North
+B) South
+C) East
+D) West
+Answer: D
 
 --------------------------------------------------
 
-1. North means:
-A) Down
-B) Up
-C) Left
-D) Right
-Answer: B
-
-2. South means:
-A) Up
-B) Down
-C) Left
-D) Right
-Answer: B
-
-3. East means:
-A) Left
-B) Right
-C) Up
-D) Down
-Answer: B
-
-4. West means:
-A) Right
-B) Left
-C) Up
-D) Down
-Answer: B
-
-5. Right turn is:
-A) Anti-clockwise
-B) Clockwise
-C) Straight
-D) None
-Answer: B
-
-6. Left turn is:
-A) Clockwise
-B) Anti-clockwise
-C) Straight
-D) None
-Answer: B
-
-7. Directions are based on:
-A) Movement
-B) Weight
-C) Speed
-D) Time
-Answer: A
-
-8. Best method is:
-A) Drawing diagram
-B) Guessing
-C) Writing only
-D) Ignoring
-Answer: A
-
-9. Final position depends on:
-A) Random
-B) Direction + distance
-C) Speed
-D) Weight
-Answer: B
-
-10. Directions are used in:
-A) Exams
-B) Cooking
-C) Drawing
-D) Music
-Answer: A
-11.If a person moves North and then turns right, the new direction is:
-A) West
-B) East
-C) South
-D) North
-Answer: B
-12.If a person faces East and turns left, he will face:
+2. A walker faces East and turns left, then right, then right again. Which direction does he face?
 A) North
 B) South
-C) West
-D) East
-Answer: A
-13.Opposite direction of North is:
-A) East
-B) West
-C) South
-D) North-East
-Answer: C
-14.Opposite direction of East is:
-A) West
-B) North
-C) South
-D) East
-Answer: A
-15.If a person turns 180°, the direction becomes:
-A) Same direction
-B) Opposite direction
-C) Right turn
-D) Left turn
+C) East
+D) West
 Answer: B
-16.One full rotation in direction problems is:
-A) 90°
-B) 180°
-C) 270°
-D) 360°
+
+--------------------------------------------------
+
+3. A person walks 20 m North, 15 m East, 20 m South, and then 15 m West. Where is he now relative to his start?
+A) 15 m East
+B) 15 m West
+C) At the starting point
+D) 20 m North
+Answer: C
+
+--------------------------------------------------
+
+4. A man starts from point A and walks East 30 m, turns right and walks 20 m, then turns right and walks 30 m. In which direction is he from point A?
+A) North
+B) South
+C) East
+D) West
+Answer: B
+
+--------------------------------------------------
+
+5. A person goes 5 km South, then 3 km West, then 5 km North. How far and in which direction is he from the starting point?
+A) 3 km West
+B) 3 km East
+C) 10 km West
+D) 5 km South
+Answer: A
+
+--------------------------------------------------
+
+6. A person starts facing South, makes two consecutive left turns, and then a right turn. Which direction is he facing?
+A) North
+B) South
+C) East
+D) West
+Answer: C
+
+--------------------------------------------------
+
+7. A person walks 10 m East, turns left, walks 6 m, turns left again, walks 10 m, and finally turns right. Which direction is he facing?
+A) North
+B) South
+C) East
+D) West
 Answer: D
-17.If a person moves South, then West, the final direction is:
-A) South-West
-B) North-West
+
+--------------------------------------------------
+
+8. If a person facing West turns 270° clockwise, what new direction will he face?
+A) North
+B) South
+C) East
+D) West
+Answer: A
+
+--------------------------------------------------
+
+9. A person moves 12 m North, then 5 m West, then 8 m South. What is his final direction from the start?
+A) North-West
+B) South-West
 C) North-East
 D) South-East
 Answer: A
-18.In direction problems, movement is usually represented using:
-A) Letters
-B) Coordinates or diagram
-C) Colors
-D) Numbers only
-Answer: B
-19.If a person faces North and turns right twice, he will face:
+
+--------------------------------------------------
+
+10. A person starts at a point, walks 8 m East, turns right and walks 12 m, then turns right and walks 8 m. How far is he from the starting point?
+A) 4 m
+B) 8 m
+C) 12 m
+D) 16 m
+Answer: C
+
+--------------------------------------------------
+
+11. A man walks 10 m West, turns left, walks 5 m, turns left and walks 10 m. Which direction is he facing?
+A) East
+B) West
+C) North
+D) South
+Answer: D
+
+--------------------------------------------------
+
+12. A person is facing North-East and turns 135° clockwise. Which direction will he face?
 A) South
 B) West
-C) East
+C) North-West
+D) South-East
+Answer: A
+
+--------------------------------------------------
+
+13. A person starts at the origin, walks 7 m North, 7 m East, 14 m South, and 7 m West. Where is he in relation to the origin?
+A) 7 m South
+B) 7 m East
+C) 7 m West
+D) 7 m North
+Answer: A
+
+--------------------------------------------------
+
+14. A person turns through 450° clockwise from North. What direction does he face?
+A) East
+B) South
+C) West
 D) North
+Answer: A
+
+--------------------------------------------------
+
+15. A boy walks 9 m South, 12 m West, 9 m North. How far is he from the starting point?
+A) 12 m
+B) 9 m
+C) 15 m
+D) 21 m
+Answer: A
+
+--------------------------------------------------
+
+16. If a person facing East makes three right turns, which direction will he face?
+A) East
+B) West
+C) North
+D) South
+Answer: D
+
+--------------------------------------------------
+
+17. A person moves 20 m North, turns left, moves 10 m, turns right, and moves 20 m. What is his final direction from the starting point?
+A) East
+B) West
+C) North
+D) South
 Answer: B
-20.Direction problems are best solved using:
-A) Memory
-B) Logical diagram method
-C) Guessing
-D) Formula only
-Answer: B
+
+--------------------------------------------------
+
+18. Starting from a point, a person walks South, turns right, walks East, turns right, walks North, and turns right again. Which direction is he facing?
+A) East
+B) South
+C) West
+D) North
+Answer: C
+
+--------------------------------------------------
+
+19. If a person facing South turns 315° anticlockwise, which direction does he face?
+A) South-East
+B) North-East
+C) North-West
+D) South-West
+Answer: A
+
+--------------------------------------------------
+
+20. A man starts walking North, turns right, walks 15 m, turns right again, walks 5 m, then turns left and walks 10 m. In which direction is he from the starting point?
+A) North-East
+B) South-East
+C) South-West
+D) North-West
+Answer: D
