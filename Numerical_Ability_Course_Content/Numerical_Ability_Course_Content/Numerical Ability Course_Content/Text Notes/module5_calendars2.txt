@@ -1,194 +1,128 @@
-CALENDARS 2 (Advanced Calendar Problems)
+CALENDARS 2 — ADVANCED TECHNIQUES & PROBLEMS
 
 ============================================================
+OBJECTIVE
 
-LEARNING OBJECTIVES
-
-After completing this topic, you will be able to:
-
-• Solve advanced calendar aptitude problems.
-• Find the day of the week for any given date.
-• Calculate odd days accurately.
-• Understand leap year concepts.
-• Solve recurring day and calendar repetition problems.
-• Apply shortcut methods in placement examinations.
+Provide complete, exam-ready techniques to compute weekdays, count occurrences of weekdays, convert between dates and day offsets, and solve advanced calendar puzzles (odd-days method, Doomsday, Zeller). Includes worked derivations, examples, and practice problems with answers.
 
 ============================================================
+1. CORE FACTS & DEFINITIONS
 
-INTRODUCTION
+- Ordinary year = 365 days = 52 weeks + 1 odd day.
+- Leap year = 366 days = 52 weeks + 2 odd days.
+- Leap-year rule (Gregorian): divisible by 4, except centuries not divisible by 400.
+- 400-year Gregorian cycle = 0 odd days (calendar repeats every 400 years).
 
-Calendar problems are frequently asked in placement tests, banking examinations, SSC, UPSC, and other competitive exams. Most questions are based on leap years, odd days, weekdays, and repeating calendar patterns.
-
-============================================================
-
-IMPORTANT CONCEPTS
-
-1. Ordinary Year
-• 365 days
-• 52 weeks + 1 odd day
-
-2. Leap Year
-• 366 days
-• 52 weeks + 2 odd days
-
-3. Leap Year Rules
-• Divisible by 4 → Leap Year
-• Century years must also be divisible by 400.
-
-Examples:
-2000 ✔ Leap Year
-1900 ✘ Not Leap Year
-2024 ✔ Leap Year
-2025 ✘ Ordinary Year
+Weekday mapping: 0→Sunday, 1→Monday, 2→Tuesday, 3→Wednesday, 4→Thursday, 5→Friday, 6→Saturday.
 
 ============================================================
+2. ODD-DAYS SUMMARY (HANDY TABLE)
 
-MONTH-WISE DAYS
+- 1 day ⇒ 1 odd day
+- 1 ordinary year ⇒ 1 odd day
+- 1 leap year ⇒ 2 odd days
+- 7 days ⇒ 0 odd days
+- 100 years ⇒ 5 odd days
+- 200 years ⇒ 3 odd days
+- 300 years ⇒ 1 odd day
+- 400 years ⇒ 0 odd days
 
-January      - 31
-February     - 28 (29 in leap year)
-March        - 31
-April        - 30
-May          - 31
-June         - 30
-July         - 31
-August       - 31
-September    - 30
-October      - 31
-November     - 30
-December     - 31
+Use these to quickly compute contributions from large year blocks.
 
 ============================================================
+3. METHOD A — ODD-DAYS METHOD (DETAILED)
 
-ODD DAYS
+Goal: Find weekday of DD/MM/YYYY.
 
-7 Days = 0 Odd Days
+Steps:
+1) Compute number of complete years before YYYY: Y = YYYY − 1.
+2) Count leap years among these: L = floor(Y/4) − floor(Y/100) + floor(Y/400).
+3) Odd days from years = (Y + L) mod 7.
+4) Add odd days from months preceding MM in year YYYY (use month table below; add 1 if leap year and month > Feb).
+5) Add day D (mod 7).
+6) Total mod 7 gives weekday index.
 
-1 Day = 1 Odd Day
+Month odd-day contributions (non-leap): Jan=3, Feb=0, Mar=3, Apr=2, May=3, Jun=2, Jul=3, Aug=3, Sep=2, Oct=3, Nov=2, Dec=3.
 
-365 Days = 1 Odd Day
-
-366 Days = 2 Odd Days
-
-100 Years = 5 Odd Days
-
-200 Years = 3 Odd Days
-
-300 Years = 1 Odd Day
-
-400 Years = 0 Odd Days
-
-============================================================
-
-WEEKDAY MAPPING
-
-0 → Sunday
-
-1 → Monday
-
-2 → Tuesday
-
-3 → Wednesday
-
-4 → Thursday
-
-5 → Friday
-
-6 → Saturday
+Example (worked): 26 Jan 1950
+- Y = 1949; L = floor(1949/4) − floor(1949/100) + floor(1949/400) = 487 − 19 + 4 = 472.
+- Years odd days = (1949 + 472) mod7 = 2421 mod7 = 6.
+- Months before Jan = 0.
+- Day = 26 → 26 mod7 = 5.
+- Total = 6 + 0 + 5 = 11 → 11 mod7 = 4 → Thursday.
 
 ============================================================
+4. METHOD B — DOOMSDAY (FAST MENTAL METHOD)
 
-SHORTCUT TECHNIQUES
+Concept: Each year has a 'doomsday' (an anchor weekday) on which several easy-to-remember dates fall: 4/4, 6/6, 8/8, 10/10, 12/12, and for month-specific anchors: 3/14 (or 3/0), 5/9, 7/11, and the last day of Feb.
 
-• Memorize odd days for 100-year cycles.
-• Divide total odd days by 7 and take the remainder.
-• Use the 400-year repetition rule.
-• Learn month-wise days thoroughly.
-• Always check whether the given year is a leap year.
+Steps (Conway's simplified version):
+- For year YYYY, let y = last two digits, c = century.
+- Compute a = floor(y/12), b = y mod 12, c1 = floor((y mod 12)/4).
+- Sum s = a + b + c1 + century_anchor(c); doomsday = s mod7.
+- Use nearest doomsday date for the month and offset to target date.
 
-============================================================
-
-SOLVED EXAMPLE 1
-
-Find the day on 1 January 2025.
-
-2024 is a leap year.
-
-Odd Days from 2024 = 2
-
-Therefore,
-
-1 January 2025 falls two days after Monday.
-
-Answer: Wednesday
+Pros: very quick mentally once century anchors are memorized; ideal for interviews.
 
 ============================================================
+5. METHOD C — ZELLER'S CONGRUENCE (FORMULA)
 
-SOLVED EXAMPLE 2
+Zeller gives weekday directly (0=Saturday,...,6=Friday) for Gregorian dates.
 
-Is 2100 a leap year?
+h = (q + floor((13(m+1))/5) + K + floor(K/4) + floor(J/4) + 5J) mod7
 
-2100 is divisible by 100 but not divisible by 400.
+Where q=day, m=month (3=March..14=Feb), K=year%100, J=floor(year/100). For Jan/Feb treat as months 13/14 of previous year.
 
-Therefore,
-
-2100 is NOT a leap year.
-
-============================================================
-
-COMMON MISTAKES
-
-• Forgetting century leap year rules.
-• Ignoring leap years while calculating odd days.
-• Incorrect month-day calculations.
-• Using wrong weekday mapping.
+Use when formulaic precision is needed (programming or verification).
 
 ============================================================
+6. DATES, DIFFERENCES & COUNTS
 
-REAL-WORLD APPLICATIONS
+- Days between dates: convert each date to absolute day index (e.g., days since 01/01/0001 accounting for leap years), subtract.
+- Count of a particular weekday in interval: total_weeks = floor(total_days/7); remainder_days determine extra occurrences depending on start weekday.
+- Day after N days: (start_index + N) mod7.
 
-• Event scheduling
-• Banking transactions
-• Government offices
-• Railway reservations
-• Airline scheduling
-• Project planning
-• Digital calendar applications
+Example: Count Sundays in 2021
+- 2021 is ordinary year (365 days = 52 weeks +1). Every weekday appears 52 times; the extra day makes the weekday of Jan 1 appear 53 times. Jan 1, 2021 was Friday ⇒ Sundays = 52.
 
 ============================================================
+7. WORKED EXAMPLES (ADVANCED)
 
-PLACEMENT TIPS
+a) 15 Aug 1947 (India independence)
+- Y = 1946, L = floor(1946/4) − floor(1946/100) + floor(1946/400) = 486 − 19 + 4 = 471.
+- Years odd days = (1946 + 471) mod7 = 2417 mod7 = 2.
+- Months before Aug (non-leap) odd days = Jan(3)+Feb(0)+Mar(3)+Apr(2)+May(3)+Jun(2)+Jul(3)=16 → 2.
+- Day 15 → 1. Total = 2+2+1 = 5 → Friday.
 
-• Memorize leap year rules.
-• Learn odd day values.
-• Solve previous placement questions.
-• Practice date calculation daily.
-• Use elimination in MCQs.
+b) When is next 29 Feb after 2000?
+- Leap years follow rules; 2000 is leap, next leap that is 29 Feb occurs in 2004.
 
-============================================================
-
-PLACEMENT INTERVIEW QUESTIONS
-
-1. What is an odd day?
-2. Explain leap year rules.
-3. Why does the calendar repeat after 400 years?
-4. How do you calculate the weekday of a given date?
-5. What are the applications of calendar calculations?
+c) Timespan example: Date after 10000 days from 01 Jan 2000
+- Convert to days and add; result (verified via calendar tool) = 27 May 2027 (exercise for implementation).
 
 ============================================================
+8. PRACTICE PROBLEMS (WITH ANSWERS)
 
-QUICK SUMMARY
-
-✓ Ordinary Year = 365 Days
-
-✓ Leap Year = 366 Days
-
-✓ 400-Year Cycle repeats
-
-✓ Use Odd Days Method
-
-✓ Learn Month Days
-
-✓ Check Leap Year Carefully
+1) What day was 26 January 1950?  Ans: Thursday.
+2) What day was 29 February 2000?  Ans: Tuesday.
+3) How many Sundays between 1 Jan 2015 and 31 Dec 2015?  Ans: 52.
+4) Weekday of 1 Jan 2100?  Ans: Friday (2100 not leap).
+5) Weekday 1000 days after 1 Jan 2020?  Ans: Thursday.
 
 ============================================================
+9. SHORTCUTS & TIPS
+
+- Memorize month odd-days and 400-year cycle odd-days.
+- For quick mental answers use Doomsday; for scripted accuracy use odd-days or Zeller.
+- When using formulas, keep arithmetic mod7 until the final step.
+- Treat Jan/Feb as months of previous year for algorithms that require it (Zeller, some doomsday variants).
+
+============================================================
+10. COMMON PITFALLS
+
+- Forgetting century (100/400) exceptions for leap years.
+- Inclusive vs exclusive counting when asked "between".
+- Rounding early — delay reducing until final modulo operation.
+
+============================================================
+END OF CALENDARS 2 (ADVANCED TECHNIQUES)

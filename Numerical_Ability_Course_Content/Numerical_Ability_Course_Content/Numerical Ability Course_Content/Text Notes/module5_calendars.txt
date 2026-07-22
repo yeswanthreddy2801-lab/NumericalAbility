@@ -1,124 +1,152 @@
-CALENDARS (TEXT NOTES)
+CALENDARS (DETAILED NOTES)
 
 ============================================================
-
 1. INTRODUCTION
 
-Calendar problems are based on finding days, dates, leap years, odd days, and weekday calculations.
-These are commonly asked in aptitude exams like SSC, Banking, UPSC, and placement tests.
+Calendar problems ask for the weekday of a date, leap-year checks, odd days counting, and patterns in repeating calendars. This note explains concepts, gives multiple methods (odd-days, anchor-day, Zeller), step-by-step examples, and practice problems with answers.
 
 ============================================================
+2. BASIC CONCEPTS
 
-2. TYPES OF YEARS
-
-Ordinary Year:
-• 365 days
-• 52 weeks + 1 odd day
-
-Leap Year:
-• 366 days
-• 52 weeks + 2 odd days
+- Ordinary year = 365 days = 52 weeks + 1 odd day.
+- Leap year = 366 days = 52 weeks + 2 odd days.
+- Odd days = days beyond complete weeks; used to shift weekdays.
+- Calendar repeats every 400 years (Gregorian cycle).
 
 ============================================================
+3. LEAP YEAR RULE (GREGORIAN)
 
-3. LEAP YEAR RULES
+- If year % 400 == 0 → leap year.
+- Else if year % 100 == 0 → not leap year.
+- Else if year % 4 == 0 → leap year.
+- Else → not leap year.
 
-A year is a leap year if:
-• Divisible by 4 → Yes
-• Divisible by 100 → Not leap year
-• Divisible by 400 → Yes (exception)
+Examples: 2000 leap, 1900 not leap, 2024 leap.
 
-Examples:
-• 2000 → Leap Year
-• 1900 → Not Leap Year
-• 2024 → Leap Year
-• 2025 → Not Leap Year
+Practical note: For day calculations, treat years modulo 400.
 
 ============================================================
+4. ODD DAYS: QUICK TABLE
 
-4. MONTH DAYS
+- 1 ordinary year → 1 odd day
+- 1 leap year → 2 odd days
+- 100 years → 5 odd days (because 100 years = 36524 days = 5203 weeks + 5)
+- 200 years → 3 odd days
+- 300 years → 1 odd day
+- 400 years → 0 odd days (calendar resets)
 
-January → 31
-February → 28 (29 in leap year)
-March → 31
-April → 30
-May → 31
-June → 30
-July → 31
-August → 31
-September → 30
-October → 31
-November → 30
-December → 31
+Use these to speed up multi-year calculations.
 
 ============================================================
+5. METHOD A — ODD DAYS METHOD (STEP-BY-STEP)
 
-5. ODD DAYS
+To find weekday for DD/MM/YYYY:
+1. Count odd days contributed by complete years before YYYY (use cycles of 400, then 100s, then remaining years).
+2. Add odd days contributed by months in the current year before the given month (use month table; account for leap year if month > February).
+3. Add the day (DD) modulo 7.
+4. Sum all odd days and reduce mod 7; map 0→Sunday,1→Monday,...6→Saturday.
 
-Odd days = extra days beyond complete weeks
+Month odd-days table (non-leap):
+- Jan 31 → 3 odd days
+- Feb 28 → 0
+- Mar 31 → 3
+- Apr 30 → 2
+- May 31 → 3
+- Jun 30 → 2
+- Jul 31 → 3
+- Aug 31 → 3
+- Sep 30 → 2
+- Oct 31 → 3
+- Nov 30 → 2
+- Dec 31 → 3
 
-• 1 week = 0 odd days
-• 1 day = 1 odd day
-• 365 days = 1 odd day
-• 366 days = 2 odd days
+For leap years, add 1 extra odd day for months after February.
 
-============================================================
-
-6. WEEKDAY MAPPING
-
-0 → Sunday
-1 → Monday
-2 → Tuesday
-3 → Wednesday
-4 → Thursday
-5 → Friday
-6 → Saturday
-
-============================================================
-
-7. BASIC METHOD
-
-Steps:
-1. Calculate total days
-2. Divide by 7
-3. Take remainder (odd days)
-4. Match with weekday mapping
+Example: Day of week for 15 Aug 1947
+- Years before 1947 = 1946 → split: 1600 (400*4) leaves 346. Use odd-days for 300/200/100 etc or compute directly: odd days for 1946 = (1946 % 400 calculation) → (quick approach below). Simpler worked example in practice section.
 
 ============================================================
+6. METHOD B — DOOMSDAY / ANCHOR DAY (CONCISE)
 
-8. LEAP YEAR IMPACT
+Concept: Every year has a 'Doomsday' — a weekday that specific anchor dates fall on (e.g., 4/4, 6/6, 8/8, 10/10, 12/12). Once you know the doomsday for the year, compute the weekday of any date by offsetting from the nearest anchor date.
 
-Leap years add 1 extra day in February.
-This changes weekday calculations after February.
+Steps (Conway's Doomsday algorithm simplified):
+1. Break year YYYY into century part (C) and year part (y). For Gregorian: anchor day for centuries repeats every 400 years.
+2. Compute: a = floor(y/12), b = y % 12, c = floor(b/4).
+3. Sum s = a + b + c. Add century anchor offset and reduce mod 7 → doomsday.
+4. Use nearest doomsday date for the month and adjust by day difference.
 
-============================================================
-
-9. CALENDAR REPEATING CYCLE
-
-Calendar repeats every:
-• 400 years
-
-Because odd days reset after 400 years.
+This method is fast with practice and requires memorizing anchor days for centuries (e.g., 2000s anchor = Tuesday, depending on mapping used).
 
 ============================================================
+7. METHOD C — ZELLER'S CONGRUENCE (FORMULA)
 
-10. IMPORTANT SHORTCUTS
+Zeller's gives weekday directly (0=Saturday,...6=Friday). For Gregorian calendar:
 
-• Memorize odd days for 100, 200, 300, 400 years
-• Always check leap year first
-• Use modulo 7 for quick calculation
-• Learn month day pattern
+h = (q + floor((13(m+1))/5) + K + floor(K/4) + floor(J/4) + 5J) mod 7
 
-============================================================
+Where:
+- q = day of month
+- m = month (3=March,...,14=February; months Jan/Feb counted as 13/14 of previous year)
+- K = year % 100 (adjusted if Jan/Feb)
+- J = floor(year / 100)
 
-11. COMMON QUESTION TYPES
-
-• Find day of a given date
-• Check leap year
-• Find odd days
-• Calendar repetition problems
-• Next/previous day calculation
+Then map h to weekday. Zeller is precise but algebra-heavy; use when formula work is acceptable.
 
 ============================================================
+8. COMMON EXAMPLES (WORKED)
 
-END OF CALENDARS NOTES
+Example 1 — 15 August 1947 (India independence)
+Method: Odd-days shortcut (concise):
+- Years before 1947 → 1946 years.
+- Break into 400-year cycles: 1946 = 4×400 + 346 → 346 years remaining.
+- Odd days for 300 years = 1, for 40 years = (40 years contain 10 leap years? better: use table) -- for clarity, use direct computation: number of leap years = floor(1946/4) − floor(1946/100) + floor(1946/400) = 486 − 19 + 4 = 471.
+- Total days = 1946×365 + 471 → odd days = (1946 + 471) mod 7 = 2417 mod 7 = 2417 − 7×345 = 2417 − 2415 = 2 odd days.
+- Months before Aug in 1947 (non-leap): Jan→3, Feb→0, Mar→3, Apr→2, May→3, Jun→2, Jul→3 = total 16 odd days → 16 mod7 = 2.
+- Day = 15 → 15 mod7 = 1.
+- Sum odd days = years(2) + months(2) + day(1) = 5 → 5→ Friday.
+
+Answer: Friday.
+
+Example 2 — 1 Jan 2000
+- Years before 2000 = 1999. Leap calc: floor(1999/4) − floor(1999/100) + floor(1999/400) = 499 − 19 + 4 = 484.
+- Years odd days = (1999 + 484) mod7 = 2483 mod7 = 2483 − 7×354 = 2483 − 2478 = 5.
+- Months before Jan = 0; Day = 1 → 1 mod7 = 1.
+- Sum = 6 → Saturday.
+
+Answer: Saturday.
+
+============================================================
+9. PRACTICE PROBLEMS (WITH ANSWERS)
+
+1) What day was 26 January 1950?  Ans: Thursday.
+2) What day will 1 January 2100 fall on? Ans: Friday (remember 2100 is not leap).
+3) What day was 29 February 2000? Ans: Tuesday.
+4) Find weekday of 31 Dec 1999. Ans: Friday.
+5) Day of 4 July 1776 (US Independence). Ans: Thursday (Julian/Gregorian caveats historically apply).
+
+============================================================
+10. TIPS & SHORTCUTS
+
+- Use odd-days tables for quick manual calculation.
+- For many questions, compute years' odd days by (years + leap_years) mod7.
+- Keep month odd-days and adjust for leap year after February.
+- Use Doomsday for fast mental calculations once anchors are memorized.
+- For competitive exams, practice converting fractional steps to mod7 quickly.
+
+============================================================
+11. COMMON PITFALLS
+
+- Forgetting to treat Jan/Feb as previous year in Zeller's algorithm.
+- Ignoring century and 400-year exceptions for leap years.
+- Mixing up mapping of numeric result to weekday ordering.
+
+============================================================
+SUMMARY
+
+- Count odd days from years, months and date; reduce mod7.
+- Remember leap-year rules and 400-year cycle.
+- Use Doomsday or Zeller for faster computation if comfortable.
+
+============================================================
+END OF CALENDARS (DETAILED)
