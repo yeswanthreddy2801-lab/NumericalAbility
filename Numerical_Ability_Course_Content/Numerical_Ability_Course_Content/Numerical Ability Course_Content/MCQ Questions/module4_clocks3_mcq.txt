@@ -1,183 +1,181 @@
-CLOCKS 3 - MCQ QUESTIONS
+CLOCKS 3 - ADVANCED MCQ QUESTIONS
 
-------------------------------------------------------------
-
-1. What is the angle covered by the minute hand in 1 minute?
-A) 0.5°
-B) 6°
-C) 30°
-D) 12°
-Answer: B
-
-------------------------------------------------------------
-
-2. What is the angle covered by the hour hand in 1 hour?
-A) 30°
-B) 6°
-C) 60°
-D) 15°
-Answer: A
-
-------------------------------------------------------------
-
-3. What is the angle covered by the hour hand in 1 minute?
-A) 1°
-B) 6°
-C) 0.5°
-D) 5°
-Answer: C
-
-------------------------------------------------------------
-
-4. What is the total angle in a clock?
-A) 180°
-B) 270°
-C) 360°
-D) 720°
-Answer: C
-
-------------------------------------------------------------
-
-5. What is the angle between the hands at 3:00?
-A) 60°
-B) 75°
-C) 90°
-D) 120°
-Answer: C
-
-------------------------------------------------------------
-
-6. What is the angle between the hands at 6:00?
-A) 90°
-B) 120°
-C) 150°
-D) 180°
-Answer: D
-
-------------------------------------------------------------
-
-7. What is the angle between the hands at 12:00?
-A) 0°
+1. What is the angle between the hour and minute hands at 1:45?
+A) 22.5°
 B) 30°
-C) 60°
-D) 90°
-Answer: A
-
-------------------------------------------------------------
-
-8. What is the angle between the hands at 9:00?
-A) 90°
-B) 120°
-C) 180°
-D) 270°
-Answer: A
-
-------------------------------------------------------------
-
-9. The minute hand completes one full revolution in:
-A) 12 hours
-B) 30 minutes
-C) 60 minutes
-D) 24 hours
+C) 37.5°
+D) 45°
 Answer: C
 
 ------------------------------------------------------------
 
-10. The hour hand completes one full revolution in:
-A) 6 hours
-B) 12 hours
-C) 24 hours
-D) 60 hours
-Answer: B
-
-------------------------------------------------------------
-
-11. What is the relative speed of the minute hand with respect to the hour hand?
-A) 5°/min
-B) 5.5°/min
-C) 6°/min
-D) 4.5°/min
-Answer: B
-
-------------------------------------------------------------
-
-12. How many times do the clock hands coincide in 12 hours?
-A) 10
-B) 11
-C) 12
-D) 22
-Answer: B
-
-------------------------------------------------------------
-
-13. How many times are the clock hands opposite each other in 12 hours?
-A) 10
-B) 11
-C) 12
-D) 13
-Answer: B
-
-------------------------------------------------------------
-
-14. At 2:00, the angle between the hands is:
-A) 30°
-B) 60°
-C) 90°
-D) 120°
-Answer: B
-
-------------------------------------------------------------
-
-15. At 4:00, the angle between the hands is:
-A) 90°
-B) 120°
-C) 150°
-D) 180°
-Answer: B
-
-------------------------------------------------------------
-
-16. Which hand moves faster?
-A) Hour hand
-B) Minute hand
-C) Both move equally
-D) Second hand
-Answer: B
-
-------------------------------------------------------------
-
-17. Which formula is used to calculate the angle of the minute hand?
-A) 30 × Hour
-B) 0.5 × Minutes
-C) 6 × Minutes
-D) 30 × Minutes
-Answer: C
-
-------------------------------------------------------------
-
-18. If the calculated angle is 240°, the smaller angle is:
-A) 120°
-B) 100°
-C) 240°
-D) 180°
+2. At what time between 7 and 8 o'clock are the hands at right angles for the second time?
+A) 7:38 2/11
+B) 7:41 5/11
+C) 7:27 3/11
+D) 7:12 4/11
 Answer: A
 
 ------------------------------------------------------------
 
-19. Clock problems mainly test:
-A) Vocabulary
-B) Grammar
-C) Logical reasoning and aptitude
-D) Programming
+3. How many times do the hands of a clock form a 90° angle in 12 hours?
+A) 20
+B) 22
+C) 24
+D) 26
 Answer: C
 
 ------------------------------------------------------------
 
-20. Which competitive exams commonly include clock problems?
-A) Placement Aptitude Tests
-B) Banking Exams
-C) SSC Exams
-D) All of the Above
+4. At what time between 5 and 6 o'clock do the hands coincide?
+A) 5:27 3/11
+B) 5:32 8/11
+C) 5:21 9/11
+D) 5:25 5/11
+Answer: C
+
+------------------------------------------------------------
+
+5. What is the angle between the hands at 10:10?
+A) 55°
+B) 45°
+C) 35°
+D) 25°
+Answer: B
+
+------------------------------------------------------------
+
+6. If the minute hand points at 8 and the hour hand points exactly midway between 3 and 4, what is the time?
+A) 3:40
+B) 3:42 7/11
+C) 3:45
+D) 3:38 2/11
 Answer: D
+
+------------------------------------------------------------
+
+7. What is the smaller angle between the hands at 11:20?
+A) 50°
+B) 40°
+C) 30°
+D) 20°
+Answer: B
+
+------------------------------------------------------------
+
+8. What is the time when the hands are at 180° for the first time after 2 o'clock?
+A) 2:32 8/11
+B) 2:43 7/11
+C) 2:20
+D) 2:54 6/11
+Answer: B
+
+------------------------------------------------------------
+
+9. A clock is 10 minutes fast at noon. What is the true time when the clock shows 3:00 p.m. if it gains evenly?
+A) 2:50 p.m.
+B) 2:45 p.m.
+C) 2:40 p.m.
+D) 2:55 p.m.
+Answer: B
+
+------------------------------------------------------------
+
+10. How many times do the hour and minute hands coincide in 24 hours?
+A) 22
+B) 24
+C) 44
+D) 48
+Answer: C
+
+------------------------------------------------------------
+
+11. At what time between 12 and 1 o'clock is the angle between the hands 30°?
+A) 12:32 8/11
+B) 12:38 2/11
+C) 12:27 3/11
+D) 12:45
+Answer: C
+
+------------------------------------------------------------
+
+12. The time is 9:15. What is the angle between the hour and minute hands?
+A) 90°
+B) 97.5°
+C) 105°
+D) 112.5°
+Answer: B
+
+------------------------------------------------------------
+
+13. What is the angle between the hands at 8:40?
+A) 80°
+B) 100°
+C) 110°
+D) 120°
+Answer: A
+
+------------------------------------------------------------
+
+14. At what time between 3 and 4 o'clock is the angle between the hands 45°?
+A) 3:15 5/11
+B) 3:21 9/11
+C) 3:32 8/11
+D) 3:38 2/11
+Answer: B
+
+------------------------------------------------------------
+
+15. The minute hand is at 12 and the hour hand is at 10. What is the time?
+A) 10:00
+B) 10:10
+C) 10:50
+D) 10:30
+Answer: A
+
+------------------------------------------------------------
+
+16. If the minute hand is at 9 and the hour hand at 3, what is the time?
+A) 3:45
+B) 3:15
+C) 3:40
+D) 3:30
+Answer: A
+
+------------------------------------------------------------
+
+17. What is the angle between the clock hands at 6:25?
+A) 17.5°
+B) 12.5°
+C) 20°
+D) 15°
+Answer: B
+
+------------------------------------------------------------
+
+18. The smaller angle between the hands at 2:55 is:
+A) 22.5°
+B) 17.5°
+C) 27.5°
+D) 32.5°
+Answer: D
+
+------------------------------------------------------------
+
+19. A clock gains 4 minutes every hour. If it is right at 10 a.m., what will the clock read when the true time is 1 p.m.?
+A) 1:12 p.m.
+B) 1:10 p.m.
+C) 1:08 p.m.
+D) 1:05 p.m.
+Answer: A
+
+------------------------------------------------------------
+
+20. At what time between 1 and 2 o'clock are the hands perpendicular for the first time?
+A) 1:21 9/11
+B) 1:16 4/11
+C) 1:27 3/11
+D) 1:32 8/11
+Answer: B
 
 ------------------------------------------------------------

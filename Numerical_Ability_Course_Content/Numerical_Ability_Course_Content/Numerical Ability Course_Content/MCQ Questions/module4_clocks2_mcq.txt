@@ -1,162 +1,179 @@
-CLOCKS 2 - MCQ QUESTIONS
+CLOCKS 2 - ADVANCED MCQ QUESTIONS
+
+1. The mirror image of 2:40 on a clock is:
+A) 9:20
+B) 10:20
+C) 8:20
+D) 7:20
+Answer: A
 
 --------------------------------------------------
 
-1. Mirror formula is:
-A) 12:00 - time
-B) 11:60 - time
-C) 10:50 - time
-D) 9:45 - time
-Answer: B
-
-2. Clock error is related to:
-A) Speed variation
-B) Color change
-C) Size change
-D) Shape change
+2. The mirror image of 4:15 is:
+A) 7:45
+B) 8:45
+C) 6:45
+D) 5:45
 Answer: A
 
-3. Gain/loss is measured per:
-A) Hour
-B) Day
-C) Minute
-D) Second
+--------------------------------------------------
+
+3. If a clock gains 5 minutes every hour, how many minutes will it gain in 12 hours?
+A) 50
+B) 60
+C) 55
+D) 65
 Answer: B
 
-4. Mirror of 3:15 is:
-A) 8:45
-B) 7:45
-C) 9:45
-D) 6:15
+--------------------------------------------------
+
+4. A clock loses 3 minutes every 2 hours. How much time will it lose in a day?
+A) 36 minutes
+B) 24 minutes
+C) 30 minutes
+D) 18 minutes
 Answer: A
 
-5. Clock problems involve:
-A) Algebra
-B) Time adjustment
-C) Geometry only
-D) None
-Answer: B
+--------------------------------------------------
 
-6. 11:60 rule is used for:
-A) Addition
-B) Mirror image
-C) Multiplication
-D) Subtraction
-Answer: B
-
-7. Clock gain means:
-A) Slow clock
-B) Fast clock
-C) Broken clock
-D) Reset clock
-Answer: B
-
-8. Clock loss means:
-A) Fast clock
-B) Slow clock
-C) Normal clock
-D) Stop clock
-Answer: B
-
-9. Mirror concept is used in:
-A) Speed
-B) Reflection
-C) Probability
-D) Ratio
-Answer: B
-
-10. Clock correction is based on:
-A) Time difference
-B) Weight
-C) Distance
-D) Speed only
-Answer: A
-11.
-
-Q: A clock gaining time is also called:
-A) Slow clock
-B) Fast clock
-C) Dead clock
-D) Normal clock
-Answer: B
-
-12.
-
-Q: A clock losing time means it is:
-A) Fast
-B) Slow
-C) Perfect
-D) Reset
-Answer: B
-
-13.
-
-Q: If a clock gains 5 minutes per hour, it is considered:
-A) Correct clock
-B) Fast clock
-C) Slow clock
-D) Broken clock
-Answer: B
-
-14.
-
-Q: Mirror image of a clock is based on reflection across:
-A) Horizontal axis
-B) Vertical line (12–6 axis)
-C) Diagonal line
-D) Random axis
-Answer: B
-
-15.
-
-Q: In mirror clock problems, time is subtracted from:
-A) 12:00
-B) 11:60
-C) 10:50
-D) 24:00
-Answer: B
-
-16.
-
-Q: If a clock is 10 minutes slow every hour, it will:
-A) Gain time
-B) Lose time
-C) Stay correct
-D) Double time
-Answer: B
-
-17.
-
-Q: Clock error is mainly due to:
-A) Incorrect weight
-B) Mechanical defects
-C) Color change
-D) Shape change
-Answer: B
-
-18.
-
-Q: Correction of clock error is done using:
-A) Addition
-B) Subtraction
-C) Time adjustment calculation
-D) Multiplication
+5. A clock is 10 minutes ahead at noon. If it loses 5 minutes every hour, when will it show the correct time?
+A) 4:00 p.m.
+B) 5:00 p.m.
+C) 6:00 p.m.
+D) 7:00 p.m.
 Answer: C
 
-19.
+--------------------------------------------------
 
-Q: If a clock is correct twice a day, it is:
-A) Fast clock
-B) Slow clock
-C) Normal clock
-D) All clocks are correct twice daily
-Answer: D
+6. What is the mirror image of 7:35?
+A) 4:25
+B) 4:15
+C) 5:25
+D) 5:15
+Answer: A
 
-20.
+--------------------------------------------------
 
-Q: Mirror image of 9:20 is:
-A) 2:40
-B) 3:40
-C) 4:40
-D) 8:40
+7. Mirror formula uses 11:60 because:
+A) There are 12 hours and 60 minutes
+B) The hour hand moves with minute hand
+C) It gives the reflected time correctly
+D) It corrects the clock error
+Answer: C
+
+--------------------------------------------------
+
+8. A clock gains 2 minutes every hour. At what actual time will it read 6:00 p.m. if set correctly at 12:00 noon?
+A) 5:46 p.m.
+B) 5:52 p.m.
+C) 5:55 p.m.
+D) 5:58 p.m.
+Answer: B
+
+--------------------------------------------------
+
+9. The mirror image of 11:20 is:
+A) 12:40
+B) 10:40
+C) 12:50
+D) 11:40
+Answer: A
+
+--------------------------------------------------
+
+10. A slow clock shows 9:30 when the true time is 9:45. What is its loss in minutes per hour if this difference occurred over 3 hours?
+A) 5 minutes per hour
+B) 3 minutes per hour
+C) 4 minutes per hour
+D) 2 minutes per hour
+Answer: C
+
+--------------------------------------------------
+
+11. A clock gains 20 minutes in 4 hours. How many minutes will it gain in 10 hours?
+A) 50
+B) 40
+C) 45
+D) 60
+Answer: A
+
+--------------------------------------------------
+
+12. If the mirror image of a time is 10:35, what is the actual time?
+A) 1:25
+B) 1:15
+C) 1:05
+D) 12:25
+Answer: B
+
+--------------------------------------------------
+
+13. A clock loses 6 minutes in 5 hours. How much will it lose in 20 hours?
+A) 24 minutes
+B) 18 minutes
+C) 30 minutes
+D) 25 minutes
+Answer: A
+
+--------------------------------------------------
+
+14. A faulty clock is 10 minutes slow at 2 p.m. and 20 minutes slow at 6 p.m. What is the rate of loss per hour?
+A) 2.5 minutes per hour
+B) 3 minutes per hour
+C) 4 minutes per hour
+D) 5 minutes per hour
+Answer: A
+
+--------------------------------------------------
+
+15. The mirror image of 9:55 is:
+A) 2:05
+B) 2:15
+C) 3:05
+D) 3:15
+Answer: A
+
+--------------------------------------------------
+
+16. A clock gains 12 minutes in 24 hours. How many seconds per minute does it gain?
+A) 0.5 sec
+B) 0.8 sec
+C) 1 sec
+D) 2 sec
+Answer: B
+
+--------------------------------------------------
+
+17. If the mirror image of 3:10 is 8:50, what time is the actual time?
+A) 3:10
+B) 3:50
+C) 4:10
+D) 4:50
+Answer: A
+
+--------------------------------------------------
+
+18. A clock loses 4 minutes every hour. By how much will it be slow after 9 hours?
+A) 36 minutes
+B) 30 minutes
+C) 24 minutes
+D) 28 minutes
+Answer: A
+
+--------------------------------------------------
+
+19. The mirror image of 12:05 is:
+A) 11:55
+B) 12:55
+C) 11:35
+D) 12:25
+Answer: A
+
+--------------------------------------------------
+
+20. A clock gains 1 minute every 20 minutes. How many minutes will it gain in 2 hours?
+A) 6 minutes
+B) 5 minutes
+C) 4 minutes
+D) 3 minutes
 Answer: A

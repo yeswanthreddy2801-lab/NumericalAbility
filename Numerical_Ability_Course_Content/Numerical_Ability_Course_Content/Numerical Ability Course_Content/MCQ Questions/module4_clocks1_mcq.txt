@@ -1,162 +1,179 @@
-CLOCKS 1 - MCQ QUESTIONS
+CLOCKS 1 - ADVANCED MCQ QUESTIONS
+
+1. What is the acute angle between the hour and minute hands at 3:20?
+A) 40°
+B) 50°
+C) 60°
+D) 70°
+Answer: B
 
 --------------------------------------------------
 
-1. Clock completes 360° in:
-A) 6 hours
-B) 12 hours
-C) 24 hours
-D) 60 minutes
-Answer: B
+2. At what time between 2 and 3 o'clock is the angle between the hands 30°?
+A) 2:10
+B) 2:20
+C) 2:05
+D) 2:15
+Answer: C
 
-2. Minute hand moves:
-A) 5° per minute
-B) 6° per minute
-C) 10° per minute
-D) 12° per minute
-Answer: B
+--------------------------------------------------
 
-3. Hour hand moves per minute:
-A) 1°
-B) 0.5°
-C) 2°
-D) 6°
-Answer: B
-
-4. Angle formula is:
-A) 30H + 6M
-B) 30H - (11/2)M
-C) 60H + M
-D) 12H + M
-Answer: B
-
-5. At 3:00 angle is:
-A) 0°
-B) 90°
-C) 180°
-D) 360°
-Answer: B
-
-6. At 6:00 angle is:
-A) 90°
-B) 180°
-C) 270°
-D) 360°
-Answer: B
-
-7. Full rotation is:
-A) 180°
-B) 360°
-C) 90°
-D) 720°
-Answer: B
-
-8. Minute hand in 30 minutes moves:
-A) 180°
-B) 90°
-C) 60°
-D) 120°
-Answer: A
-
-9. Hour hand in 2 hours moves:
-A) 30°
-B) 60°
-C) 90°
-D) 120°
-Answer: B
-
-10. Clock direction is:
-A) Anti-clockwise
-B) Clockwise
-C) Random
-D) None
-Answer: B
-11.
-
-Q: One hour mark on a clock represents:
-A) 6°
-B) 12°
-C) 30°
+3. What is the measure of the angle between the hands at 5:30?
+A) 15°
+B) 35°
+C) 45°
 D) 60°
 Answer: C
 
-12.
+--------------------------------------------------
 
-Q: Minute hand completes one full rotation in:
-A) 30 minutes
-B) 60 minutes
-C) 90 minutes
-D) 12 hours
+4. The minute hand is at 12. Which of the following times gives the hour hand exactly at 4?
+A) 4:00
+B) 4:30
+C) 4:20
+D) 4:15
+Answer: A
+
+--------------------------------------------------
+
+5. At what time between 4 and 5 o'clock are the hands in straight line but opposite in direction?
+A) 4:49 1/11
+B) 4:54 6/11
+C) 4:40
+D) 4:50
+Answer: A
+
+--------------------------------------------------
+
+6. How many times do the hour and minute hands coincide in a 12-hour period?
+A) 10
+B) 11
+C) 12
+D) 13
 Answer: B
 
-13.
+--------------------------------------------------
 
-Q: Hour hand completes one full rotation in:
-A) 12 minutes
-B) 1 hour
-C) 12 hours
-D) 24 hours
+7. What is the angle between hour and minute hands at 7:45?
+A) 112.5°
+B) 97.5°
+C) 105°
+D) 90°
+Answer: B
+
+--------------------------------------------------
+
+8. If the hour hand is at 120° from 12 and the minute hand is at 210°, what is the smaller angle between them?
+A) 90°
+B) 75°
+C) 95°
+D) 120°
+Answer: A
+
+--------------------------------------------------
+
+9. At what time between 1 and 2 o'clock is the angle between the hands 45°?
+A) 1:38 2/11
+B) 1:50
+C) 1:32 8/11
+D) 1:27 3/11
+Answer: D
+
+--------------------------------------------------
+
+10. How many times in 24 hours are the hour and minute hands at right angles?
+A) 44
+B) 46
+C) 48
+D) 42
 Answer: C
 
-14.
+--------------------------------------------------
 
-Q: At 12:00, angle between hour and minute hand is:
-A) 0°
+11. At 8:00, what is the angle between the hour and minute hands?
+A) 120°
 B) 90°
-C) 180°
-D) 360°
-Answer: A
-
-15.
-
-Q: At 9:00, angle between hands is:
-A) 90°
-B) 180°
-C) 270°
-D) 360°
-Answer: A
-
-16.
-
-Q: In 1 minute, minute hand moves:
-A) 5°
-B) 6°
-C) 10°
-D) 12°
-Answer: B
-
-17.
-
-Q: Relative speed of hour and minute hand is:
-A) 5.5° per minute
-B) 6° per minute
-C) 11° per minute
-D) 0.5° per minute
-Answer: A
-
-18.
-
-Q: Angle between hands is always measured in:
-A) Degrees
-B) Minutes
-C) Hours
-D) Seconds
-Answer: A
-
-19.
-
-Q: At 4:00, angle between hour and minute hand is:
-A) 90°
-B) 120°
 C) 150°
 D) 180°
+Answer: A
+
+--------------------------------------------------
+
+12. At what time between 9 and 10 o'clock are the hands exactly at right angles for the second time?
+A) 9:32 8/11
+B) 9:43 7/11
+C) 9:16 4/11
+D) 9:49 1/11
+Answer: A
+
+--------------------------------------------------
+
+13. A clock loses 10 minutes every 12 hours. If it is set right at 6 a.m., what will be the true time when it indicates 6 p.m. the same day?
+A) 6:05 p.m.
+B) 6:10 p.m.
+C) 5:50 p.m.
+D) 5:55 p.m.
+Answer: D
+
+--------------------------------------------------
+
+14. By how many degrees does the hour hand move in 20 minutes?
+A) 10°
+B) 15°
+C) 20°
+D) 5°
+Answer: A
+
+--------------------------------------------------
+
+15. What is the angle between the hands at 2:40?
+A) 40°
+B) 60°
+C) 80°
+D) 100°
+Answer: C
+
+--------------------------------------------------
+
+16. When the time is 4:20, what is the angle between the hour and minute hands?
+A) 50°
+B) 60°
+C) 70°
+D) 80°
+Answer: A
+
+--------------------------------------------------
+
+17. A clock gains 5 minutes every hour. If it shows 3:00 p.m., what is the true time?
+A) 2:45 p.m.
+B) 2:50 p.m.
+C) 2:55 p.m.
+D) 2:40 p.m.
 Answer: B
 
-20.
+--------------------------------------------------
 
-Q: Which hand moves faster?
-A) Hour hand
-B) Minute hand
-C) Second hand only
-D) Both same
+18. What is the angle between the hands at 11:15?
+A) 82.5°
+B) 97.5°
+C) 75°
+D) 90°
+Answer: C
+
+--------------------------------------------------
+
+19. What is the first time after 12:00 when the hands are in a straight line?
+A) 12:32 8/11
+B) 12:27 3/11
+C) 12:16 4/11
+D) 12:43 7/11
 Answer: B
+
+--------------------------------------------------
+
+20. At 5:25, what is the angle between the minute and hour hands?
+A) 47.5°
+B) 52.5°
+C) 42.5°
+D) 57.5°
+Answer: A
