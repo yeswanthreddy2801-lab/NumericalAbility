@@ -1,238 +1,161 @@
-BASICS OF PERMUTATIONS AND COMBINATIONS
+BASICS OF PERMUTATIONS AND COMBINATIONS - DETAILED NOTES
 
-## Introduction
+1. INTRODUCTION
+Permutations and combinations are counting techniques used to determine how many ways objects can be arranged or selected. These methods are essential for aptitude, probability, and decision-making problems.
 
-Permutations and Combinations are mathematical techniques used to count the number of possible arrangements and selections without listing every possibility. These concepts are widely used in aptitude tests, probability, computer science, cryptography, scheduling, and data analysis.
+2. WHY THIS TOPIC MATTERS
+- Helps solve arrangement and selection problems.
+- Appears frequently in competitive exams.
+- Underpins probability and statistics.
+- Useful in scheduling, coding, team formation, and inventory planning.
 
-Before learning permutations and combinations, it is important to understand counting principles and factorials.
-
---------------------------------------------------
-
-## Learning Objectives
-
-After studying this topic, you will be able to:
-
-• Apply the Fundamental Principle of Counting
-• Understand factorial notation
-• Simplify factorial expressions
-• Distinguish between arrangements and selections
-• Decide whether a problem requires permutation or combination
-
---------------------------------------------------
-
-## Fundamental Principle of Counting
-
-If one task can be performed in m ways and another independent task can be performed in n ways, then both tasks together can be performed in:
-
-Total Ways = m × n
+3. FUNDAMENTAL COUNTING PRINCIPLE
+If one task can happen in m ways and another independent task can happen in n ways, then both tasks together can happen in m × n ways.
 
 Example:
-
 A student has 4 shirts and 3 trousers.
+Total combinations = 4 × 3 = 12.
 
-Number of dressing combinations
+4. FACTORIAL NOTATION
+Factorial of n, written n!, means:
+n! = n × (n−1) × (n−2) × ... × 2 × 1
 
-= 4 × 3
-
-= 12
-
---------------------------------------------------
-
-## Factorial
-
-Factorial is represented by !
-
-Definition:
-
-n!
-
-= n × (n−1) × (n−2)...×1
-
-Examples
-
+Examples:
 1! = 1
-
 2! = 2
-
 3! = 6
-
 4! = 24
-
 5! = 120
+0! = 1 (important special case)
+
+Factorial simplification:
+7!/5! = 7 × 6 = 42
+10!/8! = 10 × 9 = 90
+
+5. PERMUTATION: WHEN ORDER MATTERS
+Permutations count arrangements where order is important.
 
-6! = 720
+5.1 Formula for permutations
+The number of ways to choose and arrange r objects from n objects:
+P(n, r) = nPr = n! / (n − r)!
 
-Important Rule
-
-0! = 1
-
---------------------------------------------------
-
-## Factorial Simplification
-
-Example 1
-
-7!/5!
-
-= (7×6×5!)/5!
-
-= 42
-
-Example 2
-
-10!/8!
-
-= 10×9
-
-= 90
-
---------------------------------------------------
-
-## Counting Principle Examples
-
-Example 1
-
-A restaurant offers
-
-5 starters
-
-4 main courses
-
-3 desserts
-
-Total meals
-
-= 5 × 4 × 3
-
-= 60
-
-Example 2
-
-Vehicle numbers consist of
-
-2 letters
-
-followed by
-
-3 digits.
-
-Letters = 26 choices each
-
-Digits = 10 choices each
-
-Total possibilities
-
-= 26 × 26 × 10 × 10 × 10
-
---------------------------------------------------
-
-## Identifying the Question Type
-
-If ORDER matters
-
-→ Permutation
-
-If ORDER does NOT matter
-
-→ Combination
-
-Examples
-
-Selecting a cricket team
-
-→ Combination
-
-Assigning Gold, Silver and Bronze medals
-
-→ Permutation
-
-Arranging books on a shelf
-
-→ Permutation
-
-Selecting committee members
-
-→ Combination
-
---------------------------------------------------
-
-## Common Mistakes
-
-• Forgetting that 0! = 1
-
-• Confusing selection with arrangement
-
-• Multiplying instead of using factorial
-
-• Using wrong counting principle
-
---------------------------------------------------
-
-## Real-World Applications
-
-• Password generation
-
-• Seat allocation
-
-• Team formation
-
-• Election committees
-
-• Computer algorithms
-
-• Probability
-
---------------------------------------------------
-
-## Placement Tips
-
-• Learn factorial values till 10!
-
-• Simplify factorials before calculating.
-
-• First decide whether order matters.
-
-• Use multiplication principle carefully.
-
---------------------------------------------------
-
-## Interview Questions
-
-1. What is factorial?
-
-Answer:
-Product of all positive integers from n to 1.
-
-2. What is 0!?
-
-Answer:
-1
-
-3. What is the Fundamental Principle of Counting?
-
-Answer:
-If one event occurs in m ways and another in n ways, total ways are m × n.
-
-4. Why do we learn factorial before permutation?
-
-Answer:
-Permutation and Combination formulas use factorials.
-
-5. Which is more important—the formula or identifying the question type?
-
-Answer:
-Identifying the question type.
-
---------------------------------------------------
-
-## Quick Summary
-
-• Fundamental Principle = Multiply choices
-
-• n! = n × (n−1)...1
-
-• 0! = 1
-
-• Order matters → Permutation
-
-• Order doesn't matter → Combination
+5.2 Special case: permutations of n objects in n positions
+P(n, n) = n!.
+
+Example:
+How many ways can 3 books be arranged on a shelf?
+3! = 6.
+
+Example:
+From 5 students, select 3 to sit in a row.
+Number of ways = P(5, 3) = 5 × 4 × 3 = 60.
+
+5.3 Circular permutations
+For arranging n objects in a circle:
+Number of ways = (n − 1)!.
+
+6. COMBINATION: WHEN ORDER DOES NOT MATTER
+Combinations count selections where order does not matter.
+
+6.1 Formula for combinations
+The number of ways to choose r objects from n objects:
+C(n, r) = nCr = n! / (r! × (n − r)!)
+
+Example:
+Choose 3 friends from 5 to form a team.
+Number of ways = C(5, 3) = 10.
+
+6.2 Relationship between permutation and combination
+P(n, r) = nCr × r!.
+
+7. DECIDING PERMUTATION VS COMBINATION
+- If the problem asks for arrangements, rankings, or order-specific positions → permutation.
+- If it asks for groups, teams, or selections without order → combination.
+
+Examples:
+- Assigning Gold, Silver, Bronze = permutation.
+- Selecting a committee = combination.
+- Arranging books = permutation.
+- Choosing fruits from a basket = combination.
+
+8. IMPORTANT PROPERTIES
+8.1 Symmetry property
+nCr = nC(n − r)
+
+8.2 Pascal’s identity
+nCr = (n − 1)C(r − 1) + (n − 1)Cr
+
+8.3 Sum of combinations
+∑_{r=0}^{n} nCr = 2^n
+
+9. COMMON FORMULAS AND SHORTCUTS
+- nPr = n × (n − 1) × ... × (n − r + 1)
+- nCr = nPr / r!
+- nPr = n! / (n − r)!
+- nCr = n! / (r! (n − r)!)
+
+10. SOLVED EXAMPLES
+Example 1: Counting arrangements
+In how many ways can the letters of the word CAT be arranged?
+Number of permutations = 3! = 6.
+
+Example 2: Position-specific selection
+From 5 players, how many ways can a captain, vice-captain, and manager be chosen?
+This is P(5, 3) = 5 × 4 × 3 = 60.
+
+Example 3: Selecting a team
+From 8 students, choose 3 for a committee.
+This is C(8, 3) = 8! / (3! × 5!) = 56.
+
+Example 4: Combination with complementary counting
+How many ways to choose 4 students out of 10 if one particular student must be included?
+Choose remaining 3 from 9: C(9, 3) = 84.
+
+Example 5: Mixed selection and arrangement
+Choose 2 captains from 6 players and arrange them in first and second positions.
+Step 1: choose 2 players → C(6, 2) = 15.
+Step 2: arrange them → 2! = 2.
+Total = 15 × 2 = 30.
+
+11. COMMON MISTAKES
+- Confusing order-sensitive and order-insensitive problems.
+- Using nCr when nPr is needed.
+- Forgetting 0! = 1.
+- Adding instead of multiplying independent choices.
+- Ignoring restrictions such as identical items or fixed positions.
+
+12. PRACTICE QUESTIONS
+1. How many 4-digit numbers can be formed using digits 1, 2, 3, 4, 5 without repetition?
+Answer: P(5, 4) = 120.
+
+2. In how many ways can a 3-member committee be formed from 7 people?
+Answer: C(7, 3) = 35.
+
+3. How many ways can the letters of the word LEVEL be arranged?
+Answer: 5! / (2! × 2!) = 30.
+
+4. A password consists of 3 letters followed by 2 digits. How many passwords are possible if repetition is allowed?
+Answer: 26^3 × 10^2 = 175760.
+
+13. APPLICATIONS
+- Lottery and raffle probability
+- Seating and schedule planning
+- Team selection and resource allocation
+- Computer science algorithms
+- Cryptography and encoding
+
+14. STRATEGIES FOR SUCCESS
+- Identify whether order matters first.
+- Write nPr or nCr formula clearly.
+- Simplify factorial expressions before calculating.
+- Use complementary counting when direct counting is difficult.
+- Practice with both simple and restricted problems.
+
+15. QUICK SUMMARY
+- Counting principle: multiply independent choices.
+- Factorial: n! = n × (n − 1) × ... × 1.
+- Permutation: order matters → nPr = n!/(n − r)!.
+- Combination: order does not matter → nCr = n!/(r! (n − r)!).
+- Use nCr for selection, nPr for arrangement.
+
+Permutations and combinations form the foundation of discrete counting. Build comfort with these formulas and apply them carefully to ordered and unordered problems.

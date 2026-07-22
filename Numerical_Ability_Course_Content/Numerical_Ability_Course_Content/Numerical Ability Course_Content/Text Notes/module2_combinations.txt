@@ -1,233 +1,133 @@
-COMBINATIONS
-
-## Introduction
-
-Combination means selecting objects from a group where the order of selection does not matter.
-
-If two selections contain the same objects, they are considered identical regardless of their order.
-
-Example
-
-Selecting A and B
-
-is the same as
-
-Selecting B and A
-
-Therefore,
-
-AB = BA
-
---------------------------------------------------
-
-## Formula
-
-nCr = n! / [r!(n−r)!]
-
-where
-
-n = total objects
-
-r = objects selected
-
---------------------------------------------------
-
-## When to Use Combination
-
-Use Combination when:
-
-• Selecting students
-
-• Forming committees
-
-• Choosing team members
-
-• Selecting books
-
-• Choosing interview candidates
-
---------------------------------------------------
-
-## Combination Properties
-
-nC0 = 1
-
-nCn = 1
-
-nC1 = n
-
-nCr = nC(n−r)
-
---------------------------------------------------
-
-## Solved Example 1
-
-Choose 2 students from 5 students.
-
-5C2
-
-= 5! / (2!3!)
-
-= 120 / (2×6)
-
-= 10
-
-Answer:
-
-10 ways
-
---------------------------------------------------
-
-## Solved Example 2
-
-Choose 3 books from 8 books.
-
-8C3
-
-= 8! / (3!5!)
-
-= (8×7×6)/(3×2×1)
-
-= 56
-
---------------------------------------------------
-
-## Solved Example 3
-
-Choose a committee of 4 members from 10 people.
-
-10C4
-
-= 210
-
---------------------------------------------------
-
-## Shortcut Techniques
-
-• Use
-
-nCr = nC(n−r)
-
-Choose the smaller value of r.
-
-Example
-
-12C10
-
-=
-
-12C2
-
-which is much easier.
-
-• Cancel factorials before multiplying.
-
-• Never calculate huge factorials completely.
-
---------------------------------------------------
-
-## Difference from Permutation
-
-Permutation
-
-• Arrangement
-
-• Order matters
-
-Combination
-
-• Selection
-
-• Order does not matter
-
---------------------------------------------------
-
-## Common Mistakes
-
-• Using permutation formula
-
-• Ignoring symmetry property
-
-• Calculating full factorial unnecessarily
-
-• Treating selection as arrangement
-
---------------------------------------------------
-
-## Real-World Applications
-
-• Selecting cricket teams
-
-• Committee formation
-
-• Scholarship selection
-
-• Lottery selection
-
-• Jury selection
-
-• Group projects
-
---------------------------------------------------
-
-## Placement Tips
-
-• First ask:
-"Does order matter?"
-
-If NO
-
-→ Use Combination.
-
-• Remember symmetry property.
-
-• Simplify factorials first.
-
-• Practice committee and team questions.
-
---------------------------------------------------
-
-## Interview Questions
-
-1. What is Combination?
-
-Answer:
-Selection where order does not matter.
-
-2. Formula of Combination?
-
-Answer:
-
-nCr = n! / [r!(n−r)!]
-
-3. Difference between Combination and Permutation?
-
-Answer:
-Combination is selection.
-Permutation is arrangement.
-
-4. What is nC0?
-
-Answer:
-1
-
-5. Why is nCr = nC(n−r)?
-
-Answer:
-Choosing r objects is equivalent to rejecting (n−r) objects.
-
---------------------------------------------------
-
-## Quick Summary
-
-• Combination = Selection
-
-• Order does NOT matter
-
-• Formula
-
-nCr = n! / [r!(n−r)!]
-
-• nCr = nC(n−r)
-
-• Always simplify factorials before calculation
+COMBINATIONS - DETAILED NOTES
+
+1. INTRODUCTION
+Combination is a method of counting selections from a larger set when order does not matter. This topic is essential in aptitude tests, probability, and decision-making problems.
+
+2. CONCEPT
+If two selections contain the same objects, they are considered identical regardless of the order in which they are chosen.
+Example: selecting A and B is the same as selecting B and A.
+
+3. FORMULA
+The number of combinations of r objects from n objects is:
+nCr = n! / (r! × (n − r)!)
+
+Where:
+- n is the total number of objects.
+- r is the number of objects selected.
+
+4. WHEN TO USE COMBINATIONS
+Use combinations when selecting items without caring about the order.
+Common cases:
+- Choosing committee members
+- Selecting lottery numbers
+- Forming teams
+- Picking prizes or gifts
+- Selecting interview candidates
+
+5. PROPERTIES OF COMBINATIONS
+- nC0 = 1
+- nCn = 1
+- nC1 = n
+- nCr = nC(n − r)
+- nCr = n! / (r! × (n − r)!)
+
+6. KEY OBSERVATIONS
+- Combinations count groups, not arrangements.
+- Use combinations when order is irrelevant.
+- Use permutations when order is important.
+
+7. COMPUTING COMBINATIONS
+7.1 Simplify before calculating
+Avoid calculating full factorials. Cancel common terms first.
+
+Example:
+8C3 = 8! / (3! × 5!) = (8 × 7 × 6) / (3 × 2 × 1) = 56.
+
+7.2 Use symmetry property
+nCr = nC(n − r)
+This lets you choose the smaller of r and n−r.
+Example:
+12C10 = 12C2 = 66.
+
+8. SOLVED EXAMPLES
+Example 1: Committee selection
+Choose 2 students from 5.
+5C2 = 5! / (2! × 3!) = 10.
+
+Example 2: Book selection
+Choose 3 books from 8.
+8C3 = (8 × 7 × 6) / (3 × 2 × 1) = 56.
+
+Example 3: Team formation
+Choose 4 members from 10 people.
+10C4 = 210.
+
+Example 4: Restricted selection
+From 10 students, choose 4 such that a particular student is included.
+Choose remaining 3 from 9: 9C3 = 84.
+
+Example 5: Choosing gifts
+A shop has 7 flavors of ice cream, and you want to choose 3 flavors to sample. How many combinations are possible?
+7C3 = 35.
+
+9. ADVANCED EXAMPLES
+9.1 Combination with repetition
+When repetition is allowed, combinations are given by:
+(n + r − 1)Cr.
+Example: selecting 3 fruits from 5 types with repetition: 7C3 = 35.
+
+9.2 Combinations from identical items
+If some objects are identical, adjust the count using division by factorials of repeated items.
+Example: seating arrangements with repeated letters use n!/(repeats!).
+
+9.3 Using combinations in probability
+Probability of selecting a specific set = favorable combinations / total combinations.
+Example: probability of choosing 2 red balls from 5 red and 3 blue when selecting 3 balls = (5C2 × 3C1) / 8C3.
+
+10. HOW TO CHOOSE BETWEEN PERMUTATION AND COMBINATION
+- Ask: does order matter?
+- If yes → permutation.
+- If no → combination.
+
+Examples:
+- Assigning medals: permutation.
+- Selecting a committee: combination.
+- Arranging books on a shelf: permutation.
+- Choosing books to borrow: combination.
+
+11. COMMON MISTAKES
+- Using permutation instead of combination.
+- Ignoring the symmetry property.
+- Calculating large factorials unnecessarily.
+- Treating order-sensitive problems as combinations.
+- Forgetting to cancel factorial terms.
+
+12. PRACTICE QUESTIONS
+1. How many ways can a team of 4 be chosen from 12 players?
+Answer: 12C4 = 495.
+
+2. How many ways can 3 fruits be selected from 6 kinds of fruits?
+Answer: 6C3 = 20.
+
+3. A committee of 5 is chosen from 10 people. How many selections are possible if 2 particular people must both be included?
+Answer: choose 3 from 8 → 8C3 = 56.
+
+4. From 8 books, how many ways to choose 2 books for reading?
+Answer: 8C2 = 28.
+
+13. REAL-WORLD APPLICATIONS
+- Lottery and raffle drawing
+- Committee and team selection
+- Resource allocation
+- Scheduling and planning
+- Decision-making under choice constraints
+
+14. QUICK SUMMARY
+- Combination = selection without order.
+- Formula: nCr = n! / (r! × (n − r)!).
+- Use nCr when order does not matter.
+- Simplify factorials before calculating.
+- Use the symmetry property nCr = nC(n − r).
+- Choose permutation when order matters.
+
+Combinations help count selections accurately. Practice selecting groups with and without restrictions to build confidence and speed.
